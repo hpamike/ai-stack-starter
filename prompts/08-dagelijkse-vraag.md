@@ -37,6 +37,17 @@ generiek mailtje en is het waardeloos.
 >
 > Sluit af met: "Antwoord gewoon in ons gesprek, dan zet ik het op de juiste pagina."
 
+**Als minder dan drie bronnen iets opleveren**, zeg dat dan gewoon in één regel
+("bron 2, 3 en 4 leverden niets op, je map is nog jong") en vul aan uit bron 6 en 7.
+Verzin nooit een vraag om op drie te komen. In de eerste weken zijn de meeste bronnen
+leeg, en dat hoort zo: ze vullen zich doordat er geantwoord wordt.
+
+**Gemeten 10-09-2026 met een echte geplande taak op een verse map:** van de vijf
+oorspronkelijke bronnen leverden er maar twee iets op, het dashboard en de agenda.
+Open vragen, lopende projecten en tegenspraak bestaan pas als er pagina's zijn.
+Daarom staan bron 6 en 7 erbij: die werken vanaf dag één. Zonder agendakoppeling
+blijven er op dag één zelfs maar twee over.
+
 ## Wat er met je antwoord gebeurt
 
 Je antwoord wordt een bewijsregel met datum en bron "ik, [datum]". Dat is precies hoe
