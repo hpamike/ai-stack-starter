@@ -1,5 +1,7 @@
 # 02 — USER.md invullen
 
+*Hoort bij sessie 1.*
+
 Reken op 30 tot 40 minuten. Je typt niet. Je praat, zij schrijft, jij corrigeert.
 
 ## Plak dit

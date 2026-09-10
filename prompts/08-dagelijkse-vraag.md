@@ -1,5 +1,7 @@
 # 08 — Het dagelijkse mailtje
 
+*Hoort bij sessie 2.*
+
 Dit is het onderdeel dat je stack levend houdt nadat de workshop voorbij is.
 
 **De mail stelt vragen, hij rapporteert niet.** Een dagelijks overzicht van wat er

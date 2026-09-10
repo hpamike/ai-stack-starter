@@ -36,6 +36,21 @@ verzameling mappen; met dat plaatje is het een systeem.
 | `bronnen.md` | De vaste lijst met bronnen die je vertrouwt |
 | `dashboard/` | Je benchmark-dashboard |
 
+## Wat hoort bij welke sessie
+
+Je bouwt deze stack in twee stappen. Kom je iets tegen waar je nu nog niets mee kunt,
+dan is dat geen fout van jou: het hoort bij de tweede sessie.
+
+**Sessie 1 — je assistent.** `LAGEN.md`, de vier bestanden in `ik/`, en de prompts
+`01` tot en met `04`. Daarna houd je tot de tweede sessie `GEMISTE-VRAGEN.md` bij.
+Dat is je enige huiswerk en het is de invoer van die middag.
+
+**Sessie 2 — je stack.** De mappen `mensen/`, `projecten/`, `overleggen/`,
+`besluiten/` en `markt/`, plus `bronnen.md`, het dashboard, de prompts `05` tot en
+met `09` en `GROEITRAP.md`.
+
+Alles blijft in dezelfde map. Je installeert niets opnieuw en je raakt niets kwijt.
+
 ## De enige regel die je nooit mag breken
 
 **Elke regel bewijs draagt datum en bron.** Waar komt dit vandaan, van wie, wanneer.

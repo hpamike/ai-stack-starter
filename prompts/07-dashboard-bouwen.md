@@ -1,5 +1,7 @@
 # 07 — Het dashboard
 
+*Hoort bij sessie 2.*
+
 Eén HTML-bestand. Geen installatie, geen account, geen repo. Je opent het in je
 browser en het staat in je eigen map, naast je pagina's.
 

@@ -1,5 +1,7 @@
 # 04 — AGENTS.md invullen
 
+*Hoort bij sessie 1.*
+
 Reken op 30 minuten. Dit is het governance-blok.
 
 ## Plak dit

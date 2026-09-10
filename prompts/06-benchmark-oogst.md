@@ -1,5 +1,7 @@
 # 06 — De zes getallen
 
+*Hoort bij sessie 2.*
+
 ## Eerst zonder hulp
 
 Schrijf op: **welke zes getallen over jouw markt zou je in een bestuurs- of
