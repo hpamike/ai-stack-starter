@@ -215,6 +215,8 @@ De prompt voor de geplande taak:
 > 3. een lopend project waarvan de pagina meer dan drie weken niet is bijgewerkt
 > 4. twee pagina's die elkaar tegenspreken
 > 5. iets in mijn agenda van morgen waar geen pagina bij hoort
+> 6. een kopje "Wat hier nog niet staat" op een van mijn pagina's
+> 7. een regel uit mijn GEMISTE-VRAGEN.md die nog niet is opgelost
 >
 > Regels: één vraag moet ik in één regel kunnen beantwoorden. Zeg bij elke vraag
 > waarom je hem stelt, welke pagina en welk gat. Stel nooit een vraag die je zelf uit
