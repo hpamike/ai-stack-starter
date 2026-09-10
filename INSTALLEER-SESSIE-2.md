@@ -6,7 +6,7 @@ Wie dit leest en geen AI is: typ de zin uit `## De startzin` in je AI-gereedscha
 ## De startzin
 
 > Maak de intelligentiestack volledig met
-> https://raw.githubusercontent.com/hpamike/mijn-ai-assistent/main/INSTALLEER-SESSIE-2.md
+> https://raw.githubusercontent.com/hpamike/ai-stack-starter/main/INSTALLEER-SESSIE-2.md
 
 Lukt ophalen niet, dan open je die pagina zelf in je browser, kopieer je de tekst en
 plak je hem in het gesprek. Zelfde resultaat.

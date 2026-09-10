@@ -7,7 +7,7 @@ Wie dit leest en geen AI is: je hoeft hier niets mee te doen. Typ de zin uit
 ## De startzin
 
 > Help mij om mijn PA te installeren met
-> https://raw.githubusercontent.com/hpamike/mijn-ai-assistent/main/INSTALLEER-SESSIE-1.md
+> https://raw.githubusercontent.com/hpamike/ai-stack-starter/main/INSTALLEER-SESSIE-1.md
 
 ---
 
