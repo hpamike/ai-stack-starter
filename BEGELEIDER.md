@@ -29,6 +29,36 @@ laag 3 maakt haar slimmer.*
 Zaal-vraag die het kwartje laat vallen: *in welke laag zit alles wat jij tot nu toe
 met AI hebt gedaan?* Vrijwel iedereen zit alleen in laag 4.
 
+## Hoe deelnemers beginnen
+
+Eén zin, geen zip, geen installatie. De installer haalt zichzelf op en begeleidt ze
+stap voor stap.
+
+- **Sessie 1:** `Help mij om mijn PA te installeren met <URL naar INSTALLEER-SESSIE-1.md>`
+- **Sessie 2:** `Maak de intelligentiestack volledig met <URL naar INSTALLEER-SESSIE-2.md>`
+
+Het moeten **rauwe bestands-URL's** zijn (raw.githubusercontent.com), geen link naar
+de repo-pagina. Eén ophaalactie, alles staat erin, inclusief de sjablonen. Er is geen
+GitHub-connector nodig en geen GitHub-account: dit is gewoon een webpagina lezen.
+
+Wel nodig: webtoegang in hun gereedschap, en een netwerk dat het adres niet blokkeert.
+Vraag dat uit in de intake. Terugvaloptie als een van beide wegvalt: ze openen de URL
+zelf, kopiëren de tekst en plakken hem in het gesprek. De zips blijven bestaan als
+tweede vangnet.
+
+**Let op: de repo met de installers moet publiek zijn.** Een assistent kan geen
+privérepo ophalen. Deze handleiding hoort daar dus niet in.
+
+## De opening van sessie 1 is het beste moment van het hele programma
+
+De eerste handeling is: een URL geven en je assistent laten doen wat daar staat. Dat is
+letterlijk de beweging waar de hele workshop tegen waarschuwt. De installer benoemt dat
+zelf in stap 0, en in sessie 2 komt het terug bij de injectie-demo.
+
+Verkoop dat niet als weeffout maar als de kern: je volgt geen instructies uit een bron,
+je volgt ze uit een bron die je bewust hebt gekozen. Wie dat begrijpt, begrijpt waarom
+regel 4 in AGENTS.md staat.
+
 ## Tijdsindeling
 
 **Sessie 1 — de assistent (laag 3 en 4), ruim twee uur**
