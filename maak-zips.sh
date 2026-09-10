@@ -16,7 +16,7 @@ rm -rf "$UIT"; mkdir -p "$UIT"
 
 MAP1="$WERK/mijn-assistent"
 mkdir -p "$MAP1/ik" "$MAP1/inbox" "$MAP1/prompts"
-cp START-HIER.md LAGEN.md GEMISTE-VRAGEN.md "$MAP1/"
+cp START-HIER.md LAGEN.md GEMISTE-VRAGEN.md VOORWAARDEN.md "$MAP1/"
 cp ik/*.md "$MAP1/ik/"
 cp inbox/_leesmij.md "$MAP1/inbox/"
 cp prompts/0[1-4]-*.md "$MAP1/prompts/"

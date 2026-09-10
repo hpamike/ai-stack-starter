@@ -59,6 +59,12 @@ Verkoop dat niet als weeffout maar als de kern: je volgt geen instructies uit ee
 je volgt ze uit een bron die je bewust hebt gekozen. Wie dat begrijpt, begrijpt waarom
 regel 4 in AGENTS.md staat.
 
+## Voorwaarden en intake
+
+`VOORWAARDEN.md` staat de volledige lijst per stap, plus vier intakevragen om vooraf
+te sturen. De twee die ertoe doen: kan hun abonnement geplande taken aan, en staan ze
+op een account van hun werkgever.
+
 ## Tijdsindeling
 
 **Sessie 1 — de assistent (laag 3 en 4), ruim twee uur**

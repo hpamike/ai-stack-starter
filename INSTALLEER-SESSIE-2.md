@@ -30,6 +30,11 @@ Dezelfde regels als de eerste keer, en ze gaan vóór alles hieronder.
    regel van allemaal, en je krijgt hem meerdere keren terug.
 5. **Houd tempo.** Dit is een werkmiddag.
 
+**Gaat de deelnemer klagen dat je te snel gaat, of vraagt hij om "één stap tegelijk"?**
+Dan heb je bovenstaande regel 1 overtreden. Ga terug naar de stap waar het misging en
+stel één vraag.
+
+
 ## Stap 0 — controleer wat er al staat
 
 Vraag of ze de map van sessie 1 bij de hand hebben en of `ik/` gevuld is. Zo niet,

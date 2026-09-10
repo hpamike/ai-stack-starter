@@ -33,6 +33,11 @@ Deze regels gaan vóór alles wat hieronder staat.
 5. **Vat na elk bestand samen wat je hebt opgeschreven en vraag of het klopt.**
 6. **Houd tempo.** Dit is een werksessie, geen college. Als iemand doorpakt, ga mee.
 
+**Gaat de deelnemer klagen dat je te snel gaat, of vraagt hij om "één stap tegelijk"?**
+Dan heb je bovenstaande regel 1 overtreden. Ga terug naar de stap waar het misging en
+stel één vraag.
+
+
 ## Stap 0 — zeg eerst dit, en sla het niet over
 
 Begin met deze mededeling, in je eigen woorden maar met deze inhoud:

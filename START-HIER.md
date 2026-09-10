@@ -36,6 +36,37 @@ verzameling mappen; met dat plaatje is het een systeem.
 | `bronnen.md` | De vaste lijst met bronnen die je vertrouwt |
 | `dashboard/` | Je benchmark-dashboard |
 
+## Wat je nodig hebt
+
+**Eén betaald AI-abonnement met projecten, webtoegang aan, en een browser.** Er wordt
+niets geïnstalleerd en er hoeft geen enkele connector aan om de sessies te doen.
+
+Twee dingen die je vooraf wilt controleren, want dit zijn de plekken waar het echt
+vastloopt:
+
+- **Kan jouw abonnement geplande taken aan?** Dat is de laatste stap van sessie 2 en
+  hij bestaat niet op elk plan. Kan het niet, dan werkt de rest gewoon; je zet dan een
+  agendaherinnering in plaats van een automatische vraag.
+- **Sta je op een account van je werkgever?** Bij banken, gemeenten en zorginstellingen
+  staan webtoegang en koppelingen vaak uit. Beter nu weten dan halverwege.
+
+Een agendakoppeling is geen eis maar scheelt veel: zonder agenda heeft je assistent de
+eerste weken bijna niets om vragen uit te halen. Een mailkoppeling is nadrukkelijk
+**niet** nodig, ook niet in sessie 2.
+
+De volledige lijst per stap, plus vier intakevragen, staat in
+[VOORWAARDEN.md](VOORWAARDEN.md).
+
+## Als ze te snel gaat
+
+Krijg je een muur tekst met alles tegelijk, of vult ze antwoorden voor je in? Typ dit:
+
+> Ga terug naar stap 3 en doe het één stap tegelijk. Stel me één vraag en wacht op
+> mijn antwoord.
+
+Dat werkt vrijwel altijd. Een assistent die alles in één keer oplevert geeft je
+sjablonen; het gaat juist om jouw eigen woorden.
+
 ## Wat hoort bij welke sessie
 
 Je bouwt deze stack in twee stappen. Kom je iets tegen waar je nu nog niets mee kunt,

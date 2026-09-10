@@ -13,4 +13,16 @@ Wat erbij komt:
 | `dashboard/` | Een werkend voorbeeld om te zien wat je gaat bouwen |
 | `GROEITRAP.md` | Wat je hierna zelf kunt bouwen, en in welke volgorde |
 
+## Wat je hiervoor nodig hebt
+
+Hetzelfde als in sessie 1, met één toevoeging: de laatste stap zet een **geplande
+taak** aan die je elke ochtend drie vragen stelt. Die functie bestaat niet op elk
+abonnement. Kan het niet, dan werkt de rest gewoon en zet je een agendaherinnering.
+
+Een **agendakoppeling** is geen eis, maar zonder agenda heeft je assistent de eerste
+weken weinig om vragen uit te halen. Een **mailkoppeling is niet nodig**: je plakt in
+stap 3 één thread, meer niet.
+
+Volledige lijst: `VOORWAARDEN.md`.
+
 Neem ook je ingevulde `GEMISTE-VRAGEN.md` mee. Daar begint de middag mee.
