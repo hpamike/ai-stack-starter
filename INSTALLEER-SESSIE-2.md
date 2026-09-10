@@ -223,7 +223,12 @@ De prompt voor de geplande taak:
 >
 > Sluit af met: "Antwoord gewoon in ons gesprek, dan zet ik het op de juiste pagina."
 
-Twee dingen erbij:
+**Laat de taak nu één keer met de hand draaien, voordat ze weggaan.** Toestemming
+voor connectors wordt pas bij de eerste run gevraagd en daarna onthouden. Slaan ze dit
+over, dan staat de taak morgenochtend te wachten op een vraag die niemand ziet, en
+denken ze dat het niet werkt.
+
+Drie dingen erbij:
 
 **De maat.** Na twee weken kijken ze naar hun antwoordpercentage. Zijn ze gestopt met
 antwoorden, dan deugen de vragen niet, niet zij. Dan twee in plaats van drie, en

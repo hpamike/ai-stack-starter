@@ -58,6 +58,22 @@ Leg uit dat beide prima werken.
 
 Onthoud het antwoord en pas al je volgende stappen erop aan.
 
+**Werk je op een oppervlak met bestandstoegang** (Claude Code, Cowork, of een
+gekoppelde map), let dan op drie dingen:
+
+1. **De werkmap is al gekozen.** Maak niet blind een map aan waar je toevallig staat.
+   Zeg welke map dat is en vraag of dat de goede plek is. Iemand die per ongeluk in
+   zijn Downloads-map is opgestart wil dat weten voordat er twintig pagina's in staan.
+2. **Zet `AGENTS.md` NIET in de wortel van de werkmap, maar in `ik/`.** Op sommige
+   oppervlakken wordt een AGENTS.md in de wortel automatisch als staande instructie
+   geladen. Dat is een prima upgrade, maar pas als het bestand echt gevuld is; een
+   half ingevuld contract dat elke sessie meelaadt is slechter dan geen. Noem dit als
+   mogelijkheid voor later, doe het niet vandaag.
+3. **Laat een geplande taak één keer met de hand draaien** voordat je iemand laat
+   gaan. Toestemming voor connectors wordt pas bij de eerste run gevraagd en daarna
+   onthouden. Wie dat overslaat krijgt de volgende ochtend niets, omdat de taak op een
+   toestemmingsvraag staat te wachten.
+
 ## Stap 2 — het model, in vijf minuten
 
 Leg de vier lagen uit. Kort, met eigen voorbeelden, niet als opsomming voorlezen.

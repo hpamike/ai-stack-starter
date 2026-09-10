@@ -51,6 +51,15 @@ iets gebeurd is. Daarna je verzonden mail. **Nooit je inbox als eerste.**
 *Wat:* een tussenruimte waar voorstellen landen, een mechanische sortering in "mag
 er vanzelf in" en "moet ik zien", en één moment per dag waarop jij merget. Pas dan.
 
+**Tussenstap voor wie op een oppervlak met bestandstoegang werkt.**
+*Signaal:* je merkt dat je aan het begin van elk gesprek nog steeds context moet
+geven, ook al staan je vier bestanden er.
+*Wat:* zorg dat `ik/` niet gelezen wordt omdat je erom vraagt, maar omdat het
+automatisch meelaadt. Sommige oppervlakken laden een `AGENTS.md` of `CLAUDE.md` uit
+de wortel van je map bij elke sessie. Dan is je werkcontract geen document meer maar
+een staande instructie. Doe dit pas als die bestanden echt gevuld zijn: een half
+ingevuld contract dat elke sessie meelaadt is slechter dan geen.
+
 ## De rem
 
 **Automatiseer niets wat je niet minstens een maand met de hand hebt gedaan.**
