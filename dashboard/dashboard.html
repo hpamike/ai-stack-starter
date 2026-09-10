@@ -1,0 +1,139 @@
+<!doctype html>
+<html lang="nl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Marktdashboard — voorbeeld</title>
+<style>
+  :root{
+    --bg:#f7f7f5; --kaart:#ffffff; --rand:#e3e2dd; --tekst:#1c1c1a;
+    --zacht:#6b6a64; --accent:#2f5d50; --leeg:#b0aea6; --leegvlak:#f0efe9;
+  }
+  @media (prefers-color-scheme: dark){
+    :root{
+      --bg:#16171a; --kaart:#1f2126; --rand:#2e3138; --tekst:#eceae4;
+      --zacht:#9a988f; --accent:#7fb3a1; --leeg:#6b6a64; --leegvlak:#232529;
+    }
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--tekst);
+    font:16px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;
+    padding:28px 20px 60px}
+  .wrap{max-width:1000px;margin:0 auto}
+  header{margin-bottom:28px}
+  h1{font-size:24px;margin:0 0 6px;letter-spacing:-.01em}
+  .meta{color:var(--zacht);font-size:13px}
+  .waarschuwing{margin-top:14px;padding:10px 14px;border-left:3px solid var(--accent);
+    background:var(--kaart);font-size:13px;color:var(--zacht);border-radius:0 6px 6px 0}
+  .rooster{display:grid;gap:14px;grid-template-columns:repeat(auto-fill,minmax(260px,1fr))}
+  .kaart{background:var(--kaart);border:1px solid var(--rand);border-radius:10px;padding:16px 18px}
+  .kaart h2{font-size:13px;font-weight:600;margin:0 0 10px;color:var(--zacht);
+    text-transform:uppercase;letter-spacing:.04em}
+  .getal{font-size:32px;font-weight:600;letter-spacing:-.02em;line-height:1.1}
+  .eenheid{font-size:15px;font-weight:400;color:var(--zacht);margin-left:4px}
+  .bron{margin-top:12px;padding-top:10px;border-top:1px solid var(--rand);
+    font-size:12px;color:var(--zacht);line-height:1.45}
+  .bron a{color:var(--accent)}
+  .onbekend .getal{font-size:20px;color:var(--leeg);font-weight:500}
+  .onbekend{background:var(--leegvlak);border-style:dashed}
+  .vraag{margin-top:10px;font-size:13px;color:var(--zacht);font-style:italic}
+  h3.kop{font-size:14px;margin:34px 0 12px;color:var(--zacht);font-weight:600}
+  footer{margin-top:40px;font-size:12px;color:var(--zacht);line-height:1.6}
+</style>
+</head>
+<body>
+<div class="wrap">
+<header>
+  <h1>Marktdashboard</h1>
+  <div class="meta" id="bijgewerkt"></div>
+  <div class="waarschuwing">
+    Momentopname. Elk getal hieronder staat als bewijsregel met bron en peildatum op
+    een pagina in <code>markt/</code>. Wat daar niet staat, staat hier als onbekend —
+    nooit als nul en nooit als schatting.
+  </div>
+</header>
+
+<div class="rooster" id="bekend"></div>
+<h3 class="kop">Wat ik nog niet weet</h3>
+<div class="rooster" id="onbekend"></div>
+
+<footer>
+  Voorbeeldbestand met verzonnen cijfers. Vervang <code>GETALLEN</code> hieronder door
+  je eigen bewijsregels, of laat je assistent dat doen met
+  <code>prompts/07-dashboard-bouwen.md</code>.
+</footer>
+</div>
+
+<script>
+// Elk getal is één bewijsregel van een pagina in markt/.
+// waarde: null betekent onbekend. Dan is "vraag" verplicht.
+const GETALLEN = [
+  { label:"Omvang van mijn markt", waarde:"1,4", eenheid:"mld euro",
+    bron:"Brancherapport 2026", link:"#", peildatum:"2026-06-30",
+    pagina:"markt/marktomvang.md" },
+  { label:"Groei per jaar", waarde:"+3,2", eenheid:"%",
+    bron:"Brancherapport 2026", link:"#", peildatum:"2026-06-30",
+    pagina:"markt/marktomvang.md" },
+  { label:"Gemiddelde marge in de sector", waarde:"11", eenheid:"%",
+    bron:"CBS Statline", link:"#", peildatum:"2026-03-31",
+    pagina:"markt/marges.md" },
+  { label:"Verzuim in de sector", waarde:"5,1", eenheid:"%",
+    bron:"CBS Statline", link:"#", peildatum:"2026-03-31",
+    pagina:"markt/personeel.md" },
+  { label:"Aantal aanbieders boven 50 fte", waarde:null,
+    vraag:"Waar staat een actuele telling van aanbieders in mijn segment?" },
+  { label:"Aandeel klanten dat AI inzet", waarde:null,
+    vraag:"Is hier een cijfer van, of moet ik het zelf meten bij mijn eigen klanten?" }
+];
+
+const nl = d => new Date(d).toLocaleDateString('nl-NL',{day:'numeric',month:'long',year:'numeric'});
+
+document.getElementById('bijgewerkt').textContent =
+  'Bijgewerkt op ' + nl(new Date()) + ' · ' +
+  GETALLEN.filter(g=>g.waarde!==null).length + ' van ' + GETALLEN.length + ' getallen bekend';
+
+const bekend = document.getElementById('bekend');
+const onbekend = document.getElementById('onbekend');
+
+for (const g of GETALLEN){
+  const kaart = document.createElement('div');
+  kaart.className = 'kaart' + (g.waarde===null ? ' onbekend' : '');
+  const kop = document.createElement('h2');
+  kop.textContent = g.label;
+  kaart.appendChild(kop);
+
+  const getal = document.createElement('div');
+  getal.className = 'getal';
+  if (g.waarde===null){
+    getal.textContent = 'onbekend';
+    kaart.appendChild(getal);
+    const v = document.createElement('div');
+    v.className = 'vraag';
+    v.textContent = g.vraag || 'Nog geen bron gevonden.';
+    kaart.appendChild(v);
+    onbekend.appendChild(kaart);
+  } else {
+    getal.textContent = g.waarde;
+    const e = document.createElement('span');
+    e.className = 'eenheid'; e.textContent = g.eenheid || '';
+    getal.appendChild(e);
+    kaart.appendChild(getal);
+    const b = document.createElement('div');
+    b.className = 'bron';
+    const a = document.createElement('a');
+    a.href = g.link || '#'; a.textContent = g.bron; a.rel = 'noopener';
+    b.appendChild(a);
+    b.appendChild(document.createTextNode(' · peildatum ' + nl(g.peildatum)));
+    if (g.pagina){
+      b.appendChild(document.createElement('br'));
+      const s = document.createElement('span');
+      s.textContent = g.pagina;
+      b.appendChild(s);
+    }
+    kaart.appendChild(b);
+    bekend.appendChild(kaart);
+  }
+}
+</script>
+</body>
+</html>
