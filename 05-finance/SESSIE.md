@@ -1,17 +1,45 @@
-# Installatie week 5 — je intelligentie-stack
+# Week 5 — AI & Finance (Herbouwen)
 
-**Dit bestand is een instructie voor de assistent, niet voor de deelnemer.**
-Wie dit leest en geen AI is: typ de zin uit `## De startzin` in je AI-gereedschap.
+**Instructie voor de assistent van de deelnemer.**
 
-## De startzin
+## Opwarming (een paar dagen vooraf, vijftien minuten)
 
-> Maak de intelligentiestack volledig met
-> https://raw.githubusercontent.com/hpamike/ai-stack-starter/main/INSTALLEER-WEEK-5.md
+**Nodig:** Claude, en drie dingen die je nu samen controleert.
 
-Lukt ophalen niet, dan open je die pagina zelf in je browser, kopieer je de tekst en
-plak je hem in het gesprek. Zelfde resultaat.
+**Doen:**
+1. **Geplande taken.** Kan hij in Claude een taak instellen die elke ochtend draait?
+   Zoek het samen uit in de instellingen. Kan het niet: een agendaherinnering, en dat
+   is prima.
+2. **Agendakoppeling.** Geen eis, wel sterk aangeraden. Zonder agenda heeft zijn
+   assistent de eerste weken bijna geen bron voor de dagelijkse vraag: van de zeven
+   vraagbronnen leverden er in een verse map maar twee iets op, en de agenda was er
+   daar één van. Help hem de koppeling aanzetten als zijn werkgever dat toestaat.
+3. **De aanvulling klaarzetten:**
+   `https://github.com/hpamike/ai-stack-starter/releases/tag/week-5-v1`. De inhoud gaat
+   **in dezelfde map** als die van week 2. Er wordt niets overschreven en er raakt niets
+   kwijt; zeg dat erbij, want mensen zijn daar terecht voorzichtig mee.
+
+**De proef:** vat in twee zinnen samen wat er in dit bestand staat. Voer nog niets uit.
+
+**Meenemen:** zijn ingevulde `GEMISTE-VRAGEN.md` uit de weken sinds week 2. **Dat is de
+opening van de middag.** Heeft hij niets bijgehouden, zeg dat dan nu en niet op de dag
+zelf: laat hem alsnog tien minuten terugdenken en opschrijven wat zijn assistent niet
+wist.
 
 ---
+
+## Waarom deze week bestaat
+
+In de lus uit de intro sluit deze week hem rond. Het brein is het geheugen, het
+wekelijkse ritueel is INTERPRET, de dagelijkse vraag is LEARN, en het dashboard is waar
+je ziet wat je weet en wat je niet weet.
+
+**De financiële kant zit in dat dashboard**: cijfers over zijn eigen markt, elk met
+bron en peildatum, en zichtbaar welke hij niet heeft. Een archief vertelt je wat je
+hebt; een intelligentielaag vertelt je ook wat je mist.
+
+---
+
 
 # Vanaf hier ben jij, de assistent, aan zet
 

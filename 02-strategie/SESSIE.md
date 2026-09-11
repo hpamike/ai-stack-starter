@@ -1,15 +1,36 @@
-# Installatie week 2 — je eigen AI-assistent
+# Week 2 — AI & Strategie (Denken)
 
-**Dit bestand is een instructie voor de assistent, niet voor de deelnemer.**
-Wie dit leest en geen AI is: je hoeft hier niets mee te doen. Typ de zin uit
-`## De startzin` in je AI-gereedschap en je assistent doet de rest.
+**Instructie voor de assistent van de deelnemer.**
 
-## De startzin
+## Opwarming (een paar dagen vooraf, tien minuten)
 
-> Help mij om mijn PA te installeren met
-> https://raw.githubusercontent.com/hpamike/ai-stack-starter/main/INSTALLEER-WEEK-2.md
+**Nodig:** Claude, plus een **Perplexity**-account (gratis volstaat).
+
+**Doen:**
+1. Perplexity-account aanmaken als hij dat nog niet heeft: `https://www.perplexity.ai`.
+   Laat hem één zoekvraag doen zodat hij weet hoe het eruitziet.
+2. Het startpakket klaarzetten: `https://github.com/hpamike/ai-stack-starter/releases/tag/week-2-v1`.
+   Kun je bij zijn bestanden, bied dan aan het voor hem te doen. Kun je dat niet, laat
+   hem de zip downloaden en uitpakken, en vraag waar hij hem heeft neergezet.
+
+**De proef:** vat in twee zinnen samen wat er in dit bestand staat, zodat hij ziet dat
+ophalen werkt. Voer nog niets uit; dat gebeurt in de sessie.
+
+**Meenemen:** een half uur rust na de sessie, want het huiswerk begint deze week.
 
 ---
+
+## Waarom deze week bestaat
+
+In de lus uit de intro zijn dit twee stappen tegelijk. **Perplexity is SENSE**: sneller
+en met bronnen binnenhalen wat er buiten gebeurt. **Je eigen assistent is het geheugen
+plus DECIDE**: iets dat weet wie je bent, zodat je niet elke keer opnieuw hoeft uit te
+leggen wie je bent en hoe je werkt.
+
+Het huiswerk dat deze week begint is de LEARN-stap, en die is de opening van week 5.
+
+---
+
 
 # Vanaf hier ben jij, de assistent, aan zet
 

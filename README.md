@@ -1,120 +1,84 @@
-# Je eigen AI-assistent, en je eigen intelligentie-stack
+# Intelligentie als productiefactor
 
-> **Onderdeel van een programma van vijf weken.** Deze map hoort bij **week 2**
-> (Strategie: je eerste AI-assistent) en **week 5** (Finance: de volledige stack en je
-> dashboard met marktcijfers). De andere weken gebruiken ander materiaal. De
-> bestandsnamen volgen de weeknummers, niet de volgorde waarin je ze gebruikt.
+Materiaal voor een programma van vijf weken voor leidinggevenden. Je bouwt in vijf
+sessies bij jezelf de lus die een organisatie ook heeft: van signaal naar begrip naar
+besluit naar actie naar leren, met een grens eromheen over wat wel en niet mag.
 
-Startset voor twee werksessies waarin je een persoonlijke AI-assistent opzet en
-daarna je eigen kennisstack eromheen bouwt. Platte markdown, geen installatie, geen
-database, geen account. Alles blijft van jou en staat op je eigen machine.
-
-Gemaakt voor leidinggevenden die geen techneut zijn en toch iets werkends willen.
+Waarom bij jezelf beginnen: het is de kortste route om te begrijpen wat je van je
+organisatie vraagt. Wie de lus zelf heeft laten draaien, weet welke vraag hij moet
+stellen, kan het voordoen in plaats van erover vergaderen, en weet uit ervaring waar de
+grens ligt.
 
 ## Zo begin je
 
-Plak deze zin in je AI-gereedschap, inclusief de link.
+Installeer Claude Desktop via https://claude.com/download. Op **Windows** het
+`.msix`-bestand, niet een oudere `.exe`, anders mist de app een onderdeel dat we nodig
+hebben.
 
-**Week 2 — je assistent:**
+Installeer daarna de begeleidingsskill: download de map `ai-programma-opwarming` van
+https://github.com/hpamike/claude-skills/tree/ai-stack-systeemcheck, maak er een ZIP
+van, en upload die in Claude bij **Instellingen → Customize → Skills → Add**.
+
+Typ dan:
 
 ```
-Help mij om mijn PA te installeren met https://raw.githubusercontent.com/hpamike/ai-stack-starter/main/INSTALLEER-WEEK-2.md
+Doe de intro en de systeemcheck voor het AI-programma.
 ```
 
-**Week 5 — je stack:**
+Vanaf dat moment hoef je zelf niets meer op te zoeken. Een paar dagen voor elke sessie
+typ je:
 
 ```
-Maak de intelligentiestack volledig met https://raw.githubusercontent.com/hpamike/ai-stack-starter/main/INSTALLEER-WEEK-5.md
+Ik wil de opwarming doen voor de sessie van week 1.
 ```
 
-Je assistent haalt het bestand op en begeleidt je stap voor stap. Je typt nauwelijks:
-je praat, zij schrijft, jij corrigeert. Reken op ruim twee uur voor de eerste en een
-middag voor de tweede, met een paar weken ertussen.
+En later week 2 tot en met 5. Je hoort dan precies wat je moet regelen: een instelling,
+een koppeling, of een account bij een ander gereedschap. De skill haalt de actuele
+inhoud op uit deze map, dus je hoeft nooit iets opnieuw te installeren.
 
-Lukt het ophalen niet, bijvoorbeeld omdat je gereedschap geen webtoegang heeft of je
-netwerk het adres blokkeert, open de link dan zelf in je browser, kopieer de tekst en
-plak die in het gesprek. Zelfde resultaat.
+## De vijf weken
+
+| Week | Thema | Wat je maakt | Map |
+|---|---|---|---|
+| — | Intro en systeemcheck | Een werkende opstelling, en het verhaal eronder | [`00-intro`](00-intro/) |
+| 1 | Foundations & Canvas (Zien) | Je eigen Canvas, met Claude als sparringpartner | [`01-canvas`](01-canvas/) |
+| 2 | Strategie (Denken) | Je eerste AI-assistent en het eerste deel van je stack | [`02-strategie`](02-strategie/) |
+| 3 | Marketing (Organiseren) | Een marketingplan met huisstijl, landingspagina en slides | [`03-marketing`](03-marketing/) |
+| 4 | HR (Vormgeven) | Je AI FiT Report, voor jezelf en je organisatie | [`04-hr`](04-hr/) |
+| 5 | Finance (Herbouwen) | Je volledige stack en een dashboard met cijfers over je markt | [`05-finance`](05-finance/) |
+
+Elke map heeft een `SESSIE.md` met twee helften: de opwarming die je vooraf doet, en de
+sessie zelf.
 
 ## Wat je nodig hebt
 
-**Eén betaald AI-abonnement met projecten, webtoegang aan, en een browser.** Er wordt
-niets geïnstalleerd en er hoeft geen enkele connector aan om de sessies te doen.
+**Claude is het hoofdgereedschap** en daarmee wordt alles voorgedaan. Claude en ChatGPT
+zijn de enige twee die alle hoofdoefeningen aankunnen; ChatGPT doet min of meer
+hetzelfde. Neem je een betaald account, dan is **Claude Pro, ongeveer 20 euro per
+maand**, het minimum dat we aanraden voor de duur van het programma. Met Mistral,
+Copilot, Gemini of andere frontier-modellen kun je een deel van de oefeningen doen,
+niet alles.
 
-Twee dingen die je vooraf wilt controleren, want dit zijn de plekken waar het echt
-vastloopt:
+Er wordt niets geïnstalleerd behalve Claude Desktop. Geen programmeerkennis, geen
+Node.js, geen git, geen GitHub-account, geen database, geen koppeling met je mail.
 
-- **Kan jouw abonnement geplande taken aan?** Dat is de laatste stap van week 5 en
-  hij bestaat niet op elk plan. Kan het niet, dan werkt de rest gewoon; je zet dan een
-  agendaherinnering in plaats van een automatische vraag.
-- **Sta je op een account van je werkgever?** Bij banken, gemeenten en zorginstellingen
-  staan webtoegang en koppelingen vaak uit. Beter nu weten dan halverwege.
+**Week 2 vraagt een Perplexity-account en week 3 vier extra gereedschappen**, elk met
+een eigen gratis account. Begin daar een week van tevoren aan. De volledige lijst per
+week staat in [`00-intro/VOORWAARDEN.md`](00-intro/VOORWAARDEN.md).
 
-Een agendakoppeling is geen eis maar scheelt veel: zonder agenda heeft je assistent de
-eerste weken bijna niets om vragen uit te halen. Een mailkoppeling is nadrukkelijk
-**niet** nodig, ook niet in week 5.
+## Het enige huiswerk
 
-De volledige lijst per stap, plus vier intakevragen, staat in
-[VOORWAARDEN.md](VOORWAARDEN.md).
+Vanaf week 2 houd je één lijst bij: elke keer dat je assistent iets niet weet wat ze
+had moeten weten, schrijf je die vraag op. Die lijst is de opening van week 5. Meer is
+er niet.
 
-## Wat je bouwt
+## Voor begeleiders
 
-**Week 2** levert vier bestanden waarin staat wie je assistent is, wie jij bent, hoe
-jullie werken en wat er nu speelt. Daarna weet ze genoeg om nuttig te zijn zonder dat
-je alles blijft herhalen.
+Het draaiboek, de tijdsindeling en de prompt om werkbladen te genereren staan in
+[`begeleider/`](begeleider/).
 
-**Week 5** bouwt daaromheen een kennisstack: pagina's over mensen, projecten,
-overleggen en je markt, met bron en datum bij elke regel. Het eindigt met een dashboard
-over je eigen markt en een dagelijkse mail waarin je assistent je drie vragen stelt.
+## Nog niet af
 
-Tussen de twee sessies houd je één lijst bij: elke keer dat ze iets niet weet wat ze
-had moeten weten. Die lijst is de invoer van week 5.
-
-## Wat je moet weten voor je begint
-
-**Dit is geen sjabloon dat je invult.** De waarde zit in wat je opschrijft over je eigen
-werk, niet in de mappenstructuur. Wie de bestanden half invult, krijgt een assistent
-die half werkt.
-
-**De eerste handeling is een waarschuwing waard.** Je geeft je assistent een adres en
-vraagt haar te doen wat daar staat. Dat is normaal precies wat je niet moet doen. Je
-doet het hier omdat je weet wie dit heeft gemaakt en het adres hebt gecontroleerd. Die
-regel komt in week 5 terug, en hij is belangrijker dan de rest van deze map bij
-elkaar: je volgt geen instructies uit een bron, je volgt ze uit een bron die je bewust
-hebt gekozen.
-
-**Er wordt niets geautomatiseerd.** Dat is opzet. In `GROEITRAP.md` staat wat je hierna
-zelf kunt bouwen, in welke volgorde, en welk signaal zegt dat je eraan toe bent. Met
-één rem erbij: automatiseer niets wat je niet minstens een maand met de hand hebt
-gedaan.
-
-## Als ze te snel gaat
-
-Krijg je een muur tekst met alles tegelijk, of vult ze antwoorden voor je in? Typ dit:
-
-> Ga terug naar stap 3 en doe het één stap tegelijk. Stel me één vraag en wacht op
-> mijn antwoord.
-
-Dat werkt vrijwel altijd. Een assistent die alles in één keer oplevert geeft je
-sjablonen; het gaat juist om jouw eigen woorden.
-
-## Wat er in deze map staat
-
-| Bestand | Waarvoor |
-|---|---|
-| `INSTALLEER-WEEK-2.md` | Het script dat je assistent volgt in week 2 |
-| `INSTALLEER-WEEK-5.md` | Idem voor week 5 |
-| `START-HIER.md` | Als je liever zelf leest dan je laat begeleiden |
-| `LAGEN.md` | Het model in twee minuten: vier lagen, met jou als weegschaal |
-| `GROEITRAP.md` | Wat je hierna zelf kunt bouwen, en in welke volgorde |
-| `ik/` | De vier bestanden van je assistent, als sjabloon |
-| `prompts/` | Dezelfde stappen als losse prompts, als je het liever zo doet |
-| `dashboard/` | Een werkend voorbeelddashboard met verzonnen cijfers |
-| `VOORWAARDEN.md` | Wat je nodig hebt, per stap, plus vier intakevragen |
-| `BEGELEIDER.md` | Draaiboek en tijdsindeling, voor wie de sessies begeleidt |
-| `maak-zips.sh` | Bouwt twee uitdeelpakketten, als offline alternatief |
-
-## Zelf gebruiken
-
-Ga je gang. Deze map is bedoeld om gebruikt te worden, ook zonder begeleiding. De
-sessies zijn er om het sneller te laten werken en om de vragen te stellen die je
-zichzelf niet stelt, maar de inhoud staat hier gewoon.
+Week 1, 3 en 4 zijn op dit moment deels geraamte: de opwarming is compleet, de sessie
+zelf nog niet. Dat staat bovenaan in de betreffende bestanden. De skill zegt dat ook
+eerlijk in plaats van iets te verzinnen.
