@@ -1,6 +1,6 @@
 # 09 — Twintig minuten per week
 
-*Hoort bij sessie 2.*
+*Hoort bij week 5.*
 
 Zet het in je agenda, op een vast moment. Zonder dit moment loopt je `inbox` vol en
 wordt je map een archief.

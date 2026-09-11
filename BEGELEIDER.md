@@ -2,7 +2,7 @@
 
 Niet uitdelen aan deelnemers.
 
-## Wat je vóór de eerste sessie test, met één eigen account
+## Wat je vóór week 2 test, met één eigen account
 
 1. **Kan het gereedschap dat je kiest de map lezen?** Eén project, map eraan, en dan
    een vraag stellen die alleen uit een bestand te beantwoorden is.
@@ -12,7 +12,7 @@ Niet uitdelen aan deelnemers.
 3. **Stuurt die geplande taak echt een mail, of alleen een melding in de app?**
    Gereedschappen verschillen hierin. Weet wat je belooft.
 
-## Wat je meebrengt naar sessie 2
+## Wat je meebrengt naar week 5
 
 Een voorbereide webpagina of mailtje waarin een instructie staat die zich tot de
 assistent richt. Laat live zien wat er gebeurt. Dit is het moment waarop de zaal
@@ -22,7 +22,7 @@ leidinggevende die dag meeneemt.
 ## Het model op één plaat
 
 `LAGEN.md` is het bestand dat de deelnemers het model geeft. Behandel het aan het
-begin van sessie 1 in vijf minuten, en kom er in sessie 2 op terug. De zin die
+begin van week 2 in vijf minuten, en kom er in week 5 op terug. De zin die
 blijft hangen: *een groeiende laag 2 maakt haar belezener, alleen een groeiende
 laag 3 maakt haar slimmer.*
 
@@ -34,8 +34,8 @@ met AI hebt gedaan?* Vrijwel iedereen zit alleen in laag 4.
 Eén zin, geen zip, geen installatie. De installer haalt zichzelf op en begeleidt ze
 stap voor stap.
 
-- **Sessie 1:** `Help mij om mijn PA te installeren met <URL naar INSTALLEER-SESSIE-1.md>`
-- **Sessie 2:** `Maak de intelligentiestack volledig met <URL naar INSTALLEER-SESSIE-2.md>`
+- **Week 2:** `Help mij om mijn PA te installeren met <URL naar INSTALLEER-WEEK-2.md>`
+- **Week 5:** `Maak de intelligentiestack volledig met <URL naar INSTALLEER-WEEK-5.md>`
 
 Het moeten **rauwe bestands-URL's** zijn (raw.githubusercontent.com), geen link naar
 de repo-pagina. Eén ophaalactie, alles staat erin, inclusief de sjablonen. Er is geen
@@ -49,11 +49,11 @@ tweede vangnet.
 **Let op: de repo met de installers moet publiek zijn.** Een assistent kan geen
 privérepo ophalen. Deze handleiding hoort daar dus niet in.
 
-## De opening van sessie 1 is het beste moment van het hele programma
+## De opening van week 2 is het beste moment van het hele programma
 
 De eerste handeling is: een URL geven en je assistent laten doen wat daar staat. Dat is
 letterlijk de beweging waar de hele workshop tegen waarschuwt. De installer benoemt dat
-zelf in stap 0, en in sessie 2 komt het terug bij de injectie-demo.
+zelf in stap 0, en in week 5 komt het terug bij de injectie-demo.
 
 Verkoop dat niet als weeffout maar als de kern: je volgt geen instructies uit een bron,
 je volgt ze uit een bron die je bewust hebt gekozen. Wie dat begrijpt, begrijpt waarom
@@ -67,7 +67,7 @@ op een account van hun werkgever.
 
 ## Tijdsindeling
 
-**Sessie 1 — de assistent (laag 3 en 4), ruim twee uur**
+**Week 2 — de assistent (laag 3 en 4), ruim twee uur**
 
 | | |
 |---|---|
@@ -84,10 +84,10 @@ Toets: drie vragen over eigen werk die een lege chat niet kan beantwoorden.
 **Tussenperiode — drie tot vier weken**
 
 Eén opdracht: elke keer dat je assistent iets niet weet wat ze had moeten weten,
-zet je die vraag op een lijst. Die lijst is de invoer van sessie 2. Zonder die
-weken heeft sessie 2 geen materiaal en wordt het theorie.
+zet je die vraag op een lijst. Die lijst is de invoer van week 5. Zonder die
+weken heeft week 5 geen materiaal en wordt het theorie.
 
-**Sessie 2 — de stack (laag 1 en 2), een volle middag**
+**Week 5 — de stack (laag 1 en 2), een volle middag**
 
 | | |
 |---|---|
@@ -106,9 +106,9 @@ stack.
 
 ## De drie momenten waar het omslaat
 
-1. **"Waar erger je je aan in AI-antwoorden?"** in sessie 1. Levert scherpere
+1. **"Waar erger je je aan in AI-antwoorden?"** in week 2. Levert scherpere
    stijlregels op dan elke positieve vraag, en de zaal wordt er wakker van.
-2. **De zes getallen die ze niet blijken te weten** aan het begin van sessie 2. Dat
+2. **De zes getallen die ze niet blijken te weten** aan het begin van week 5. Dat
    gat is de motivatie voor de hele middag.
 3. **De injectie-demo.** Abstract tot ze het één keer zien gebeuren.
 

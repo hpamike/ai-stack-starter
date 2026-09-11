@@ -44,7 +44,7 @@ niets geïnstalleerd en er hoeft geen enkele connector aan om de sessies te doen
 Twee dingen die je vooraf wilt controleren, want dit zijn de plekken waar het echt
 vastloopt:
 
-- **Kan jouw abonnement geplande taken aan?** Dat is de laatste stap van sessie 2 en
+- **Kan jouw abonnement geplande taken aan?** Dat is de laatste stap van week 5 en
   hij bestaat niet op elk plan. Kan het niet, dan werkt de rest gewoon; je zet dan een
   agendaherinnering in plaats van een automatische vraag.
 - **Sta je op een account van je werkgever?** Bij banken, gemeenten en zorginstellingen
@@ -52,7 +52,7 @@ vastloopt:
 
 Een agendakoppeling is geen eis maar scheelt veel: zonder agenda heeft je assistent de
 eerste weken bijna niets om vragen uit te halen. Een mailkoppeling is nadrukkelijk
-**niet** nodig, ook niet in sessie 2.
+**niet** nodig, ook niet in week 5.
 
 De volledige lijst per stap, plus vier intakevragen, staat in
 [VOORWAARDEN.md](VOORWAARDEN.md).
@@ -67,16 +67,16 @@ Krijg je een muur tekst met alles tegelijk, of vult ze antwoorden voor je in? Ty
 Dat werkt vrijwel altijd. Een assistent die alles in één keer oplevert geeft je
 sjablonen; het gaat juist om jouw eigen woorden.
 
-## Wat hoort bij welke sessie
+## Wat hoort bij welke week
 
 Je bouwt deze stack in twee stappen. Kom je iets tegen waar je nu nog niets mee kunt,
-dan is dat geen fout van jou: het hoort bij de tweede sessie.
+dan is dat geen fout van jou: het hoort bij week 5.
 
-**Sessie 1 — je assistent.** `LAGEN.md`, de vier bestanden in `ik/`, en de prompts
-`01` tot en met `04`. Daarna houd je tot de tweede sessie `GEMISTE-VRAGEN.md` bij.
+**Week 2 — je assistent.** `LAGEN.md`, de vier bestanden in `ik/`, en de prompts
+`01` tot en met `04`. Daarna houd je tot week 5 `GEMISTE-VRAGEN.md` bij.
 Dat is je enige huiswerk en het is de invoer van die middag.
 
-**Sessie 2 — je stack.** De mappen `mensen/`, `projecten/`, `overleggen/`,
+**Week 5 — je stack.** De mappen `mensen/`, `projecten/`, `overleggen/`,
 `besluiten/` en `markt/`, plus `bronnen.md`, het dashboard, de prompts `05` tot en
 met `09` en `GROEITRAP.md`.
 

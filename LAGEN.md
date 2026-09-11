@@ -77,4 +77,4 @@ de drie lagen eronder.
 **Een groeiende laag 2 maakt haar belezener. Alleen een groeiende laag 3 maakt haar
 slimmer.**
 
-**Sessie 1 bouwt laag 3 en 4. Sessie 2 bouwt laag 1 en 2, en de weegschaal ertussen.**
+**Week 2 bouwt laag 3 en 4. Week 5 bouwt laag 1 en 2, en de weegschaal ertussen.**

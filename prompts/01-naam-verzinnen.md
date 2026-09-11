@@ -1,6 +1,6 @@
 # 01 — Geef haar een naam
 
-*Hoort bij sessie 1.*
+*Hoort bij week 2.*
 
 Waarom dit eerst komt: een naam verandert wat je daarna opschrijft. Je schrijft
 instructies aan iemand, in plaats van instellingen in een tool. Dat levert betere

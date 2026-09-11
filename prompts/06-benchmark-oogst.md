@@ -1,6 +1,6 @@
 # 06 — De zes getallen
 
-*Hoort bij sessie 2.*
+*Hoort bij week 5.*
 
 ## Eerst zonder hulp
 

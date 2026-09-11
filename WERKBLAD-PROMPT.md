@@ -25,8 +25,8 @@ regel.
 > - https://raw.githubusercontent.com/hpamike/ai-stack-starter/main/LAGEN.md
 > - https://raw.githubusercontent.com/hpamike/ai-stack-starter/main/VOORWAARDEN.md
 > - https://raw.githubusercontent.com/hpamike/ai-stack-starter/main/BEGELEIDER.md
-> - https://raw.githubusercontent.com/hpamike/ai-stack-starter/main/INSTALLEER-SESSIE-1.md
-> - https://raw.githubusercontent.com/hpamike/ai-stack-starter/main/INSTALLEER-SESSIE-2.md
+> - https://raw.githubusercontent.com/hpamike/ai-stack-starter/main/INSTALLEER-WEEK-2.md
+> - https://raw.githubusercontent.com/hpamike/ai-stack-starter/main/INSTALLEER-WEEK-5.md
 > - https://raw.githubusercontent.com/hpamike/ai-stack-starter/main/GROEITRAP.md
 >
 > ### Het programma
@@ -40,7 +40,7 @@ regel.
 > | 2 | AI & Strategie (Denken) | Een eerste AI-assistent, plus het eerste deel van de stack | Perplexity voor research, Claude voor de assistent |
 > | 3 | AI & Marketing (Organiseren) | Een marketingplan met huisstijl, landingspagina en slides | Claude, Gemini (Nano Banana), NotebookLM, Lovable, Gamma |
 > | 4 | AI & HR (Vormgeven) | Een AI FiT Report voor zichzelf en hun organisatie | Claude |
-> | 5 | AI & Finance (Herbouwen) | De volledige persoonlijke intelligentie-stack plus een gevibecodeerd dashboard | Claude |
+> | 5 | AI & Finance (Herbouwen) | De volledige persoonlijke intelligentie-stack plus een gevibecodeerd dashboard met marktcijfers | Claude |
 >
 > **Week 1 — Zien.** Het Canvas invullen met Claude als sparringpartner, niet als
 > invuller. Hier komen ook de basisfuncties terug en socratisch of kritisch prompten:
@@ -48,7 +48,7 @@ regel.
 >
 > **Week 2 — Denken.** Eerst Perplexity voor research. Daarna bouwen ze hun eerste
 > AI-assistent, met het eerste deel van de stack. Dat is het materiaal uit
-> INSTALLEER-SESSIE-1.md: een naam, en de vier bestanden SOUL, USER, AGENTS en MEMORY.
+> INSTALLEER-WEEK-2.md: een naam, en de vier bestanden SOUL, USER, AGENTS en MEMORY.
 >
 > **Week 3 — Organiseren.** Een marketingplan in vijf gereedschappen: sparren met
 > Claude over nichemarkt en campagne, Gemini Nano Banana om een huisstijl te
@@ -59,7 +59,10 @@ regel.
 > zichzelf en voor hun organisatie.
 >
 > **Week 5 — Herbouwen.** De persoonlijke intelligentie-stack installeren en opzetten,
-> en het dashboard vibecoden. Dat is het materiaal uit INSTALLEER-SESSIE-2.md.
+> en het dashboard vibecoden. Dat is het materiaal uit INSTALLEER-WEEK-5.md. **De
+> financiële kant van deze week zit in dat dashboard**: het toont cijfers over hun eigen
+> markt, elk met bron en peildatum, en laat zien welke ze niet weten. Verzin er geen
+> ander financieel onderdeel bij.
 >
 > ### De zeven pagina's
 >

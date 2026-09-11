@@ -1,6 +1,6 @@
-# Aanvulling voor sessie 2
+# Aanvulling voor week 5
 
-Sleep de inhoud van deze map in de map die je in sessie 1 hebt gemaakt, naast je
+Sleep de inhoud van deze map in de map die je in week 2 hebt gemaakt, naast je
 bestaande bestanden. Er wordt niets overschreven en je raakt niets kwijt.
 
 Wat erbij komt:
@@ -15,7 +15,7 @@ Wat erbij komt:
 
 ## Wat je hiervoor nodig hebt
 
-Hetzelfde als in sessie 1, met één toevoeging: de laatste stap zet een **geplande
+Hetzelfde als in week 2, met één toevoeging: de laatste stap zet een **geplande
 taak** aan die je elke ochtend drie vragen stelt. Die functie bestaat niet op elk
 abonnement. Kan het niet, dan werkt de rest gewoon en zet je een agendaherinnering.
 

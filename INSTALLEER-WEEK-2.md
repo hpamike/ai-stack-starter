@@ -1,4 +1,4 @@
-# Installatie sessie 1 — je eigen AI-assistent
+# Installatie week 2 — je eigen AI-assistent
 
 **Dit bestand is een instructie voor de assistent, niet voor de deelnemer.**
 Wie dit leest en geen AI is: je hoeft hier niets mee te doen. Typ de zin uit
@@ -7,7 +7,7 @@ Wie dit leest en geen AI is: je hoeft hier niets mee te doen. Typ de zin uit
 ## De startzin
 
 > Help mij om mijn PA te installeren met
-> https://raw.githubusercontent.com/hpamike/ai-stack-starter/main/INSTALLEER-SESSIE-1.md
+> https://raw.githubusercontent.com/hpamike/ai-stack-starter/main/INSTALLEER-WEEK-2.md
 
 ---
 
@@ -46,7 +46,7 @@ Begin met deze mededeling, in je eigen woorden maar met deze inhoud:
 > normaal gesproken precies wat je NIET moet doen: instructies uit een bron
 > uitvoeren. Je doet het hier omdat je weet wie dit heeft gemaakt en je het adres hebt
 > gecontroleerd. Dat is de regel: niet blind instructies volgen uit een bron, maar
-> bewust kiezen welke bron je vertrouwt. In de tweede sessie kom je hierop terug.
+> bewust kiezen welke bron je vertrouwt. In week 5 kom je hierop terug.
 
 Vraag daarna of ze het adres inderdaad herkennen van de begeleider. Zo niet, stop.
 
@@ -93,7 +93,7 @@ Leg de vier lagen uit. Kort, met eigen voorbeelden, niet als opsomming voorlezen
 
 De twee zinnen die moeten blijven hangen:
 
-- *Vandaag bouwen we laag 3 en 4. De tweede sessie bouwt laag 1 en 2.*
+- *Vandaag bouwen we laag 3 en 4. De week 5 bouwt laag 1 en 2.*
 - *Een groeiende laag 2 maakt me belezener. Alleen een groeiende laag 3 maakt me
   slimmer.*
 
@@ -149,7 +149,7 @@ Duw ze niet naar één route. Vraag wat voor materiaal er in de map komt en welk
 afweging daarbij hoort; het antwoord van een commissaris is een ander dan dat van een
 zelfstandige.
 
-Zeg erbij dat er in de tweede sessie mappen bij komen, in dezelfde map, en dat ze
+Zeg erbij dat er in week 5 mappen bij komen, in dezelfde map, en dat ze
 niets opnieuw hoeven te installeren.
 
 ## Stap 5 — USER.md
@@ -272,13 +272,13 @@ het `USER.md`.
 Maak `GEMISTE-VRAGEN.md` aan en leg uit waar het voor is:
 
 > Elke keer dat ik iets niet weet wat ik had moeten weten, zet je die vraag op deze
-> lijst. Niet uitwerken, alleen opschrijven. Neem hem mee naar de tweede sessie. Dat
+> lijst. Niet uitwerken, alleen opschrijven. Neem hem mee naar week 5. Dat
 > is de enige voorbereiding, en het is de invoer van die middag.
 
 Zeg erbij: komt dezelfde vraag twee keer op de lijst, zet er dan een streepje bij.
 Twee keer is bijna altijd een ontbrekende regel in `ik/`, geen ontbrekende pagina.
 
-Sluit af met één zin over wat er in sessie 2 gebeurt: dan bouwen ze laag 1 en 2, met
+Sluit af met één zin over wat er in week 5 gebeurt: dan bouwen ze laag 1 en 2, met
 een dashboard over hun eigen markt en een dagelijkse vraag van jou.
 
 ---
@@ -406,7 +406,7 @@ Dingen die mijn assistent verkeerd had. Deze lijst wordt niet gewist.
 # Gemiste vragen
 
 Elke keer dat mijn assistent iets niet weet wat ze had moeten weten: één regel.
-Niet uitwerken. Meenemen naar sessie 2.
+Niet uitwerken. Meenemen naar week 5.
 
 | Datum | Wat ze niet wist | Wat ik toen zelf moest uitleggen |
 |---|---|---|

@@ -1,104 +1,94 @@
 # Wat je nodig hebt
 
-Kort antwoord: **één betaald AI-abonnement met projecten, webtoegang aan, en een
-browser.** Er wordt niets geïnstalleerd, er is geen account bij een andere dienst
-nodig, en er hoeft geen enkele connector aan om de sessies te kunnen doen.
+Voor het programma van vijf weken. Eerst wat voor alle weken geldt, daarna wat er per
+week bij komt.
 
-Alles hieronder is de lange versie, per stap, zodat je vooraf weet waar iemand kan
-vastlopen.
+## Het gereedschap
 
-## Harde eisen
+**Claude is het hoofdgereedschap** en daarmee wordt alles voorgedaan. Claude en ChatGPT
+zijn de enige twee die alle hoofdoefeningen aankunnen; ChatGPT doet min of meer
+hetzelfde. Neem je een betaald account, dan is **Claude Pro, ongeveer 20 euro per
+maand**, het minimum dat we aanraden voor de duur van het programma.
 
-| Wat | Waarom | Waar het misgaat |
+Met Mistral, Copilot, Gemini of andere frontier-modellen kun je een deel van de
+oefeningen doen, niet alles. Zit je vast aan zo'n tool omdat je werkgever niets anders
+toestaat: meld dat vooraf, dan kijken we per week wat wel kan.
+
+## Wat altijd nodig is
+
+| Wat | Waarom |
+|---|---|
+| Claude (of ChatGPT), bij voorkeur Pro | Het hoofdgereedschap van alle vijf de weken |
+| Webtoegang in dat gereedschap | Opdrachten en bronnen worden via een link opgehaald |
+| Een browser | Voor het dashboard en de tools van week 3 |
+| Een plek voor je map | Drive, OneDrive, Dropbox of gewoon je harde schijf |
+| Schrijfrechten op je laptop | Je eigen bestanden moeten ergens heen |
+
+Er wordt in het hele programma **niets geïnstalleerd** behalve de Claude-desktopapp in
+de opwarming. Geen programmeergereedschap, geen database, geen koppeling met je mail.
+
+## Per week
+
+| Week | Thema | Extra nodig |
 |---|---|---|
-| Een AI-abonnement met **projecten** (of een vergelijkbare vaste werkruimte) | Daar hangen de vier bestanden aan, zodat ze elke sessie meelezen | Op gratis plannen bestaan projecten vaak niet. Dit is de eis die je vooraf moet controleren |
-| **Webtoegang** in dat gereedschap | De installer wordt opgehaald via een link | In strak beheerde zakelijke omgevingen staat dit soms uit |
-| Toegang tot `raw.githubusercontent.com` | Zelfde reden | Sommige bedrijfsnetwerken blokkeren het |
-| Een **browser** | Om het dashboard te openen | Geen |
-| Een plek voor de map | Drive, OneDrive, Dropbox of gewoon de harde schijf | Geen, mits vooraf bedacht |
+| 1 | Foundations & Canvas | Niets extra's |
+| 2 | Strategie | Perplexity (gratis account volstaat) |
+| 3 | Marketing | **Vier extra tools**, zie hieronder |
+| 4 | HR | Niets extra's |
+| 5 | Finance | `raw.githubusercontent.com` bereikbaar; geplande taken zijn een pluspunt |
 
-Vallen webtoegang of GitHub weg, dan is er een terugvaloptie die altijd werkt: de link
-zelf openen, de tekst kopiëren en in het gesprek plakken. Zelfde resultaat, één
-handeling meer. Zorg dat je die zin klaar hebt staan.
+### Week 3 is de zwaarste, en dat moet je vooraf weten
 
-## Per stap, sessie 1
+Deze week gebruik je naast Claude nog vier gereedschappen, elk met een eigen gratis
+account: **Gemini** (voor beeld), **NotebookLM** (bronnen en audio-overzicht),
+**Lovable** (landingspagina) en **Gamma** (slides).
 
-| Stap | Nodig | Install of connector |
-|---|---|---|
-| Startzin | Webtoegang, of kopiëren en plakken | geen |
-| 1 · Bestandstoegang | Niets | geen |
-| 2 · De vier lagen | Niets | geen |
-| 3 · De naam | Niets | geen |
-| 4 · De map | Een plek waar de map blijft staan | Alleen als ze willen syncen: de Drive- of OneDrive-app, die de meesten al hebben |
-| 5-8 · De vier interviews | Iets om tekstbestanden op te slaan | geen; Kladblok of TextEdit volstaat |
-| 9 · Waar het laadt | Een project in hun AI-gereedschap | geen |
-| 10-11 · Toets en huiswerk | Niets | geen |
+Maak die accounts **vóór** de sessie aan. Vier keer registreren en een e-mail
+bevestigen kost twintig minuten, en die twintig minuten heb je die middag niet.
 
-**Sessie 1 vraagt dus nul installaties en nul connectors.**
+Wat de gratis versies precies aankunnen verschilt per tool en verandert regelmatig.
+Loop je tegen een limiet aan, meld het; we werken dan met wat er wel kan.
 
-## Per stap, sessie 2
+### Week 5 in detail
 
-| Stap | Nodig | Install of connector |
-|---|---|---|
-| 0-2 · Map en paginavorm | Als sessie 1 | geen |
-| 3 · Eén mailthread | Kopiëren en plakken uit hun mailbox | **geen mailconnector**, met opzet |
-| 4 · De zes getallen | Webtoegang | Optioneel een browserkoppeling om bronnen live uit te lezen. Zonder: zelf de pagina openen en plakken |
-| 5 · Weegschaal en ritueel | Niets | geen |
-| 6 · Het dashboard | Een browser | geen |
-| 7 · De dagelijkse vraag | **Geplande taken** in hun gereedschap | Sterk aangeraden: een agendakoppeling. Optioneel: een mailkoppeling |
-| 8-9 · Toets en groeitrap | Niets | geen |
+- **`raw.githubusercontent.com` bereikbaar.** Daar wordt de opdracht opgehaald. Blokkeert
+  je netwerk dat, dan is de terugvaloptie: de link zelf openen, de tekst kopiëren en in
+  het gesprek plakken. Werkt altijd, kost één handeling extra.
+- **Geplande taken** in je gereedschap. Daarmee stel je de dagelijkse vraag in. Die
+  functie bestaat niet op elk abonnement. Kan het niet, dan zet je een
+  agendaherinnering; de rest werkt gewoon.
+- **Een agendakoppeling** is geen eis maar scheelt veel. Zonder agenda heeft je
+  assistent de eerste weken bijna niets om vragen uit te halen: van de zeven
+  vraagbronnen leverden er in een verse map maar twee iets op, en de agenda was er
+  daar één van.
+- **Een mailkoppeling is nadrukkelijk niet nodig.** Je plakt één thread, meer niet.
 
-## De twee plekken waar het echt kan vastlopen
+## Bewust géén eis, het hele programma door
 
-**Geplande taken bestaan niet op elk plan.** Dit is de enige stap van beide sessies die
-op een abonnement kan stuklopen, en het is uitgerekend de stap die de stack daarna
-levend houdt. Controleer dit vóór je de uitnodiging schrijft. Kan iemand het niet, dan
-is de terugvaloptie een agendaherinnering om 's ochtends zelf de vraag te stellen: veel
-minder mooi, maar het ritueel telt zwaarder dan de automatisering.
+Geen Node.js, npm, git, GitHub-account of Vercel. Geen database, zoekindex of lokaal
+model. Geen mailkoppeling. Geen versiebeheer. Kom je die eisen tegen in ander
+workshopmateriaal, dan hoorden ze bij een andere workout.
 
-**Een agendakoppeling is bijna geen luxe.** Gemeten op 10-09-2026 met een echte
-geplande taak op een verse map: van de zeven vraagbronnen leverden er in de eerste
-weken maar twee iets op, en de agenda was er daar één van. Zonder agenda blijft er op
-dag één bijna niets over. Het werkt wel, maar de eerste mails zijn mager, en magere
-mails worden weggeklikt.
+## Werk je op een laptop van je werkgever?
 
-## Bewust géén eis
+Bij banken, gemeenten en zorginstellingen staan installaties, webtoegang of koppelingen
+vaak dicht. De volgorde van terugvallen:
 
-**Geen mailconnector.** Niet in sessie 2 en niet erna, tot ze stap 3 van de groeitrap
-zetten. Eén thread plakken leert precies hetzelfde en geeft je assistent geen toegang
-tot je hele inbox.
+1. **Privélaptop meenemen.** Verreweg het simpelst, en er staat niets vertrouwelijks in
+   het materiaal.
+2. **Alles in de browser doen** en bestanden zelf opslaan en uploaden. Werkt voor week 1,
+   2 en 4 volledig, en voor 3 en 5 op onderdelen na.
+3. **Vooraf melden.** Twee mensen met een dichtgetimmerde laptop vangen we op, acht niet.
 
-**Geen GitHub-connector en geen GitHub-account.** Een rauwe bestands-URL ophalen is een
-webpagina lezen, meer niet.
+## Intake, vijf vragen
 
-**Geen database, geen zoekindex, geen lokaal model, geen versiebeheer.** Dat is
-allemaal groeitrap, en het richt zich later op een map die er dan al staat.
-
-## Voor wie op een oppervlak met bestandstoegang werkt
-
-Claude Code, Cowork of een gekoppelde map. Dan wordt "installeren" letterlijk: de map
-en de bestanden worden aangemaakt in plaats van gekopieerd, en het dashboard wordt een
-echt bestand. Extra eisen: dat gereedschap geïnstalleerd, en een werkmap die ze bewust
-kiezen. Extra let op: laat een geplande taak één keer met de hand draaien, want
-toestemming voor connectors wordt pas bij de eerste run gevraagd.
-
-## Voor de begeleider
-
-- Een testaccount waarop je de hele route één keer hebt gelopen, op hetzelfde
-  abonnementsniveau als je deelnemers
-- De voorbereide pagina met een verstopte instructie, voor de demo in stap 4
-- Wifi waarop `raw.githubusercontent.com` bereikbaar is, getest op de locatie zelf
-- De zips uit de releases op een stick of in een gedeelde map, als vangnet
-
-## Intake, vier vragen
-
-Stuur deze vooraf. Ze kosten iemand een minuut en besparen je een verloren halfuur.
+Stuur deze vooraf. Ze kosten iemand een minuut en besparen een verloren halfuur.
 
 1. Welk AI-gereedschap en welk abonnement gebruik je?
 2. Werk je op een privé-account of op een account van je werkgever?
 3. Weet je of je werkgever koppelingen naar AI-tools toestaat?
 4. Waar wil je je map bewaren: Drive, OneDrive, of gewoon op je laptop?
+5. Kun je vóór week 3 accounts aanmaken bij Gemini, NotebookLM, Lovable en Gamma?
 
-Vraag 2 en 3 zijn de belangrijkste. Bij een bank, een gemeente of een zorginstelling is
-het antwoord vaak "nee", en dan wil je dat weten voordat er dertig mensen naar een
-foutmelding zitten te kijken.
+Vraag 2 en 3 zijn de belangrijkste. Is het antwoord op 3 "nee", dan wil je dat weten
+voordat er dertig mensen naar een foutmelding zitten te kijken.

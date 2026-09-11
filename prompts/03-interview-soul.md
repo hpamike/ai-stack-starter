@@ -1,6 +1,6 @@
 # 03 — SOUL.md invullen
 
-*Hoort bij sessie 1.*
+*Hoort bij week 2.*
 
 Reken op 30 minuten. Dit is het leukste blok en het levert het meeste op.
 

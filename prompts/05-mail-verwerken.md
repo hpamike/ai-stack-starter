@@ -1,6 +1,6 @@
 # 05 — Eén mailthread verwerken
 
-*Hoort bij sessie 2.*
+*Hoort bij week 5.*
 
 Geen koppeling met je mailbox. Je pakt één echte thread en plakt hem. Dat is niet
 een afgezwakte versie: het is de juiste eerste stap, omdat je zo leert wat er
