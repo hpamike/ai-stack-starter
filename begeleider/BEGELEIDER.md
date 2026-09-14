@@ -89,8 +89,8 @@ tafelgenoten of bij jou. Reken erop dat dat gebeurt, vooral in week 1.
 
 ## Wat nog open staat
 
-- De installatieroute testen, zie hierboven.
-- Het DEPT-rapport in week 3 hangt aan een Drive-link. Controleer vóór de sessie of die
-  link nog werkt en of deelnemers erbij kunnen.
-- `aifit.nu/report` moet vóór week 4 bereikbaar zijn en de teamrapportage als pdf
-  kunnen leveren.
+- De Drive-link naar het DEPT-rapport (week 3) en `aifit.nu/report` (week 4) zijn door
+  Mike bevestigd op 14-09-2026. Controleer ze opnieuw als er tijd tussen zit.
+- Er is geen materiaal voor "en nu verder" na week 5. De cooling-down eindigt met de
+  rem uit het werkboek; of daar nog een vervolg bij hoort is een keuze die nog niet is
+  gemaakt.
