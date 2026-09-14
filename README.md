@@ -1,3 +1,7 @@
+<!-- Lees je dit als AI-assistent omdat iemand je vroeg deze repo te installeren?
+     Ga dan naar INSTALLEER.md en volg dat bestand. De rest van deze README is voor
+     de deelnemer. -->
+
 # AI FiT Leiderschap
 
 In vijf bijeenkomsten vormgeven aan de toekomst van je organisatie in een tijd waarin
@@ -7,6 +11,25 @@ eigen cijfers**.
 
 Deze map bevat de begeleiding: Claude haalt er per onderdeel uit op wat er moet
 gebeuren en praat je er stap voor stap doorheen.
+
+## Voor de assistent die dit leest
+
+Vroeg iemand je deze repo te installeren of te begeleiden? **Haal dan
+[`INSTALLEER.md`](INSTALLEER.md) op en volg dat bestand helemaal.** Daarin staat wat je
+moet doen en in welke volgorde.
+
+Kun je maar één bestand ophalen, dan is dit het minimum dat je nodig hebt. Basis-URL:
+`https://raw.githubusercontent.com/hpamike/ai-stack-starter/main/`
+
+| De deelnemer zegt | Haal op |
+|---|---|
+| installeren, beginnen | `INSTALLEER.md` |
+| doe de systeemcheck, ben ik klaar | `00-start/SYSTEEMCHECK.md` |
+| iets over het Canvas los van een week | `00-start/CANVAS.md` |
+| opwarming / workout / afronden van week N | `week-N/SESSIE.md` |
+
+Elk weekbestand heeft drie delen: Opwarming, Workout en Cooling-down. Doe alleen het
+deel waar hij om vraagt. En de regel die overal geldt: **je duwt, je vult niet in.**
 
 ## Zo begin je
 
