@@ -91,6 +91,7 @@ tafelgenoten of bij jou. Reken erop dat dat gebeurt, vooral in week 1.
 
 - De Drive-link naar het DEPT-rapport (week 3) en `aifit.nu/report` (week 4) zijn door
   Mike bevestigd op 14-09-2026. Controleer ze opnieuw als er tijd tussen zit.
-- Er is geen materiaal voor "en nu verder" na week 5. De cooling-down eindigt met de
-  rem uit het werkboek; of daar nog een vervolg bij hoort is een keuze die nog niet is
-  gemaakt.
+- **Het vervolg na week 5 staat in het werkblad, niet hier** (besluit Mike,
+  14-09-2026). De cooling-down van week 5 eindigt met de rem uit het werkboek en dat
+  is waar de begeleiding in deze repo ophoudt. Voeg hier dus geen "en nu verder" aan
+  toe; dat hoort in het werkblad thuis.
