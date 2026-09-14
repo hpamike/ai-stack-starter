@@ -1,119 +1,89 @@
 # Voor de begeleider
 
-Niet uitdelen aan deelnemers.
+Niet uitdelen aan deelnemers. Het deelnemersmateriaal staat in de weekmappen; dit is
+wat je zelf moet weten en doen.
 
-## Wat je vóór week 2 test, met één eigen account
+## Hoe deelnemers erin komen
 
-1. **Kan het gereedschap dat je kiest de map lezen?** Eén project, map eraan, en dan
-   een vraag stellen die alleen uit een bestand te beantwoorden is.
-2. **Kan een geplande taak bij die map?** Dit is de enige technische aanname onder
-   het hele ontwerp. Kan de geplande run de bestanden niet lezen, dan staat er
-   's ochtends een generiek mailtje in de bus en ben je de zaal kwijt.
-3. **Stuurt die geplande taak echt een mail, of alleen een melding in de app?**
-   Gereedschappen verschillen hierin. Weet wat je belooft.
+Eén zin in **Claude Cowork**, niet in Chat of Code:
 
-## Wat je meebrengt naar week 5
+```
+Ik ga deelnemen aan de AIFIT Leiderschap sessies. Kun je deze repo installeren: github.com/hpamike/ai-stack-starter
+```
 
-Een voorbereide webpagina of mailtje waarin een instructie staat die zich tot de
-assistent richt. Laat live zien wat er gebeurt. Dit is het moment waarop de zaal
-begrijpt waarom regel 4 in AGENTS.md er staat, en het is het waardevolste dat een
-leidinggevende die dag meeneemt.
+Claude volgt dan `INSTALLEER.md`: hij controleert de map `AIFiT Leiderschap`, zet de
+begeleidingsskill klaar en doet meteen de systeemcheck. Daarna gaan ze per week met
+drie zinnen verder.
 
-## Het model op één plaat
+**Dit moet je één keer zelf testen voordat je het uitdeelt.** Of Claude Cowork een
+skill uit een repo kan wegschrijven is niet in de documentatie beschreven; de route die
+er wél in staat is een ZIP uploaden bij Instellingen → Customize → Skills → Add.
+`INSTALLEER.md` laat Claude die handmatige route noemen als het zelf wegschrijven niet
+lukt, maar je wilt weten welke van de twee het in de praktijk wordt. Het is de allereerste
+handeling van het programma; daar wil je geen verrassing.
 
-`LAGEN.md` is het bestand dat de deelnemers het model geeft. Behandel het aan het
-begin van week 2 in vijf minuten, en kom er in week 5 op terug. De zin die
-blijft hangen: *een groeiende laag 2 maakt haar belezener, alleen een groeiende
-laag 3 maakt haar slimmer.*
+## De drie zinnen per week
 
-Zaal-vraag die het kwartje laat vallen: *in welke laag zit alles wat jij tot nu toe
-met AI hebt gedaan?* Vrijwel iedereen zit alleen in laag 4.
-
-## Hoe deelnemers beginnen
-
-Eén zin, geen zip, geen installatie. De installer haalt zichzelf op en begeleidt ze
-stap voor stap.
-
-- **Week 2:** `Help mij om mijn PA te installeren met <URL naar INSTALLEER-WEEK-2.md>`
-- **Week 5:** `Maak de intelligentiestack volledig met <URL naar INSTALLEER-WEEK-5.md>`
-
-Het moeten **rauwe bestands-URL's** zijn (raw.githubusercontent.com), geen link naar
-de repo-pagina. Eén ophaalactie, alles staat erin, inclusief de sjablonen. Er is geen
-GitHub-connector nodig en geen GitHub-account: dit is gewoon een webpagina lezen.
-
-Wel nodig: webtoegang in hun gereedschap, en een netwerk dat het adres niet blokkeert.
-Vraag dat uit in de intake. Terugvaloptie als een van beide wegvalt: ze openen de URL
-zelf, kopiëren de tekst en plakken hem in het gesprek. De zips blijven bestaan als
-tweede vangnet.
-
-**Let op: de repo met de installers moet publiek zijn.** Een assistent kan geen
-privérepo ophalen. Deze handleiding hoort daar dus niet in.
-
-## De opening van week 2 is het beste moment van het hele programma
-
-De eerste handeling is: een URL geven en je assistent laten doen wat daar staat. Dat is
-letterlijk de beweging waar de hele workshop tegen waarschuwt. De installer benoemt dat
-zelf in stap 0, en in week 5 komt het terug bij de injectie-demo.
-
-Verkoop dat niet als weeffout maar als de kern: je volgt geen instructies uit een bron,
-je volgt ze uit een bron die je bewust hebt gekozen. Wie dat begrijpt, begrijpt waarom
-regel 4 in AGENTS.md staat.
-
-## Voorwaarden en intake
-
-`VOORWAARDEN.md` staat de volledige lijst per stap, plus vier intakevragen om vooraf
-te sturen. De twee die ertoe doen: kan hun abonnement geplande taken aan, en staan ze
-op een account van hun werkgever.
-
-## Tijdsindeling
-
-**Week 2 — de assistent (laag 3 en 4), ruim twee uur**
-
-| | |
+| Wanneer | Wat de deelnemer typt |
 |---|---|
-| 5 min | De vier lagen (`LAGEN.md`) |
-| 20 min | Naam verzinnen (`prompts/01`) |
-| 35 min | USER.md (`prompts/02`) |
-| 30 min | SOUL.md (`prompts/03`) |
-| 30 min | AGENTS.md (`prompts/04`) |
-| 10 min | MEMORY.md |
-| 20 min | Laag 4: waar het laadt, en de afsluitregel van elk gesprek |
+| Thuis, vóór de sessie | `Ik wil de opwarming doen voor de sessie van week N.` |
+| In de sessie, als jij het zegt | `Ik begin met de workout van week N.` |
+| Aan het eind | `Ik wil week N afronden.` |
 
-Toets: drie vragen over eigen werk die een lege chat niet kan beantwoorden.
+Week 3 heeft een langere startzin (de workout begint met een campagnevraag) en week 2
+kent er nog één extra: `Help mij mijn assistent in te stellen.` Beide staan in het
+weekbestand.
 
-**Tussenperiode — drie tot vier weken**
+## Opbouw van elke bijeenkomst
 
-Eén opdracht: elke keer dat je assistent iets niet weet wat ze had moeten weten,
-zet je die vraag op een lijst. Die lijst is de invoer van week 5. Zonder die
-weken heeft week 5 geen materiaal en wordt het theorie.
+16:00 tot 18:00, 120 minuten: ongeveer 30 minuten theorie, 60 minuten praktijk, 30
+minuten reflectie. Tafels van vier.
 
-**Week 5 — de stack (laag 1 en 2), een volle middag**
+## Waar ze werken
 
-| | |
-|---|---|
-| 15 min | Gemiste vragen sorteren: ontbrekende pagina of ontbrekende regel |
-| 25 min | Map, paginavorm, eerste drie pagina's |
-| 25 min | Bron 1: één mailthread, plus één verzonden mail (`prompts/05`) |
-| 40 min | Bron 2: de zes getallen, bronnenlijst, injectie-demo (`prompts/06`) |
-| 20 min | De weegschaal en het wekelijkse ritueel (`prompts/09`) |
-| 45 min | Het dashboard vibecoden (`prompts/07`) |
-| 20 min | De dagelijkse vraag aanzetten (`prompts/08`) |
-| 10 min | Groeitrap, als hand-out mee |
+Cowork voor de systeemchecks en week 1 tot en met 4. **Week 5 in Claude Code**, het
+tabblad Code in dezelfde app. Dat is de enige wissel in het programma en die moet je in
+week 4 al aankondigen, want Code klaarzetten kost sommigen tijd.
 
-Toets: een vraag stellen die alleen uit de pagina's van vandaag te beantwoorden is,
-en daarna "waar komt dat vandaan?" Kan de assistent de bron noemen, dan staat de
-stack.
+## Wat je per week vooraf uitzet
 
-## De drie momenten waar het omslaat
+| Week | Wat de deelnemer moet regelen | Hoe lang vooraf |
+|---|---|---|
+| 1 | Cowork, instellingen, project en map, connectors | een paar dagen |
+| 2 | Perplexity-account | een paar dagen |
+| 3 | Gemini, NotebookLM, Lovable, Gamma, plus een eigen product in drie zinnen | **minstens een week** |
+| 4 | AI FiT Report met minimaal vijf teamleden op aifit.nu/report | **minstens een week** |
+| 5 | Claude Code werkend, jaarverslag in de map, GEMISTE-VRAGEN bijgewerkt | een paar dagen |
 
-1. **"Waar erger je je aan in AI-antwoorden?"** in week 2. Levert scherpere
-   stijlregels op dan elke positieve vraag, en de zaal wordt er wakker van.
-2. **De zes getallen die ze niet blijken te weten** aan het begin van week 5. Dat
-   gat is de motivatie voor de hele middag.
-3. **De injectie-demo.** Abstract tot ze het één keer zien gebeuren.
+Week 3 en 4 zijn de twee waar je actief achteraan moet. Bij week 3 omdat vier
+registraties twintig minuten kosten die ze die middag niet hebben; bij week 4 omdat het
+tijd van andere mensen vraagt.
 
-## Wat je niet moet doen
+## De momenten waar het omslaat
 
-Geen koppelingen aanzetten tijdens de workshop. Geen database. Geen installaties.
-Elke minuut die je aan gereedschap besteedt gaat af van de minuten waarin ze
-opschrijven wat ze weten, en dat laatste is het echte werk.
+**Week 1, veld 9 van het Canvas.** De vraag wat AI zelf mag beslissen en wie
+aanspreekbaar is. Daar wordt het bij leidinggevenden concreet.
+
+**Week 2, na de vijf vragen.** Het moment dat hun assistent iets terugzegt dat zij
+normaal elke keer opnieuw uitleggen.
+
+**Week 5, de zes getallen.** Ze schrijven ze met de pen op en ontdekken hoeveel ze er
+niet weten. Dat gat draagt de hele middag; ga het niet wegnemen.
+
+## Wat de begeleiding bewust níét doet
+
+De skill **duwt en vult niet in**. Geen shaping question, geen waardepropositie, geen
+MTP, ook niet als ze erom vragen. Bij een zwakke prompt geeft hij geen goed antwoord
+maar zegt wat er ontbrak. Dat is het ontwerpprincipe: eerst zelf denken, gereedschap
+scherpt aan en vervangt nooit.
+
+Loopt iemand echt vast, dan gaat de skill langs vier tredes en eindigt bij zijn
+tafelgenoten of bij jou. Reken erop dat dat gebeurt, vooral in week 1.
+
+## Wat nog open staat
+
+- De installatieroute testen, zie hierboven.
+- Het DEPT-rapport in week 3 hangt aan een Drive-link. Controleer vóór de sessie of die
+  link nog werkt en of deelnemers erbij kunnen.
+- `aifit.nu/report` moet vóór week 4 bereikbaar zijn en de teamrapportage als pdf
+  kunnen leveren.
