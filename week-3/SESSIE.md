@@ -1,0 +1,184 @@
+# Week 3 — Organiseren: AI en Marketing
+
+**Instructie voor Claude.** Drie delen. Doe alleen het deel waar de deelnemer om
+vraagt.
+
+**Leerdoel:** een campagne ontwerpen en testen met vijf gereedschappen.
+**Wat hij maakt:** campagneplan, huisstijl, landingspagina en slides.
+
+---
+
+# Opwarming
+
+*Thuis, minstens een week van tevoren. Reken op een uur. In Claude Cowork; de accounts
+maakt hij in de browser.*
+
+Trigger: `Ik wil de opwarming doen voor de sessie van week 3.`
+
+Week 1 gemist? Doe dan eerst de opwarming van week 1.
+
+Loop dit samen af, en geef de accounts **één voor één**. Vraag na elk of het gelukt is
+voordat je de volgende geeft. Vraag eerst of hij een Google-account heeft; dan vallen
+de eerste twee daaronder en houdt hij er twee over.
+
+- **Gemini** — `https://gemini.google.com` (Google-account)
+- **NotebookLM** — `https://notebooklm.google.com` (zelfde Google-account)
+- **Lovable** — `https://lovable.dev`
+- **Gamma** — `https://gamma.app`
+- **Een eigen product, dienst of initiatief waar hij een markt voor zoekt**, in drie
+  zinnen op papier. **Zonder dit staat de workout stil.** Laat hem die drie zinnen nu
+  formuleren, niet op de dag zelf.
+- **Heeft hij een marketingplan, huisstijl of website?** Dan die in de map `AIFiT
+  Leiderschap` zetten.
+
+---
+
+# Workout: een campagne voor een nichedoelgroep
+
+*In de sessie. Jij bent de regisseur in Cowork; Gemini, NotebookLM, Lovable en Gamma
+opent hij in de browser. Alles wat hij maakt komt in zijn map.*
+
+Trigger: `Ik begin met de workout van week 3. Ik wil een campagne testen voor een
+nichedoelgroep.`
+
+Stel eerst **maximaal vijf vragen**: welk product, welke doelgroep, wat het doel van de
+test is, welk budget en welke termijn, en wat er al ligt.
+
+Daarna zeven oefeningen. **De tijden zijn krap: ga bij elke oefening voor bruikbaar,
+niet voor perfect.** Zeg dat ook tegen hem.
+
+## Oefening 1 — nichemarkt en campagneplan in Gemini (10 min)
+
+Vul de prompt voor hem in en laat hem die in Gemini plakken. Laat hem doorvragen tot de
+doelgroep concreet is.
+
+```
+PROMPT GEMINI CAMPAGNEPLAN
+
+Context / rol
+Je bent een marketingstrateeg voor [organisatie] in de sector [sector]. We willen
+[product of initiatief] testen bij een nichedoelgroep: [doelgroep].
+
+Instructie
+Stel eerst drie scherpe vragen over de doelgroep voordat je adviseert. Werk daarna met
+concrete aannames en benoem ze. Geen algemene marketingtaal; alles moet binnen
+[budget] en [termijn] uitvoerbaar zijn.
+
+Taak
+1. Beschrijf de nichedoelgroep: wie, waar, welk probleem, welke taal ze gebruiken.
+2. Formuleer een kernboodschap in een zin. 3. Maak een campagneplan met drie kanalen,
+per kanaal een actie, een meetpunt en een succesdrempel. 4. Benoem het grootste risico
+van dit plan. Lever als document van maximaal een A4.
+```
+
+## Oefening 2 — moodboard en brandrichtlijnen in Gemini (10 min)
+
+Zelfde chat, zodat Gemini het campagneplan nog kent. Beoordeel de prompt samen voordat
+hij hem plakt.
+
+```
+PROMPT GEMINI MOODBOARD EN BRANDRICHTLIJNEN
+
+Context / rol
+Je kent de doelgroep en de kernboodschap uit het campagneplan hierboven.
+
+Instructie
+Maak beeld dat bij deze doelgroep past, niet bij de sector in het algemeen. Geen tekst
+in het beeld. Geef bij elke keuze een reden in een zin.
+
+Taak
+1. Genereer een moodboard van een pagina met de sfeer, kleuren en beeldtaal van de
+campagne. 2. Schrijf daarna brandrichtlijnen: twee lettertypes (kop en tekst), vier
+kleuren met hexcodes, toon van de teksten in drie woorden, wat we nooit doen.
+Lever de richtlijnen als tekst die ik kan kopiëren.
+```
+
+Hij downloadt het moodboard en sleept het naar zijn map als **`moodboard.png`**. Sla op
+in de map: **`campagneplan.md`**, `moodboard.png` en **`brandrichtlijnen.md`**.
+
+## Oefening 3 — bronnen en inzichten in NotebookLM (10 min)
+
+Hij maakt een notebook `Campagne [naam]` en voegt als bronnen toe: `campagneplan.md`,
+`brandrichtlijnen.md`, zijn eigen website of documenten, `bronnen-week2.md`, het
+DEPT-rapport over AI en marketing
+(`https://drive.google.com/drive/folders/1Bt6__ND5LqodTMVop3BVGJdfJKLZibPw?usp=sharing`)
+en eventueel andere waardevolle bronnen.
+
+Drie vragen in die chat:
+
+1. Wat zijn de vijf belangrijkste lessen uit deze bronnen over de impact van AI op
+   marketing voor een organisatie als de mijne?
+2. Welke vijf vragen moet ik stellen aan een marketingbureau voordat ik deze campagne
+   uitbesteed?
+3. Waar spreekt mijn campagneplan de bronnen tegen?
+
+Hij plakt de antwoorden bij jou terug; sla ze op als **`notebook-inzichten.md`**. In de
+Studio maakt hij een audio-overzicht en een infographic; die laatste komt in de map als
+**`infographic.png`**.
+
+## Oefening 4 — de Lovable-prompt (5 min)
+
+Hij typt: *"Maak de Lovable-prompt voor mijn landingspagina."* Lees `campagneplan.md`,
+`brandrichtlijnen.md` en `notebook-inzichten.md`, leg in drie zinnen uit wat Lovable
+doet (het bouwt een werkende webpagina uit een beschrijving, zonder dat hij code hoeft
+te schrijven) en lever de prompt ingevuld.
+
+```
+PROMPT LOVABLE LANDINGSPAGINA
+
+Context / rol
+Je bouwt een landingspagina voor een experiment: [organisatie] test [product of
+initiatief] bij [nichedoelgroep]. Kernboodschap: [kernboodschap]. Huisstijl:
+[lettertypes, kleuren met hexcodes, toon uit de brandrichtlijnen].
+
+Instructie
+Een pagina, mobiel eerst, Nederlands, geen stockfoto's, geen jargon. Een duidelijke
+call-to-action: [bijvoorbeeld: laat je e-mailadres achter voor een gesprek]. Geen valse
+schaarste, geen verzonnen reviews. Toon boven de vouw wat het is, voor wie, en wat de
+bezoeker moet doen.
+
+Taak
+Bouw de pagina met: 1. kop met kernboodschap, 2. drie voordelen voor [doelgroep] in hun
+eigen woorden, 3. hoe het werkt in drie stappen, 4. een formulier voor [call-to-action],
+5. een korte regel over wie we zijn. Voeg een eenvoudige meting toe: hoeveel bezoekers
+en hoeveel aanmeldingen.
+```
+
+## Oefening 5 — landingspagina bouwen in Lovable (15 min)
+
+Hij plakt de prompt in Lovable en komt terug met wat hij ziet, inclusief screenshot.
+Help hem in **maximaal drie rondes** verbeteren, per ronde één concrete wijziging die
+hij in Lovable typt, tot de pagina kop, voordelen, stappen en formulier toont. De link
+naar zijn pagina komt in zijn map.
+
+## Oefening 6 — de Gamma-opdracht (5 min)
+
+Hij typt: *"Maak de tekst voor mijn Gamma-presentatie."* Vraag aan wie hij presenteert
+(budgethouder of investeerder) en wat hij van die persoon vraagt.
+
+Lever daarna de tekst voor tien slides, maximaal drie punten per slide: 1 titel en
+vraag, 2 nichedoelgroep, 3 het probleem, 4 de propositie, 5 de campagne in drie
+kanalen, 6 de huisstijl, 7 de landingspagina, 8 wat je meet en wanneer het geslaagd is,
+9 budget en termijn, 10 de vraag aan de zaal.
+
+## Oefening 7 — slides maken in Gamma (5 min)
+
+Nieuwe presentatie vanuit tekst (paste in text), tekst van jou erin, een thema dat bij
+de brandrichtlijnen past. Exporteren als pdf naar zijn map.
+
+**Klaar wanneer:** in zijn map staan `campagneplan.md`, `brandrichtlijnen.md`,
+`notebook-inzichten.md`, de link naar zijn landingspagina en de pdf van zijn slides.
+
+---
+
+# Cooling-down
+
+Trigger: `Ik wil week 3 afronden.`
+
+1. Welk gereedschap verraste je, en welk zou je morgen niet meer gebruiken?
+2. Wat zou je een marketingbureau nu anders vragen dan voor vandaag?
+3. Welke aanname in je campagneplan is het zwakst, en hoe test je die met je
+   landingspagina?
+
+Kijk daarna kort vooruit naar week 4, en zeg dat die opwarming ook een week van tevoren
+begint omdat er teamleden aan te pas komen.

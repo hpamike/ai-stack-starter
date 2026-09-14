@@ -40,6 +40,25 @@ organisatie, wie is eigenaar, welke versie is dit, en aan welk getal hangt het.
 | 9 | **Vertrouwensstructuur** | beslisgrens, borging, aanspreekbaar |
 | 10 | **Veranderproces** | bouwopdracht, eigenaar, getal, 30/60/90 |
 
+## De vraag per veld
+
+Dit is de vraag die de deelnemer in week 1 beantwoordt. Letterlijk uit het werkboek;
+wijk er niet van af en verzin er geen antwoord bij.
+
+| | Veld | De vraag die je beantwoordt |
+|---|---|---|
+| 0 | Scope: eenheid, eigenaar, versie, een getal | Over welk deel van de organisatie gaat dit, wie is eigenaar, en welk ene getal zegt of het werkt? |
+| 1 | Shaping questions | Welke vragen roept intelligentie als productiefactor op voor jouw organisatie? Nog geen antwoorden. |
+| 2 | Klant en vraag | Wat verandert er voor je klant als intelligentie overvloedig wordt? |
+| 3 | Waardepropositie en verdienmodel | Waar zit dan nog jullie unieke waarde, en hoe verdien je eraan? |
+| 4 | MTP als protocol: doel en constraints | Wat is het doel dat richting geeft, en welke grenzen mogen nooit worden overschreden? |
+| 5 | Eigen geheugen: data en kennis | Welke kennis en data heeft alleen jullie organisatie? |
+| 6 | Infrastructuur: systemen en agents | Welke systemen dragen het werk, en waar zouden agents passen? |
+| 7 | Organisatie: mensen en skills | Welke rollen en vaardigheden veranderen als eerste? |
+| 8 | Cultuur en leiding | Hoe reageert jullie cultuur op verandering, en wat vraagt dat van de leiding? |
+| 9 | Vertrouwensstructuur | Wat mag AI zelf beslissen, wat niet, en wie is aanspreekbaar? |
+| 10 | Veranderproces: 30/60/90 | Wat is de eerste bouwopdracht, wie is eigenaar, en wat staat er over 30, 60 en 90 dagen? |
+
 ## Hoe het Canvas over de vijf weken loopt
 
 Dit is de reden dat het Canvas de ruggengraat is en niet een werkvorm: elke week vult
