@@ -25,6 +25,13 @@ daarna:
 Ik wil de opwarming doen voor de sessie van week 1.
 ```
 
+Werkt dat niet, bijvoorbeeld omdat je in Chat zit in plaats van Cowork, dan kun je het
+programma nog steeds volgen met de volle zin:
+
+```
+Haal https://raw.githubusercontent.com/hpamike/ai-stack-starter/main/week-1/SESSIE.md op en begeleid me door de opwarming.
+```
+
 ## Drie zinnen per week
 
 Elke week doe je drie dingen, en Claude begeleidt alle drie.

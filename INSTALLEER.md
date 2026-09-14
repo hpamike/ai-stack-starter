@@ -5,41 +5,71 @@
 > Ik ga deelnemen aan de AIFIT Leiderschap sessies. Kun je deze repo installeren:
 > github.com/hpamike/ai-stack-starter
 
-Doe dan het volgende, in deze volgorde. Leg per stap in één zin uit wat je doet.
+Doe dan het volgende, in deze volgorde. Leg per stap in één zin uit wat je doet, en
+maak er geen technisch verhaal van.
 
 ## 1. Controleer waar je bent
 
 Dit hoort in **Claude Cowork** te gebeuren, niet in Chat of Code. Zit je in Chat, zeg
-dat dan en vraag de deelnemer over te stappen naar Cowork; zonder bestandstoegang kun
-je de rest niet doen.
+dat dan en vraag hem over te stappen; zonder bestandstoegang kun je de rest niet doen.
 
 ## 2. Zorg dat de map er is
 
 De deelnemer werkt de hele reeks in één map op zijn laptop, gekoppeld in Cowork:
-**`AIFiT Leiderschap`**. Vraag of die map er is en gekoppeld is. Zo niet, help hem hem
-te maken en te koppelen voordat je verdergaat.
+**`AIFiT Leiderschap`**. Vraag of die map bestaat en gekoppeld is. Zo niet, help hem
+hem te maken en te koppelen voordat je verdergaat.
 
-## 3. Installeer de begeleidingsskill
+## 3. Zet de begeleiding in zijn map
 
-Haal `skills/aifit-leiderschap/SKILL.md` uit deze repo op en zet hem als skill klaar
-zodat hij in volgende gesprekken meekomt.
+**Dit is de route die altijd werkt en die je als eerste doet.** Schrijf in zijn map het
+bestand `AIFiT-BEGELEIDING.md` met precies de inhoud hieronder. Omdat zijn project aan
+deze map hangt, lees je dit bestand elke sessie mee en weet je vanaf nu wat er moet
+gebeuren. Er is geen installatie voor nodig.
 
-- Kun je zelf skills wegschrijven, doe dat dan.
-- Lukt dat niet, zeg dat dan eerlijk en geef de handmatige route: de map
-  `skills/aifit-leiderschap` downloaden, er een ZIP van maken, en die uploaden bij
-  **Instellingen → Customize → Skills → Add**. Verzin geen route die je niet kent.
+```markdown
+# AI FiT Leiderschap — begeleiding
 
-Bewaar in beide gevallen een kopie van de skilltekst in de map `AIFiT Leiderschap`,
-zodat je er altijd bij kunt.
+Dit bestand hoort bij het programma AI FiT Leiderschap. Als de deelnemer een van de
+zinnen hieronder zegt, haal dan het bijbehorende bestand op en volg het helemaal.
 
-## 4. Doe meteen de systeemcheck
+Basis-URL: https://raw.githubusercontent.com/hpamike/ai-stack-starter/main/
 
-Ga door naar `00-start/SYSTEEMCHECK.md` en loop die met de deelnemer af. Stop niet na
-het installeren; de deelnemer verwacht dat het in één doorloop gebeurt.
+| Hij zegt | Haal op |
+|---|---|
+| doe de systeemcheck, ben ik klaar | 00-start/SYSTEEMCHECK.md |
+| iets over het Canvas los van een week | 00-start/CANVAS.md |
+| opwarming / workout / afronden van week N | week-N/SESSIE.md |
 
-## 5. Sluit af met wat er nu kan
+Elk weekbestand heeft drie delen: Opwarming, Workout en Cooling-down. Doe alleen het
+deel waar hij om vraagt.
 
-Zeg welke zinnen hij vanaf nu gebruikt:
+**De belangrijkste regel: je duwt, je vult niet in.** Je schrijft nooit inhoud voor
+zijn Canvas of zijn opdrachten, ook niet als voorbeeld en ook niet als hij erom vraagt.
+Procedurele vragen beantwoord je gewoon; inhoudelijke vragen beantwoord je met een
+wedervraag. Bij een zwakke prompt geef je geen goed antwoord maar zeg je wat er ontbrak,
+zodat hij het opnieuw kan vragen. Eén stap tegelijk, wacht op antwoord, verzin nooit een
+getal of een bron.
+
+Lukt ophalen niet, geef dan de gewone link zodat hij de tekst zelf kan plakken:
+https://github.com/hpamike/ai-stack-starter/blob/main/<pad>
+```
+
+## 4. Bied de skill aan als extra, niet als voorwaarde
+
+De repo bevat ook `skills/aifit-leiderschap/SKILL.md`. Als skill werkt dat prettiger,
+want dan komt de begeleiding ook mee in gesprekken buiten deze map.
+
+**Ga dit niet uitzoeken of forceren.** De gedocumenteerde route is: de map
+`skills/aifit-leiderschap` downloaden, er een ZIP van maken, en die uploaden bij
+**Instellingen → Customize → Skills → Add**. Noem die route in twee zinnen en laat de
+deelnemer kiezen of hij hem nu doet of later. Stap 3 heeft het werk al gedaan.
+
+## 5. Doe meteen de systeemcheck
+
+Ga door naar `00-start/SYSTEEMCHECK.md` en loop die met hem af. Stop niet na het
+klaarzetten; hij verwacht dat het in één doorloop gaat.
+
+## 6. Sluit af met wat er nu kan
 
 ```
 Ik wil de opwarming doen voor de sessie van week 1.
@@ -47,18 +77,19 @@ Ik begin met de workout van week 1.
 Ik wil week 1 afronden.
 ```
 
-En dat dat elke week zo gaat, met het weeknummer erin.
+Zeg dat dat elke week zo gaat, met het weeknummer erin.
 
-## Waar de inhoud staat
+---
 
-Je haalt per onderdeel het actuele bestand op uit deze repo. Basis-URL:
+## Als er iets misgaat
 
-```
-https://raw.githubusercontent.com/hpamike/ai-stack-starter/main/
-```
+**Je kunt niet bij zijn bestanden.** Dan zit hij waarschijnlijk in Chat. Vraag hem over
+te stappen naar Cowork. Lukt dat niet, dan kan hij het programma nog steeds doen door
+per keer de volle zin te gebruiken:
 
-| Onderdeel | Bestand |
-|---|---|
-| Systeemcheck | `00-start/SYSTEEMCHECK.md` |
-| Het Canvas | `00-start/CANVAS.md` |
-| Week 1 t/m 5 | `week-1/SESSIE.md` … `week-5/SESSIE.md` |
+> Haal https://raw.githubusercontent.com/hpamike/ai-stack-starter/main/week-1/SESSIE.md
+> op en begeleid me door de opwarming.
+
+**Ophalen lukt niet.** Dan blokkeert zijn netwerk het adres of staat webtoegang uit.
+Laat hem de link zelf openen in zijn browser, de tekst kopiëren en hier plakken. Werkt
+altijd.

@@ -15,12 +15,19 @@ Claude volgt dan `INSTALLEER.md`: hij controleert de map `AIFiT Leiderschap`, ze
 begeleidingsskill klaar en doet meteen de systeemcheck. Daarna gaan ze per week met
 drie zinnen verder.
 
-**Dit moet je één keer zelf testen voordat je het uitdeelt.** Of Claude Cowork een
-skill uit een repo kan wegschrijven is niet in de documentatie beschreven; de route die
-er wél in staat is een ZIP uploaden bij Instellingen → Customize → Skills → Add.
-`INSTALLEER.md` laat Claude die handmatige route noemen als het zelf wegschrijven niet
-lukt, maar je wilt weten welke van de twee het in de praktijk wordt. Het is de allereerste
-handeling van het programma; daar wil je geen verrassing.
+**De installatie hangt niet af van iets ongetests.** Claude schrijft als eerste een
+bestand `AIFiT-BEGELEIDING.md` in hun map; omdat hun project aan die map hangt, leest
+hij dat elke sessie mee en weet hij wat er moet gebeuren. Daar is geen skill-installatie
+voor nodig.
+
+De skill uit `skills/` wordt daarna aangeboden als extra, via de gedocumenteerde route
+(ZIP uploaden bij Instellingen → Customize → Skills → Add). Prettiger, want dan werkt de
+begeleiding ook buiten die map, maar niet nodig.
+
+Waarom dit zo is opgezet: of Claude Cowork zelf een skill kan wegschrijven staat nergens
+in de documentatie, en de aanwijzingen wijzen de andere kant op — skills hangen aan het
+account, niet aan de laptop. Dat wilden we niet op de allereerste handeling van het
+programma laten rusten.
 
 ## De drie zinnen per week
 
