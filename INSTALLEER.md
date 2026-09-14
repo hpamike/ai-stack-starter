@@ -13,15 +13,34 @@ maak er geen technisch verhaal van.
 Dit hoort in **Claude Cowork** te gebeuren, niet in Chat of Code. Zit je in Chat, zeg
 dat dan en vraag hem over te stappen; zonder bestandstoegang kun je de rest niet doen.
 
-## 2. Zorg dat de map er is
+## 2. Zet twee dingen aan voordat je iets schrijft
 
-De deelnemer werkt de hele reeks in één map op zijn laptop, gekoppeld in Cowork:
-**`AIFiT Leiderschap`**. Vraag of die map bestaat en gekoppeld is. Zo niet, help hem
-hem te maken en te koppelen voordat je verdergaat.
+Deze twee moeten kloppen vóór stap 4, anders loopt hij daar vast op een foutmelding
+die hij niet kan plaatsen.
 
-## 3. Zet de begeleiding in zijn map
+**Code execution en file creation aan.** Settings → Capabilities. Zonder dit kun je
+geen bestanden in zijn map maken. Loop het samen na; vraag niet of hij het "even zelf
+wil checken".
 
-**Dit is de route die altijd werkt en die je als eerste doet.** Schrijf in zijn map het
+**De map bestaat en is gekoppeld.** De deelnemer werkt de hele reeks in één map op
+zijn laptop, gekoppeld in Cowork: **`AIFiT Leiderschap`**. Zo niet, help hem hem te
+maken en te koppelen.
+
+Lukt een van beide niet, ga dan niet door naar stap 4. Zeg wat er mist, help het op te
+lossen, en zeg erbij dat hij het programma desnoods kan volgen met de volle zin uit
+"Als er iets misgaat" onderaan.
+
+## 3. Controleer of schrijven echt werkt
+
+Schrijf een klein testbestand in zijn map en lees het terug. Lukt dat, gooi het weg en
+ga door. Lukt het niet, dan is stap 2 niet goed gegaan; terug daarheen.
+
+Doe dit echt. Het is het verschil tussen een instelling die aanstaat en schrijven dat
+werkt, en dat verschil kom je anders pas tegen als hij er middenin zit.
+
+## 4. Zet de begeleiding in zijn map
+
+**Dit is de route die altijd werkt.** Schrijf in zijn map het
 bestand `AIFiT-BEGELEIDING.md` met precies de inhoud hieronder. Omdat zijn project aan
 deze map hangt, lees je dit bestand elke sessie mee en weet je vanaf nu wat er moet
 gebeuren. Er is geen installatie voor nodig.
@@ -54,7 +73,7 @@ Lukt ophalen niet, geef dan de gewone link zodat hij de tekst zelf kan plakken:
 https://github.com/hpamike/ai-stack-starter/blob/main/<pad>
 ```
 
-## 4. Bied de skill aan als extra, niet als voorwaarde
+## 5. Bied de skill aan als extra, niet als voorwaarde
 
 De repo bevat ook `skills/aifit-leiderschap/SKILL.md`. Als skill werkt dat prettiger,
 want dan komt de begeleiding ook mee in gesprekken buiten deze map.
@@ -62,14 +81,15 @@ want dan komt de begeleiding ook mee in gesprekken buiten deze map.
 **Ga dit niet uitzoeken of forceren.** De gedocumenteerde route is: de map
 `skills/aifit-leiderschap` downloaden, er een ZIP van maken, en die uploaden bij
 **Instellingen → Customize → Skills → Add**. Noem die route in twee zinnen en laat de
-deelnemer kiezen of hij hem nu doet of later. Stap 3 heeft het werk al gedaan.
+deelnemer kiezen of hij hem nu doet of later. Stap 4 heeft het werk al gedaan.
 
-## 5. Doe meteen de systeemcheck
+## 6. Doe meteen de systeemcheck
 
-Ga door naar `00-start/SYSTEEMCHECK.md` en loop die met hem af. Stop niet na het
-klaarzetten; hij verwacht dat het in één doorloop gaat.
+Ga door naar `00-start/SYSTEEMCHECK.md` en loop die met hem af. De twee dingen uit
+stap 2 kun je overslaan, die staan al. Stop niet na het klaarzetten; hij verwacht dat
+het in één doorloop gaat.
 
-## 6. Sluit af met wat er nu kan
+## 7. Sluit af met wat er nu kan
 
 ```
 Ik wil de opwarming doen voor de sessie van week 1.
