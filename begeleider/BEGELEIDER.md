@@ -87,6 +87,20 @@ scherpt aan en vervangt nooit.
 Loopt iemand echt vast, dan gaat de skill langs vier tredes en eindigt bij zijn
 tafelgenoten of bij jou. Reken erop dat dat gebeurt, vooral in week 1.
 
+## Een wijziging is pas na vijf minuten overal zichtbaar
+
+Gemeten 14-09-2026. De rauwe GitHub-adressen die de begeleiding ophaalt dragen
+`cache-control: max-age=300`, dus een wijziging in de repo duurt tot **vijf minuten**
+voordat hij bij iedereen binnenkomt. Via de commit-hash is hij meteen zichtbaar; via
+`main` niet, en een cachebuster in de URL helpt niet.
+
+Voor de avond ervoor iets bijwerken is dat geen probleem. Wat je **niet** moet doen is
+tijdens een sessie een weekbestand aanpassen: dan krijgt de ene deelnemer vijf minuten
+lang de oude versie en de andere de nieuwe, en dat is een verschil dat je in de zaal
+niet kunt verklaren.
+
+Regel: wijzig materiaal uiterlijk een half uur voor aanvang, en daarna niet meer.
+
 ## Wat nog open staat
 
 - De Drive-link naar het DEPT-rapport (week 3) en `aifit.nu/report` (week 4) zijn door
