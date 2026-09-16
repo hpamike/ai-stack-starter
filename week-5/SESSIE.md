@@ -35,6 +35,15 @@ Loop dit samen af:
 - **Het jaarverslag of de jaarcijfers** staan als **`jaarverslag.pdf`** in zijn map.
   Lukt dat niet, bied aan het in Cowork voor hem in de map te zetten.
 
+**Zeg dit er nadrukkelijk bij.** Deze week is qua verbruik de zwaarste van de vijf: een
+dashboard bouwen en daarna drie rondes verbeteren kost veel. Op een Pro-abonnement kan
+hij halverwege de middag tegen zijn gebruikslimiet aanlopen, en dan staat hij stil
+precies wanneer het interessant wordt.
+
+Advies: gebruik je limiet die dag niet op aan ander werk, en begin de sessie met een
+verse teller. Een API-sleutel is hiervoor **niet** de oplossing en ook niet nodig; het
+gaat om timing, niet om een ander soort toegang.
+
 ---
 
 # Workout: je intelligentielaag en dashboard

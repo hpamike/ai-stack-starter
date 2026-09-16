@@ -91,7 +91,8 @@ Alles wat je maakt komt in één map op je laptop die je in Cowork koppelt. Noem
 
 ## Wat je zelf moet regelen
 
-Er wordt niets geïnstalleerd behalve Claude Desktop. Wat er per week bij komt, hoor je
+Er wordt niets geïnstalleerd behalve Claude Desktop, en je hebt **geen API-sleutel**
+nodig: alles loopt op je gewone abonnement. Wat er per week bij komt, hoor je
 in de opwarming van die week, ruim op tijd. Twee dingen wil je nu al weten:
 
 **Week 3 vraagt vier extra accounts** (Gemini, NotebookLM, Lovable en Gamma) en een
