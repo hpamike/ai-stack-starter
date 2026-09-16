@@ -15,12 +15,17 @@ kritisch prompten.
 
 Trigger: `Ik wil de opwarming doen voor de sessie van week 1.`
 
-Loop `00-start/SYSTEEMCHECK.md` af als dat nog niet is gebeurd. Is dat al gedaan,
-controleer dan kort of alles nog staat en vraag of er iets is veranderd.
+De opwarming van week 1 **is** de systeemcheck; er komt niets bovenop. Haal
+`00-start/SYSTEEMCHECK.md` op en loop die af.
 
-**Klaar wanneer:** Cowork werkt, code execution en file creation staan aan, het project
-`AIFiT Leiderschap` is gekoppeld aan de map, browser en computer use staan aan, en
-agenda en mail zijn gekoppeld.
+Is die al gedaan bij de installatie, doe dan niet alsof er nog iets moet. Vraag kort of
+er sindsdien iets is veranderd aan zijn laptop of account, herhaal de twee tests die je
+zelf kunt doen (een bestand schrijven, de agenda van vandaag opvragen), en zeg dan dat
+hij klaar is.
+
+**Klaar wanneer:** hij weet dat hij klaar is. Concreet: bestanden schrijven werkt, de
+map `AIFiT Leiderschap` is gekoppeld aan het project, en hij weet welke van de
+niet-blokkerende punten eventueel nog openstaan en wat dat hem later kost.
 
 ---
 
