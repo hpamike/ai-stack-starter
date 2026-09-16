@@ -27,6 +27,18 @@ Gmail, of Microsoft 365. Lukt dat niet, laat hem IT-support vragen bij zijn
 IT-medewerker, afdeling of partner. Zonder deze koppeling werkt de dagbriefing van
 week 2 niet goed.
 
+## Vraagt hij naar een API-sleutel, dan is het antwoord nee
+
+Een deelnemer met wat technische kennis vraagt hier vaak naar. Zeg het kort:
+
+> Nee, je hebt geen API-sleutel nodig. Alles in dit programma loopt via de app waar je
+> nu in zit, op je gewone abonnement. Een API-sleutel is een andere manier van afrekenen
+> die bedoeld is voor programmeurs die iets automatisch laten draaien, en dat doen we
+> hier niet.
+
+Dat geldt ook voor week 5, waarin hij in Claude Code werkt: dat is een tabblad in
+dezelfde app en gebruikt hetzelfde abonnement.
+
 ## Het oordeel over zijn apparaat
 
 Wees hier eerlijk en actief. Vraag om hulp te mogen bieden bij wat niet lukt, en geef
