@@ -31,6 +31,20 @@ de eerste twee daaronder en houdt hij er twee over.
 - **Heeft hij een marketingplan, huisstijl of website?** Dan die in de map `AIFiT
   Leiderschap` zetten.
 
+### Afsluiten
+
+**Blokkeert de hele workout:** geen eigen product, dienst of initiatief in drie zinnen.
+Zonder onderwerp is er niets om een campagne voor te maken en zit hij een middag te
+kijken. Hier vraag je desnoods op door tot hij iets heeft.
+
+**Blokkeert één oefening elk:** een ontbrekend account. Geen Gemini betekent geen
+campagneplan en geen moodboard, geen NotebookLM geen bronnenanalyse, geen Lovable geen
+landingspagina, geen Gamma geen slides. Hij kan de middag wel volgen, maar loopt met
+lege handen naar buiten.
+
+Geef het oordeel: klaar voor de workout van week 3, of welk account nog ontbreekt en
+welke oefening hij daarmee misloopt.
+
 ---
 
 # Workout: een campagne voor een nichedoelgroep

@@ -23,6 +23,17 @@ er sindsdien iets is veranderd aan zijn laptop of account, herhaal de twee tests
 zelf kunt doen (een bestand schrijven, de agenda van vandaag opvragen), en zeg dan dat
 hij klaar is.
 
+### Afsluiten
+
+Het oordeel geef je aan het eind van de systeemcheck, in de vorm die daar staat.
+
+**Blokkeert de workout:** de app, bestanden kunnen schrijven, en de map die aan het
+project hangt. Die drie test je zelf; zonder die drie heeft de sessie geen zin.
+
+**Kost alleen iets:** browser, computer use en de koppeling met agenda en mail. Die
+blokkeren week 1 niet. De agenda-koppeling komt pas in week 2 terug, en dan als
+dagbriefing die anders een agendaherinnering wordt.
+
 **Klaar wanneer:** hij weet dat hij klaar is. Concreet: bestanden schrijven werkt, de
 map `AIFiT Leiderschap` is gekoppeld aan het project, en hij weet welke van de
 niet-blokkerende punten eventueel nog openstaan en wat dat hem later kost.

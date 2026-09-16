@@ -31,6 +31,20 @@ Loop dit samen af:
 - **Hij weet welke rollen in het team zitten** en wat de opdracht van het team komend
   jaar is. Vraag daar nu naar; je hebt het in de workout nodig.
 
+### Afsluiten
+
+**Blokkeert de hele workout:** geen `aifit-report.pdf` in zijn map. Alle drie de
+oefeningen lezen dat rapport; zonder rapport is er niets te analyseren. Hebben er nog
+geen vijf teamleden de check gedaan, dan is dat nú het gesprek en niet op de dag zelf —
+mensen hebben een paar dagen nodig.
+
+**Kost alleen iets:** de rollen en de opdracht van het team die hij nog niet scherp
+heeft. Dat vraag je in de sessie alsnog, maar het kost tijd die voor de analyse bedoeld
+was.
+
+Geef het oordeel: klaar voor de workout van week 4, of hoeveel teamleden er nog moeten
+en tegen wanneer.
+
 ---
 
 # Workout: je team en AI

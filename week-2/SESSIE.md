@@ -26,6 +26,18 @@ Loop dit samen af:
 - **Hij weet in welke sector zijn organisatie werkt** en kan die in één zin
   omschrijven. Laat hem die zin nu formuleren; je hebt hem straks nodig.
 
+### Afsluiten
+
+**Blokkeert de workout:** geen Perplexity-account (oefening 1 gaat dan niet door), en
+zijn Canvas van week 1 dat niet in de map staat (dan mist zijn assistent straks de
+context waar hij op gebouwd is).
+
+**Kost alleen iets:** een sector die hij nog niet scherp in één zin krijgt. Dat lost
+zich in de sessie op, maar het kost tijd die voor de assistent bedoeld was.
+
+Geef het oordeel: klaar voor de workout van week 2, of wat er nog moet en wat het kost.
+
+
 ---
 
 # Workout: research en je eigen assistent

@@ -44,6 +44,22 @@ Advies: gebruik je limiet die dag niet op aan ander werk, en begin de sessie met
 verse teller. Een API-sleutel is hiervoor **niet** de oplossing en ook niet nodig; het
 gaat om timing, niet om een ander soort toegang.
 
+### Afsluiten
+
+**Blokkeert de hele workout:** Claude Code dat niet werkt of niet in zijn map geopend
+kan worden. Deze week draait daarin en niet in Cowork; lukt het niet, dan moet dat vóór
+de sessie zijn opgelost.
+
+**Blokkeert een oefening elk:** geen bijgewerkte `GEMISTE-VRAGEN.md` — oefening 1 opent
+daarmee en zonder lijst valt er niets te sorteren. En geen `jaarverslag.pdf`: oefening
+2b en het dashboard hebben zijn eigen cijfers nodig, anders bouwt hij een dashboard over
+iemand anders.
+
+**Risico zonder blokkade:** zijn gebruikslimiet, zie hierboven.
+
+Geef het oordeel: klaar voor de workout van week 5, of wat er nog moet gebeuren en
+tegen wanneer.
+
 ---
 
 # Workout: je intelligentielaag en dashboard
