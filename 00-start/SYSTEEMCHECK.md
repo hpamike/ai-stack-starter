@@ -178,6 +178,32 @@ er eerlijk bij als je ze gebruikt, en breng slecht nieuws zonder omhaal:
 
 ---
 
+## Werkt hij op Windows
+
+Het hele programma werkt op Windows; Cowork heeft daar dezelfde toegang tot een
+gekoppelde map als op een Mac. Vier dingen zijn anders, en alleen de eerste is
+kritiek.
+
+**Het installatiebestand.** Cowork vraagt het `.msix`-pakket. Met een ouder
+`.exe`-bestand krijgt hij Claude Desktop zonder Cowork. Kan hij Cowork nergens vinden,
+dan is dit vrijwel altijd de oorzaak; opnieuw installeren met het `.msix` is de enige
+route.
+
+**De readiness-check heeft twee versies**, x64 en Arm. Weet hij niet welke processor hij
+heeft, geef dan x64; werkt die niet, dan de Arm-versie.
+
+**De specificaties staan ergens anders:** Instellingen → Systeem → Info, en voor vrije
+ruimte Instellingen → Systeem → Opslag.
+
+**Een netwerkschijf moet een stationsletter hebben** om als map te koppelen. Een pad in
+de vorm `\\server\share` werkt niet; laat hem de schijf eerst koppelen aan een letter.
+Beter nog: laat hem een gewone lokale map gebruiken, want daar is het programma op
+gebouwd.
+
+**Wat ik niet heb kunnen controleren:** of computer use op Windows precies hetzelfde
+werkt als op een Mac. Lukt het aflezen van de specificaties niet, vraag ze dan gewoon
+en zeg erbij dat je het niet zelf hebt kunnen zien. Ga niet lang proberen.
+
 ## Vraagt hij naar een API-sleutel, dan is het antwoord nee
 
 > Nee, je hebt geen API-sleutel nodig. Alles in dit programma loopt via de app waar je

@@ -13,6 +13,16 @@ maak er geen technisch verhaal van.
 Dit hoort in **Claude Cowork** te gebeuren, niet in Chat of Code. Zit je in Chat, zeg
 dat dan en vraag hem over te stappen; zonder bestandstoegang kun je de rest niet doen.
 
+**Kan hij Cowork niet vinden en werkt hij op Windows, ga dan niet zoeken maar vraag
+hoe hij de app heeft geïnstalleerd.** Cowork vraagt het `.msix`-pakket; wie met een
+ouder `.exe`-bestand heeft geïnstalleerd krijgt Claude Desktop **zonder** Cowork, en
+dan is er geen tabblad om naartoe te gaan. De enige route is opnieuw installeren met
+het `.msix` van `https://claude.com/download`.
+
+Zeg dat meteen en laat hem niet eerst tien minuten in menu's zoeken. Dit is de
+veruitgaand meest voorkomende reden dat een Windows-deelnemer vastloopt, en het is op
+de dag van de sessie niet meer te herstellen.
+
 ## 2. Zet twee dingen aan voordat je iets schrijft
 
 Deze twee moeten kloppen vóór stap 4, anders loopt hij daar vast op een foutmelding
