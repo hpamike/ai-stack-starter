@@ -41,8 +41,12 @@ zin in Cowork — **niet in Chat of Code**:
 Ik ga deelnemen aan de AIFIT Leiderschap sessies. Kun je deze repo installeren: github.com/hpamike/ai-stack-starter
 ```
 
-Claude haalt alles op, zet de begeleiding klaar en doet meteen de systeemcheck. Typ
-daarna:
+Claude haalt alles op, zet de begeleiding klaar en loopt daarna **in één doorloop** de
+opwarming van week 1 met je af: browser, computer use, en je agenda en mail koppelen.
+Daarna kijkt hij of je laptop het hele programma aankan. Reken op een half uur voor het
+geheel.
+
+Onderbreek je het en wil je later verder, typ dan:
 
 ```
 Ik wil de opwarming doen voor de sessie van week 1.
