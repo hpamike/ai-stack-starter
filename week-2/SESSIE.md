@@ -105,21 +105,29 @@ tot 10. Sluit af met een korte samenvatting van de belangrijkste gezamenlijke in
 en leg uit waarom die relevant zijn voor [sector]. Maximaal een halve A4.
 ```
 
-Laat hem het antwoord **beoordelen**, niet aannemen. Minstens drie bronnen openen:
-bestaan ze, en zeggen ze wat Perplexity zegt? Waar de score onder de 7 ligt, verder
-zoeken. Vraag ook: welke bron is het zwakst, en waarom?
+Hij plakt de tabel en de samenvatting terug bij jou. **Dan doe jij het napluiswerk en
+velt hij het oordeel.**
 
-Daarna kopieert hij de tabel en samenvatting terug naar jou, en sla je het op als
-**`bronnen-week2.md`** in de map `AIFiT Leiderschap`.
+Jouw deel: open de bronnen en kijk of ze bestaan en of ze zeggen wat Perplexity
+beweert. Geef per bron één regel: klopt, klopt niet, of niet te openen. Staat een score
+onder de 7, zoek dan zelf door en bied een vervanger aan.
 
-**Klaar wanneer:** negen bronnen met score en een samenvatting staan in zijn map.
+Zijn deel, en dat neem je niet van hem over: welke bron is het zwakst en waarom, en
+welke van de negen zou hij aan zijn eigen bestuur durven laten zien. Dat oordeel is het
+leerdoel van deze oefening. Het openklikken is werk dat jij sneller doet.
+
+Sla het resultaat op als **`bronnen-week2.md`** in de map `AIFiT Leiderschap`, met jouw
+controle per bron erbij.
+
+**Klaar wanneer:** negen gecontroleerde bronnen met score en een samenvatting staan in
+zijn map, en hij heeft gezegd welke het zwakst is.
 
 ## Oefening 2 — je assistent opzetten (30 min)
 
 Terug in Cowork, in het project `AIFiT Leiderschap`. Zijn trigger is:
 `Help mij mijn assistent in te stellen.`
 
-Neem hem mee door vijf stappen:
+Neem hem mee door zes stappen:
 
 1. **Naam.** Laat hem een naam kiezen: een afkorting zoals JARVIS, ROBIN of MIRA. Laat
    hem bedenken waar de letters voor staan. Dat is geen spelletje: het verandert wat
@@ -135,14 +143,50 @@ Neem hem mee door vijf stappen:
 
    Waarom uit een sjabloon en niet uit je hoofd: in week 5 leest hij deze bestanden
    terug en bouwt hij er verder op. Dan moeten ze een vaste vorm hebben.
-4. **Eerste opdracht.** Laat zijn assistent `bronnen-week2.md` analyseren: wat betekent
-   dit voor zijn organisatie? **Hij kiest** welke drie inzichten in `MEMORY.md` komen.
-5. **Routine.** Gebruik de koppeling met agenda en mail uit week 1. Laat hem vragen:
+4. **Zijn assistent als skill.** `SOUL.md` en `USER.md` veranderen bijna nooit, en
+   daarom horen ze niet alleen in zijn map. Maak er een skill van, dan werkt zijn
+   assistent ook in gesprekken die niet aan die map hangen.
+
+   Jij doet het werk: zet in zijn map een mapje klaar met een `SKILL.md` en daarnaast
+   `SOUL.md` en `USER.md`, en maak er een ZIP van. **Uploaden moet hij zelf**, via
+   Instellingen → Customize → Skills → Add, net als in week 1. De frontmatter:
+
+   ```
+   ---
+   name: [naam-van-de-assistent-in-kleine-letters]
+   description: >-
+     De persoonlijke assistent van [naam deelnemer]. Gebruik deze skill in elk gesprek
+     met hem: SOUL.md zegt hoe zij praat en wat een goed antwoord is, USER.md wie hij
+     is, welke mensen en overleggen terugkomen, en wat zij nooit zonder te vragen mag
+     doen. NIET gebruiken voor gesprekken met iemand anders.
+   ---
+   ```
+
+   **`MEMORY.md` gaat hier bewust niet in, en zeg dat er hardop bij.** Dat bestand
+   verandert elke week en wordt door zijn assistent zelf bijgewerkt; in een skill zou
+   hij bij elke wijziging opnieuw moeten uploaden. Het blijft dus een bestand in zijn
+   map, en week 5 leest het daar terug.
+
+   **Test het:** laat hem een nieuw gesprek beginnen, buiten de map, en vragen wie hij
+   is. Komt daar zijn eigen rol en organisatie uit, dan zit de skill erin.
+5. **Eerste opdracht: jij spit, hij kiest.** Analyseer `bronnen-week2.md`: wat betekent
+   dit voor zijn organisatie? Kom met **vijf kandidaat-inzichten**, elk één zin, met de
+   bron erbij waar hij vandaan komt. Hij streept er twee weg en zet de overige drie in
+   zijn eigen woorden. Die drie schrijf jij in `MEMORY.md`.
+
+   Zeg erbij waarom het zo verdeeld is: dit is de verdeling die hij thuis ook wil.
+   Zijn assistent doet het zoekwerk en het opschrijven, hij beslist wat waar is.
+6. **Routine.** Gebruik de koppeling met agenda en mail uit week 1. Laat hem vragen:
    *"Laat zien wat er vandaag in mijn agenda staat en welke mails van gisteren een
    reactie nodig hebben."* Stel daarna een geplande taak in met de prompt hieronder:
    elke werkdag een dagbriefing. **Laat hem die één keer met de hand draaien.** Kan zijn
    abonnement geen geplande taken aan, zet dan een agendaherinnering en laat hem de
    briefing zelf vragen.
+
+   **Let op waar die taak draait.** De skill uit stap 4 reist mee, maar `MEMORY.md` niet:
+   dat staat in zijn map. Hangt de geplande taak niet aan het project `AIFiT Leiderschap`,
+   dan komt er een briefing zonder wat er speelt. Merk je dat bij de proefrun, zeg het dan
+   en zet de taak in het project.
 
 ```
 PROMPT DAGBRIEFING (geplande taak)
@@ -162,8 +206,9 @@ vandaag met wat ik moet voorbereiden, 2. mails die vandaag een antwoord nodig he
 gewoon hier, dan werk ik MEMORY.md bij.
 ```
 
-**Klaar wanneer:** zijn assistent heeft een naam, drie gevulde bestanden, en de
-dagbriefing heeft één keer gedraaid.
+**Klaar wanneer:** zijn assistent heeft een naam, drie gevulde bestanden, een
+geïnstalleerde skill die buiten zijn map werkt, drie inzichten in `MEMORY.md` die hij
+zelf koos, en de dagbriefing heeft één keer gedraaid.
 
 ## Vanaf nu: het huiswerk
 
