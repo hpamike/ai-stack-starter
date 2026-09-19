@@ -96,7 +96,11 @@ Alles wat je maakt komt in één map op je laptop die je in Cowork koppelt. Noem
 ## Wat je zelf moet regelen
 
 Er wordt niets geïnstalleerd behalve Claude Desktop, en je hebt **geen API-sleutel**
-nodig: alles loopt op je gewone abonnement. Wat er per week bij komt, hoor je
+nodig: alles loopt op je gewone abonnement.
+
+Ook niet nodig, ook niet in week 5: programmeerkennis, git, Node.js, een
+GitHub-account, een terminal of een database. De extra gereedschappen van week 3 zijn
+accounts in de browser, geen installaties. Wat er per week bij komt, hoor je
 in de opwarming van die week, ruim op tijd. Twee dingen wil je nu al weten:
 
 **Week 3 vraagt vier extra accounts** (Gemini, NotebookLM, Lovable en Gamma) en een

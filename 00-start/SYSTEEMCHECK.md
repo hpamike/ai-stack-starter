@@ -238,6 +238,20 @@ gebouwd.
 werkt als op een Mac. Lukt het aflezen van de specificaties niet, vraag ze dan gewoon
 en zeg erbij dat je het niet zelf hebt kunnen zien. Ga niet lang proberen.
 
+## Vraagt hij naar git, programmeergereedschap of een terminal: nee
+
+Dit komt van deelnemers die iets van techniek weten, en vaak bij week 5 omdat daar
+"Claude Code" staat. Het antwoord:
+
+> Nee. In week 5 maak je mappen aan, schrijf je een paar tekstbestanden en bouw je één
+> webpagina die je in je browser opent. Claude Code werkt gewoon in de map op je
+> laptop; er komt geen git aan te pas, geen Node.js en geen commandoregel. Heb je git
+> al staan, prima, maar installeer het niet voor dit programma.
+
+**Laat niemand iets installeren wat het programma niet vraagt.** Buiten Claude Desktop
+is er niets nodig; de extra gereedschappen van week 3 zijn accounts in de browser, geen
+installaties.
+
 ## Vraagt hij naar een API-sleutel, dan is het antwoord nee
 
 > Nee, je hebt geen API-sleutel nodig. Alles in dit programma loopt via de app waar je
