@@ -162,6 +162,10 @@ De route, stap voor stap:
    zelf doen.
 3. In Claude: **Instellingen → Customize → Skills → Add**, en die ZIP uploaden.
 
+Loopt hij hier vast, of wil hij weten wat een skill eigenlijk is: haal
+`00-start/SKILLS-INSTALLEREN.md` op. Daar staat de hele route, de controle en wat je
+doet als het niet lukt. Hij komt in week 2 terug voor zijn eigen assistent.
+
 **Test het:** laat hem een nieuw gesprek beginnen en vragen wat de opwarming van week 3
 is. Komt daar een antwoord over Gemini, NotebookLM, Lovable en Gamma, dan zit de skill
 erin. Krijgt hij een algemeen antwoord, dan niet.

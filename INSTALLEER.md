@@ -70,6 +70,7 @@ Basis-URL: https://raw.githubusercontent.com/hpamike/ai-stack-starter/main/
 |---|---|
 | doe de systeemcheck, ben ik klaar | 00-start/SYSTEEMCHECK.md |
 | iets over het Canvas los van een week | 00-start/CANVAS.md |
+| een skill installeren, of nakijken of hij werkt | 00-start/SKILLS-INSTALLEREN.md |
 | opwarming / workout / afronden van week N | week-N/SESSIE.md |
 
 Elk weekbestand heeft drie delen: Opwarming, Workout en Cooling-down. Doe alleen het

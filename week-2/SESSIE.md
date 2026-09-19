@@ -149,7 +149,9 @@ Neem hem mee door zes stappen:
 
    Jij doet het werk: zet in zijn map een mapje klaar met een `SKILL.md` en daarnaast
    `SOUL.md` en `USER.md`, en maak er een ZIP van. **Uploaden moet hij zelf**, via
-   Instellingen → Customize → Skills → Add, net als in week 1. De frontmatter:
+   Instellingen → Customize → Skills → Add, net als in week 1. Loopt het niet meteen
+   goed, haal dan `00-start/SKILLS-INSTALLEREN.md` op: daar staat de controle en de
+   lijst met oorzaken. De frontmatter:
 
    ```
    ---

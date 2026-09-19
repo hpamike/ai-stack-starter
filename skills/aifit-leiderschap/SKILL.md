@@ -6,10 +6,10 @@ description: >-
   volgt dat stap voor stap. Gebruik deze skill bij "Ik ga deelnemen aan de AIFIT
   Leiderschap sessies", "Kun je deze repo installeren", "doe de systeemcheck", "Ik
   wil de opwarming doen voor de sessie van week 1" (of 2, 3, 4, 5), "Ik begin met de
-  workout van week N", "Help mij mijn assistent in te stellen", "Ik wil week N
-  afronden", of elke vraag over het Canvas, de opwarming, de workout of de
-  cooling-down van dit programma. De skill duwt en vult niet in: deelnemers leren
-  zelf prompten en vullen hun eigen Canvas. NIET gebruiken voor algemene IT-support
+  workout van week N", "Help mij mijn assistent in te stellen", "Help me mijn skill
+  installeren", "Werkt mijn skill wel", "Ik wil week N afronden", of elke vraag over
+  het Canvas, de opwarming, de workout of de cooling-down van dit programma. De skill
+  duwt en vult niet in: deelnemers leren zelf prompten en vullen hun eigen Canvas. NIET gebruiken voor algemene IT-support
   buiten dit programma.
 ---
 
@@ -38,6 +38,7 @@ Basis-URL: `https://raw.githubusercontent.com/hpamike/ai-stack-starter/main/`
 | "Kun je deze repo installeren" | `INSTALLEER.md` |
 | "doe de systeemcheck", "ben ik klaar" | `00-start/SYSTEEMCHECK.md` |
 | iets over het Canvas los van een week | `00-start/CANVAS.md` |
+| een skill installeren, of nakijken of hij werkt | `00-start/SKILLS-INSTALLEREN.md` |
 | "opwarming / workout / afronden week N" | `week-N/SESSIE.md` |
 
 Elk weekbestand heeft drie delen: **Opwarming**, **Workout** en **Cooling-down**. Doe
