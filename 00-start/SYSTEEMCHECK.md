@@ -181,7 +181,7 @@ Nu pas kijk je of het geheel klopt, en of zijn laptop het programma aankan.
 
 ## Eerst: is de keten heel
 
-Loop deze zes langs en zeg per stuk of je het **getest** hebt of van hem **gehoord**:
+Loop de tabel langs en zeg per regel of je het **getest** hebt of van hem **gehoord**:
 
 | | Hoe je het weet |
 |---|---|
