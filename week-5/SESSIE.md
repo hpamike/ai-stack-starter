@@ -26,8 +26,15 @@ Loop dit samen af:
 - **De geplande taken uit week 2 (dagbriefing) en week 4 draaien nog.** Controleer dat
   in Cowork onder geplande taken.
 - **Claude Code werkt en is geopend in zijn map** `AIFiT Leiderschap`. Bied actief hulp
-  als het niet lukt; blijft het haken, laat hem een schermafbeelding naar Mike sturen
-  vóór de sessie.
+  als het niet lukt; blijft het haken, laat hem een schermafbeelding naar de begeleider
+  sturen vóór de sessie.
+
+  **Verschijnt er op een Mac een venster over "command line developer tools"?** Dat is
+  macOS die git wil installeren, ongeveer een gigabyte. Laat hem eerst **annuleren** en
+  gewoon doorgaan: deze week heeft git niet nodig en zijn map is geen
+  git-repository. Loopt er daarna iets vast dat er echt naar wijst, dan kan hij het
+  alsnog installeren — maar niet midden in de sessie, want het duurt lang. Meld het in
+  dat geval aan de begeleider; dan weten we of dit vaker gebeurt.
 - **Zijn assistent uit week 2 werkt:** `SOUL.md`, `USER.md` en `MEMORY.md` staan in de
   map.
 - **`GEMISTE-VRAGEN.md` is bijgewerkt** met alles wat zijn assistent sinds week 2 niet

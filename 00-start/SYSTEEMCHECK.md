@@ -252,6 +252,12 @@ Dit komt van deelnemers die iets van techniek weten, en vaak bij week 5 omdat da
 is er niets nodig; de extra gereedschappen van week 3 zijn accounts in de browser, geen
 installaties.
 
+**Eén uitzondering om te herkennen, niet om te voorkomen.** Claude Code maakt
+schaduwkopieën van mappen die al een git-repository zijn, om terug te kunnen draaien.
+De map van dit programma is dat niet, dus normaal gebeurt er niets. Krijgt hij op een
+Mac tóch een venster over *command line developer tools*, dan is dat macOS die git wil
+installeren — ongeveer een gigabyte. Zie week 5 voor wat hij dan doet.
+
 ## Vraagt hij naar een API-sleutel, dan is het antwoord nee
 
 > Nee, je hebt geen API-sleutel nodig. Alles in dit programma loopt via de app waar je
