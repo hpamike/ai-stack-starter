@@ -134,7 +134,15 @@ Neem hem mee door zes stappen:
    hij daarna opschrijft.
 2. **Vijf vragen.** Stel maximaal vijf vragen: hoe zijn assistent met hem praat, wie hij
    is, wat er nu speelt, welke mensen en overleggen terugkomen, en wat zij nooit zonder
-   te vragen mag doen. Antwoorden in zijn eigen woorden.
+   te vragen mag doen.
+
+   Bij elke vraag geef je zelf een eerste antwoord, uit zijn Canvas van week 1 en uit wat
+   hij vandaag al zei, en vraag je daarna wat hij wil aanvullen of corrigeren. Dat gaat
+   sneller en het levert scherpere antwoorden op dan een open vraag. Wat er in de
+   bestanden landt is zijn versie.
+
+   De vraag over wat zij nooit zonder te vragen mag doen is de enige waar je géén
+   voorstel bij verzint. Die grens is van hem.
 3. **Bestanden.** Haal de drie sjablonen op uit
    `week-2/sjablonen/` in de repo (`SOUL.md`, `USER.md`, `MEMORY.md`), schrijf ze in
    zijn map en vul ze met zijn antwoorden. **De vorm komt uit het sjabloon, de inhoud

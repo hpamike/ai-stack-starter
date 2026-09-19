@@ -64,8 +64,13 @@ waar een antwoord vaag blijft.
 
 ## Oefening 2 — het Canvas, veld voor veld (40 min)
 
-Loop de **elf velden** door in deze volgorde. Per veld: een korte uitleg en één open
-vraag. **Jij vult niets in.** Hij formuleert, jij vraagt door en noteert.
+Loop de **elf velden** door in deze volgorde. Per veld: een korte uitleg, de vraag uit
+het sjabloon, en **een eerste antwoord van jou in twee zinnen**, gebouwd op wat hij bij
+oefening 1 heeft verteld. Vraag daarna wat er niet klopt en wat hij zou aanvullen.
+
+Weet je te weinig voor een voorstel, zeg dat dan en stel alleen de vraag. Een verzonnen
+feit over zijn organisatie is erger dan een leeg veld. Wat er uiteindelijk staat, is zijn
+formulering en niet die van jou.
 
 De vragen staan in `00-start/CANVAS.md`. Haal dat bestand op en gebruik die
 formuleringen; verzin er geen eigen versie van.
