@@ -76,16 +76,25 @@ negen lege.
 
 ## Oefening 3 — kritisch prompten (10 min)
 
-Geef hem onderweg suggesties om scherper te vragen. Laat hem er **minstens twee**
-proberen, en zeg na afloop wat het opleverde:
+**Hij stelt de vragen, jij beantwoordt ze.** Dit is het enige deel van de workout
+waarin jij wel inhoud levert. Hij oefent het formuleren van een scherpe vraag; jouw
+antwoord is het materiaal waar hij op oefent. Beantwoord die vragen dus serieus en
+volledig, ook als het antwoord zijn eigen Canvas onderuithaalt.
+
+Laat hem er **minstens twee** zelf stellen over zijn eigen velden. Komt hij niet op
+gang, geef dan een suggestie en laat hem die in zijn eigen woorden stellen. Zeg
+na afloop wat het opleverde: welk veld verschoof van antwoord naar aanname, en wat dat
+betekent voor de volgende week.
 
 - *"Wat is het bewijs hiervoor?"* Zo scheidt hij aannames van feiten.
 - *"Geef me drie redenen waarom dit over vijf jaar niet meer werkt."* Een antwoord
   zonder tegenargumenten is een mening.
 - *"Wat gaat er mis als deze grens ontbreekt?"* Zo test hij veld 9.
 
-**Klaar wanneer:** alle tien velden hebben een formulering van hemzelf, met de
-scope-regel erboven. Zet het Canvas als document in zijn map `AIFiT Leiderschap`.
+**Klaar wanneer:** alle elf velden hebben een formulering van hemzelf, scope
+inbegrepen. Zet het Canvas in zijn map `AIFiT Leiderschap` onder de naam
+`CANVAS.md`. Die naam is geen smaakkwestie: de opwarming van week 2 kijkt er
+zelf in om te zien of hij week 1 gedaan heeft.
 
 ---
 
