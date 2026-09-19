@@ -75,6 +75,39 @@ Deze stap is ook de sleutel voor de controle straks, dus doe hem vóór stap 3 e
 **Blokkeert:** niets meteen. Maar zonder computer use kan ik zijn specificaties niet
 zelf bekijken en moet ik hem vragen ze voor te lezen.
 
+### Meteen even kijken of git er staat
+
+Nu computer use aanstaat kun je dit in een minuut afhandelen, en dat is het waard:
+wordt git pas in week 5 gemist, dan zit hij midden in de sessie met een download van
+ongeveer een gigabyte.
+
+**Waarschijnlijk is het niet nodig.** Claude Code schaduwt alleen mappen die al een
+git-repository zijn, en zijn map is dat niet. Maar de controle kost niets en het
+alternatief is een verrassing op het verkeerde moment.
+
+**Zo kijk je:**
+
+- **Mac:** laat hem Terminal openen (Spotlight, dan "Terminal") en `git --version`
+  typen. Kijk met computer use mee wat er verschijnt.
+  - Een versienummer → klaar, niets te doen.
+  - Een venster over **command line developer tools** → dat is macOS die git wil
+    installeren. **Nu is het goede moment**: laat hem op installeren klikken en op de
+    achtergrond doorlopen terwijl jullie met stap 3 verdergaan. Wil hij het liever
+    niet, dan is dat ook goed; annuleren kan en hij komt er waarschijnlijk niet op
+    terug.
+- **Windows:** laat hem PowerShell openen en hetzelfde typen. Een versienummer betekent
+  klaar. Staat er dat de opdracht niet wordt herkend, dan is git er niet, en dan is
+  installeren **niet** de standaard: zeg dat het programma het niet vraagt en dat hij
+  het alleen hoeft te doen als er in week 5 iets om vraagt. Wil hij het toch nu,
+  `https://git-scm.com/download/win`.
+
+**Doe niet moeilijk als hij dit liever overslaat.** Hij hoeft geen terminal te openen
+als hij dat niet wil; noteer het dan als "niet gecontroleerd" en ga door. Het is een
+gemak, geen eis.
+
+**Verzin geen uitkomst.** Zie je het scherm niet goed, vraag hem dan wat er staat en
+zeg erbij dat je het niet zelf hebt gelezen.
+
 ---
 
 ## Stap 3 — Agenda koppelen
@@ -158,6 +191,7 @@ Loop deze zes langs en zeg per stuk of je het **getest** hebt of van hem **gehoo
 | Agenda | vraag zijn agenda van vandaag op |
 | Mail | vraag het onderwerp van zijn laatste mail |
 | Skill | laat hem in een nieuw gesprek naar de opwarming van week 3 vragen |
+| Git (optioneel) | `git --version` in Terminal of PowerShell, of "niet gecontroleerd" |
 
 ## Dan: de specificaties, en die bekijk je zelf
 
@@ -252,11 +286,11 @@ Dit komt van deelnemers die iets van techniek weten, en vaak bij week 5 omdat da
 is er niets nodig; de extra gereedschappen van week 3 zijn accounts in de browser, geen
 installaties.
 
-**Eén uitzondering om te herkennen, niet om te voorkomen.** Claude Code maakt
-schaduwkopieën van mappen die al een git-repository zijn, om terug te kunnen draaien.
-De map van dit programma is dat niet, dus normaal gebeurt er niets. Krijgt hij op een
-Mac tóch een venster over *command line developer tools*, dan is dat macOS die git wil
-installeren — ongeveer een gigabyte. Zie week 5 voor wat hij dan doet.
+**Eén uitzondering, en die vang je in stap 2 af.** Claude Code maakt schaduwkopieën van
+mappen die al een git-repository zijn, om terug te kunnen draaien. De map van dit
+programma is dat niet, dus normaal gebeurt er niets. Maar omdat een verrassing in week
+5 duur is, kijk je in stap 2 even of git er staat en help je hem het nu te regelen als
+dat makkelijk kan. Niet omdat het moet, maar omdat het dan gedaan is.
 
 ## Vraagt hij naar een API-sleutel, dan is het antwoord nee
 
