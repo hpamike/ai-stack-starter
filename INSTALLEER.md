@@ -20,23 +20,23 @@ dan is er geen tabblad om naartoe te gaan. De enige route is opnieuw installeren
 het `.msix` van `https://claude.com/download`.
 
 Zeg dat meteen en laat hem niet eerst tien minuten in menu's zoeken. Dit is de
-veruitgaand meest voorkomende reden dat een Windows-deelnemer vastloopt, en het is op
+verreweg meest voorkomende reden dat een Windows-deelnemer vastloopt, en het is op
 de dag van de sessie niet meer te herstellen.
 
 ## 2. Zet twee dingen aan voordat je iets schrijft
 
-Deze twee moeten kloppen vóór stap 4, anders loopt hij daar vast op een foutmelding
-die hij niet kan plaatsen.
+Deze twee moeten kloppen voordat je iets schrijft, anders loopt hij vast op een
+foutmelding die hij niet kan plaatsen.
 
 **Code execution en file creation aan.** Settings → Capabilities. Zonder dit kun je
-geen bestanden in zijn map maken. Loop het samen na; vraag niet of hij het "even zelf
-wil checken".
+geen bestanden in zijn map maken. **Dit scherm kun je niet uitlezen**, dus zeg hem
+precies waar hij moet klikken en neem zijn antwoord aan. Stap 3 is de echte controle.
 
 **De map bestaat en is gekoppeld.** De deelnemer werkt de hele reeks in één map op
 zijn laptop, gekoppeld in Cowork: **`AIFiT Leiderschap`**. Zo niet, help hem hem te
 maken en te koppelen.
 
-Lukt een van beide niet, ga dan niet door naar stap 4. Zeg wat er mist, help het op te
+Lukt een van beide niet, ga dan niet verder. Zeg wat er mist, help het op te
 lossen, en zeg erbij dat hij het programma desnoods kan volgen met de volle zin uit
 "Als er iets misgaat" onderaan.
 
@@ -50,10 +50,13 @@ werkt, en dat verschil kom je anders pas tegen als hij er middenin zit.
 
 ## 4. Zet de begeleiding in zijn map
 
-**Dit is de route die altijd werkt.** Schrijf in zijn map het
-bestand `AIFiT-BEGELEIDING.md` met precies de inhoud hieronder. Omdat zijn project aan
-deze map hangt, lees je dit bestand elke sessie mee en weet je vanaf nu wat er moet
-gebeuren. Er is geen installatie voor nodig.
+**Dit is de route die altijd werkt.** Schrijf in zijn map het bestand
+`AIFiT-BEGELEIDING.md` met precies de inhoud hieronder.
+
+Omdat het in zijn gekoppelde map staat, kun je het in elk volgend gesprek lezen zodra
+het ter sprake komt. **Reken er niet op dat het vanzelf in je context zit**: kom je in
+een nieuw gesprek en weet je niet wat er moet gebeuren, lees het dan eerst. Er is geen
+installatie voor nodig.
 
 ```markdown
 # AI FiT Leiderschap — begeleiding
@@ -99,7 +102,7 @@ laptop het hele programma aankan.
 
 **Stop niet na het installeren en sluit hier nog niet af.** Hij verwacht dat het in één
 doorloop gaat, en de opwarming bouwt rechtstreeks voort op wat je hier hebt gedaan. Zeg
-wel even dat er nog een minuut of twintig aan komt.
+wel even dat er nog ongeveer een half uur aan komt.
 
 Het oordeel en de zinnen die hij daarna gebruikt komen aan het eind van de opwarming,
 niet hier.

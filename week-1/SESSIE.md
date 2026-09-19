@@ -11,22 +11,23 @@ kritisch prompten.
 
 # Opwarming
 
-*Thuis, reken op een half uur. In Claude Cowork.*
+*Thuis. Reken op drie kwartier als de app nog geïnstalleerd moet worden, een half
+uur als dat al staat. In Claude Cowork.*
 
 Trigger: `Ik wil de opwarming doen voor de sessie van week 1.`
 
 De opwarming van week 1 **is** het klaarzetten van zijn laptop; er komt niets bovenop.
 Haal `00-start/SYSTEEMCHECK.md` op en loop die af.
 
-Vier stappen en dan de controle: browser (en eventueel de Chrome-extensie), computer
-use, agenda koppelen, mail koppelen. Daarna kijk je of de keten heel is en of zijn
-apparaat de vijf weken aankan — de specificaties lees je met computer use zelf af in
-plaats van ze te vragen.
+Vijf stappen en dan de controle: browser (en eventueel de Chrome-extensie), computer
+use, agenda koppelen, mail koppelen, en de begeleidingsskill installeren. Daarna kijk
+je of de keten heel is en of zijn apparaat de vijf weken aankan — de specificaties lees
+je met computer use zelf af in plaats van ze te vragen.
 
 Is die al gedaan bij de installatie, doe dan niet alsof er nog iets moet. Vraag kort of
-er sindsdien iets is veranderd aan zijn laptop of account, herhaal de twee tests die je
-zelf kunt doen (een bestand schrijven, de agenda van vandaag opvragen), en zeg dan dat
-hij klaar is.
+er sindsdien iets is veranderd aan zijn laptop of account, herhaal de tests die je zelf
+kunt doen (een bestand schrijven, zijn agenda van vandaag opvragen), en zeg dan dat hij
+klaar is.
 
 ### Afsluiten
 
@@ -35,9 +36,10 @@ Het oordeel geef je aan het eind van de systeemcheck, in de vorm die daar staat.
 **Blokkeert de workout:** de app, bestanden kunnen schrijven, en de map die aan het
 project hangt. Die drie test je zelf; zonder die drie heeft de sessie geen zin.
 
-**Kost alleen iets:** browser, computer use en de koppeling met agenda en mail. Die
-blokkeren week 1 niet. De agenda-koppeling komt pas in week 2 terug, en dan als
-dagbriefing die anders een agendaherinnering wordt.
+**Kost alleen iets:** browser, computer use, de koppeling met agenda en mail, en de
+begeleidingsskill. Die blokkeren week 1 niet. De agenda-koppeling komt pas in week 2
+terug, en dan als dagbriefing die anders een agendaherinnering wordt; zonder skill
+werkt de begeleiding alleen in gesprekken die aan zijn map hangen.
 
 **Klaar wanneer:** hij weet dat hij klaar is. Concreet: bestanden schrijven werkt, de
 map `AIFiT Leiderschap` is gekoppeld aan het project, en hij weet welke van de

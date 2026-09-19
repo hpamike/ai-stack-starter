@@ -6,7 +6,7 @@ Dit komt ná `INSTALLEER.md`. Daar zijn drie dingen al geregeld: de app, bestand
 kunnen schrijven, en de map `AIFiT Leiderschap` die aan zijn project hangt. Hier zet je
 de rest aan en controleer je het geheel.
 
-**Reken op twintig minuten** en zeg dat aan het begin. Vier stappen, dan de controle.
+**Reken op een half uur** en zeg dat aan het begin. Vijf stappen, dan de controle.
 
 ## Wat je wel en niet van jezelf kunt verwachten
 
@@ -23,10 +23,10 @@ elke stap staat welk van de twee het is.
 
 ## Begin zo
 
-> Je app staat en je map is gekoppeld. Nu zet ik met je vier dingen aan die je de
+> Je app staat en je map is gekoppeld. Nu zet ik met je vijf dingen aan die je de
 > komende weken nodig hebt, en daarna kijk ik of je laptop het hele programma aankan.
-> Twintig minuten ongeveer. Ik zeg per stap waar je moet klikken en test daarna zelf
-> wat ik kan testen.
+> Een half uur ongeveer. Ik zeg per stap waar je moet klikken en test daarna zelf wat
+> ik kan testen.
 
 ---
 
@@ -148,7 +148,7 @@ Nu pas kijk je of het geheel klopt, en of zijn laptop het programma aankan.
 
 ## Eerst: is de keten heel
 
-Loop deze vijf langs en zeg per stuk of je het **getest** hebt of van hem **gehoord**:
+Loop deze zes langs en zeg per stuk of je het **getest** hebt of van hem **gehoord**:
 
 | | Hoe je het weet |
 |---|---|
