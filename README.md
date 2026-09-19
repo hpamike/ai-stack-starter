@@ -121,4 +121,4 @@ Draaiboek en tijdsindeling staan in [`begeleider/`](begeleider/).
 
 ---
 
-Mike Rijkers en Ruben Nieuwenhuis
+AI FiT Leiderschap

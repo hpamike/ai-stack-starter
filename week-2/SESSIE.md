@@ -30,6 +30,15 @@ Loop dit samen af:
 - **Hij weet in welke sector zijn organisatie werkt** en kan die in één zin
   omschrijven. Laat hem die zin nu formuleren; je hebt hem straks nodig, ook in de
   proefvraag hieronder.
+- **De bestanden van zijn assistent staan klaar in zijn map.** Dit is jouw werk en het
+  kost hem niets. Haal `SOUL.md`, `USER.md` en `MEMORY.md` op uit `week-2/sjablonen/`
+  en schrijf ze in `AIFiT Leiderschap`, **met de placeholders er nog in**. Zet daarnaast
+  een mapje `assistent/` klaar met een `SKILL.md` waarin naam en inhoud nog open staan.
+
+  **Vul niets in en verzin geen naam.** In de sessie beantwoordt hij vijf vragen en
+  kiest hij drie inzichten uit zijn research, en daarmee zijn de bestanden af. Het
+  klaarzetten hoort niet in de zaal thuis: dat kost sessietijd aan werk dat jij hier in
+  een minuut doet.
 - **Gratis account bij Perplexity** (`https://www.perplexity.ai`) aangemaakt, en één
   proefvraag gesteld zodat hij weet hoe het eruitziet. Heeft hij zelf geen vraag,
   geef hem deze met zijn eigen sector erin:
@@ -63,7 +72,9 @@ waar hij op gebouwd is). Dat tweede is geen kleinigheid die in de zaal op te los
 is: het betekent dat de workout van week 1 nog moet, of dat hij het Canvas van een
 collega meekrijgt.
 
-**Kost alleen iets:** een sector die hij nog niet scherp in één zin krijgt. Dat lost
+**Kost alleen iets:** bestanden die nog niet klaarstaan (dan gaat er sessietijd op aan
+klaarzetten in plaats van invullen), en een sector die hij nog niet scherp in één zin
+krijgt. Dat lost
 zich in de sessie op, maar het kost tijd die voor de assistent bedoeld was.
 
 Geef het oordeel: klaar voor de workout van week 2, of wat er nog moet en wat het kost.
@@ -129,7 +140,7 @@ Terug in Cowork, in het project `AIFiT Leiderschap`. Zijn trigger is:
 
 Neem hem mee door zes stappen:
 
-1. **Naam.** Laat hem een naam kiezen: een afkorting zoals JARVIS, ROBIN of MIRA. Laat
+1. **Naam.** Laat hem een naam kiezen: een afkorting zoals JARVIS of FRIDAY. Laat
    hem bedenken waar de letters voor staan. Dat is geen spelletje: het verandert wat
    hij daarna opschrijft.
 2. **Vijf vragen.** Stel maximaal vijf vragen: hoe zijn assistent met hem praat, wie hij
@@ -143,9 +154,9 @@ Neem hem mee door zes stappen:
 
    De vraag over wat zij nooit zonder te vragen mag doen is de enige waar je géén
    voorstel bij verzint. Die grens is van hem.
-3. **Bestanden.** Haal de drie sjablonen op uit
-   `week-2/sjablonen/` in de repo (`SOUL.md`, `USER.md`, `MEMORY.md`), schrijf ze in
-   zijn map en vul ze met zijn antwoorden. **De vorm komt uit het sjabloon, de inhoud
+3. **Bestanden.** De drie sjablonen staan al in zijn map uit de opwarming. Vul ze nu met
+   zijn antwoorden. Staan ze er niet, omdat hij de opwarming heeft overgeslagen, haal ze
+   dan alsnog op uit `week-2/sjablonen/` en zeg erbij dat dit thuis had gekund. **De vorm komt uit het sjabloon, de inhoud
    uit hem** — laat een kop leeg als er geen antwoord is en verzin er niets bij. Lees
    ze daarna aan hem voor en vraag wat er niet klopt.
 
@@ -155,8 +166,9 @@ Neem hem mee door zes stappen:
    daarom horen ze niet alleen in zijn map. Maak er een skill van, dan werkt zijn
    assistent ook in gesprekken die niet aan die map hangen.
 
-   Jij doet het werk: zet in zijn map een mapje klaar met een `SKILL.md` en daarnaast
-   `SOUL.md` en `USER.md`, en maak er een ZIP van. **Uploaden moet hij zelf**, via
+   Jij doet het werk: het mapje `assistent/` staat al klaar uit de opwarming. Zet de
+   naam erin, leg de ingevulde `SOUL.md` en `USER.md` ernaast en maak er een ZIP van.
+   **Uploaden moet hij zelf**, via
    Instellingen → Customize → Skills → Add, net als in week 1. Loopt het niet meteen
    goed, haal dan `00-start/SKILLS-INSTALLEREN.md` op: daar staat de controle en de
    lijst met oorzaken. De frontmatter:

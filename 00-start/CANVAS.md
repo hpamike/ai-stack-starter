@@ -1,6 +1,6 @@
 # Het Canvas
 
-Bron: het Canvas-schema van Mike, en *Shaping the Future — AI FiT Leiderschap*
+Bron: het Canvas-schema uit *Shaping the Future — AI FiT Leiderschap*
 (11-09-2026). Het Canvas is geen oefening van één week: het is de ruggengraat van het
 hele programma. Elke week vult een deel ervan.
 

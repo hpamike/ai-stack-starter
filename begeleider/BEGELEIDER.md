@@ -106,9 +106,9 @@ Regel: wijzig materiaal uiterlijk een half uur voor aanvang, en daarna niet meer
 
 ## Wat nog open staat
 
-- De Drive-link naar het DEPT-rapport (week 3) en `aifit.nu/report` (week 4) zijn door
-  Mike bevestigd op 14-09-2026. Controleer ze opnieuw als er tijd tussen zit.
-- **Het vervolg na week 5 staat in het werkblad, niet hier** (besluit Mike,
+- De Drive-link naar het DEPT-rapport (week 3) en `aifit.nu/report` (week 4) zijn op
+  14-09-2026 bevestigd. Controleer ze opnieuw als er tijd tussen zit.
+- **Het vervolg na week 5 staat in het werkblad, niet hier** (besluit
   14-09-2026). De cooling-down van week 5 eindigt met de rem uit het werkboek en dat
   is waar de begeleiding in deze repo ophoudt. Voeg hier dus geen "en nu verder" aan
   toe; dat hoort in het werkblad thuis.
