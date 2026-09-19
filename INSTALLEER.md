@@ -83,15 +83,13 @@ Lukt ophalen niet, geef dan de gewone link zodat hij de tekst zelf kan plakken:
 https://github.com/hpamike/ai-stack-starter/blob/main/<pad>
 ```
 
-## 5. Bied de skill aan als extra, niet als voorwaarde
+## 5. Noem de skill, maar installeer hem hier nog niet
 
-De repo bevat ook `skills/aifit-leiderschap/SKILL.md`. Als skill werkt dat prettiger,
-want dan komt de begeleiding ook mee in gesprekken buiten deze map.
+De repo bevat ook `skills/aifit-leiderschap/SKILL.md`. Als skill werkt de begeleiding
+ook in gesprekken buiten deze map, en dat is prettiger.
 
-**Ga dit niet uitzoeken of forceren.** De gedocumenteerde route is: de map
-`skills/aifit-leiderschap` downloaden, er een ZIP van maken, en die uploaden bij
-**Instellingen → Customize → Skills → Add**. Noem die route in twee zinnen en laat de
-deelnemer kiezen of hij hem nu doet of later. Stap 4 heeft het werk al gedaan.
+Zeg in één zin dat je dat straks in de opwarming samen doet, en ga door. Stap 4 heeft
+het werk al gedaan, dus er is geen haast en hij hoeft nu niets.
 
 ## 6. Ga meteen door naar de opwarming
 

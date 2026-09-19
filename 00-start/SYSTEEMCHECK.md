@@ -109,6 +109,39 @@ IT-medewerker, afdeling of partner. **Stop de opwarming hier niet voor.**
 
 ---
 
+## Stap 5 — De begeleidingsskill installeren
+
+*Hij uploadt, jij test.*
+
+Dit is de enige stap die jij niet voor hem kunt doen, en zeg dat er eerlijk bij. Een
+skill hangt aan zijn account, niet aan zijn laptop, dus hij moet hem zelf uploaden.
+
+**Waarom het de moeite waard is**, in één zin: zonder skill werkt de begeleiding alleen
+in gesprekken die aan zijn map hangen; mét skill ook daarbuiten. Week 2 gaat er
+bovendien van uit dat hij er is.
+
+De route, stap voor stap:
+
+1. Ga naar `https://github.com/hpamike/ai-stack-starter`
+2. Download de map `skills/aifit-leiderschap` en maak er een ZIP van. Lukt dat
+   downloaden niet makkelijk, bied dan aan het voor hem klaar te zetten: jij kunt de
+   bestanden in zijn map schrijven en er een ZIP van maken. Het **uploaden** moet hij
+   zelf doen.
+3. In Claude: **Instellingen → Customize → Skills → Add**, en die ZIP uploaden.
+
+**Test het:** laat hem een nieuw gesprek beginnen en vragen wat de opwarming van week 3
+is. Komt daar een antwoord over Gemini, NotebookLM, Lovable en Gamma, dan zit de skill
+erin. Krijgt hij een algemeen antwoord, dan niet.
+
+**Verzin geen menupad dat je niet kent.** Klopt een stap niet met wat hij ziet, zeg dat
+dan en zoek het samen op in de instellingen.
+
+**Blokkeert:** niets. Zonder skill werkt alles nog, zolang hij in gesprekken werkt die
+aan zijn map `AIFiT Leiderschap` hangen. Lukt het niet, ga dan door en zeg erbij dat hij
+in dat geval elk gesprek in die map moet beginnen.
+
+---
+
 # De controle
 
 Nu pas kijk je of het geheel klopt, en of zijn laptop het programma aankan.
@@ -124,6 +157,7 @@ Loop deze vijf langs en zeg per stuk of je het **getest** hebt of van hem **geho
 | Browser | open een pagina en vertel wat je ziet |
 | Agenda | vraag zijn agenda van vandaag op |
 | Mail | vraag het onderwerp van zijn laatste mail |
+| Skill | laat hem in een nieuw gesprek naar de opwarming van week 3 vragen |
 
 ## Dan: de specificaties, en die bekijk je zelf
 

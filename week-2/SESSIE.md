@@ -21,7 +21,10 @@ Loop dit samen af:
 
 - **Gratis account bij Perplexity** (`https://www.perplexity.ai`) aangemaakt, en één
   proefvraag gesteld zodat hij weet hoe het eruitziet.
-- **De ondersteunende skills staan klaar** in Claude Cowork.
+- **De begeleidingsskill staat klaar** in Claude Cowork. Die is in de opwarming van
+  week 1 geïnstalleerd; controleer het even door hem in een nieuw gesprek naar deze
+  opwarming te laten vragen. Ontbreekt hij, zet hem dan nu alsnog: zie stap 5 van
+  `00-start/SYSTEEMCHECK.md`.
 - **Zijn Canvas van week 1** staat in de map `AIFiT Leiderschap`.
 - **Hij weet in welke sector zijn organisatie werkt** en kan die in één zin
   omschrijven. Laat hem die zin nu formuleren; je hebt hem straks nodig.
