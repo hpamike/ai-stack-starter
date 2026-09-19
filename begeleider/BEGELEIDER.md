@@ -12,17 +12,20 @@ Ik ga deelnemen aan de AIFIT Leiderschap sessies. Kun je deze repo installeren: 
 ```
 
 Claude volgt dan `INSTALLEER.md`: hij controleert de map `AIFiT Leiderschap`, zet de
-begeleidingsskill klaar en doet meteen de systeemcheck. Daarna gaan ze per week met
-drie zinnen verder.
+begeleiding in die map, en loopt in dezelfde doorloop de opwarming van week 1 af. Reken
+op een half uur voor het geheel. Daarna gaan ze per week met drie zinnen verder.
 
 **De installatie hangt niet af van iets ongetests.** Claude schrijft als eerste een
-bestand `AIFiT-BEGELEIDING.md` in hun map; omdat hun project aan die map hangt, leest
-hij dat elke sessie mee en weet hij wat er moet gebeuren. Daar is geen skill-installatie
-voor nodig.
+bestand `AIFiT-BEGELEIDING.md` in hun map. Dat staat in hun gekoppelde map, dus hij kan
+het in elk volgend gesprek lezen zodra het ter sprake komt. **Of het vanzelf in zijn
+context zit is niet gegarandeerd**, en daarom staat in dat bestand ook de instructie om
+het te lezen wanneer hij het niet weet. Er is geen skill-installatie voor nodig.
 
-De skill uit `skills/` wordt daarna aangeboden als extra, via de gedocumenteerde route
-(ZIP uploaden bij Instellingen → Customize → Skills → Add). Prettiger, want dan werkt de
-begeleiding ook buiten die map, maar niet nodig.
+De skill uit `skills/` wordt in stap 5 van de opwarming geïnstalleerd, via de
+gedocumenteerde route (ZIP uploaden bij Instellingen → Customize → Skills → Add). Dat
+is de enige handeling die Claude niet voor hen kan doen, en het blokkeert niets: zonder
+skill werkt de begeleiding in gesprekken die aan hun map hangen, met skill ook
+daarbuiten. Week 2 gaat ervan uit dat hij er is.
 
 Waarom dit zo is opgezet: of Claude Cowork zelf een skill kan wegschrijven staat nergens
 in de documentatie, en de aanwijzingen wijzen de andere kant op — skills hangen aan het
