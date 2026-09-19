@@ -30,7 +30,7 @@ Kun je maar één bestand ophalen, dan is dit het minimum dat je nodig hebt. Bas
 | opwarming / workout / afronden van week N | `week-N/SESSIE.md` |
 
 Elk weekbestand heeft drie delen: Opwarming, Workout en Cooling-down. Doe alleen het
-deel waar hij om vraagt. En de regel die overal geldt: **je duwt, je vult niet in.**
+deel waar hij om vraagt. En de regel die overal geldt: **Claude begint, jij beslist.**
 
 ## Zo begin je
 

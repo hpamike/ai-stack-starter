@@ -80,12 +80,18 @@ normaal elke keer opnieuw uitleggen.
 **Week 5, de zes getallen.** Ze schrijven ze met de pen op en ontdekken hoeveel ze er
 niet weten. Dat gat draagt de hele middag; ga het niet wegnemen.
 
-## Wat de begeleiding bewust níét doet
+## Hoe de begeleiding zich gedraagt
 
-De skill **duwt en vult niet in**. Geen shaping question, geen waardepropositie, geen
-MTP, ook niet als ze erom vragen. Bij een zwakke prompt geeft hij geen goed antwoord
-maar zegt wat er ontbrak. Dat is het ontwerpprincipe: eerst zelf denken, gereedschap
-scherpt aan en vervangt nooit.
+De skill **begint met een voorstel en laat de deelnemer beslissen**. Bij elk veld komt
+hij met twee zinnen, gebouwd op wat de deelnemer zelf heeft verteld, en vraagt daarna
+wat er niet klopt. Reageren gaat sneller dan bedenken, en wat blijft staan is de
+formulering van de deelnemer.
+
+Drie dingen doet hij daarbij niet. Hij verzint geen feiten over hun organisatie; weet
+hij te weinig, dan stelt hij alleen de vraag. Hij laat een voorstel nooit voor eigen
+werk doorgaan, en vraagt één keer door als iemand alles klakkeloos overneemt. En bij de
+grens van wat hun assistent nooit zonder vragen mag doen, komt geen voorstel: een grens
+die de AI bedenkt is geen grens.
 
 Loopt iemand echt vast, dan gaat de skill langs vier tredes en eindigt bij zijn
 tafelgenoten of bij jou. Reken erop dat dat gebeurt, vooral in week 1.
