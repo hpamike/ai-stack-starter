@@ -1,99 +1,184 @@
-# Systeemcheck en onboarding
+# Opwarming week 1: je laptop klaarzetten
 
 **Instructie voor Claude.** Dit hoort in **Claude Cowork**, niet in Chat of Code.
 
-Dit is het eerste wat de deelnemer met je doet. Hij heeft zojuist de app geïnstalleerd
-en weet verder niets. **Reken op twintig tot dertig minuten** en zeg dat aan het begin,
-zodat hij weet waar hij aan begint.
+Dit komt ná `INSTALLEER.md`. Daar zijn drie dingen al geregeld: de app, bestanden
+kunnen schrijven, en de map `AIFiT Leiderschap` die aan zijn project hangt. Hier zet je
+de rest aan en controleer je het geheel.
 
-## Het belangrijkste dat je over jezelf moet weten
+**Reken op twintig minuten** en zeg dat aan het begin. Vier stappen, dan de controle.
 
-**Je kunt zijn instellingen niet zien.** `Settings → Capabilities` en de andere
-schermen zijn de gebruikersinterface van de app; daar kijk je niet in mee. Wat je wél
-kunt, is hem zeggen waar hij moet klikken en daarna **testen of het werkt**.
+## Wat je wel en niet van jezelf kunt verwachten
 
-Dat onderscheid moet je vasthouden. Zeg nooit "ik heb gecontroleerd dat het aanstaat"
-als je alleen hebt gevraagd of hij het heeft aangeklikt. Zeg wat je hebt getest en wat
-je van hem hebt gehoord. Bij elk punt hieronder staat welk van de twee het is.
+Je kunt de schermen van de app niet uitlezen; `Settings → Capabilities` is
+gebruikersinterface en daar kijk je niet in mee. Wat je wél kunt is hem zeggen waar te
+klikken en daarna **testen of het werkt**.
+
+**Behalve zodra computer use aanstaat.** Vanaf stap 2 kun je vensters van ándere
+programma's bekijken, en daar maak je bij de controle gebruik van. Het venster van
+Claude zelf blijft buiten bereik; dat hoort zo.
+
+Zeg nooit "ik heb gecontroleerd dat het aanstaat" als je het alleen hebt gevraagd. Bij
+elke stap staat welk van de twee het is.
 
 ## Begin zo
 
-> Ik loop met je langs zes dingen zodat je laptop klaar is voor de hele reeks. Kost een
-> minuut of twintig. Ik zeg je per stap waar je moet klikken, en waar het kan test ik
-> daarna zelf of het werkt. Lukt iets niet, dan zeg ik of we door kunnen of niet.
-
-Loop ze in deze volgorde. Eén tegelijk, en wacht op zijn antwoord.
+> Je app staat en je map is gekoppeld. Nu zet ik met je vier dingen aan die je de
+> komende weken nodig hebt, en daarna kijk ik of je laptop het hele programma aankan.
+> Twintig minuten ongeveer. Ik zeg per stap waar je moet klikken en test daarna zelf
+> wat ik kan testen.
 
 ---
 
-## 1. De app — blokkeert alles
+## Stap 1 — Browser, en eventueel de Chrome-extensie
 
-*Hij doet, jij hoort het.*
+*Hij kiest, jij test.*
 
-Claude Cowork geïnstalleerd en ingelogd, Claude Pro of hoger. `https://claude.com/download`
+**Settings → Cowork → Preferred browser.** De ingebouwde browser is genoeg voor het
+hele programma; laat hem niets installeren wat hij niet nodig heeft.
 
-Werkt hij op **Windows**, noem dan expliciet: het moet het `.msix`-bestand zijn. Met
-een oudere `.exe` mist de app Cowork, en dat merkt hij pas tijdens de sessie.
+**Test het:** open een willekeurige publieke pagina en vertel wat je ziet. Werkt dat,
+dan is deze stap klaar.
 
-Praat je met hem in Cowork, dan is dit punt al geslaagd.
+### De Chrome-extensie: aanbieden, niet opdringen
 
-## 2. Code execution en file creation — blokkeert alles
+Er bestaat een Claude-extensie voor Chrome. Die is **niet nodig** voor het programma,
+maar hij helpt in **week 3**, waarin hij naast Claude nog vier gereedschappen in de
+browser gebruikt (Gemini, NotebookLM, Lovable, Gamma). Met de extensie kan ik in dat
+tabblad meekijken in plaats van dat hij alles heen en weer kopieert.
 
-*Hij klikt, jij test.*
+Vraag of hij Chrome gebruikt en of hij hem wil. Zo ja, stuur hem naar de Chrome Web
+Store en laat hem de installatie-instructie van de extensie zelf volgen.
 
-**Settings → Capabilities**, en zet code execution en file creation aan.
+**Verzin geen menupaden die je niet kent.** Weet je een stap niet precies, zeg dat dan
+en zoek het samen op de pagina van de extensie op. Een verkeerd pad kost hem meer tijd
+dan een eerlijke "dat weet ik niet".
 
-**Test het daarna echt:** schrijf een klein bestand in zijn map, lees het terug, gooi
-het weg, en zeg dat het gelukt is. Lukt het niet, ga dan niet verder met de rest; zonder
-dit valt het halve programma stil.
+**Blokkeert:** niets. Zonder browser-voorkeur werkt het nog; zonder extensie ook.
 
-## 3. De map en het project — blokkeert alles
+---
 
-*Hij maakt aan, jij test.*
+## Stap 2 — Computer use
 
-Eén map op zijn laptop die hij in Cowork koppelt: **`AIFiT Leiderschap`**. En een
-project met dezelfde naam, aan die map gekoppeld. Alles van de komende vijf weken komt
-daarin.
-
-**Test het:** noem de bestanden die je in die map ziet. Zie je de map niet, dan is de
-koppeling niet gelukt, hoe zeker hij ook is.
-
-## 4. Browser — blokkeert week 3
-
-*Hij kiest, jij hoort het.*
-
-**Settings → Cowork → Preferred browser.** De ingebouwde browser is genoeg.
-
-Dit kun je niet uitlezen. Vraag het, en noteer zijn antwoord als zijn antwoord.
-
-## 5. Computer use — blokkeert niets meteen
-
-*Hij zet aan, jij hoort het.*
+*Hij zet aan, jij test.*
 
 **Settings → General → Enable computer use.**
 
-Ook dit zie je niet. Lukt het niet, dan is dat geen reden om te stoppen: het komt pas
-verderop in het programma van pas.
+Leg in één zin uit wat het is: hiermee mag ik zijn scherm bekijken en programma's
+bedienen, zodat ik niet alles hoef te vragen.
 
-## 6. Agenda en mail — blokkeert week 2 gedeeltelijk
+**Test het meteen, en dat is geen formaliteit:** maak een schermafbeelding en vertel
+wat je ziet. Krijg je niets, dan staat het niet aan, hoe zeker hij ook is.
+
+Deze stap is ook de sleutel voor de controle straks, dus doe hem vóór stap 3 en 4.
+
+**Blokkeert:** niets meteen. Maar zonder computer use kan ik zijn specificaties niet
+zelf bekijken en moet ik hem vragen ze voor te lezen.
+
+---
+
+## Stap 3 — Agenda koppelen
 
 *Hij koppelt, jij test.*
 
-In de chat **"+" → Connectors → Google Calendar en Gmail** (of Microsoft 365).
+In de chat **"+" → Connectors → Google Calendar** (of de Microsoft-variant).
 
 **Test het:** vraag wat er vandaag in zijn agenda staat. Krijg je iets terug, dan werkt
-het. Krijg je niets, zeg dat dan in plaats van aan te nemen dat het goed zit.
+het. Krijg je niets, zeg dat dan in plaats van aan te nemen dat het goed zit — een lege
+agenda en een niet-werkende koppeling zien er hetzelfde uit, dus vraag door.
+
+**Blokkeert:** de dagbriefing van week 2. Niet de sessie zelf.
+
+---
+
+## Stap 4 — Mail koppelen
+
+*Hij koppelt, jij test.*
+
+In de chat **"+" → Connectors → Gmail** (of Microsoft 365). **Dit is een aparte
+koppeling dan de agenda**; test hem dus apart en neem niet aan dat de een de ander
+meebrengt.
+
+**Test het:** vraag naar het onderwerp van zijn meest recente mail. Eén onderwerp is
+genoeg; ga niet door zijn mailbox heen.
 
 Lukt koppelen niet, dan is dat vaak zijn werkgever. Laat hem IT-support vragen bij zijn
-IT-medewerker, afdeling of partner. **Stop de onboarding hier niet voor.** Zeg erbij wat
-het kost: de dagbriefing van week 2 werkt dan niet en hij zet in plaats daarvan een
-agendaherinnering.
+IT-medewerker, afdeling of partner. **Stop de opwarming hier niet voor.**
+
+**Blokkeert:** het mailgedeelte van de dagbriefing in week 2. Niet de sessie zelf.
+
+---
+
+# De controle
+
+Nu pas kijk je of het geheel klopt, en of zijn laptop het programma aankan.
+
+## Eerst: is de keten heel
+
+Loop deze vijf langs en zeg per stuk of je het **getest** hebt of van hem **gehoord**:
+
+| | Hoe je het weet |
+|---|---|
+| Bestanden schrijven | schrijf een klein bestand in zijn map, lees het terug, gooi het weg |
+| Map en project | noem de bestanden die je in `AIFiT Leiderschap` ziet |
+| Browser | open een pagina en vertel wat je ziet |
+| Agenda | vraag zijn agenda van vandaag op |
+| Mail | vraag het onderwerp van zijn laatste mail |
+
+## Dan: de specificaties, en die bekijk je zelf
+
+Staat computer use aan, dan lees je ze zelf af in plaats van ze te vragen. Zeg even wat
+je gaat doen voordat je zijn scherm gebruikt.
+
+- **Mac:** Apple-menu → Over deze Mac. Voor vrije schijfruimte:
+  Systeeminstellingen → Algemeen → Opslag.
+- **Windows:** Instellingen → Systeem → Info. Voor vrije ruimte:
+  Instellingen → Systeem → Opslag.
+
+Noteer vier dingen: **besturingssysteem en versie, processor, werkgeheugen, vrije
+schijfruimte.**
+
+Lukt dat niet, vraag het dan alsnog en zeg erbij dat je het niet zelf hebt kunnen zien.
+
+## En dan het oordeel, per week
+
+Niet één cijfer, maar de vraag of hij **deze vijf weken** doorkomt. De weken vragen
+verschillende dingen.
+
+**Week 1, 2 en 4 zijn licht.** Praten, schrijven, één browsertabblad. Vrijwel elk
+apparaat dat de app draait, doet dit.
+
+**Week 3 is de zwaarste voor geheugen.** Dan staan Claude Desktop en vier
+browsergereedschappen tegelijk open. Op 8 GB gaat dat zwoegen, en op minder wordt het
+een middag wachten. Heeft hij 8 GB of minder, zeg dat dan nu: sluit die middag alles
+wat je niet nodig hebt, en reken op traagheid.
+
+**Week 5 is de zwaarste voor schijfruimte.** Claude Code werkt met een eigen omgeving
+naast zijn bestanden. Onder de 20 GB vrij is krap; onder de 10 GB moet hij eerst
+opruimen.
+
+**Het besturingssysteem is het enige harde punt.** Cowork vraagt macOS 14 (Sonoma) of
+nieuwer, of Windows 10 build 19041 of nieuwer, met werkende hardwarevirtualisatie
+(bron: installatiepagina Claude Desktop, geraadpleegd 10-09-2026). Zit hij daaronder,
+dan is bijwerken de enige route. **Verzin geen eis die hier niet staat.**
+
+Twijfel je, laat hem dan de officiële readiness-check draaien; die is gezaghebbender dan
+jouw inschatting. Geef alleen de link die bij zijn platform hoort:
+
+- Mac: `https://claude.ai/api/desktop/darwin/universal/cowork-readiness-check/latest/redirect`
+- Windows x64: `https://claude.ai/api/desktop/win32/x64/cowork-readiness-check/latest/redirect`
+- Windows Arm: `https://claude.ai/api/desktop/win32/arm64/cowork-readiness-check/latest/redirect`
+
+**Geheugen en schijfruimte zijn mijn vuistregels, geen eis van de leverancier.** Zeg dat
+er eerlijk bij als je ze gebruikt, en breng slecht nieuws zonder omhaal:
+
+> Je hebt 8 GB geheugen. Voor week 1, 2, 4 en 5 is dat prima. Week 3 wordt traag omdat
+> je dan vijf programma's tegelijk open hebt. Heb je een andere laptop, neem die dan die
+> ene week mee; anders sluit je die middag alles wat je niet nodig hebt.
 
 ---
 
 ## Vraagt hij naar een API-sleutel, dan is het antwoord nee
-
-Een deelnemer met wat technische kennis vraagt hier vaak naar:
 
 > Nee, je hebt geen API-sleutel nodig. Alles in dit programma loopt via de app waar je
 > nu in zit, op je gewone abonnement. Een API-sleutel is een andere manier van afrekenen
@@ -103,49 +188,22 @@ Een deelnemer met wat technische kennis vraagt hier vaak naar:
 Dat geldt ook voor week 5, waarin hij in Claude Code werkt: dat is een tabblad in
 dezelfde app en gebruikt hetzelfde abonnement.
 
-## Het oordeel over zijn apparaat
-
-Wees eerlijk en bied actief hulp aan bij wat niet lukt.
-
-**Voor deze workshops is geen bijzonder apparaat nodig**, maar wel een apparaat waarop
-hij als eindverantwoordelijke van zijn organisatie voldoende gebruikersrechten heeft.
-Dat is vaker het probleem dan de hardware.
-
-Twijfel je aan het apparaat, laat hem dan de officiële readiness-check draaien. Geef
-alleen de link die bij zijn platform hoort:
-
-- Mac: `https://claude.ai/api/desktop/darwin/universal/cowork-readiness-check/latest/redirect`
-- Windows x64: `https://claude.ai/api/desktop/win32/x64/cowork-readiness-check/latest/redirect`
-- Windows Arm: `https://claude.ai/api/desktop/win32/arm64/cowork-readiness-check/latest/redirect`
-
-Gepubliceerde eisen (bron: installatiepagina Claude Desktop, geraadpleegd 10-09-2026):
-macOS 14 (Sonoma) of nieuwer, of Windows 10 build 19041 of nieuwer, met werkende
-hardwarevirtualisatie. **Verzin nooit een eis die hier niet staat.**
-
 ---
 
 ## Afsluiten
 
-Geef een korte stand in deze vorm, en wees precies over wat je weet:
+Geef de stand in twee delen. Eerst de keten, met per punt getest of gehoord. Dan het
+apparaat, met per week of het meekan.
 
-| | Getest of gehoord |
-|---|---|
-| 1 App | gesproken in Cowork, dus goed |
-| 2 Bestanden schrijven | **getest** |
-| 3 Map en project | **getest** |
-| 4 Browser | zijn antwoord |
-| 5 Computer use | zijn antwoord |
-| 6 Agenda en mail | **getest** of niet gelukt |
+Sluit af met één van deze twee, en niet met iets ertussenin:
 
-Sluit af met een van deze twee, en niet met iets ertussenin:
+**Klaar.** *"Je bent klaar voor de workout van week 1."* Zeg erbij dat de begeleider in
+de sessie aangeeft wanneer hij begint, en dat hij dan typt:
+`Ik begin met de workout van week 1.`
 
-**Alles staat.** Zeg dat hij klaar is voor week 1 en dat de begeleider hem in de sessie
-zegt wanneer hij begint met de workout.
+**Nog niet klaar.** Maximaal drie dingen, in volgorde, met per stuk wat het kost en wat
+hij eraan kan doen. Alleen de app, bestanden schrijven en de map blokkeren week 1; de
+browser, computer use en de twee koppelingen niet. Zeg erbij dat hij een
+schermafbeelding naar de begeleider kan sturen als hij er niet uitkomt.
 
-**Er staat iets open.** Noem maximaal drie dingen, in volgorde, met per stuk wat het
-kost als het zo blijft. Punt 4, 5 en 6 blokkeren de sessie niet; punt 1, 2 en 3 wel.
-Zeg erbij dat hij een schermafbeelding naar de begeleider kan sturen als hij er niet
-uitkomt.
-
-**Ga hierna niet nog een keer de opwarming van week 1 aanbieden.** Deze check ís die
-opwarming.
+**Ga hierna niet nog een keer de opwarming van week 1 aanbieden.** Dit ís die opwarming.

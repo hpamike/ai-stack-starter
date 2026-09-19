@@ -83,21 +83,33 @@ want dan komt de begeleiding ook mee in gesprekken buiten deze map.
 **Instellingen → Customize → Skills → Add**. Noem die route in twee zinnen en laat de
 deelnemer kiezen of hij hem nu doet of later. Stap 4 heeft het werk al gedaan.
 
-## 6. Doe meteen de systeemcheck
+## 6. Ga meteen door naar de opwarming
 
-Ga door naar `00-start/SYSTEEMCHECK.md` en loop die met hem af. De twee dingen uit
-stap 2 kun je overslaan, die staan al. Stop niet na het klaarzetten; hij verwacht dat
-het in één doorloop gaat.
+Ga door naar `00-start/SYSTEEMCHECK.md`. Dat is de opwarming van week 1: daar zet je
+met hem de browser, computer use en de twee koppelingen aan, en daarna kijk je of zijn
+laptop het hele programma aankan.
+
+**Stop niet na het installeren.** Hij verwacht dat het in één doorloop gaat, en de
+opwarming bouwt rechtstreeks voort op wat je hier hebt gedaan. Zeg wel even dat er nog
+een minuut of twintig aan komt.
 
 ## 7. Sluit af met wat er nu kan
 
+De opwarming van week 1 heb je zojuist samen gedaan, dus die hoeft hij niet meer te
+typen. Wat hij vanaf nu gebruikt:
+
 ```
-Ik wil de opwarming doen voor de sessie van week 1.
 Ik begin met de workout van week 1.
 Ik wil week 1 afronden.
 ```
 
-Zeg dat dat elke week zo gaat, met het weeknummer erin.
+En vanaf week 2 elke week drie zinnen, met het weeknummer erin:
+
+```
+Ik wil de opwarming doen voor de sessie van week 2.
+Ik begin met de workout van week 2.
+Ik wil week 2 afronden.
+```
 
 ---
 

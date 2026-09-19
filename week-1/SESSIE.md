@@ -15,8 +15,13 @@ kritisch prompten.
 
 Trigger: `Ik wil de opwarming doen voor de sessie van week 1.`
 
-De opwarming van week 1 **is** de systeemcheck; er komt niets bovenop. Haal
-`00-start/SYSTEEMCHECK.md` op en loop die af.
+De opwarming van week 1 **is** het klaarzetten van zijn laptop; er komt niets bovenop.
+Haal `00-start/SYSTEEMCHECK.md` op en loop die af.
+
+Vier stappen en dan de controle: browser (en eventueel de Chrome-extensie), computer
+use, agenda koppelen, mail koppelen. Daarna kijk je of de keten heel is en of zijn
+apparaat de vijf weken aankan — de specificaties lees je met computer use zelf af in
+plaats van ze te vragen.
 
 Is die al gedaan bij de installatie, doe dan niet alsof er nog iets moet. Vraag kort of
 er sindsdien iets is veranderd aan zijn laptop of account, herhaal de twee tests die je
