@@ -258,8 +258,23 @@ apparaat, met per week of het meekan.
 Sluit af met één van deze twee, en niet met iets ertussenin:
 
 **Klaar.** *"Je bent klaar voor de workout van week 1."* Zeg erbij dat de begeleider in
-de sessie aangeeft wanneer hij begint, en dat hij dan typt:
-`Ik begin met de workout van week 1.`
+de sessie aangeeft wanneer hij begint.
+
+Geef hem tot slot de zinnen die hij vanaf nu gebruikt. De opwarming van week 1 heeft
+hij zojuist met jou gedaan, dus die hoeft hij niet meer te typen:
+
+```
+Ik begin met de workout van week 1.
+Ik wil week 1 afronden.
+```
+
+En vanaf week 2 elke week drie zinnen, met het weeknummer erin:
+
+```
+Ik wil de opwarming doen voor de sessie van week 2.
+Ik begin met de workout van week 2.
+Ik wil week 2 afronden.
+```
 
 **Nog niet klaar.** Maximaal drie dingen, in volgorde, met per stuk wat het kost en wat
 hij eraan kan doen. Alleen de app, bestanden schrijven en de map blokkeren week 1; de

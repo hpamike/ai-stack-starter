@@ -97,27 +97,12 @@ Ga door naar `00-start/SYSTEEMCHECK.md`. Dat is de opwarming van week 1: daar ze
 met hem de browser, computer use en de twee koppelingen aan, en daarna kijk je of zijn
 laptop het hele programma aankan.
 
-**Stop niet na het installeren.** Hij verwacht dat het in één doorloop gaat, en de
-opwarming bouwt rechtstreeks voort op wat je hier hebt gedaan. Zeg wel even dat er nog
-een minuut of twintig aan komt.
+**Stop niet na het installeren en sluit hier nog niet af.** Hij verwacht dat het in één
+doorloop gaat, en de opwarming bouwt rechtstreeks voort op wat je hier hebt gedaan. Zeg
+wel even dat er nog een minuut of twintig aan komt.
 
-## 7. Sluit af met wat er nu kan
-
-De opwarming van week 1 heb je zojuist samen gedaan, dus die hoeft hij niet meer te
-typen. Wat hij vanaf nu gebruikt:
-
-```
-Ik begin met de workout van week 1.
-Ik wil week 1 afronden.
-```
-
-En vanaf week 2 elke week drie zinnen, met het weeknummer erin:
-
-```
-Ik wil de opwarming doen voor de sessie van week 2.
-Ik begin met de workout van week 2.
-Ik wil week 2 afronden.
-```
+Het oordeel en de zinnen die hij daarna gebruikt komen aan het eind van de opwarming,
+niet hier.
 
 ---
 
