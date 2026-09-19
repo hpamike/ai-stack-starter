@@ -160,12 +160,26 @@ Neem hem mee door zes stappen:
      is, welke mensen en overleggen terugkomen, en wat zij nooit zonder te vragen mag
      doen. NIET gebruiken voor gesprekken met iemand anders.
    ---
+
+   # [naam]
+
+   Lees `SOUL.md` en `USER.md` hiernaast. Die horen bij deze skill en reizen overal
+   met je mee.
+
+   **Wat er nu speelt staat hier niet.** Dat staat in `MEMORY.md` in zijn map
+   `AIFiT Leiderschap`, omdat dat bestand elke week verandert en jij het zelf bijwerkt.
+   Hangt dit gesprek aan die map, lees het dan als eerste. Kun je er niet bij, zeg dat
+   dan voordat je antwoordt: "ik ken je, maar je MEMORY kan ik hier niet lezen, dus ik
+   weet niet wat er deze week speelt." Antwoord nooit alsof er niets speelt.
    ```
 
    **`MEMORY.md` gaat hier bewust niet in, en zeg dat er hardop bij.** Dat bestand
    verandert elke week en wordt door zijn assistent zelf bijgewerkt; in een skill zou
    hij bij elke wijziging opnieuw moeten uploaden. Het blijft dus een bestand in zijn
-   map, en week 5 leest het daar terug.
+   map, en week 5 leest het daar terug. Daarom staat in de `SKILL.md` hierboven een
+   verwijzing naar dat bestand plus de opdracht om te melden wanneer zij er niet bij
+   kan. Een assistent die buiten de map antwoordt alsof er niets speelt, is erger dan
+   een die zegt dat ze even niet kan meekijken.
 
    **Test het:** laat hem een nieuw gesprek beginnen, buiten de map, en vragen wie hij
    is. Komt daar zijn eigen rol en organisatie uit, dan zit de skill erin.
