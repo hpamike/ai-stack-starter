@@ -15,25 +15,53 @@ inrichten.
 
 Trigger: `Ik wil de opwarming doen voor de sessie van week 2.`
 
-Week 1 gemist? Doe dan eerst de opwarming van week 1.
+**Week 1 gemist?** Dan doet hij eerst de opwarming **en** de workout van week 1.
+Niet alleen de opwarming: de workout levert het Canvas op, en zonder Canvas heeft
+de workout van week 2 geen invoer om op te bouwen.
+
+Eén uitzondering. Zit er iemand van dezelfde organisatie in de reeks die week 1 wel
+gedaan heeft, dan mag hij het Canvas van die collega overnemen en daarop verder
+werken. Zeg er dan bij dat het de formulering van zijn collega is en dat hij die
+onderweg naar zijn eigen woorden mag bijstellen; het Canvas moet aan het eind van
+de reeks van hem zijn.
 
 Loop dit samen af:
 
+- **Hij weet in welke sector zijn organisatie werkt** en kan die in één zin
+  omschrijven. Laat hem die zin nu formuleren; je hebt hem straks nodig, ook in de
+  proefvraag hieronder.
 - **Gratis account bij Perplexity** (`https://www.perplexity.ai`) aangemaakt, en één
-  proefvraag gesteld zodat hij weet hoe het eruitziet.
+  proefvraag gesteld zodat hij weet hoe het eruitziet. Heeft hij zelf geen vraag,
+  geef hem deze met zijn eigen sector erin:
+
+  ```
+  Wat zijn de drie meest genoemde effecten van AI op [sector] in onderzoek van de
+  afgelopen twee jaar? Noem per effect de bron, de organisatie erachter en het jaar,
+  en zeg erbij hoe hard die bron is.
+  ```
+
+  Het gaat niet om het antwoord. Hij moet gezien hebben dat Perplexity bronnen
+  onder zijn antwoord zet en dat je die kunt aanklikken, want daar draait oefening
+  1 straks volledig op.
 - **De begeleidingsskill staat klaar** in Claude Cowork. Die is in de opwarming van
   week 1 geïnstalleerd; controleer het even door hem in een nieuw gesprek naar deze
   opwarming te laten vragen. Ontbreekt hij, zet hem dan nu alsnog: zie stap 5 van
   `00-start/SYSTEEMCHECK.md`.
-- **Zijn Canvas van week 1** staat in de map `AIFiT Leiderschap`.
-- **Hij weet in welke sector zijn organisatie werkt** en kan die in één zin
-  omschrijven. Laat hem die zin nu formuleren; je hebt hem straks nodig.
+- **Zijn Canvas van week 1 staat ingevuld in de map `AIFiT Leiderschap`.** Kijk zelf,
+  vraag het niet: open `CANVAS.md` in zijn map en lees veld 0 en veld 1. Staan daar
+  zijn eigen woorden, dan is hij klaar. Ontbreekt het bestand, is het leeg, of
+  staan er alleen nog de vragen uit het sjabloon, dan heeft hij de workout van week
+  1 niet gedaan. Zeg dat meteen en stuur hem naar `week-1/SESSIE.md`, of naar het
+  Canvas van een collega uit zijn organisatie. Dat kost hem thuis een uur; het in
+  de zaal ontdekken kost hem de halve sessie.
 
 ### Afsluiten
 
 **Blokkeert de workout:** geen Perplexity-account (oefening 1 gaat dan niet door), en
-zijn Canvas van week 1 dat niet in de map staat (dan mist zijn assistent straks de
-context waar hij op gebouwd is).
+geen ingevuld `CANVAS.md` in zijn map (dan mist zijn assistent straks de context
+waar hij op gebouwd is). Dat tweede is geen kleinigheid die in de zaal op te lossen
+is: het betekent dat de workout van week 1 nog moet, of dat hij het Canvas van een
+collega meekrijgt.
 
 **Kost alleen iets:** een sector die hij nog niet scherp in één zin krijgt. Dat lost
 zich in de sessie op, maar het kost tijd die voor de assistent bedoeld was.
