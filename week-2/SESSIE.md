@@ -99,9 +99,14 @@ Neem hem mee door vijf stappen:
 2. **Vijf vragen.** Stel maximaal vijf vragen: hoe zijn assistent met hem praat, wie hij
    is, wat er nu speelt, welke mensen en overleggen terugkomen, en wat zij nooit zonder
    te vragen mag doen. Antwoorden in zijn eigen woorden.
-3. **Bestanden.** Schrijf **`SOUL.md`** (wie zij is), **`USER.md`** (wie hij is) en
-   **`MEMORY.md`** (wat er speelt) in zijn map. Lees ze aan hem voor en vraag wat er
-   niet klopt.
+3. **Bestanden.** Haal de drie sjablonen op uit
+   `week-2/sjablonen/` in de repo (`SOUL.md`, `USER.md`, `MEMORY.md`), schrijf ze in
+   zijn map en vul ze met zijn antwoorden. **De vorm komt uit het sjabloon, de inhoud
+   uit hem** — laat een kop leeg als er geen antwoord is en verzin er niets bij. Lees
+   ze daarna aan hem voor en vraag wat er niet klopt.
+
+   Waarom uit een sjabloon en niet uit je hoofd: in week 5 leest hij deze bestanden
+   terug en bouwt hij er verder op. Dan moeten ze een vaste vorm hebben.
 4. **Eerste opdracht.** Laat zijn assistent `bronnen-week2.md` analyseren: wat betekent
    dit voor zijn organisatie? **Hij kiest** welke drie inzichten in `MEMORY.md` komen.
 5. **Routine.** Gebruik de koppeling met agenda en mail uit week 1. Laat hem vragen:
