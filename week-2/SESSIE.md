@@ -25,8 +25,8 @@ werken. Zeg er dan bij dat het de formulering van zijn collega is en dat hij die
 onderweg naar zijn eigen woorden mag bijstellen; het Canvas moet aan het eind van
 de reeks van hem zijn.
 
-**Kijk eerst of je het al hebt.** Staat `week-2/SESSIE.md` en de sjablonen uit `week-2/sjablonen/` staan in zijn map
-`programma/`, werk daar dan uit en ga meteen door. **Niet opnieuw ophalen**: dat kost
+**Kijk eerst of je het al hebt.** Staan `week-2/SESSIE.md` en de vier sjablonen uit
+`week-2/sjablonen/` in zijn map `programma/`, werk daar dan uit en ga meteen door. **Niet opnieuw ophalen**: dat kost
 tijd en hij ziet je iets doen wat al gebeurd is.
 
 Ontbreekt er iets, haal dat dan nu op van GitHub en zet het op zijn plek. Ontbreekt de
