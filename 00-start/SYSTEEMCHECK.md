@@ -176,15 +176,17 @@ skill hangt aan zijn account, niet aan zijn laptop, dus hij moet hem zelf upload
 in gesprekken die aan zijn map hangen; mét skill ook daarbuiten. Week 2 gaat er
 bovendien van uit dat hij er is.
 
-De route, stap voor stap:
+**De ZIP staat al klaar** in de wortel van zijn map, als
+`AIFiT Leiderschap/aifit-leiderschap.zip`, gemaakt bij de installatie. Staat hij er
+niet, maak hem dan nu alsnog uit `programma/skills/aifit-leiderschap/`.
 
-1. Ga naar `https://github.com/hpamike/ai-stack-starter`
-2. Maak de ZIP. **Doe dit zelf uit het bestand dat al op zijn laptop staat**,
-   `programma/skills/aifit-leiderschap/SKILL.md`: dat is de actuele versie en het
-   scheelt hem een download van een map, wat op GitHub onhandig is. Lukt dat niet, dan
-   staat er een kant-en-klare `skills/aifit-leiderschap.zip` in de repo; die kan
-   achterlopen, dus zeg dat erbij. Het **uploaden** moet hij zelf doen.
-3. In Claude: **Instellingen → Customize → Skills → Add**, en die ZIP uploaden.
+Geef hem deze drie stappen, **één voor één, en wacht na elke stap op antwoord**:
+
+1. Open de instellingen in Claude.
+2. Ga naar **Customize → Skills → Add**.
+3. Kies het bestand `AIFiT Leiderschap/aifit-leiderschap.zip` en bevestig.
+
+Staat er al een oudere versie in zijn lijst, laat hem die vervangen of verwijderen.
 
 Loopt hij hier vast, of wil hij weten wat een skill eigenlijk is: haal
 `00-start/SKILLS-INSTALLEREN.md` op. Daar staat de hele route, de controle en wat je

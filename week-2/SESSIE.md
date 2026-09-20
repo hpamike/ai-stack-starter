@@ -35,14 +35,38 @@ hele map `programma/`, haal dan `00-start/BESTANDEN.md` op en zet de hele set ne
 Zegt de begeleider dat het materiaal is bijgewerkt, of wil hij zeker weten dat hij de
 nieuwste versie heeft, dan haal je het alsnog op en overschrijf je de kopie.
 
+**Zo doe je deze opwarming.** Zeg eerst in twee zinnen wat er gaat gebeuren en hoe lang
+het duurt: een paar dingen klaarzetten, daarna samen zijn assistent opzetten, drie
+kwartier. Loop daarna de punten hieronder **één voor één** af en wacht na elk punt op
+zijn antwoord. **Eindig nooit met alleen een lijstje of een bestand**: elk punt sluit af
+met wat hij nu moet doen, of met de melding dat het klaar is.
+
 Loop dit samen af:
 
 - **Hij weet in welke sector zijn organisatie werkt** en kan die in één zin
   omschrijven. Laat hem die zin nu formuleren; je hebt hem straks nodig, ook in de
   proefvraag hieronder.
-- **Gratis account bij Perplexity** (`https://www.perplexity.ai`) aangemaakt, en één
-  proefvraag gesteld zodat hij weet hoe het eruitziet. Heeft hij zelf geen vraag,
-  geef hem deze met zijn eigen sector erin:
+- **Gratis account bij Perplexity.** Dit doe je samen, stap voor stap, en niet met één
+  zin "maak even een account aan". Voor veel deelnemers is dit de eerste keer.
+
+  **Kijk mee in plaats van te gokken.** Open `https://www.perplexity.ai` in je eigen
+  browser en vertel wat je ziet: welke knop er staat om aan te melden en welke manieren
+  er worden aangeboden. De pagina verandert, dus **verzin geen knopnamen uit je hoofd**.
+
+  Begeleid hem dan zo, en wacht telkens op antwoord:
+
+  1. Laat hem `https://www.perplexity.ai` openen in zijn browser.
+  2. Vraag welke aanmeldknop hij ziet en waar die staat op zijn scherm.
+  3. Vraag waarmee hij wil aanmelden. **Met Google of Apple gaat het het snelst**, want
+     dan hoeft hij geen wachtwoord te verzinnen. Kiest hij e-mail, dan krijgt hij een
+     code in zijn mailbox; zeg dat vooraf, anders zoekt hij zich rot.
+  4. Laat hem de aanmelding afmaken en vraag of hij is ingelogd.
+
+  **Wachtwoorden typ jij nooit en vraag je ook nooit op.** Loopt hij vast in een
+  aanmeldscherm, beschrijf dan wat hij moet aanklikken en laat hem het zelf doen.
+
+  **Daarna één proefvraag**, zodat hij weet hoe het eruitziet. Heeft hij zelf geen
+  vraag, geef hem deze met zijn eigen sector erin:
 
   ```
   Wat zijn de drie meest genoemde effecten van AI op [sector] in onderzoek van de
@@ -50,13 +74,18 @@ Loop dit samen af:
   en zeg erbij hoe hard die bron is.
   ```
 
-  Het gaat niet om het antwoord. Hij moet gezien hebben dat Perplexity bronnen
-  onder zijn antwoord zet en dat je die kunt aanklikken, want daar draait oefening
-  1 straks volledig op.
-- **De begeleidingsskill staat klaar** in Claude Cowork. Die is in de opwarming van
-  week 1 geïnstalleerd; controleer het even door hem in een nieuw gesprek naar deze
-  opwarming te laten vragen. Ontbreekt hij, zet hem dan nu alsnog: zie stap 5 van
-  `00-start/SYSTEEMCHECK.md`.
+  Het gaat niet om het antwoord. Hij moet gezien hebben dat Perplexity bronnen onder
+  zijn antwoord zet en dat je die kunt aanklikken, want daar draait oefening 1 straks
+  volledig op. Vraag hem dat ook te bevestigen: ziet hij de bronnen staan?
+
+- **De begeleidingsskill werkt.** Laat hem in een nieuw gesprek, buiten zijn map, naar
+  deze opwarming vragen. Komt daar dit stappenplan uit, dan zit hij goed.
+
+  Zo niet, dan upload hij hem alsnog, en dat kost twee minuten: de ZIP staat al klaar
+  als `AIFiT Leiderschap/aifit-leiderschap.zip`. Geef de stappen één voor één en wacht
+  na elke stap op antwoord: instellingen openen, **Customize → Skills → Add**, en dat
+  bestand kiezen. Staat er een oudere versie in zijn lijst, laat hem die vervangen.
+  Ontbreekt de ZIP, maak hem dan uit `programma/skills/aifit-leiderschap/`.
 - **Zijn Canvas van week 1 staat ingevuld in de map `AIFiT Leiderschap`.** Kijk zelf,
   vraag het niet: open `AIFiT Leiderschap/MIJN-CANVAS.md` en lees veld 0 en veld 1. Dat
   is zijn eigen Canvas; `programma/00-start/CANVAS.md` is het sjabloon met de vragen en
@@ -112,9 +141,18 @@ Reken op een half uur. Vier stappen:
    koos, en `[naam deelnemer]` door de zijne. Verder verander je niets aan dat bestand.
    Maak er dan een ZIP van.
 
-   **Uploaden moet hij zelf**, via Instellingen → Customize → Skills → Add, net als in
-   week 1. Loopt het niet meteen goed, haal dan `00-start/SKILLS-INSTALLEREN.md` op:
-   daar staat de controle en de lijst met oorzaken.
+   **Uploaden moet hij zelf, en dat is het einde van deze opwarming niet.** Zeg waar de
+   ZIP staat, met het volledige pad, en geef dan de stappen één voor één met een pauze
+   na elke stap:
+
+   1. Open de instellingen in Claude.
+   2. Ga naar **Customize → Skills → Add**.
+   3. Kies de ZIP die je net hebt gemaakt en bevestig.
+   4. Zeg het als het gelukt is, dan testen we hem meteen.
+
+   Loopt het niet meteen goed, haal dan `00-start/SKILLS-INSTALLEREN.md` op: daar staat
+   de controle en de lijst met oorzaken. **Stop hier niet met een bestand in zijn map en
+   verder niets**; een ZIP die nergens is geüpload doet niets.
 
    **`MEMORY.md` gaat bewust niet mee in die ZIP, en zeg dat er hardop bij.** Dat
    bestand verandert elke week en wordt door zijn assistent zelf bijgewerkt; in een

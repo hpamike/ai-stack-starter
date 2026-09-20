@@ -118,13 +118,26 @@ achteraf dat het klaarstaat.
 Lukt een bestand niet, noteer welke en ga door. De controle in de opwarming van week 1
 haalt ze alsnog.
 
-## 6. Noem de skill, maar installeer hem hier nog niet
+## 6. Zet de skill klaar als ZIP
 
-De repo bevat ook `skills/aifit-leiderschap/SKILL.md`. Als skill werkt de begeleiding
-ook in gesprekken buiten deze map, en dat is prettiger.
+Als skill werkt de begeleiding ook in gesprekken buiten deze map. `SKILL.md` staat na
+stap 5 al op zijn laptop, dus maak de ZIP nu meteen.
 
-Zeg in één zin dat je dat straks in de opwarming samen doet, en ga door. Stap 4 heeft
-het werk al gedaan, dus er is geen haast en hij hoeft nu niets.
+Maak van `programma/skills/aifit-leiderschap/` een ZIP en zet hem in de wortel van zijn
+map, als `AIFiT Leiderschap/aifit-leiderschap.zip`. Noem hardop waar hij staat, met het
+volledige pad, want hij moet hem straks zelf kunnen aanwijzen in een bestandskiezer.
+
+**Uploaden kan hij zelf, en dat doe je in de opwarming hierna.** Wil hij het nu al,
+geef dan deze drie stappen en wacht na elke stap op zijn antwoord:
+
+1. Instellingen openen in Claude.
+2. **Customize → Skills → Add.** Ziet hij iets anders, verzin dan geen pad; zoek het
+   samen op zijn scherm.
+3. De ZIP kiezen: `AIFiT Leiderschap/aifit-leiderschap.zip`, en bevestigen.
+
+Staat er al een oudere versie van deze skill in zijn lijst, laat hem die dan vervangen
+of verwijderen. Twee versies naast elkaar is de enige fout waarbij niemand kan zien
+welke antwoordt.
 
 ## 7. Ga meteen door naar de opwarming
 
