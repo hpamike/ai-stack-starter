@@ -64,8 +64,9 @@ installatie voor nodig.
 Dit bestand hoort bij het programma AI FiT Leiderschap. Als de deelnemer een van de
 zinnen hieronder zegt, haal dan het bijbehorende bestand op en volg het helemaal.
 
-Het programma staat in de map `programma/` hiernaast, met de paden uit de tabel. Werk
-daaruit, en **haal aan het begin van elke opwarming de bestanden van die week opnieuw
+Het programma hoort in de map `programma/` hiernaast te staan, met de paden uit de
+tabel. Werk daaruit. Staat die map er niet, haal dan eerst `00-start/BESTANDEN.md` op
+en zet de hele set alsnog neer. En **haal aan het begin van elke opwarming de bestanden van die week opnieuw
 op** van `https://raw.githubusercontent.com/hpamike/ai-stack-starter/main/<pad>` en
 overschrijf de lokale kopie. De lokale set is het vangnet, GitHub is de bron.
 
@@ -109,6 +110,10 @@ mee hoeft te doen.
 **Wat dit níét betekent:** dat het materiaal vaststaat. Elke opwarming haalt de
 bestanden van die week opnieuw op, want er wordt tot vlak voor een sessie aan gewerkt.
 De lokale set is het vangnet, GitHub is de bron.
+
+**Doe dit in stilte.** Het zijn dertien bestanden; meld niet elk bestand apart, dat
+leest als een foutmelding. Eén zin vooraf dat je het programma binnenhaalt en één zin
+achteraf dat het klaarstaat.
 
 Lukt een bestand niet, noteer welke en ga door. De controle in de opwarming van week 1
 haalt ze alsnog.

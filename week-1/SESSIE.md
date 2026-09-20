@@ -19,7 +19,8 @@ Trigger: `Ik wil de opwarming doen voor de sessie van week 1.`
 De opwarming van week 1 **is** het klaarzetten van zijn laptop; er komt niets bovenop.
 Haal `00-start/SYSTEEMCHECK.md` op en loop die af.
 
-Vijf stappen en dan de controle: browser (en eventueel de Chrome-extensie), computer
+Daar kijk je eerst zelf of het programma compleet op zijn laptop staat, en loop je
+daarna vijf stappen met hem af: browser (en eventueel de Chrome-extensie), computer
 use, agenda koppelen, mail koppelen, en de begeleidingsskill installeren. Daarna kijk
 je of de keten heel is en of zijn apparaat de vijf weken aankan — de specificaties lees
 je met computer use zelf af in plaats van ze te vragen.

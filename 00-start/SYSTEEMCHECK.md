@@ -6,7 +6,8 @@ Dit komt ná `INSTALLEER.md`. Daar zijn drie dingen al geregeld: de app, bestand
 kunnen schrijven, en de map `AIFiT Leiderschap` die aan zijn project hangt. Hier zet je
 de rest aan en controleer je het geheel.
 
-**Reken op een half uur** en zeg dat aan het begin. Vijf stappen, dan de controle.
+**Reken op een half uur** en zeg dat aan het begin. Eerst kijk jij of het programma
+compleet op zijn laptop staat, dan vijf stappen met hem, dan de controle.
 
 ## Wat je wel en niet van jezelf kunt verwachten
 
@@ -23,8 +24,9 @@ elke stap staat welk van de twee het is.
 
 ## Begin zo
 
-> Je app staat en je map is gekoppeld. Nu zet ik met je vijf dingen aan die je de
-> komende weken nodig hebt, en daarna kijk ik of je laptop het hele programma aankan.
+> Je app staat en je map is gekoppeld. Ik kijk eerst even of het programma compleet op
+> je laptop staat. Daarna zetten we samen vijf dingen aan die je de komende weken nodig
+> hebt, en tot slot kijk ik of je laptop het hele programma aankan.
 > Een half uur ongeveer. Ik zeg per stap waar je moet klikken en test daarna zelf wat
 > ik kan testen.
 
@@ -32,7 +34,7 @@ elke stap staat welk van de twee het is.
 
 ## Stap 0 — Staat het programma er, en is het compleet
 
-*Jij doet dit, hij merkt er niets van.*
+*Jij doet dit. Hij hoeft niets te klikken.*
 
 Haal `00-start/BESTANDEN.md` op en loop de paklijst langs: staat elk bestand in
 `AIFiT Leiderschap/programma/`? Ontbreekt er iets, haal het dan nu op. Ontbreekt de
@@ -42,8 +44,9 @@ Dit is de enige plek in het programma waar naar álle vijf de weken wordt gekeke
 `week-4/SESSIE.md`, dan merkt hij dat anders pas over een maand, op de avond dat hij
 zijn opwarming wil doen.
 
-Zeg aan het eind in één zin dat het programma compleet op zijn laptop staat. Moest je
-iets bijhalen, noem dan hoeveel; noem geen bestandsnamen, dat zegt hem niets.
+Eén zin als je klaar bent: dat het compleet is, en hoeveel je hebt bijgehaald als dat
+nodig was. Geen bestandsnamen, die zeggen hem niets. Duurt het even, zeg dan dat je
+bezig bent; stilte van een halve minuut leest als vastgelopen.
 
 **Blokkeert:** niets nu. Maar een ontbrekend weekbestand blokkeert die week wel, en dan
 is het te laat om er rustig naar te kijken.
