@@ -32,16 +32,22 @@ Dertien bestanden plus deze lijst. Ophalen doe je van
 `INSTALLEER.md` (dat werk is dan al gedaan), `README.md` (de voorpagina van de repo) en
 `begeleider/BEGELEIDER.md` (het draaiboek van de begeleider, niet van de deelnemer).
 
-## De lokale set is het vangnet, GitHub is de bron
+## Wat er op de laptop staat, gebruik je
 
 Deze kopieën staan er zodat hij nooit stilvalt door een netwerk dat het niet doet, en
-zodat je in één keer kunt zien of er iets ontbreekt. Ze zijn niet de waarheid.
+zodat je in één keer kunt zien of er iets ontbreekt.
 
-**Aan het begin van elke opwarming haal je de bestanden van díé week opnieuw op en
-overschrijf je de lokale kopie.** Het materiaal wordt tot vlak voor een sessie
-bijgewerkt, en een deelnemer die in week 1 installeerde zou anders in week 4 met een
-maand oude versie werken. Lukt ophalen niet, ga dan door met de lokale kopie en zeg
-erbij dat je met een mogelijk oudere versie werkt.
+**Aan het begin van elke opwarming kijk je of de bestanden van díé week er staan. Zo
+ja, werk daaruit en haal niets opnieuw op.** Opnieuw downloaden kost tijd en hij ziet
+je werk doen dat al gedaan is. Ontbreekt er iets, haal dat dan alsnog.
+
+**Opnieuw ophalen doe je in twee gevallen:** als de begeleider zegt dat het materiaal is
+bijgewerkt, en als hij er zelf om vraagt ("staat alles er nog", "heb ik de nieuwste
+versie"). Dan overschrijf je de lokale kopie.
+
+Dat betekent dat een wijziging in dit materiaal een deelnemer die al geïnstalleerd heeft
+niet vanzelf bereikt. Wie halverwege de reeks iets wijzigt dat ertoe doet, zegt het
+erbij in de zaal.
 
 ## Voor wie hier iets aan verandert
 

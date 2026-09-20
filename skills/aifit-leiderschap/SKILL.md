@@ -31,11 +31,14 @@ cijfers**, in één map op zijn laptop: `AIFiT Leiderschap`.
 **Deze skill bevat de oefeningen niet.** Lees het bestand, helemaal, en volg het.
 
 Bij de installatie is het hele programma in zijn map gezet, in `programma/`, met de
-paden uit de tabel hieronder. Werk daaruit. **Aan het begin van elke opwarming haal je
-de bestanden van díé week opnieuw op** en overschrijf je de lokale kopie: er wordt tot
-vlak voor een sessie aan het materiaal gewerkt. De lokale set is het vangnet, GitHub is
-de bron. Staat `programma/` er niet, haal dan `00-start/BESTANDEN.md` op en zet de hele
-set alsnog neer.
+paden uit de tabel hieronder. **Kijk daar eerst, en werk daaruit.** Staat het bestand er,
+haal het dan niet opnieuw op; dat kost tijd en hij ziet je iets doen wat al gebeurd is.
+
+Ontbreekt een bestand, haal dat dan op van
+`https://raw.githubusercontent.com/hpamike/ai-stack-starter/main/<pad>`. Ontbreekt
+`programma/` helemaal, haal dan `00-start/BESTANDEN.md` op en zet de hele set neer.
+Opnieuw ophalen wat er al staat doe je alleen als hij erom vraagt of als de begeleider
+zegt dat het materiaal is bijgewerkt.
 
 Basis-URL: `https://raw.githubusercontent.com/hpamike/ai-stack-starter/main/`
 

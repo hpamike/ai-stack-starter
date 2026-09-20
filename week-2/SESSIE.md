@@ -25,11 +25,15 @@ werken. Zeg er dan bij dat het de formulering van zijn collega is en dat hij die
 onderweg naar zijn eigen woorden mag bijstellen; het Canvas moet aan het eind van
 de reeks van hem zijn.
 
-**Doe dit eerst.** Haal `week-2/SESSIE.md` en de drie sjablonen uit `week-2/sjablonen/` opnieuw op van GitHub en overschrijf
-de kopie in zijn map `programma/`. Er wordt tot vlak voor een sessie aan het materiaal
-gewerkt, dus de versie op zijn laptop kan ouder zijn dan wat er nu geldt. Lukt ophalen
-niet, werk dan door met de lokale kopie en zeg erbij dat je met een mogelijk oudere
-versie werkt.
+**Kijk eerst of je het al hebt.** Staat `week-2/SESSIE.md` en de sjablonen uit `week-2/sjablonen/` staan in zijn map
+`programma/`, werk daar dan uit en ga meteen door. **Niet opnieuw ophalen**: dat kost
+tijd en hij ziet je iets doen wat al gebeurd is.
+
+Ontbreekt er iets, haal dat dan nu op van GitHub en zet het op zijn plek. Ontbreekt de
+hele map `programma/`, haal dan `00-start/BESTANDEN.md` op en zet de hele set neer.
+
+Zegt de begeleider dat het materiaal is bijgewerkt, of wil hij zeker weten dat hij de
+nieuwste versie heeft, dan haal je het alsnog op en overschrijf je de kopie.
 
 Loop dit samen af:
 
