@@ -87,48 +87,36 @@ Reken op een half uur. Vier stappen:
    komt uit het sjabloon, de inhoud uit hem.** Laat een kop leeg als er geen antwoord is
    en verzin er niets bij. Lees ze daarna aan hem voor en vraag wat er niet klopt.
 
+   **Zijn antwoord op "wat er nu speelt" gaat naar twee bestanden, en niet twee keer
+   hetzelfde.** Wat deze maanden loopt, zijn projecten en opgaven, hoort in `USER.md`;
+   dat verandert zelden en gaat mee in de skill. Wat alleen deze week speelt, hoort in
+   `MEMORY.md`; dat wordt wekelijks vervangen. Twijfel je, vraag het hem: "loopt dit nog
+   over een maand?" Zet je het in allebei, dan spreken ze elkaar binnen twee weken
+   tegen.
+
    Waarom uit een sjabloon en niet uit je hoofd: in week 5 leest hij deze bestanden
    terug en bouwt hij er verder op. Dan moeten ze een vaste vorm hebben.
 4. **Zijn assistent als skill.** `SOUL.md` en `USER.md` veranderen bijna nooit, en
    daarom horen ze niet alleen in zijn map. Maak er een skill van, dan werkt zijn
    assistent ook in gesprekken die niet aan die map hangen.
 
-   Jij doet het werk: zet in zijn map een mapje `assistent/` met een `SKILL.md`, leg de
-   ingevulde `SOUL.md` en `USER.md` ernaast en maak er een ZIP van. **Uploaden moet hij
-   zelf**, via
-   Instellingen → Customize → Skills → Add, net als in week 1. Loopt het niet meteen
-   goed, haal dan `00-start/SKILLS-INSTALLEREN.md` op: daar staat de controle en de
-   lijst met oorzaken. De frontmatter:
+   Jij doet het werk. Haal `week-2/sjablonen/SKILL.md` op, net als de drie andere
+   sjablonen, en zet hem met de ingevulde `SOUL.md` en `USER.md` in een mapje
+   `assistent/` in zijn map. Vervang overal `[naam]` door de naam die hij in stap 1
+   koos, en `[naam deelnemer]` door de zijne. Verder verander je niets aan dat bestand.
+   Maak er dan een ZIP van.
 
-   ```
-   ---
-   name: [naam-van-de-assistent-in-kleine-letters]
-   description: >-
-     De persoonlijke assistent van [naam deelnemer]. Gebruik deze skill in elk gesprek
-     met hem: SOUL.md zegt hoe zij praat en wat een goed antwoord is, USER.md wie hij
-     is, welke mensen en overleggen terugkomen, en wat zij nooit zonder te vragen mag
-     doen. NIET gebruiken voor gesprekken met iemand anders.
-   ---
+   **Uploaden moet hij zelf**, via Instellingen → Customize → Skills → Add, net als in
+   week 1. Loopt het niet meteen goed, haal dan `00-start/SKILLS-INSTALLEREN.md` op:
+   daar staat de controle en de lijst met oorzaken.
 
-   # [naam]
-
-   Lees `SOUL.md` en `USER.md` hiernaast. Die horen bij deze skill en reizen overal
-   met je mee.
-
-   **Wat er nu speelt staat hier niet.** Dat staat in `MEMORY.md` in zijn map
-   `AIFiT Leiderschap`, omdat dat bestand elke week verandert en jij het zelf bijwerkt.
-   Hangt dit gesprek aan die map, lees het dan als eerste. Kun je er niet bij, zeg dat
-   dan voordat je antwoordt: "ik ken je, maar je MEMORY kan ik hier niet lezen, dus ik
-   weet niet wat er deze week speelt." Antwoord nooit alsof er niets speelt.
-   ```
-
-   **`MEMORY.md` gaat hier bewust niet in, en zeg dat er hardop bij.** Dat bestand
-   verandert elke week en wordt door zijn assistent zelf bijgewerkt; in een skill zou
-   hij bij elke wijziging opnieuw moeten uploaden. Het blijft dus een bestand in zijn
-   map, en week 5 leest het daar terug. Daarom staat in de `SKILL.md` hierboven een
-   verwijzing naar dat bestand plus de opdracht om te melden wanneer zij er niet bij
-   kan. Een assistent die buiten de map antwoordt alsof er niets speelt, is erger dan
-   een die zegt dat ze even niet kan meekijken.
+   **`MEMORY.md` gaat bewust niet mee in die ZIP, en zeg dat er hardop bij.** Dat
+   bestand verandert elke week en wordt door zijn assistent zelf bijgewerkt; in een
+   skill zou hij bij elke wijziging opnieuw moeten uploaden. Het blijft dus een bestand
+   in zijn map, en week 5 leest het daar terug. Het sjabloon verwijst er al naar en
+   draagt de opdracht om te melden wanneer zij er niet bij kan. Een assistent die buiten
+   de map antwoordt alsof er niets speelt, is erger dan een die zegt dat ze even niet
+   kan meekijken.
 
    **Test het:** laat hem een nieuw gesprek beginnen, buiten de map, en vragen wie hij
    is. Komt daar zijn eigen rol en organisatie uit, dan zit de skill erin.

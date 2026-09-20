@@ -5,6 +5,9 @@ Sjabloon. Kort houden is de bedoeling: dit bestand groeit vanzelf en werkt dan n
 meer. Drie tot vijf regels, wekelijks vervangen en niet aanvullen.
 -->
 
+Dit gaat over **deze week**: wat er nu op tafel ligt, wat er speelt, wat er open staat.
+Wat maanden loopt hoort in `USER.md`.
+
 **Week van [datum]**
 
 - [...]

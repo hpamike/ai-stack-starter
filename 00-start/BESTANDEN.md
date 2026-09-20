@@ -18,12 +18,13 @@ je een bestand altijd op naam terugvinden en is één blik genoeg om te zien wat
 | `week-2/sjablonen/SOUL.md` | sjabloon voor zijn assistent |
 | `week-2/sjablonen/USER.md` | sjabloon voor zijn assistent |
 | `week-2/sjablonen/MEMORY.md` | sjabloon voor zijn assistent |
+| `week-2/sjablonen/SKILL.md` | sjabloon voor de skill van zijn assistent |
 | `week-3/SESSIE.md` | week 3 |
 | `week-4/SESSIE.md` | week 4 |
 | `week-5/SESSIE.md` | week 5 |
 | `skills/aifit-leiderschap/SKILL.md` | de begeleidingsskill, om te uploaden |
 
-Twaalf bestanden plus deze lijst. Ophalen doe je van
+Dertien bestanden plus deze lijst. Ophalen doe je van
 `https://raw.githubusercontent.com/hpamike/ai-stack-starter/main/<pad>`.
 
 ## Wat er níét in hoort

@@ -97,7 +97,7 @@ https://github.com/hpamike/ai-stack-starter/blob/main/<pad>
 
 Nu pas, want stap 3 heeft bewezen dat schrijven werkt.
 
-Haal `00-start/BESTANDEN.md` op. Daar staat de paklijst: twaalf bestanden plus de lijst
+Haal `00-start/BESTANDEN.md` op. Daar staat de paklijst: dertien bestanden plus de lijst
 zelf. Zet ze allemaal in `AIFiT Leiderschap/programma/`, met dezelfde paden als in de
 tabel. Ophalen gaat van
 `https://raw.githubusercontent.com/hpamike/ai-stack-starter/main/<pad>`.
@@ -111,7 +111,7 @@ mee hoeft te doen.
 bestanden van die week opnieuw op, want er wordt tot vlak voor een sessie aan gewerkt.
 De lokale set is het vangnet, GitHub is de bron.
 
-**Doe dit in stilte.** Het zijn dertien bestanden; meld niet elk bestand apart, dat
+**Doe dit in stilte.** Het zijn veertien bestanden; meld niet elk bestand apart, dat
 leest als een foutmelding. Eén zin vooraf dat je het programma binnenhaalt en één zin
 achteraf dat het klaarstaat.
 

@@ -13,7 +13,8 @@ mag, herinterpreteren niet. Vul alleen met wat hij zegt.
 
 ## Wat er nu speelt
 
-Drie tot vijf dingen waar hij deze maanden mee bezig is.
+Drie tot vijf dingen waar hij deze **maanden** mee bezig is: projecten, opgaven,
+veranderingen. Wat alleen deze week speelt hoort in `MEMORY.md`, niet hier.
 
 - [...]
 
