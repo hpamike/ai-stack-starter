@@ -1,0 +1,9 @@
+Deze ZIP is gebouwd uit skills/aifit-leiderschap/SKILL.md zoals die stond in commit fe9b86e
+(2026-09-20).
+
+Klopt dat niet meer met de laatste wijziging aan dat bestand, dan loopt deze ZIP achter
+en moet hij opnieuw gemaakt worden:
+
+    cd skills && rm -f aifit-leiderschap.zip && zip -r aifit-leiderschap.zip aifit-leiderschap
+
+De ZIP is een gemak, geen bron. SKILL.md is de bron.

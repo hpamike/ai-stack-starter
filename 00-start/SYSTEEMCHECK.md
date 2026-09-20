@@ -179,10 +179,11 @@ bovendien van uit dat hij er is.
 De route, stap voor stap:
 
 1. Ga naar `https://github.com/hpamike/ai-stack-starter`
-2. Download de map `skills/aifit-leiderschap` en maak er een ZIP van. Lukt dat
-   downloaden niet makkelijk, bied dan aan het voor hem klaar te zetten: jij kunt de
-   bestanden in zijn map schrijven en er een ZIP van maken. Het **uploaden** moet hij
-   zelf doen.
+2. Maak de ZIP. **Doe dit zelf uit het bestand dat al op zijn laptop staat**,
+   `programma/skills/aifit-leiderschap/SKILL.md`: dat is de actuele versie en het
+   scheelt hem een download van een map, wat op GitHub onhandig is. Lukt dat niet, dan
+   staat er een kant-en-klare `skills/aifit-leiderschap.zip` in de repo; die kan
+   achterlopen, dus zeg dat erbij. Het **uploaden** moet hij zelf doen.
 3. In Claude: **Instellingen → Customize → Skills → Add**, en die ZIP uploaden.
 
 Loopt hij hier vast, of wil hij weten wat een skill eigenlijk is: haal

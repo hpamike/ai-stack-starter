@@ -21,6 +21,17 @@ volgt de taakverdeling, en die benoem je vooraf:
 ## De route
 
 1. **Jij zet de ZIP klaar** en noemt hardop waar hij staat, met het volledige pad.
+
+   **Maak hem zelf, uit het bestand dat op zijn laptop staat.** Voor de
+   begeleidingsskill is dat `programma/skills/aifit-leiderschap/SKILL.md`, voor zijn
+   eigen assistent het mapje dat je in week 2 hebt gevuld. Dat bestand is altijd de
+   actuele versie, dus een ZIP die je er zelf van maakt ook.
+
+   Kun je dat niet, dan staat er een kant-en-klare versie in de repo:
+   `skills/aifit-leiderschap.zip`. Gebruik die alleen als tweede keuze en zeg erbij dat
+   hij kan achterlopen. Naast die ZIP staat `aifit-leiderschap.zip.txt` met de commit
+   waaruit hij is gebouwd; wijkt die af van de laatste wijziging aan `SKILL.md`, dan is
+   hij verouderd.
 2. **Hij gaat naar Instellingen → Customize → Skills → Add.** Ziet hij iets anders dan
    dat, **verzin dan geen pad**. Zoek het samen op zijn scherm; de app verandert. Een
    verkeerd menupad kost hem meer tijd dan een eerlijke "dat weet ik niet".
@@ -63,7 +74,8 @@ alles gewoon door. Zeg dat er meteen bij, dan blijft hij niet hangen.
 
 **Een skill verandert niet mee.** Past hij `SOUL.md` of `USER.md` aan in zijn map, dan
 blijft de geïnstalleerde skill de oude versie tot hij een nieuwe ZIP uploadt. Hetzelfde
-geldt voor de begeleidingsskill als deze repo verandert.
+geldt voor de begeleidingsskill als deze repo verandert, en voor de kant-en-klare ZIP
+in de repo zelf: die is een momentopname van `SKILL.md` en niet de bron.
 
 De vervelendste fout is **twee versies naast elkaar**, want dan weet niemand meer welke
 er antwoordt. Laat hem bij een nieuwe upload de oude vervangen of verwijderen, en
