@@ -54,7 +54,10 @@ Loop dit samen af:
   opwarming te laten vragen. Ontbreekt hij, zet hem dan nu alsnog: zie stap 5 van
   `00-start/SYSTEEMCHECK.md`.
 - **Zijn Canvas van week 1 staat ingevuld in de map `AIFiT Leiderschap`.** Kijk zelf,
-  vraag het niet: open `CANVAS.md` in zijn map en lees veld 0 en veld 1. Staan daar
+  vraag het niet: open `AIFiT Leiderschap/CANVAS.md` en lees veld 0 en veld 1. **Let op
+  welk bestand je opent.** Er staat ook een `programma/00-start/CANVAS.md` in zijn map:
+  dat is het sjabloon met de vragen, dat bij de installatie is neergezet, en dat staat
+  altijd vol tekst. Zijn eigen Canvas staat in de wortel van de map. Staan daar
   zijn eigen woorden, dan is hij klaar. Ontbreekt het bestand, is het leeg, of
   staan er alleen nog de vragen uit het sjabloon, dan heeft hij de workout van week
   1 niet gedaan. Zeg dat meteen en stuur hem naar `week-1/SESSIE.md`, of naar het
@@ -124,7 +127,7 @@ Reken op een half uur. Vier stappen:
 ### Afsluiten
 
 **Blokkeert de workout:** geen Perplexity-account (oefening 1 gaat dan niet door), en
-geen ingevuld `CANVAS.md` in zijn map (dan mist zijn assistent de context waar hij op
+geen ingevuld `AIFiT Leiderschap/CANVAS.md` (dan mist zijn assistent de context waar hij op
 gebouwd is). Dat tweede is geen kleinigheid die in de zaal op te lossen is: het betekent
 dat de workout van week 1 nog moet, of dat hij het Canvas van een collega meekrijgt.
 

@@ -73,7 +73,7 @@ Weet je te weinig voor een voorstel, zeg dat dan en stel alleen de vraag. Een ve
 feit over zijn organisatie is erger dan een leeg veld. Wat er uiteindelijk staat, is zijn
 formulering en niet die van jou.
 
-De vragen staan in `00-start/CANVAS.md`. Haal dat bestand op en gebruik die
+De vragen staan in `00-start/CANVAS.md`, het sjabloon. Haal dat bestand op en gebruik die
 formuleringen; verzin er geen eigen versie van.
 
 Reken op ongeveer drie tot vier minuten per veld. Loopt een veld uit, zeg dat dan en
@@ -98,9 +98,10 @@ betekent voor de volgende week.
 - *"Wat gaat er mis als deze grens ontbreekt?"* Zo test hij veld 9.
 
 **Klaar wanneer:** alle elf velden hebben een formulering van hemzelf, scope
-inbegrepen. Zet het Canvas in zijn map `AIFiT Leiderschap` onder de naam
-`CANVAS.md`. Die naam is geen smaakkwestie: de opwarming van week 2 kijkt er
-zelf in om te zien of hij week 1 gedaan heeft.
+inbegrepen. Zet het Canvas in de **wortel** van zijn map `AIFiT Leiderschap`, onder de
+naam `CANVAS.md`. Naam en plek zijn geen smaakkwestie: de opwarming van week 2 kijkt er
+zelf in om te zien of hij week 1 gedaan heeft. Zet hem niet in `programma/`, want daar
+staat het sjabloon met dezelfde naam.
 
 ---
 
