@@ -1,4 +1,4 @@
-Deze ZIP is gebouwd uit skills/aifit-leiderschap/SKILL.md zoals die stond in commit 470fb7d
+Deze ZIP is gebouwd uit skills/aifit-leiderschap/SKILL.md zoals die stond in commit f0e8902
 (2026-09-20).
 
 Klopt dat niet meer met de laatste wijziging aan dat bestand, dan loopt deze ZIP achter.
