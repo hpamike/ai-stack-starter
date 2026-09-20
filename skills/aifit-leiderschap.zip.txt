@@ -1,12 +1,12 @@
-Deze ZIP is gebouwd uit skills/aifit-leiderschap/SKILL.md zoals die stond in commit fe9b86e
+Deze ZIP is gebouwd uit skills/aifit-leiderschap/SKILL.md zoals die stond in commit 470fb7d
 (2026-09-20).
 
 Klopt dat niet meer met de laatste wijziging aan dat bestand, dan loopt deze ZIP achter.
 Controleren:
 
-    git log -1 --format=%h -- skills/aifit-leiderschap/SKILL.md
+    cd /Users/rijkers/ai-stack-starter && git log -1 --format=%h -- skills/aifit-leiderschap/SKILL.md
 
-Opnieuw maken. Dit werkt vanuit elke map; vervang het pad als de repo ergens anders staat:
+Opnieuw maken. Vervang het pad als de repo ergens anders staat:
 
     cd /Users/rijkers/ai-stack-starter/skills && rm -f aifit-leiderschap.zip && zip -r aifit-leiderschap.zip aifit-leiderschap && cd -
 
