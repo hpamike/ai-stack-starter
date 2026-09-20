@@ -172,8 +172,9 @@ dan gaat het grootste deel van oefening 2 op aan werk dat thuis had gekund, en b
 weinig over voor zijn research.
 
 **Klaar wanneer:** zijn assistent heeft een naam, `SOUL.md`, `USER.md` en `MEMORY.md`
-staan gevuld in zijn map, en de skill is geïnstalleerd en getest in een nieuw gesprek
-buiten die map.
+staan gevuld in zijn map, en de skill staat in zijn lijst én antwoordt in een nieuw
+gesprek buiten die map. Zeg er bij het oordeel bij welk van die twee je **zelf hebt
+gezien** en welk je van hem hebt **gehoord**.
 
 Geef het oordeel: klaar voor de workout van week 2, of wat er nog moet en wat het kost.
 

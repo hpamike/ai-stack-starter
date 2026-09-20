@@ -192,9 +192,13 @@ Loopt hij hier vast, of wil hij weten wat een skill eigenlijk is: haal
 `00-start/SKILLS-INSTALLEREN.md` op. Daar staat de hele route, de controle en wat je
 doet als het niet lukt. Hij komt in week 2 terug voor zijn eigen assistent.
 
-**Test het:** laat hem een nieuw gesprek beginnen en vragen wat de opwarming van week 3
-is. Komt daar een antwoord over Gemini, NotebookLM, Lovable en Gamma, dan zit de skill
-erin. Krijgt hij een algemeen antwoord, dan niet.
+**Test het, in twee stappen.** Kijk eerst zelf met computer use of hij in de lijst met
+skills staat; dat staat sinds stap 2 tot je beschikking. Lukt dat niet, zeg dat dan en
+vraag hem wat hij ziet, maar doe nooit alsof je het hebt gezien.
+
+Daarna of hij werkt, en dat kun je niet zelf: laat hem een nieuw gesprek beginnen en
+vragen wat de opwarming van week 3 is. Komt daar een antwoord over Gemini, NotebookLM,
+Lovable en Gamma, dan zit de skill erin. Krijgt hij een algemeen antwoord, dan niet.
 
 **Verzin geen menupad dat je niet kent.** Klopt een stap niet met wat hij ziet, zeg dat
 dan en zoek het samen op in de instellingen.

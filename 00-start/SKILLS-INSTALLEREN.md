@@ -39,12 +39,30 @@ volgt de taakverdeling, en die benoem je vooraf:
 4. **Hij ziet de skill in de lijst staan**, onder de naam uit de frontmatter. Laat hem
    dat hardop bevestigen; dan weet je dat de upload zelf geslaagd is.
 
-## De controle, en die doe jij
+## De controle: twee vragen, twee antwoorden
 
-**Een skill in de lijst is nog geen werkende skill.** Controleer het altijd, en altijd in
-een **nieuw gesprek buiten zijn map**. In het lopende gesprek test je niets: daar is de
-skill niet geladen, en binnen zijn map lijkt alles te werken omdat de bestanden er
-gewoon staan.
+Er zijn twee dingen te controleren en ze hebben elk een andere methode. Haal ze niet
+door elkaar; een skill die in de lijst staat, werkt daarmee nog niet.
+
+### Staat hij in de lijst? Kijk zelf, met computer use
+
+Computer use staat sinds week 1 aan, dus **probeer het zelf te zien** in plaats van het
+hem te vragen: open de instellingen, ga naar de lijst met skills, en kijk of hij er
+staat met de naam uit de frontmatter. Zeg vooraf even dat je op zijn scherm gaat kijken.
+
+**Lukt dat niet, dan is dat geen fout.** Het kan zijn dat je de instellingen van Claude
+zelf niet mag bedienen. Zeg dat dan gewoon, vraag hem wat hij in de lijst ziet, en ga
+door. **Zeg nooit dat je iets hebt gezien wat je niet hebt gezien**, en schrijf een
+uitkomst die je van hem hoort ook op als van hem gehoord.
+
+### Werkt hij ook? Alleen in een nieuw gesprek
+
+Dit kun je niet zelf doen en dat zeg je erbij. Een skill laadt bij de start van een
+gesprek, dus in het gesprek waarin hij net geupload is, is hij nog niet actief. En
+binnen zijn map lijkt alles te werken omdat de bestanden daar gewoon staan.
+
+Laat hem dus een **nieuw gesprek buiten zijn map** beginnen en daar de vraag uit de
+tabel hieronder stellen.
 
 | Welke skill | Wat hij vraagt | Goed | Fout |
 |---|---|---|---|
