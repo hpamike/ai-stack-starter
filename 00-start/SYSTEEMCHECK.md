@@ -30,6 +30,26 @@ elke stap staat welk van de twee het is.
 
 ---
 
+## Stap 0 — Staat het programma er, en is het compleet
+
+*Jij doet dit, hij merkt er niets van.*
+
+Haal `00-start/BESTANDEN.md` op en loop de paklijst langs: staat elk bestand in
+`AIFiT Leiderschap/programma/`? Ontbreekt er iets, haal het dan nu op. Ontbreekt de
+hele map, zet de hele set neer.
+
+Dit is de enige plek in het programma waar naar álle vijf de weken wordt gekeken. Mist
+`week-4/SESSIE.md`, dan merkt hij dat anders pas over een maand, op de avond dat hij
+zijn opwarming wil doen.
+
+Zeg aan het eind in één zin dat het programma compleet op zijn laptop staat. Moest je
+iets bijhalen, noem dan hoeveel; noem geen bestandsnamen, dat zegt hem niets.
+
+**Blokkeert:** niets nu. Maar een ontbrekend weekbestand blokkeert die week wel, en dan
+is het te laat om er rustig naar te kijken.
+
+---
+
 ## Stap 1 — Browser, en eventueel de Chrome-extensie
 
 *Hij kiest, jij test.*
@@ -189,6 +209,7 @@ Loop de tabel langs en zeg per regel of je het **getest** hebt of van hem **geho
 
 | | Hoe je het weet |
 |---|---|
+| Programma compleet | de paklijst uit `00-start/BESTANDEN.md` langsgelopen |
 | Bestanden schrijven | schrijf een klein bestand in zijn map, lees het terug, gooi het weg |
 | Map en project | noem de bestanden die je in `AIFiT Leiderschap` ziet |
 | Browser | open een pagina en vertel wat je ziet |

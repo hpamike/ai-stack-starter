@@ -21,6 +21,12 @@ Trigger: `Ik wil de opwarming doen voor de sessie van week 5.`
 
 Week 1 gemist? Doe dan eerst de opwarming van week 1.
 
+**Doe dit eerst.** Haal `week-5/SESSIE.md` opnieuw op van GitHub en overschrijf
+de kopie in zijn map `programma/`. Er wordt tot vlak voor een sessie aan het materiaal
+gewerkt, dus de versie op zijn laptop kan ouder zijn dan wat er nu geldt. Lukt ophalen
+niet, werk dan door met de lokale kopie en zeg erbij dat je met een mogelijk oudere
+versie werkt.
+
 Loop dit samen af:
 
 - **De geplande taken uit week 2 (dagbriefing) en week 4 draaien nog.** Controleer dat

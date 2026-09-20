@@ -64,11 +64,15 @@ installatie voor nodig.
 Dit bestand hoort bij het programma AI FiT Leiderschap. Als de deelnemer een van de
 zinnen hieronder zegt, haal dan het bijbehorende bestand op en volg het helemaal.
 
-Basis-URL: https://raw.githubusercontent.com/hpamike/ai-stack-starter/main/
+Het programma staat in de map `programma/` hiernaast, met de paden uit de tabel. Werk
+daaruit, en **haal aan het begin van elke opwarming de bestanden van die week opnieuw
+op** van `https://raw.githubusercontent.com/hpamike/ai-stack-starter/main/<pad>` en
+overschrijf de lokale kopie. De lokale set is het vangnet, GitHub is de bron.
 
-| Hij zegt | Haal op |
+| Hij zegt | Welk bestand |
 |---|---|
 | doe de systeemcheck, ben ik klaar | 00-start/SYSTEEMCHECK.md |
+| staat alles er nog, welke bestanden hoor ik te hebben | 00-start/BESTANDEN.md |
 | iets over het Canvas los van een week | 00-start/CANVAS.md |
 | een skill installeren, of nakijken of hij werkt | 00-start/SKILLS-INSTALLEREN.md |
 | opwarming / workout / afronden van week N | week-N/SESSIE.md |
@@ -88,7 +92,28 @@ Lukt ophalen niet, geef dan de gewone link zodat hij de tekst zelf kan plakken:
 https://github.com/hpamike/ai-stack-starter/blob/main/<pad>
 ```
 
-## 5. Noem de skill, maar installeer hem hier nog niet
+## 5. Haal het hele programma binnen
+
+Nu pas, want stap 3 heeft bewezen dat schrijven werkt.
+
+Haal `00-start/BESTANDEN.md` op. Daar staat de paklijst: twaalf bestanden plus de lijst
+zelf. Zet ze allemaal in `AIFiT Leiderschap/programma/`, met dezelfde paden als in de
+tabel. Ophalen gaat van
+`https://raw.githubusercontent.com/hpamike/ai-stack-starter/main/<pad>`.
+
+**Waarom alles in één keer en niet per week:** hij valt dan nooit stil door een netwerk
+dat het niet doet, en in de opwarming van week 1 kun je in één blik zien of er iets
+mist. Zeg hem in één zin dat het programma nu op zijn laptop staat en dat hij er niets
+mee hoeft te doen.
+
+**Wat dit níét betekent:** dat het materiaal vaststaat. Elke opwarming haalt de
+bestanden van die week opnieuw op, want er wordt tot vlak voor een sessie aan gewerkt.
+De lokale set is het vangnet, GitHub is de bron.
+
+Lukt een bestand niet, noteer welke en ga door. De controle in de opwarming van week 1
+haalt ze alsnog.
+
+## 6. Noem de skill, maar installeer hem hier nog niet
 
 De repo bevat ook `skills/aifit-leiderschap/SKILL.md`. Als skill werkt de begeleiding
 ook in gesprekken buiten deze map, en dat is prettiger.
@@ -96,7 +121,7 @@ ook in gesprekken buiten deze map, en dat is prettiger.
 Zeg in één zin dat je dat straks in de opwarming samen doet, en ga door. Stap 4 heeft
 het werk al gedaan, dus er is geen haast en hij hoeft nu niets.
 
-## 6. Ga meteen door naar de opwarming
+## 7. Ga meteen door naar de opwarming
 
 Ga door naar `00-start/SYSTEEMCHECK.md`. Dat is de opwarming van week 1: daar zet je
 met hem de browser, computer use en de twee koppelingen aan, en daarna kijk je of zijn

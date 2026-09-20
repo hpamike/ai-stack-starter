@@ -25,6 +25,7 @@ Kun je maar één bestand ophalen, dan is dit het minimum dat je nodig hebt. Bas
 |---|---|
 | installeren, beginnen | `INSTALLEER.md` |
 | doe de systeemcheck, ben ik klaar | `00-start/SYSTEEMCHECK.md` |
+| staat alles er nog, welke bestanden hoor ik te hebben | `00-start/BESTANDEN.md` |
 | iets over het Canvas los van een week | `00-start/CANVAS.md` |
 | een skill installeren, of nakijken of hij werkt | `00-start/SKILLS-INSTALLEREN.md` |
 | opwarming / workout / afronden van week N | `week-N/SESSIE.md` |

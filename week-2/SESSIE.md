@@ -25,6 +25,12 @@ werken. Zeg er dan bij dat het de formulering van zijn collega is en dat hij die
 onderweg naar zijn eigen woorden mag bijstellen; het Canvas moet aan het eind van
 de reeks van hem zijn.
 
+**Doe dit eerst.** Haal `week-2/SESSIE.md` en de drie sjablonen uit `week-2/sjablonen/` opnieuw op van GitHub en overschrijf
+de kopie in zijn map `programma/`. Er wordt tot vlak voor een sessie aan het materiaal
+gewerkt, dus de versie op zijn laptop kan ouder zijn dan wat er nu geldt. Lukt ophalen
+niet, werk dan door met de lokale kopie en zeg erbij dat je met een mogelijk oudere
+versie werkt.
+
 Loop dit samen af:
 
 - **Hij weet in welke sector zijn organisatie werkt** en kan die in één zin

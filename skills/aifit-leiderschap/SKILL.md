@@ -28,8 +28,14 @@ cijfers**, in één map op zijn laptop: `AIFiT Leiderschap`.
 
 ## Waar je de inhoud vandaan haalt
 
-**Deze skill bevat de oefeningen niet.** Haal het bestand op, lees het helemaal, volg
-het. Zo werkt iedereen altijd met de nieuwste versie.
+**Deze skill bevat de oefeningen niet.** Lees het bestand, helemaal, en volg het.
+
+Bij de installatie is het hele programma in zijn map gezet, in `programma/`, met de
+paden uit de tabel hieronder. Werk daaruit. **Aan het begin van elke opwarming haal je
+de bestanden van díé week opnieuw op** en overschrijf je de lokale kopie: er wordt tot
+vlak voor een sessie aan het materiaal gewerkt. De lokale set is het vangnet, GitHub is
+de bron. Staat `programma/` er niet, haal dan `00-start/BESTANDEN.md` op en zet de hele
+set alsnog neer.
 
 Basis-URL: `https://raw.githubusercontent.com/hpamike/ai-stack-starter/main/`
 
@@ -37,6 +43,7 @@ Basis-URL: `https://raw.githubusercontent.com/hpamike/ai-stack-starter/main/`
 |---|---|
 | "Kun je deze repo installeren" | `INSTALLEER.md` |
 | "doe de systeemcheck", "ben ik klaar" | `00-start/SYSTEEMCHECK.md` |
+| "staat alles er nog", welke bestanden hij hoort te hebben | `00-start/BESTANDEN.md` |
 | iets over het Canvas los van een week | `00-start/CANVAS.md` |
 | een skill installeren, of nakijken of hij werkt | `00-start/SKILLS-INSTALLEREN.md` |
 | "opwarming / workout / afronden week N" | `week-N/SESSIE.md` |

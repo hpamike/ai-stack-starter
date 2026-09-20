@@ -17,6 +17,12 @@ Trigger: `Ik wil de opwarming doen voor de sessie van week 3.`
 
 Week 1 gemist? Doe dan eerst de opwarming van week 1.
 
+**Doe dit eerst.** Haal `week-3/SESSIE.md` opnieuw op van GitHub en overschrijf
+de kopie in zijn map `programma/`. Er wordt tot vlak voor een sessie aan het materiaal
+gewerkt, dus de versie op zijn laptop kan ouder zijn dan wat er nu geldt. Lukt ophalen
+niet, werk dan door met de lokale kopie en zeg erbij dat je met een mogelijk oudere
+versie werkt.
+
 Loop dit samen af, en geef de accounts **één voor één**. Vraag na elk of het gelukt is
 voordat je de volgende geeft. Vraag eerst of hij een Google-account heeft; dan vallen
 de eerste twee daaronder en houdt hij er twee over.
