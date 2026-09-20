@@ -3,12 +3,18 @@
 **Instructie voor Claude.** Dit staat op één plek en geldt voor week 2 tot en met 5. Doe
 het vóór de punten uit het weekbestand. Het kost hooguit een minuut als alles goed staat.
 
-## 1. Zeg wat er gaat gebeuren
+## 1. Zeg wat er gaat gebeuren, en hoeveel
 
-Twee zinnen: wat je deze opwarming samen doet en hoe lang het duurt. Daarna loop je de
-punten **één voor één** af en wacht je telkens op antwoord. **Eindig nooit met alleen een
-lijstje of een bestand**: elk punt sluit af met wat hij nu moet doen, of met de melding
-dat het klaar is.
+Twee zinnen: wat je deze opwarming samen doet en hoe lang het duurt. **Noem daarbij het
+aantal stappen**, geteld uit het weekbestand dat je net hebt gelezen, en niet uit je
+hoofd.
+
+Daarna loop je de punten **één voor één** af en wacht je telkens op antwoord. Begin elke
+stap met waar hij is: "stap 3 van 6". Bestaat een stap uit meerdere handelingen, tel
+daarbinnen opnieuw: "de tweede van vier accounts".
+
+**Eindig nooit met alleen een lijstje of een bestand**: elk punt sluit af met wat hij nu
+moet doen, of met de melding dat het klaar is.
 
 ## 2. Is de installatie gedaan
 

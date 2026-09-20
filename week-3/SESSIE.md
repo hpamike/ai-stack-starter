@@ -33,11 +33,27 @@ de vorige gelukt is, noem je de volgende.
 daaronder en houdt hij er in de praktijk twee over. Dat scheelt hem de helft van het werk
 en het is prettig om dat vooraf te horen.
 
-**Kijk mee in plaats van te gokken.** Open de pagina zelf in je browser voordat je hem
-iets laat klikken, en vertel wat je ziet: welke aanmeldknop er staat en welke manieren er
-worden aangeboden. Deze diensten veranderen hun aanmeldscherm regelmatig, dus **verzin
-geen knopnamen uit je hoofd**. Klopt wat hij ziet niet met wat jij beschrijft, vraag dan
-wat er wél staat en ga daarop verder.
+**Toon eerst het overzicht, en dan niets meer tegelijk.** Zeg welke vier het zijn en
+dat jullie ze één voor één doen, zodat hij weet wat er komt:
+
+- Gemini — `https://gemini.google.com`
+- NotebookLM — `https://notebooklm.google.com`
+- Lovable — `https://lovable.dev`
+- Gamma — `https://gamma.app`
+
+**Daarna behandel je ze strikt één voor één.** Noem het adres van de dienst waar je nu
+mee bezig bent en wacht tot hij zegt dat hij binnen is, voordat je de volgende noemt.
+Zeg er telkens bij de hoeveelste het is: "de tweede van vier".
+
+**Hij opent en meldt zich zelf aan.** Jij doet dit niet voor hem, ook niet als je een
+browser hebt. Hij moet deze vier volgende week zelf kunnen openen, en dat leert hij niet
+door toe te kijken.
+
+**Kijk wel mee in plaats van te gokken.** Open de pagina zelf in je browser voordat je
+hem iets laat klikken, en vertel wat je ziet: welke aanmeldknop er staat en welke
+manieren er worden aangeboden. Deze diensten veranderen hun aanmeldscherm regelmatig,
+dus **verzin geen knopnamen uit je hoofd**. Klopt wat hij ziet niet met wat jij
+beschrijft, vraag dan wat er wél staat en ga daarop verder.
 
 Per dienst dezelfde vier stappen, met een pauze na elke stap:
 
@@ -51,17 +67,16 @@ Per dienst dezelfde vier stappen, met een pauze na elke stap:
 **Wachtwoorden typ jij nooit en vraag je ook nooit op.** Loopt hij vast in een
 aanmeldscherm, beschrijf dan wat hij moet aanklikken en laat hem het zelf doen.
 
-De vier, in deze volgorde:
+Wat je per dienst nog moet weten:
 
-- **Gemini** — `https://gemini.google.com`. Google-account. Meestal is hij al ingelogd en
-  is dit binnen een minuut klaar.
-- **NotebookLM** — `https://notebooklm.google.com`. Zelfde Google-account, dus ook snel.
-  Laat hem wel even binnenkomen, want het scherm ziet er anders uit dan Gemini en dat is
-  in de sessie geen moment om te ontdekken.
-- **Lovable** — `https://lovable.dev`. Eigen account. Hier komt hij vaak een keuze tegen
-  over een gratis plan; laat hem het gratis plan nemen en zeg dat het voor deze sessie
-  genoeg is.
-- **Gamma** — `https://gamma.app`. Eigen account, ook een gratis plan.
+- **Gemini.** Google-account. Meestal is hij al ingelogd en is dit binnen een minuut
+  klaar.
+- **NotebookLM.** Zelfde Google-account, dus ook snel. Laat hem wel even binnenkomen,
+  want het scherm ziet er anders uit dan Gemini en dat is in de sessie geen moment om te
+  ontdekken.
+- **Lovable.** Eigen account. Hier komt hij vaak een keuze tegen over een gratis plan;
+  laat hem dat nemen en zeg dat het voor deze sessie genoeg is.
+- **Gamma.** Eigen account, ook een gratis plan.
 
 **Lukt een van de vier niet, stop dan niet de hele opwarming.** Noteer welke, ga door met
 de volgende, en zeg aan het eind wat het hem kost: zonder Lovable geen landingspagina,

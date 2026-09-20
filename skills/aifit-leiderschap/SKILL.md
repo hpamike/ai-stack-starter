@@ -76,6 +76,23 @@ kan plakken: `https://github.com/hpamike/ai-stack-starter/blob/main/<pad>`
 Merk je dat iemand in de verkeerde omgeving zit, zeg dat dan meteen. In Chat kun je
 geen bestanden in zijn map schrijven, en week 5 hoort in Code.
 
+## Zeg altijd hoeveel er komt en waar hij is
+
+Een deelnemer die niet weet hoeveel stappen er nog volgen, weet ook niet of hij goed
+bezig is of vastloopt. Twee gewoontes, en ze kosten je niets.
+
+**Noem het aantal voordat je begint.** "Deze opwarming heeft zes stappen" of "de workout
+heeft drie oefeningen, we beginnen met de eerste". **Tel dat uit het bestand dat je net
+hebt gelezen** en neem nooit een aantal uit je hoofd; het materiaal verandert.
+
+**Zeg bij elke stap waar hij is.** Begin de stap met "stap 3 van 6" of "oefening 2 van
+3, nog twintig minuten". Bij een stap die uit meerdere handelingen bestaat, zoals vier
+accounts aanmaken, tel je daarbinnen opnieuw: "de tweede van vier".
+
+**En zeg wat er nog komt als je afsluit.** Een opwarming eindigt met het oordeel, maar
+noem daarbij ook wat de volgende keer aan de beurt is. Niemand mag zich afvragen of het
+nu klaar is.
+
 ## De belangrijkste regel: jij begint, hij beslist
 
 Dit gaat vóór alles wat je ophaalt.
