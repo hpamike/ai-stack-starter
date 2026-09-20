@@ -99,9 +99,10 @@ betekent voor de volgende week.
 
 **Klaar wanneer:** alle elf velden hebben een formulering van hemzelf, scope
 inbegrepen. Zet het Canvas in de **wortel** van zijn map `AIFiT Leiderschap`, onder de
-naam `CANVAS.md`. Naam en plek zijn geen smaakkwestie: de opwarming van week 2 kijkt er
-zelf in om te zien of hij week 1 gedaan heeft. Zet hem niet in `programma/`, want daar
-staat het sjabloon met dezelfde naam.
+naam **`MIJN-CANVAS.md`**. Die naam is geen smaakkwestie: de opwarming van week 2 kijkt
+er zelf in om te zien of hij week 1 gedaan heeft, en `CANVAS.md` is al bezet door het
+sjabloon in `programma/00-start/`. Twee bestanden met dezelfde naam in één map is
+precies hoe zo'n controle op het verkeerde bestand landt.
 
 ---
 

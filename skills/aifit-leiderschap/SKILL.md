@@ -52,7 +52,8 @@ Elk weekbestand heeft drie delen: **Opwarming**, **Workout** en **Cooling-down**
 alleen het deel waar hij om vraagt.
 
 **Wat hij zelf maakt, zodat je het herkent als hij er later naar vraagt:** zijn Canvas
-(week 1, `CANVAS.md` in de wortel van zijn map, niet het gelijknamige sjabloon in `programma/00-start/`), zijn bronnentabel en **zijn eigen assistent als skill** (week 2,
+(week 1, `MIJN-CANVAS.md` in de wortel van zijn map; `programma/00-start/CANVAS.md` is
+het sjabloon met de vragen), zijn bronnentabel en **zijn eigen assistent als skill** (week 2,
 met `SOUL.md` en `USER.md` erin en `MEMORY.md` bewust erbuiten), zijn `GEMISTE-VRAGEN.md`
 (vanaf week 2) en zijn dashboard (week 5). Vraagt hij iets over die eigen assistent, dan
 is `00-start/SKILLS-INSTALLEREN.md` de plek, en `week-2/SESSIE.md` voor de inhoud.
