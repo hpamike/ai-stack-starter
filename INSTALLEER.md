@@ -73,6 +73,7 @@ hele map, haal dan `00-start/BESTANDEN.md` op en zet de set alsnog neer.
 | Hij zegt | Welk bestand |
 |---|---|
 | doe de systeemcheck, ben ik klaar | 00-start/SYSTEEMCHECK.md |
+| begin van een opwarming van week 2 t/m 5 | 00-start/OPWARMING-START.md |
 | staat alles er nog, welke bestanden hoor ik te hebben | 00-start/BESTANDEN.md |
 | iets over het Canvas los van een week | 00-start/CANVAS.md |
 | een skill installeren, of nakijken of hij werkt | 00-start/SKILLS-INSTALLEREN.md |
@@ -97,7 +98,7 @@ https://github.com/hpamike/ai-stack-starter/blob/main/<pad>
 
 Nu pas, want stap 3 heeft bewezen dat schrijven werkt.
 
-Haal `00-start/BESTANDEN.md` op. Daar staat de paklijst: dertien bestanden plus de lijst
+Haal `00-start/BESTANDEN.md` op. Daar staat de paklijst: veertien bestanden plus de lijst
 zelf. Zet ze allemaal in `AIFiT Leiderschap/programma/`, met dezelfde paden als in de
 tabel. Ophalen gaat van
 `https://raw.githubusercontent.com/hpamike/ai-stack-starter/main/<pad>`.
@@ -111,7 +112,7 @@ mee hoeft te doen.
 bestanden van die week er staan en haalt alleen op wat ontbreekt. Opnieuw downloaden
 wat er al is, kost tijd en levert niets op.
 
-**Doe dit in stilte.** Het zijn veertien bestanden; meld niet elk bestand apart, dat
+**Doe dit in stilte.** Het zijn vijftien bestanden; meld niet elk bestand apart, dat
 leest als een foutmelding. Eén zin vooraf dat je het programma binnenhaalt en één zin
 achteraf dat het klaarstaat.
 

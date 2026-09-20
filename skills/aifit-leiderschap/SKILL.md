@@ -47,6 +47,7 @@ Basis-URL: `https://raw.githubusercontent.com/hpamike/ai-stack-starter/main/`
 | "Kun je deze repo installeren" | `INSTALLEER.md` |
 | "doe de systeemcheck", "ben ik klaar" | `00-start/SYSTEEMCHECK.md` |
 | "staat alles er nog", welke bestanden hij hoort te hebben | `00-start/BESTANDEN.md` |
+| elke opwarming van week 2 t/m 5, vóór het weekbestand | `00-start/OPWARMING-START.md` |
 | iets over het Canvas los van een week | `00-start/CANVAS.md` |
 | een skill installeren, of nakijken of hij werkt | `00-start/SKILLS-INSTALLEREN.md` |
 | "opwarming / workout / afronden week N" | `week-N/SESSIE.md` |

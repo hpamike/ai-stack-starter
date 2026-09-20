@@ -17,24 +17,58 @@ Trigger: `Ik wil de opwarming doen voor de sessie van week 3.`
 
 Week 1 gemist? Doe dan eerst de opwarming van week 1.
 
-**Kijk eerst of je het al hebt.** Staat `week-3/SESSIE.md` staat in zijn map
-`programma/`, werk daar dan uit en ga meteen door. **Niet opnieuw ophalen**: dat kost
-tijd en hij ziet je iets doen wat al gebeurd is.
+**Begin met `00-start/OPWARMING-START.md`.** Daar staat hoe elke opwarming begint: zeggen
+wat er gaat gebeuren, kijken of de installatie is gedaan en of de bestanden van deze week
+al op zijn laptop staan, en kort testen of zijn laptop nog doet wat deze week nodig heeft.
+Sla dat niet over; het kost een minuut en het voorkomt dat hij halverwege vastloopt.
 
-Ontbreekt er iets, haal dat dan nu op van GitHub en zet het op zijn plek. Ontbreekt de
-hele map `programma/`, haal dan `00-start/BESTANDEN.md` op en zet de hele set neer.
+## Vier accounts, en die maak je samen
 
-Zegt de begeleider dat het materiaal is bijgewerkt, of wil hij zeker weten dat hij de
-nieuwste versie heeft, dan haal je het alsnog op en overschrijf je de kopie.
+**Dit is het grootste deel van deze opwarming, en een lijstje met vier links is hier niet
+genoeg.** Voor de meeste deelnemers is dit de eerste keer dat ze bij drie van deze vier
+binnenkomen. Reken op een half uur en behandel ze **één voor één**: pas als hij zegt dat
+de vorige gelukt is, noem je de volgende.
 
-Loop dit samen af, en geef de accounts **één voor één**. Vraag na elk of het gelukt is
-voordat je de volgende geeft. Vraag eerst of hij een Google-account heeft; dan vallen
-de eerste twee daaronder en houdt hij er twee over.
+**Vraag eerst of hij een Google-account heeft.** Zo ja, dan vallen Gemini en NotebookLM
+daaronder en houdt hij er in de praktijk twee over. Dat scheelt hem de helft van het werk
+en het is prettig om dat vooraf te horen.
 
-- **Gemini** — `https://gemini.google.com` (Google-account)
-- **NotebookLM** — `https://notebooklm.google.com` (zelfde Google-account)
-- **Lovable** — `https://lovable.dev`
-- **Gamma** — `https://gamma.app`
+**Kijk mee in plaats van te gokken.** Open de pagina zelf in je browser voordat je hem
+iets laat klikken, en vertel wat je ziet: welke aanmeldknop er staat en welke manieren er
+worden aangeboden. Deze diensten veranderen hun aanmeldscherm regelmatig, dus **verzin
+geen knopnamen uit je hoofd**. Klopt wat hij ziet niet met wat jij beschrijft, vraag dan
+wat er wél staat en ga daarop verder.
+
+Per dienst dezelfde vier stappen, met een pauze na elke stap:
+
+1. Laat hem het adres openen in zijn browser.
+2. Vraag welke aanmeldknop hij ziet.
+3. Laat hem aanmelden. **Met Google of Apple gaat het het snelst**, want dan hoeft hij
+   geen wachtwoord te verzinnen. Kiest hij e-mail, zeg dan vooraf dat er een code in zijn
+   mailbox komt.
+4. Vraag of hij binnen is en of hij het scherm ziet waar je iets kunt typen.
+
+**Wachtwoorden typ jij nooit en vraag je ook nooit op.** Loopt hij vast in een
+aanmeldscherm, beschrijf dan wat hij moet aanklikken en laat hem het zelf doen.
+
+De vier, in deze volgorde:
+
+- **Gemini** — `https://gemini.google.com`. Google-account. Meestal is hij al ingelogd en
+  is dit binnen een minuut klaar.
+- **NotebookLM** — `https://notebooklm.google.com`. Zelfde Google-account, dus ook snel.
+  Laat hem wel even binnenkomen, want het scherm ziet er anders uit dan Gemini en dat is
+  in de sessie geen moment om te ontdekken.
+- **Lovable** — `https://lovable.dev`. Eigen account. Hier komt hij vaak een keuze tegen
+  over een gratis plan; laat hem het gratis plan nemen en zeg dat het voor deze sessie
+  genoeg is.
+- **Gamma** — `https://gamma.app`. Eigen account, ook een gratis plan.
+
+**Lukt een van de vier niet, stop dan niet de hele opwarming.** Noteer welke, ga door met
+de volgende, en zeg aan het eind wat het hem kost: zonder Lovable geen landingspagina,
+zonder Gamma geen slides. Dat is een halve oefening missen, geen verloren middag.
+
+## En verder nog twee dingen
+
 - **Een eigen product, dienst of initiatief waar hij een markt voor zoekt**, in drie
   zinnen op papier. **Zonder dit staat de workout stil.** Laat hem die drie zinnen nu
   formuleren, niet op de dag zelf.

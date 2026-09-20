@@ -25,15 +25,10 @@ werken. Zeg er dan bij dat het de formulering van zijn collega is en dat hij die
 onderweg naar zijn eigen woorden mag bijstellen; het Canvas moet aan het eind van
 de reeks van hem zijn.
 
-**Kijk eerst of je het al hebt.** Staan `week-2/SESSIE.md` en de vier sjablonen uit
-`week-2/sjablonen/` in zijn map `programma/`, werk daar dan uit en ga meteen door. **Niet opnieuw ophalen**: dat kost
-tijd en hij ziet je iets doen wat al gebeurd is.
-
-Ontbreekt er iets, haal dat dan nu op van GitHub en zet het op zijn plek. Ontbreekt de
-hele map `programma/`, haal dan `00-start/BESTANDEN.md` op en zet de hele set neer.
-
-Zegt de begeleider dat het materiaal is bijgewerkt, of wil hij zeker weten dat hij de
-nieuwste versie heeft, dan haal je het alsnog op en overschrijf je de kopie.
+**Begin met `00-start/OPWARMING-START.md`.** Daar staat hoe elke opwarming begint: zeggen
+wat er gaat gebeuren, kijken of de installatie is gedaan en of de bestanden van deze week
+al op zijn laptop staan, en kort testen of zijn laptop nog doet wat deze week nodig heeft.
+Sla dat niet over; het kost een minuut en het voorkomt dat hij halverwege vastloopt.
 
 **Zo doe je deze opwarming.** Zeg eerst in twee zinnen wat er gaat gebeuren en hoe lang
 het duurt: een paar dingen klaarzetten, daarna samen zijn assistent opzetten, drie

@@ -21,15 +21,10 @@ Trigger: `Ik wil de opwarming doen voor de sessie van week 5.`
 
 Week 1 gemist? Doe dan eerst de opwarming van week 1.
 
-**Kijk eerst of je het al hebt.** Staat `week-5/SESSIE.md` staat in zijn map
-`programma/`, werk daar dan uit en ga meteen door. **Niet opnieuw ophalen**: dat kost
-tijd en hij ziet je iets doen wat al gebeurd is.
-
-Ontbreekt er iets, haal dat dan nu op van GitHub en zet het op zijn plek. Ontbreekt de
-hele map `programma/`, haal dan `00-start/BESTANDEN.md` op en zet de hele set neer.
-
-Zegt de begeleider dat het materiaal is bijgewerkt, of wil hij zeker weten dat hij de
-nieuwste versie heeft, dan haal je het alsnog op en overschrijf je de kopie.
+**Begin met `00-start/OPWARMING-START.md`.** Daar staat hoe elke opwarming begint: zeggen
+wat er gaat gebeuren, kijken of de installatie is gedaan en of de bestanden van deze week
+al op zijn laptop staan, en kort testen of zijn laptop nog doet wat deze week nodig heeft.
+Sla dat niet over; het kost een minuut en het voorkomt dat hij halverwege vastloopt.
 
 Loop dit samen af:
 

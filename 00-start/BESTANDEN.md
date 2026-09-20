@@ -11,6 +11,7 @@ je een bestand altijd op naam terugvinden en is één blik genoeg om te zien wat
 |---|---|
 | `00-start/BESTANDEN.md` | deze paklijst |
 | `00-start/SYSTEEMCHECK.md` | de opwarming van week 1 |
+| `00-start/OPWARMING-START.md` | hoe elke opwarming van week 2 t/m 5 begint |
 | `00-start/CANVAS.md` | het Canvas, de ruggengraat van alle vijf de weken |
 | `00-start/SKILLS-INSTALLEREN.md` | een skill installeren en nakijken |
 | `week-1/SESSIE.md` | week 1 |
@@ -24,7 +25,7 @@ je een bestand altijd op naam terugvinden en is één blik genoeg om te zien wat
 | `week-5/SESSIE.md` | week 5 |
 | `skills/aifit-leiderschap/SKILL.md` | de begeleidingsskill, om te uploaden |
 
-Dertien bestanden plus deze lijst. Ophalen doe je van
+Veertien bestanden plus deze lijst. Ophalen doe je van
 `https://raw.githubusercontent.com/hpamike/ai-stack-starter/main/<pad>`.
 
 ## Wat er níét in hoort

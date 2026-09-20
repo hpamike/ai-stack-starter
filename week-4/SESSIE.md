@@ -17,22 +17,25 @@ Trigger: `Ik wil de opwarming doen voor de sessie van week 4.`
 
 Week 1 gemist? Doe dan eerst de opwarming van week 1.
 
-**Kijk eerst of je het al hebt.** Staat `week-4/SESSIE.md` staat in zijn map
-`programma/`, werk daar dan uit en ga meteen door. **Niet opnieuw ophalen**: dat kost
-tijd en hij ziet je iets doen wat al gebeurd is.
-
-Ontbreekt er iets, haal dat dan nu op van GitHub en zet het op zijn plek. Ontbreekt de
-hele map `programma/`, haal dan `00-start/BESTANDEN.md` op en zet de hele set neer.
-
-Zegt de begeleider dat het materiaal is bijgewerkt, of wil hij zeker weten dat hij de
-nieuwste versie heeft, dan haal je het alsnog op en overschrijf je de kopie.
+**Begin met `00-start/OPWARMING-START.md`.** Daar staat hoe elke opwarming begint: zeggen
+wat er gaat gebeuren, kijken of de installatie is gedaan en of de bestanden van deze week
+al op zijn laptop staan, en kort testen of zijn laptop nog doet wat deze week nodig heeft.
+Sla dat niet over; het kost een minuut en het voorkomt dat hij halverwege vastloopt.
 
 **Zeg dit meteen:** het AI FiT Report vraagt tijd van zijn team, niet van zijn laptop.
 Daarom een week van tevoren.
 
 Loop dit samen af:
 
-- **Zelf de check gedaan** op `https://aifit.nu/report`.
+- **Zelf de check gedaan** op `https://aifit.nu/report`. Doe dit samen en laat het niet
+  als huiswerk liggen: wie hem niet zelf heeft gedaan, kan de uitkomst van zijn team ook
+  niet lezen.
+
+  Open de pagina eerst zelf in je browser en vertel wat je ziet: waar hij begint, hoeveel
+  vragen het zijn en of er een account nodig is. **Verzin dat niet uit je hoofd.** Laat
+  hem daarna de link openen, vraag of hij hetzelfde scherm ziet, en laat hem de check
+  doen. Reken op een kwartier. Vraag daarna of hij zijn eigen uitkomst heeft gezien, en
+  of er iets in stond dat hem verbaasde; dat is meteen goede invoer voor de workout.
 - **Minimaal vijf teamleden hebben de check gedaan.** Hij stuurt ze de link; het kost
   ieder een kwartier.
 - **De pdf van het teamrapport** gedownload en opgeslagen als **`aifit-report.pdf`** in
