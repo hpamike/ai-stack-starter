@@ -143,5 +143,9 @@ Trigger: `Ik wil week 4 afronden.`
 2. Welk ExO-attribuut zou je team zelf nooit kiezen, en is dat terecht?
 3. Wat is de eerste zin die je morgen tegen je team zegt over AI?
 
+**Vraag ook naar `GEMISTE-VRAGEN.md`**, net als vorige week: wist zijn assistent iets
+niet wat zij had moeten weten? Volgende week opent met die lijst, dus dit is het laatste
+moment om hem aan te vullen terwijl hij het zich nog herinnert.
+
 Kijk daarna kort vooruit naar week 5. Zeg erbij dat hij dan in **Claude Code** werkt en
 niet in Cowork, en dat hij zijn jaarverslag of jaarcijfers nodig heeft.

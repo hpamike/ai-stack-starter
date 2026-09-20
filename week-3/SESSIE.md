@@ -238,5 +238,9 @@ Trigger: `Ik wil week 3 afronden.`
 3. Welke aanname in je campagneplan is het zwakst, en hoe test je die met je
    landingspagina?
 
+**Vraag ook naar `GEMISTE-VRAGEN.md`.** Wist zijn assistent deze week iets niet wat zij
+had moeten weten? Laat hem dat nu opschrijven. Week 5 begint met die lijst, en wie hem
+pas op de avond ervoor invult, kan zich niet meer herinneren wat er in week 3 misging.
+
 Kijk daarna kort vooruit naar week 4, en zeg dat die opwarming ook een week van tevoren
 begint omdat er teamleden aan te pas komen.

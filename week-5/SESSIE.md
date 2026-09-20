@@ -40,8 +40,15 @@ Loop dit samen af:
   doorgaan, want deze week heeft git niet nodig en zijn map is geen git-repository.
   Gebeurt dit tijdens de sessie zelf, dan nooit installeren: dat duurt te lang. Meld
   het aan de begeleider, dan weten we of het vaker gebeurt.
-- **Zijn assistent uit week 2 werkt:** `SOUL.md`, `USER.md` en `MEMORY.md` staan in de
-  map.
+- **Zijn assistent uit week 2 werkt.** Twee dingen, en het tweede wordt vaak vergeten.
+  `SOUL.md`, `USER.md` en `MEMORY.md` staan in de map. En zijn **assistent-skill** is
+  nog geïnstalleerd: laat hem in een nieuw gesprek buiten zijn map vragen wie hij is.
+  Komt daar zijn eigen rol en organisatie uit, dan zit het goed.
+
+  Is er sinds week 2 iets aan `SOUL.md` of `USER.md` veranderd, dan loopt die skill
+  achter, want een skill verandert niet mee met een bestand. Maak dan een nieuwe ZIP uit
+  het mapje `assistent/` en laat hem die uploaden, met de oude versie eruit. De route
+  staat in `00-start/SKILLS-INSTALLEREN.md`.
 - **`GEMISTE-VRAGEN.md` is bijgewerkt** met alles wat zijn assistent sinds week 2 niet
   wist.
 - **Het jaarverslag of de jaarcijfers** staan als **`jaarverslag.pdf`** in zijn map.
@@ -67,7 +74,9 @@ daarmee en zonder lijst valt er niets te sorteren. En geen `jaarverslag.pdf`: oe
 2b en het dashboard hebben zijn eigen cijfers nodig, anders bouwt hij een dashboard over
 iemand anders.
 
-**Risico zonder blokkade:** zijn gebruikslimiet, zie hierboven.
+**Risico zonder blokkade:** zijn gebruikslimiet, zie hierboven. En een assistent-skill
+die achterloopt op zijn eigen bestanden: dan antwoordt zij vanuit een versie van hem van
+weken geleden, en dat merkt hij niet omdat het gewoon werkt.
 
 Geef het oordeel: klaar voor de workout van week 5, of wat er nog moet gebeuren en
 tegen wanneer.
@@ -89,6 +98,11 @@ Begin met zijn **`GEMISTE-VRAGEN.md`** en sorteer samen in twee stapels:
 
 - wat **opgezocht** had kunnen worden — een ontbrekende pagina
 - wat **geweten** had moeten worden — een ontbrekende regel in `USER.md` of `MEMORY.md`
+
+**Wijzig je hier `USER.md`, dan loopt zijn skill achter.** Die draagt een kopie van
+`SOUL.md` en `USER.md` en verandert niet mee. Zeg het meteen als je er een regel
+bijschrijft, en laat hem aan het eind van de middag een nieuwe ZIP uploaden. `MEMORY.md`
+zit er bewust niet in, dus dat bestand kun je vrij bijwerken.
 
 Dat onderscheid is de kern van de middag. Laat hem sorteren; jij vraagt door.
 
