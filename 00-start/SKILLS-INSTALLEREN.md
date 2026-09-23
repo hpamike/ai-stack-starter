@@ -1,8 +1,8 @@
 # Skills installeren en controleren
 
-**Instructie voor Claude.** Twee keer in dit programma installeert de deelnemer een
-skill: de begeleidingsskill in week 1, en zijn eigen assistent in week 2. De route is
-beide keren dezelfde, en dit bestand is de enige plek waar hij helemaal staat. Verwijs
+**Instructie voor Claude.** Drie keer in dit programma installeert de deelnemer een
+skill: de begeleidingsskill in week 1, zijn eigen assistent in week 2, en de ExO-skill
+in week 4. De route is elke keer dezelfde, en dit bestand is de enige plek waar hij helemaal staat. Verwijs
 hierheen, schrijf hem niet opnieuw.
 
 Hij mag dit ook los aanroepen, met iets als "help me mijn skill installeren", "is mijn
@@ -24,7 +24,8 @@ volgt de taakverdeling, en die benoem je vooraf:
 
    **Maak hem zelf, uit het bestand dat op zijn laptop staat.** Voor de
    begeleidingsskill is dat `programma/skills/aifit-leiderschap/SKILL.md`, voor zijn
-   eigen assistent het mapje dat je in week 2 hebt gevuld. Dat bestand is altijd de
+   eigen assistent het mapje dat je in week 2 hebt gevuld, voor de ExO-skill het mapje
+   `programma/skills/exo-intelligence-stack/` **met `references/` en `assets/` erin**. Dat bestand is altijd de
    actuele versie, dus een ZIP die je er zelf van maakt ook.
 
    Kun je dat niet, dan staat er een kant-en-klare versie in de repo:
@@ -66,8 +67,9 @@ tabel hieronder stellen.
 
 | Welke skill | Wat hij vraagt | Goed | Fout |
 |---|---|---|---|
-| Begeleidingsskill (week 1) | "wat is de opwarming van week 3" | Gemini, NotebookLM, Lovable en Gamma komen langs | een algemeen antwoord over voorbereiden |
+| Begeleidingsskill (week 1) | "wat is de opwarming van week 3" | Perplexity, Gemini, NotebookLM, Lovable en Gamma komen langs | een algemeen antwoord over voorbereiden |
 | Zijn eigen assistent (week 2) | "wie ben ik" | zijn eigen rol en organisatie, plus de melding dat zij zijn MEMORY hier niet kan lezen | een algemeen antwoord |
+| ExO-skill (week 4) | "wat zijn de lagen van de Intelligence Stack" | PURPOSE, SENSE, INTERPRET, DECIDE, ORCHESTRATE, LEARN en GOVERN | een algemeen antwoord over organisatieontwerp |
 
 Die tweede melding is geen storing maar het bewijs dat het werkt: `MEMORY.md` staat
 bewust in zijn map en niet in de skill, en de skill hoort te zeggen dat ze er niet bij
@@ -83,6 +85,8 @@ alles gewoon door. Zeg dat er meteen bij, dan blijft hij niet hangen.
 - **Het is een map geworden in plaats van een ZIP**, of er zit een maplaag omheen die er
   niet hoort. Kijk of `SKILL.md` in de ZIP te vinden is; zo niet, maak hem opnieuw vanuit
   de inhoud van het mapje.
+- **Er zit alleen `SKILL.md` in** (ExO-skill). Die skill verwijst naar `references/` en
+  `assets/`; zonder die mapjes werkt hij half. Maak de ZIP opnieuw van het hele mapje.
 - **De frontmatter klopt niet.** `name` en `description` moeten er allebei staan, en
   `name` in kleine letters zonder spaties.
 - **Zijn account of werkgever staat het niet toe.** Dat zie je aan een melding bij het

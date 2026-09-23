@@ -40,9 +40,9 @@ programma laten rusten.
 | In de sessie, als jij het zegt | `Ik begin met de workout van week N.` |
 | Aan het eind | `Ik wil week N afronden.` |
 
-Week 3 heeft een langere startzin (de workout begint met een campagnevraag) en week 2
-kent er nog één extra: `Help mij mijn assistent in te stellen.` Beide staan in het
-weekbestand.
+Week 3 heeft een langere startzin (de workout begint met een campagnevraag); die staat
+in het weekbestand. `Help mij mijn assistent in te stellen.` werkt ook, en brengt ze
+bij de workout van week 2.
 
 ## Opbouw van elke bijeenkomst
 
@@ -60,13 +60,13 @@ week 4 al aankondigen, want Code klaarzetten kost sommigen tijd.
 | Week | Wat de deelnemer moet regelen | Hoe lang vooraf |
 |---|---|---|
 | 1 | Cowork, instellingen, project en map, connectors | een paar dagen |
-| 2 | Perplexity-account | een paar dagen |
-| 3 | Gemini, NotebookLM, Lovable, Gamma, plus een eigen product in drie zinnen | **minstens een week** |
-| 4 | AI FiT Report met minimaal vijf teamleden op aifit.nu/report | **minstens een week** |
-| 5 | Claude Code werkend, jaarverslag in de map, GEMISTE-VRAGEN bijgewerkt | een paar dagen |
+| 2 | Canvas af, begeleidingsskill geüpload, nadenken over een naam en een taak | een paar dagen |
+| 3 | Perplexity, Gemini, NotebookLM, Lovable, Gamma, plus een eigen product en doelgroep in drie zinnen | **minstens een week** |
+| 4 | AI FiT-scan met minimaal vijf teamleden op aifit.nu/report, `team-analyse.md` thuis gemaakt, ExO-skill geüpload | **minstens een week** |
+| 5 | Claude Code werkend, ExO-skill in de map, jaarverslag in de map, GEMISTE-VRAGEN bijgewerkt | een paar dagen |
 
-Week 3 en 4 zijn de twee waar je actief achteraan moet. Bij week 3 omdat vier
-registraties twintig minuten kosten die ze die middag niet hebben; bij week 4 omdat het
+Week 3 en 4 zijn de twee waar je actief achteraan moet. Bij week 3 omdat vijf
+registraties een half uur kosten die ze die middag niet hebben; bij week 4 omdat het
 tijd van andere mensen vraagt.
 
 ## De momenten waar het omslaat
@@ -74,11 +74,18 @@ tijd van andere mensen vraagt.
 **Week 1, veld 9 van het Canvas.** De vraag wat AI zelf mag beslissen en wie
 aanspreekbaar is. Daar wordt het bij leidinggevenden concreet.
 
-**Week 2, na de vijf vragen.** Het moment dat hun assistent iets terugzegt dat zij
-normaal elke keer opnieuw uitleggen.
+**Week 2, de test in een nieuw gesprek.** Het moment dat hun assistent, buiten hun map,
+iets terugzegt dat zij normaal elke keer opnieuw uitleggen. Dat gebeurt nu in de zaal
+en niet meer thuis; laat ze het aan tafel aan elkaar laten zien.
+
+**Week 4, de one-way doors.** Welke beslissingen nooit zonder mens mogen. Dezelfde vraag
+als veld 9 in week 1, maar nu met het rapport van hun eigen team ernaast.
 
 **Week 5, de zes getallen.** Ze schrijven ze met de pen op en ontdekken hoeveel ze er
 niet weten. Dat gat draagt de hele middag; ga het niet wegnemen.
+
+**Week 5, de eerste keer verversen.** Het dashboard zoekt niet zelf; `VERVERS.md` laat
+Claude opnieuw zoeken. Wie ziet dat één zin een meetronde is, snapt SENSE.
 
 ## Hoe de begeleiding zich gedraagt
 
@@ -109,6 +116,22 @@ lang de oude versie en de andere de nieuwe, en dat is een verschil dat je in de 
 niet kunt verklaren.
 
 Regel: wijzig materiaal uiterlijk een half uur voor aanvang, en daarna niet meer.
+
+## De ExO-skill
+
+`skills/exo-intelligence-stack/` is de ExO 3.0 Intelligence Stack-skill uit de
+Techgrounds-map op Drive, overgenomen op 23-09-2026 (daar stond "beschikbaar t/m 30
+september 2026"). Deelnemers uploaden hem in de opwarming van week 4 en zetten hem in
+week 5 ook in hun map voor Claude Code.
+
+Eén wijziging ten opzichte van het origineel: in de `description` staat
+`[naam deelnemer]` waar "Ruben" stond. Claude vult daar bij het maken van de ZIP de naam
+van de deelnemer in. Het voorbeeld in `references/` noemt Ruben nog wel, als deel van de
+VECTOR-casus.
+
+Het mapje is de bron waar Claude per deelnemer een ZIP van maakt;
+`skills/exo-intelligence-stack.zip` is daar een momentopname van, met de placeholder nog
+erin.
 
 ## Wat nog open staat
 

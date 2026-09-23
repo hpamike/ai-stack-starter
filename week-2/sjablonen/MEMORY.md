@@ -16,7 +16,8 @@ Wat maanden loopt hoort in `USER.md`.
 
 ## Wat ik uit de bronnen van deze week haal
 
-De drie inzichten die hij zelf koos uit `bronnen-week2.md`.
+De drie inzichten die hij zelf koos uit zijn laatste research, in week 3 uit
+`markt-onderzoek.md`. Wordt vervangen als er nieuwe research is.
 
 1. [...]
 2. [...]

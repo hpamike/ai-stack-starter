@@ -11,7 +11,7 @@ hoofd.
 
 Daarna loop je de punten **één voor één** af en wacht je telkens op antwoord. Begin elke
 stap met waar hij is: "stap 3 van 6". Bestaat een stap uit meerdere handelingen, tel
-daarbinnen opnieuw: "de tweede van vier accounts".
+daarbinnen opnieuw: "de tweede van vijf accounts".
 
 **Eindig nooit met alleen een lijstje of een bestand**: elk punt sluit af met wat hij nu
 moet doen, of met de melding dat het klaar is.

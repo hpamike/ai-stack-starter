@@ -3,8 +3,9 @@
 **Instructie voor Claude.** Drie delen. Doe alleen het deel waar de deelnemer om
 vraagt.
 
-**Leerdoel:** een campagne ontwerpen en testen met vijf gereedschappen.
-**Wat hij maakt:** campagneplan, huisstijl, landingspagina en slides.
+**Leerdoel:** marktonderzoek doen en een campagne ontwerpen en testen met vijf
+gereedschappen: Perplexity, Gemini, NotebookLM, Lovable en Gamma.
+**Wat hij maakt:** marktonderzoek, campagneplan, huisstijl, landingspagina en slides.
 
 ---
 
@@ -22,20 +23,21 @@ wat er gaat gebeuren, kijken of de installatie is gedaan en of de bestanden van 
 al op zijn laptop staan, en kort testen of zijn laptop nog doet wat deze week nodig heeft.
 Sla dat niet over; het kost een minuut en het voorkomt dat hij halverwege vastloopt.
 
-## Vier accounts, en die maak je samen
+## Vijf accounts, en die maak je samen
 
-**Dit is het grootste deel van deze opwarming, en een lijstje met vier links is hier niet
-genoeg.** Voor de meeste deelnemers is dit de eerste keer dat ze bij drie van deze vier
-binnenkomen. Reken op een half uur en behandel ze **één voor één**: pas als hij zegt dat
-de vorige gelukt is, noem je de volgende.
+**Dit is het grootste deel van deze opwarming, en een lijstje met vijf links is hier niet
+genoeg.** Voor de meeste deelnemers is dit de eerste keer dat ze bij de meeste van deze
+vijf binnenkomen. Reken op een half uur en behandel ze **één voor één**: pas als hij zegt
+dat de vorige gelukt is, noem je de volgende.
 
 **Vraag eerst of hij een Google-account heeft.** Zo ja, dan vallen Gemini en NotebookLM
-daaronder en houdt hij er in de praktijk twee over. Dat scheelt hem de helft van het werk
-en het is prettig om dat vooraf te horen.
+daaronder en houdt hij er in de praktijk drie over. Dat scheelt hem werk en het is
+prettig om dat vooraf te horen.
 
-**Toon eerst het overzicht, en dan niets meer tegelijk.** Zeg welke vier het zijn en
+**Toon eerst het overzicht, en dan niets meer tegelijk.** Zeg welke vijf het zijn en
 dat jullie ze één voor één doen, zodat hij weet wat er komt:
 
+- Perplexity — `https://www.perplexity.ai`
 - Gemini — `https://gemini.google.com`
 - NotebookLM — `https://notebooklm.google.com`
 - Lovable — `https://lovable.dev`
@@ -43,10 +45,10 @@ dat jullie ze één voor één doen, zodat hij weet wat er komt:
 
 **Daarna behandel je ze strikt één voor één.** Noem het adres van de dienst waar je nu
 mee bezig bent en wacht tot hij zegt dat hij binnen is, voordat je de volgende noemt.
-Zeg er telkens bij de hoeveelste het is: "de tweede van vier".
+Zeg er telkens bij de hoeveelste het is: "de tweede van vijf".
 
 **Hij opent en meldt zich zelf aan.** Jij doet dit niet voor hem, ook niet als je een
-browser hebt. Hij moet deze vier volgende week zelf kunnen openen, en dat leert hij niet
+browser hebt. Hij moet deze vijf volgende week zelf kunnen openen, en dat leert hij niet
 door toe te kijken.
 
 **Kijk wel mee in plaats van te gokken.** Open de pagina zelf in je browser voordat je
@@ -69,6 +71,17 @@ aanmeldscherm, beschrijf dan wat hij moet aanklikken en laat hem het zelf doen.
 
 Wat je per dienst nog moet weten:
 
+- **Perplexity.** Eigen account; met Google of Apple is het zo gebeurd. Laat hem daarna
+  **één proefvraag** stellen, zodat hij weet hoe het eruitziet:
+
+  ```
+  Welke drie trends zie je in de markt voor [zijn sector] in de afgelopen twee jaar?
+  Noem per trend de bron, de organisatie erachter en het jaar.
+  ```
+
+  Het gaat niet om het antwoord. Hij moet gezien hebben dat Perplexity bronnen onder
+  zijn antwoord zet en dat je die kunt aanklikken, want daar draait oefening 1 straks
+  op. Vraag hem dat te bevestigen: ziet hij de bronnen staan?
 - **Gemini.** Google-account. Meestal is hij al ingelogd en is dit binnen een minuut
   klaar.
 - **NotebookLM.** Zelfde Google-account, dus ook snel. Laat hem wel even binnenkomen,
@@ -78,15 +91,16 @@ Wat je per dienst nog moet weten:
   laat hem dat nemen en zeg dat het voor deze sessie genoeg is.
 - **Gamma.** Eigen account, ook een gratis plan.
 
-**Lukt een van de vier niet, stop dan niet de hele opwarming.** Noteer welke, ga door met
-de volgende, en zeg aan het eind wat het hem kost: zonder Lovable geen landingspagina,
-zonder Gamma geen slides. Dat is een halve oefening missen, geen verloren middag.
+**Lukt een van de vijf niet, stop dan niet de hele opwarming.** Noteer welke, ga door met
+de volgende, en zeg aan het eind wat het hem kost: zonder Perplexity geen
+marktonderzoek, zonder Lovable geen landingspagina, zonder Gamma geen slides. Dat is een
+oefening missen, geen verloren middag.
 
 ## En verder nog twee dingen
 
 - **Een eigen product, dienst of initiatief waar hij een markt voor zoekt**, in drie
-  zinnen op papier. **Zonder dit staat de workout stil.** Laat hem die drie zinnen nu
-  formuleren, niet op de dag zelf.
+  zinnen op papier, **met de doelgroep die hij voor ogen heeft**. **Zonder dit staat de
+  workout stil.** Laat hem die drie zinnen nu formuleren, niet op de dag zelf.
 - **Heeft hij een marketingplan, huisstijl of website?** Dan die in de map `AIFiT
   Leiderschap` zetten.
 
@@ -96,9 +110,9 @@ zonder Gamma geen slides. Dat is een halve oefening missen, geen verloren middag
 Zonder onderwerp is er niets om een campagne voor te maken en zit hij een middag te
 kijken. Hier vraag je desnoods op door tot hij iets heeft.
 
-**Blokkeert één oefening elk:** een ontbrekend account. Geen Gemini betekent geen
-campagneplan en geen moodboard, geen NotebookLM geen bronnenanalyse, geen Lovable geen
-landingspagina, geen Gamma geen slides. Hij kan de middag wel volgen, maar loopt met
+**Blokkeert één oefening elk:** een ontbrekend account. Geen Perplexity betekent geen
+marktonderzoek, geen Gemini geen campagneplan en geen moodboard, geen NotebookLM geen
+bronnenanalyse, geen Lovable geen landingspagina, geen Gamma geen slides. Hij kan de middag wel volgen, maar loopt met
 lege handen naar buiten.
 
 Geef het oordeel: klaar voor de workout van week 3, of welk account nog ontbreekt en
@@ -108,8 +122,8 @@ welke oefening hij daarmee misloopt.
 
 # Workout: een campagne voor een nichedoelgroep
 
-*In de sessie. Jij bent de regisseur in Cowork; Gemini, NotebookLM, Lovable en Gamma
-opent hij in de browser. Alles wat hij maakt komt in zijn map.*
+*In de sessie. Jij bent de regisseur in Cowork; Perplexity, Gemini, NotebookLM, Lovable
+en Gamma opent hij in de browser. Alles wat hij maakt komt in zijn map.*
 
 Trigger: `Ik begin met de workout van week 3. Ik wil een campagne testen voor een
 nichedoelgroep.`
@@ -117,25 +131,75 @@ nichedoelgroep.`
 Stel eerst **maximaal vijf vragen**: welk product, welke doelgroep, wat het doel van de
 test is, welk budget en welke termijn, en wat er al ligt.
 
-Daarna zeven oefeningen. **De tijden zijn krap: ga bij elke oefening voor bruikbaar,
-niet voor perfect.** Zeg dat ook tegen hem.
+Daarna vijf oefeningen, één per gereedschap. **De tijden zijn krap: ga bij elke
+oefening voor bruikbaar, niet voor perfect.** Zeg dat ook tegen hem.
 
-## Oefening 1 — nichemarkt en campagneplan in Gemini (10 min)
+## Oefening 1 — markttrends en doelgroep in Perplexity (10 min)
 
-Vul de prompt voor hem in en laat hem die in Gemini plakken. Laat hem doorvragen tot de
-doelgroep concreet is.
+Vul product, markt en doelgroep in uit zijn antwoorden en geef hem de prompt. Hij
+controleert hem, kopieert hem, en plakt hem in Perplexity.
+
+```
+PROMPT PERPLEXITY MARKTONDERZOEK
+
+Context / rol
+Je bent mijn marktonderzoeker. [organisatie] wil [product of initiatief] testen bij
+[doelgroep] in [markt of regio].
+
+Instructie
+Gebruik betrouwbare bronnen: statistiekbureaus zoals het CBS en Eurostat,
+brancheorganisaties, onderzoeksinstituten, universiteiten en bekende
+consultancyrapporten. Bij voorkeur uit de afgelopen 24 maanden. Vermijd blogs, hype en
+salespagina's. Noem bij elk cijfer de bron en het jaar. Vind je iets niet, schrijf dan
+onbekend; schat niet.
+
+Taak
+1. De drie tot vijf belangrijkste markttrends voor [product of initiatief] in [markt]:
+per trend wat er verschuift, een cijfer dat het onderbouwt, en wat het betekent voor
+[doelgroep].
+2. De demografie van [doelgroep]: omvang, leeftijd, regio, opleiding of beroep,
+inkomen of budget, en hoe dat de afgelopen jaren verandert.
+3. Hun gedrag: welke kanalen en media ze gebruiken, waar ze informatie halen voordat
+ze kopen, en welke woorden ze zelf gebruiken voor hun probleem.
+4. Een tabel met alle bronnen: Type, Titel, Organisatie / auteur, Jaar, Link, Wat het
+onderbouwt, Betrouwbaarheid 1 tot 10.
+Sluit af met drie zinnen: wat betekent dit voor een campagne bij deze doelgroep?
+```
+
+Hij plakt het antwoord terug bij jou. **Dan doe jij het napluiswerk en velt hij het
+oordeel.**
+
+Jouw deel: open de bronnen en kijk of ze bestaan en of ze zeggen wat Perplexity
+beweert. Geef per bron één regel: klopt, klopt niet, of niet te openen. Een cijfer dat
+je niet in de bron terugvindt, markeer je; daar bouwt de rest van de middag op.
+
+Zijn deel, en dat neem je niet van hem over: welk cijfer staat het zwakst, en welke
+trend zou hij aan zijn eigen bestuur durven laten zien. Dat oordeel is het leerdoel;
+het openklikken is werk dat jij sneller doet.
+
+Sla het resultaat op als **`markt-onderzoek.md`** in zijn map, met jouw controle per
+bron erbij. **Laat hem drie inzichten kiezen** en zet die, in zijn woorden, in
+`MEMORY.md` onder "Wat ik uit de bronnen van deze week haal". Zo weet zijn assistent
+uit week 2 waar hij mee bezig is.
+
+## Oefening 2 — campagneplan en moodboard in Gemini (10 min)
+
+Vul de eerste prompt voor hem in en laat hem die in Gemini plakken, **met
+`markt-onderzoek.md` erbij**. Laat hem doorvragen tot de doelgroep concreet is.
 
 ```
 PROMPT GEMINI CAMPAGNEPLAN
 
 Context / rol
 Je bent een marketingstrateeg voor [organisatie] in de sector [sector]. We willen
-[product of initiatief] testen bij een nichedoelgroep: [doelgroep].
+[product of initiatief] testen bij een nichedoelgroep: [doelgroep]. Het marktonderzoek
+hieronder is je vertrekpunt.
 
 Instructie
 Stel eerst drie scherpe vragen over de doelgroep voordat je adviseert. Werk daarna met
-concrete aannames en benoem ze. Geen algemene marketingtaal; alles moet binnen
-[budget] en [termijn] uitvoerbaar zijn.
+concrete aannames en benoem ze. Gebruik de trends en de demografie uit het
+marktonderzoek en zeg bij elke keuze op welk cijfer die rust. Geen algemene
+marketingtaal; alles moet binnen [budget] en [termijn] uitvoerbaar zijn.
 
 Taak
 1. Beschrijf de nichedoelgroep: wie, waar, welk probleem, welke taal ze gebruiken.
@@ -144,10 +208,8 @@ per kanaal een actie, een meetpunt en een succesdrempel. 4. Benoem het grootste 
 van dit plan. Lever als document van maximaal een A4.
 ```
 
-## Oefening 2 — moodboard en brandrichtlijnen in Gemini (10 min)
-
-Zelfde chat, zodat Gemini het campagneplan nog kent. Beoordeel de prompt samen voordat
-hij hem plakt.
+Daarna, in dezelfde chat zodat Gemini het plan nog kent, de tweede prompt. Beoordeel
+hem samen voordat hij hem plakt.
 
 ```
 PROMPT GEMINI MOODBOARD EN BRANDRICHTLIJNEN
@@ -172,8 +234,9 @@ in de map: **`campagneplan.md`**, `moodboard.png` en **`brandrichtlijnen.md`**.
 ## Oefening 3 — bronnen en inzichten in NotebookLM (10 min)
 
 Hij maakt een notebook `Campagne [naam]` en voegt als bronnen toe: `campagneplan.md`,
-`brandrichtlijnen.md`, zijn eigen website of documenten, `bronnen-week2.md`, het
-DEPT-rapport over AI en marketing
+`brandrichtlijnen.md`, `markt-onderzoek.md`, **de bronnen uit Perplexity die de
+controle doorstonden** (als link), zijn eigen website of documenten, het DEPT-rapport
+over AI en marketing
 (`https://drive.google.com/drive/folders/1Bt6__ND5LqodTMVop3BVGJdfJKLZibPw?usp=sharing`)
 en eventueel andere waardevolle bronnen.
 
@@ -189,7 +252,7 @@ Hij plakt de antwoorden bij jou terug; sla ze op als **`notebook-inzichten.md`**
 Studio maakt hij een audio-overzicht en een infographic; die laatste komt in de map als
 **`infographic.png`**.
 
-## Oefening 4 — de Lovable-prompt (5 min)
+## Oefening 4 — landingspagina in Lovable (15 min)
 
 Hij typt: *"Maak de Lovable-prompt voor mijn landingspagina."* Lees `campagneplan.md`,
 `brandrichtlijnen.md` en `notebook-inzichten.md`, leg in drie zinnen uit wat Lovable
@@ -217,14 +280,12 @@ eigen woorden, 3. hoe het werkt in drie stappen, 4. een formulier voor [call-to-
 en hoeveel aanmeldingen.
 ```
 
-## Oefening 5 — landingspagina bouwen in Lovable (15 min)
-
 Hij plakt de prompt in Lovable en komt terug met wat hij ziet, inclusief screenshot.
-Help hem in **maximaal drie rondes** verbeteren, per ronde één concrete wijziging die
+Help hem in **maximaal twee rondes** verbeteren, per ronde één concrete wijziging die
 hij in Lovable typt, tot de pagina kop, voordelen, stappen en formulier toont. De link
 naar zijn pagina komt in zijn map.
 
-## Oefening 6 — de Gamma-opdracht (5 min)
+## Oefening 5 — slides in Gamma (10 min)
 
 Hij typt: *"Maak de tekst voor mijn Gamma-presentatie."* Vraag aan wie hij presenteert
 (budgethouder of investeerder) en wat hij van die persoon vraagt.
@@ -234,13 +295,11 @@ vraag, 2 nichedoelgroep, 3 het probleem, 4 de propositie, 5 de campagne in drie
 kanalen, 6 de huisstijl, 7 de landingspagina, 8 wat je meet en wanneer het geslaagd is,
 9 budget en termijn, 10 de vraag aan de zaal.
 
-## Oefening 7 — slides maken in Gamma (5 min)
+Daarna in Gamma: nieuwe presentatie vanuit tekst (paste in text), tekst van jou erin,
+een thema dat bij de brandrichtlijnen past. Exporteren als pdf naar zijn map.
 
-Nieuwe presentatie vanuit tekst (paste in text), tekst van jou erin, een thema dat bij
-de brandrichtlijnen past. Exporteren als pdf naar zijn map.
-
-**Klaar wanneer:** in zijn map staan `campagneplan.md`, `brandrichtlijnen.md`,
-`notebook-inzichten.md`, de link naar zijn landingspagina en de pdf van zijn slides.
+**Klaar wanneer:** in zijn map staan `markt-onderzoek.md` met controle per bron,
+`campagneplan.md`, `brandrichtlijnen.md`, `notebook-inzichten.md`, de link naar zijn landingspagina en de pdf van zijn slides.
 
 ---
 
@@ -251,11 +310,12 @@ Trigger: `Ik wil week 3 afronden.`
 1. Welk gereedschap verraste je, en welk zou je morgen niet meer gebruiken?
 2. Wat zou je een marketingbureau nu anders vragen dan voor vandaag?
 3. Welke aanname in je campagneplan is het zwakst, en hoe test je die met je
-   landingspagina?
+   landingspagina? Welk cijfer uit je marktonderzoek zou die aanname onderuithalen?
 
 **Vraag ook naar `GEMISTE-VRAGEN.md`.** Wist zijn assistent deze week iets niet wat zij
 had moeten weten? Laat hem dat nu opschrijven. Week 5 begint met die lijst, en wie hem
 pas op de avond ervoor invult, kan zich niet meer herinneren wat er in week 3 misging.
 
 Kijk daarna kort vooruit naar week 4, en zeg dat die opwarming ook een week van tevoren
-begint omdat er teamleden aan te pas komen.
+begint: de AI FiT-scan vraagt tijd van zijn team, en de analyse van het teamrapport
+doet hij thuis.

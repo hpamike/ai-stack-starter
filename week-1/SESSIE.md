@@ -5,7 +5,8 @@ vraagt.
 
 **Leerdoel:** begrijpen wat intelligentie als productiefactor verandert; socratisch en
 kritisch prompten.
-**Wat hij maakt:** zijn Canvas en zijn Shaping Questions.
+**Wat hij maakt:** een brainstorm over zijn Canvas, en daaruit zijn Canvas en zijn
+Shaping Questions.
 
 ---
 
@@ -48,7 +49,7 @@ niet-blokkerende punten eventueel nog openstaan en wat dat hem later kost.
 
 ---
 
-# Workout: je Canvas
+# Workout: brainstorm over je Canvas
 
 *In de sessie. In Claude Cowork; het Canvas komt als bestand in zijn map.*
 
@@ -63,22 +64,39 @@ woorden antwoorden.
 Bewaar dit in het project. Je gebruikt het de rest van het programma, dus vraag door
 waar een antwoord vaag blijft.
 
-## Oefening 2 — het Canvas, veld voor veld (40 min)
+## Oefening 2 — brainstorm over het Canvas (40 min)
 
-Loop de **elf velden** door in deze volgorde. Per veld: een korte uitleg, de vraag uit
-het sjabloon, en **een eerste antwoord van jou in twee zinnen**, gebouwd op wat hij bij
-oefening 1 heeft verteld. Vraag daarna wat er niet klopt en wat hij zou aanvullen.
-
-Weet je te weinig voor een voorstel, zeg dat dan en stel alleen de vraag. Een verzonnen
-feit over zijn organisatie is erger dan een leeg veld. Wat er uiteindelijk staat, is zijn
-formulering en niet die van jou.
+Dit is een brainstorm, geen invuloefening. Eerst breed, dan kiezen. Zeg dat vooraf,
+en zeg er ook bij dat een wild idee hier meer oplevert dan een verstandig antwoord.
 
 De vragen staan in `00-start/CANVAS.md`, het sjabloon. Haal dat bestand op en gebruik die
 formuleringen; verzin er geen eigen versie van.
 
-Reken op ongeveer drie tot vier minuten per veld. Loopt een veld uit, zeg dat dan en
-ga door; een half antwoord met een open vraag eronder is beter dan één perfect veld en
-negen lege.
+**Ronde 1 — breed (20 min).** Loop de **vier blokken** af: Markt (veld 1–3), Bestemming
+(4–6), Organisatie (7–8) en Onderaan (9–10). Per blok vraag je hem om **minstens drie
+ideeën, vragen of zorgen**, zonder dat ze al goed hoeven te zijn.
+
+Jij begint hier met een **prikkel**, niet met een antwoord: één scherpe vraag of een
+wat-als, gebouwd op wat hij bij oefening 1 vertelde. Bijvoorbeeld: *"Wat als je klant
+morgen gratis kan wat jullie nu verkopen?"* of *"Wie in je organisatie merkt het als
+eerste als een agent zijn werk overneemt?"* Beoordeel in deze ronde niets en vat niet
+samen; schrijf alles op in **`canvas-brainstorm.md`** in zijn map, per blok, in zijn
+woorden.
+
+**Ronde 2 — aan tafel (5 min).** Laat hem per blok het idee kiezen dat hem het meest
+verraste, en zeg dat hij die vier aan zijn tafelgenoten voorlegt. Wat hij terugkrijgt,
+zet hij er zelf bij.
+
+**Ronde 3 — kiezen (15 min).** Nu wordt het Canvas. Loop de **elf velden** door, veld 0
+eerst. Per veld leg je voor welke ideeën uit de brainstorm erbij horen en doe je **een
+voorstel van twee zinnen** dat daarop bouwt. Hij kiest, schrapt en formuleert. Wat
+blijft staan is zijn formulering.
+
+Weet je te weinig voor een voorstel, zeg dat dan en stel alleen de vraag. Een verzonnen
+feit over zijn organisatie is erger dan een leeg veld. Is een veld na de brainstorm nog
+niet rijp, zet er dan zijn beste open vraag onder in plaats van een antwoord; dat is in
+week 1 een goede uitkomst. **Veld 0 (scope) en veld 1 (shaping questions) moeten wel
+gevuld zijn**: de opwarming van week 2 leest die twee.
 
 ## Oefening 3 — kritisch prompten (10 min)
 
@@ -97,9 +115,10 @@ betekent voor de volgende week.
   zonder tegenargumenten is een mening.
 - *"Wat gaat er mis als deze grens ontbreekt?"* Zo test hij veld 9.
 
-**Klaar wanneer:** alle elf velden hebben een formulering van hemzelf, scope
-inbegrepen. Zet het Canvas in de **wortel** van zijn map `AIFiT Leiderschap`, onder de
-naam **`MIJN-CANVAS.md`**. Die naam is geen smaakkwestie: de opwarming van week 2 kijkt
+**Klaar wanneer:** `canvas-brainstorm.md` staat in zijn map, en elk van de elf velden
+heeft een formulering van hemzelf of zijn beste open vraag; veld 0 en 1 zijn gevuld.
+Zet het Canvas in de **wortel** van zijn map `AIFiT Leiderschap`, onder de naam
+**`MIJN-CANVAS.md`**. Die naam is geen smaakkwestie: de opwarming van week 2 kijkt
 er zelf in om te zien of hij week 1 gedaan heeft, en `CANVAS.md` is al bezet door het
 sjabloon in `programma/00-start/`. Twee bestanden met dezelfde naam in één map is
 precies hoe zo'n controle op het verkeerde bestand landt.
@@ -113,8 +132,8 @@ Trigger: `Ik wil week 1 afronden.`
 Stel deze drie vragen. Zijn antwoorden komen in het project; ze worden plenair
 besproken.
 
-1. Welk veld van het Canvas kostte je de meeste moeite, en wat zegt dat over je
-   organisatie?
+1. Welk idee uit de brainstorm had je vanochtend nog niet, en in welk veld is het
+   geland?
 2. Welke vraag heeft Claude je gesteld die je jezelf nog niet had gesteld?
 3. Wat is de open vraag die je meeneemt naar volgende week?
 

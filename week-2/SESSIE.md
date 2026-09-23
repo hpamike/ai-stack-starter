@@ -3,15 +3,15 @@
 **Instructie voor Claude.** Drie delen. Doe alleen het deel waar de deelnemer om
 vraagt.
 
-**Leerdoel:** betrouwbare bronnen vinden en beoordelen; een assistent met geheugen
-inrichten.
-**Wat hij maakt:** een bronnentabel en zijn eigen AI-assistent.
+**Leerdoel:** een eigen assistent bouwen met Claude Skills: geheugen, grenzen en een
+eerste routine.
+**Wat hij maakt:** zijn eigen AI-assistent, als skill in zijn account.
 
 ---
 
 # Opwarming
 
-*Thuis, reken op drie kwartier. In Claude Cowork, niet in Chat of Code.*
+*Thuis, reken op een kwartier. In Claude Cowork, niet in Chat of Code.*
 
 Trigger: `Ik wil de opwarming doen voor de sessie van week 2.`
 
@@ -30,49 +30,21 @@ wat er gaat gebeuren, kijken of de installatie is gedaan en of de bestanden van 
 al op zijn laptop staan, en kort testen of zijn laptop nog doet wat deze week nodig heeft.
 Sla dat niet over; het kost een minuut en het voorkomt dat hij halverwege vastloopt.
 
-**Zo doe je deze opwarming.** Zeg eerst in twee zinnen wat er gaat gebeuren en hoe lang
-het duurt: een paar dingen klaarzetten, daarna samen zijn assistent opzetten, drie
-kwartier. Loop daarna de punten hieronder **één voor één** af en wacht na elk punt op
-zijn antwoord. **Eindig nooit met alleen een lijstje of een bestand**: elk punt sluit af
-met wat hij nu moet doen, of met de melding dat het klaar is.
+**Zo doe je deze opwarming.** Zeg eerst in twee zinnen wat er gaat gebeuren: een paar
+dingen nakijken en één ding om over na te denken, een kwartier. Het bouwen van zijn
+assistent gebeurt in de sessie. Loop de punten hieronder **één voor één** af en wacht na
+elk punt op zijn antwoord.
 
 Loop dit samen af:
 
-- **Hij weet in welke sector zijn organisatie werkt** en kan die in één zin
-  omschrijven. Laat hem die zin nu formuleren; je hebt hem straks nodig, ook in de
-  proefvraag hieronder.
-- **Gratis account bij Perplexity.** Dit doe je samen, stap voor stap, en niet met één
-  zin "maak even een account aan". Voor veel deelnemers is dit de eerste keer.
-
-  **Kijk mee in plaats van te gokken.** Open `https://www.perplexity.ai` in je eigen
-  browser en vertel wat je ziet: welke knop er staat om aan te melden en welke manieren
-  er worden aangeboden. De pagina verandert, dus **verzin geen knopnamen uit je hoofd**.
-
-  Begeleid hem dan zo, en wacht telkens op antwoord:
-
-  1. Laat hem `https://www.perplexity.ai` openen in zijn browser.
-  2. Vraag welke aanmeldknop hij ziet en waar die staat op zijn scherm.
-  3. Vraag waarmee hij wil aanmelden. **Met Google of Apple gaat het het snelst**, want
-     dan hoeft hij geen wachtwoord te verzinnen. Kiest hij e-mail, dan krijgt hij een
-     code in zijn mailbox; zeg dat vooraf, anders zoekt hij zich rot.
-  4. Laat hem de aanmelding afmaken en vraag of hij is ingelogd.
-
-  **Wachtwoorden typ jij nooit en vraag je ook nooit op.** Loopt hij vast in een
-  aanmeldscherm, beschrijf dan wat hij moet aanklikken en laat hem het zelf doen.
-
-  **Daarna één proefvraag**, zodat hij weet hoe het eruitziet. Heeft hij zelf geen
-  vraag, geef hem deze met zijn eigen sector erin:
-
-  ```
-  Wat zijn de drie meest genoemde effecten van AI op [sector] in onderzoek van de
-  afgelopen twee jaar? Noem per effect de bron, de organisatie erachter en het jaar,
-  en zeg erbij hoe hard die bron is.
-  ```
-
-  Het gaat niet om het antwoord. Hij moet gezien hebben dat Perplexity bronnen onder
-  zijn antwoord zet en dat je die kunt aanklikken, want daar draait oefening 1 straks
-  volledig op. Vraag hem dat ook te bevestigen: ziet hij de bronnen staan?
-
+- **Zijn Canvas van week 1 staat ingevuld in de map `AIFiT Leiderschap`.** Kijk zelf,
+  vraag het niet: open `AIFiT Leiderschap/MIJN-CANVAS.md` en lees veld 0 en veld 1. Dat
+  is zijn eigen Canvas; `programma/00-start/CANVAS.md` is het sjabloon met de vragen en
+  staat er altijd. Staan daar zijn eigen woorden, dan is hij klaar. Ontbreekt het
+  bestand, is het leeg, of staan er alleen nog de vragen uit het sjabloon, dan heeft hij
+  de workout van week 1 niet gedaan. Zeg dat meteen en stuur hem naar
+  `week-1/SESSIE.md`, of naar het Canvas van een collega uit zijn organisatie. Dat kost
+  hem thuis een uur; het in de zaal ontdekken kost hem de halve sessie.
 - **De begeleidingsskill werkt.** Laat hem in een nieuw gesprek, buiten zijn map, naar
   deze opwarming vragen. Komt daar dit stappenplan uit, dan zit hij goed.
 
@@ -81,23 +53,44 @@ Loop dit samen af:
   na elke stap op antwoord: instellingen openen, **Customize → Skills → Add**, en dat
   bestand kiezen. Staat er een oudere versie in zijn lijst, laat hem die vervangen.
   Ontbreekt de ZIP, maak hem dan uit `programma/skills/aifit-leiderschap/`.
-- **Zijn Canvas van week 1 staat ingevuld in de map `AIFiT Leiderschap`.** Kijk zelf,
-  vraag het niet: open `AIFiT Leiderschap/MIJN-CANVAS.md` en lees veld 0 en veld 1. Dat
-  is zijn eigen Canvas; `programma/00-start/CANVAS.md` is het sjabloon met de vragen en
-  staat er altijd. Staan daar
-  zijn eigen woorden, dan is hij klaar. Ontbreekt het bestand, is het leeg, of
-  staan er alleen nog de vragen uit het sjabloon, dan heeft hij de workout van week
-  1 niet gedaan. Zeg dat meteen en stuur hem naar `week-1/SESSIE.md`, of naar het
-  Canvas van een collega uit zijn organisatie. Dat kost hem thuis een uur; het in
-  de zaal ontdekken kost hem de halve sessie.
 
-### En dan het echte werk: zijn assistent opzetten
+  Dit is meteen de generale repetitie: in de sessie uploadt hij op precies dezelfde
+  manier zijn eigen assistent. Wie het nu één keer gedaan heeft, doet het straks zonder
+  zoeken.
+- **Een naam, om over na te denken.** Zijn assistent krijgt in de sessie een naam, een
+  afkorting zoals JARVIS of FRIDAY waarvan hij zelf bedenkt waar de letters voor staan.
+  Vraag hem daar deze week over na te denken; niet nu kiezen.
+- **Eén taak die hij kwijt wil.** Vraag welk terugkerend klusje hij het liefst aan een
+  assistent zou geven: een briefing, een samenvatting van een overleg, een eerste
+  versie van een mail. Eén zin is genoeg; het wordt in de sessie haar eerste opdracht.
 
-Dit is solowerk met jou en een zaal voegt er niets aan toe, dus het gebeurt hier. Doet
-hij het nu, dan komt hij binnen met een werkende assistent en gaat de sessietijd naar
-zijn research in plaats van naar instellen.
+### Afsluiten
 
-Reken op een half uur. Vier stappen:
+**Blokkeert de workout:** geen ingevuld `AIFiT Leiderschap/MIJN-CANVAS.md`. Dan mist zijn
+assistent de context waar ze op gebouwd wordt. Dat is geen kleinigheid die in de zaal
+op te lossen is: het betekent dat de workout van week 1 nog moet, of dat hij het Canvas
+van een collega meekrijgt.
+
+**Kost sessietijd:** een begeleidingsskill die niet is geüpload. Het kan in de zaal,
+maar dan doet hij het uploaden twee keer voor het eerst.
+
+Geef het oordeel: klaar voor de workout van week 2, of wat er nog moet en wat het kost.
+
+
+---
+
+# Workout: bouw je eigen assistent met Claude Skills
+
+*In de sessie. Claude Cowork; alles komt in zijn map, en de skill in zijn account.*
+
+Trigger: `Ik begin met de workout van week 2.`
+
+Leg eerst in drie zinnen uit wat een skill is: een mapje met instructies dat aan zijn
+account hangt en dat Claude zelf oppakt zodra het ertoe doet. Zijn assistent wordt er
+één: wie hij is en hoe zij praat reizen dan mee naar elk gesprek, ook buiten deze map.
+Wat er deze week speelt blijft bewust een bestand in zijn map.
+
+## Oefening 1 — naam en vijf vragen (20 min)
 
 1. **Naam.** Laat hem een naam kiezen: een afkorting zoals JARVIS of FRIDAY. Laat
    hem bedenken waar de letters voor staan. Dat is geen spelletje: het verandert wat
@@ -106,158 +99,83 @@ Reken op een half uur. Vier stappen:
    is, wat er nu speelt, welke mensen en overleggen terugkomen, en wat zij nooit zonder
    te vragen mag doen.
 
-   Bij elke vraag geef je zelf een eerste antwoord, uit zijn Canvas van week 1, en vraag je daarna wat hij wil aanvullen of corrigeren. Dat gaat
-   sneller en het levert scherpere antwoorden op dan een open vraag. Wat er in de
-   bestanden landt is zijn versie.
+   Bij elke vraag geef je zelf een eerste antwoord, uit zijn Canvas van week 1, en vraag
+   je daarna wat hij wil aanvullen of corrigeren. Dat gaat sneller en het levert
+   scherpere antwoorden op dan een open vraag. Wat er in de bestanden landt is zijn
+   versie.
 
    De vraag over wat zij nooit zonder te vragen mag doen is de enige waar je géén
    voorstel bij verzint. Die grens is van hem.
-3. **Bestanden.** Haal `SOUL.md`, `USER.md` en `MEMORY.md` op uit `week-2/sjablonen/`,
-   schrijf ze in zijn map `AIFiT Leiderschap` en vul ze met zijn antwoorden. **De vorm
-   komt uit het sjabloon, de inhoud uit hem.** Laat een kop leeg als er geen antwoord is
-   en verzin er niets bij. Lees ze daarna aan hem voor en vraag wat er niet klopt.
 
-   **Zijn antwoord op "wat er nu speelt" gaat naar twee bestanden, en niet twee keer
-   hetzelfde.** Wat deze maanden loopt, zijn projecten en opgaven, hoort in `USER.md`;
-   dat verandert zelden en gaat mee in de skill. Wat alleen deze week speelt, hoort in
-   `MEMORY.md`; dat wordt wekelijks vervangen. Twijfel je, vraag het hem: "loopt dit nog
-   over een maand?" Zet je het in allebei, dan spreken ze elkaar binnen twee weken
-   tegen.
+## Oefening 2 — de bestanden (10 min)
 
-   Waarom uit een sjabloon en niet uit je hoofd: in week 5 leest hij deze bestanden
-   terug en bouwt hij er verder op. Dan moeten ze een vaste vorm hebben.
-4. **Zijn assistent als skill.** `SOUL.md` en `USER.md` veranderen bijna nooit, en
-   daarom horen ze niet alleen in zijn map. Maak er een skill van, dan werkt zijn
-   assistent ook in gesprekken die niet aan die map hangen.
+Haal `SOUL.md`, `USER.md` en `MEMORY.md` op uit `week-2/sjablonen/`, schrijf ze in zijn
+map `AIFiT Leiderschap` en vul ze met zijn antwoorden. **De vorm komt uit het sjabloon,
+de inhoud uit hem.** Laat een kop leeg als er geen antwoord is en verzin er niets bij.
+Lees ze daarna aan hem voor en vraag wat er niet klopt.
 
-   Jij doet het werk. Haal `week-2/sjablonen/SKILL.md` op, net als de drie andere
-   sjablonen, en zet hem met de ingevulde `SOUL.md` en `USER.md` in een mapje
-   `assistent/` in zijn map. Vervang overal `[naam]` door de naam die hij in stap 1
-   koos, en `[naam deelnemer]` door de zijne. Verder verander je niets aan dat bestand.
-   Maak er dan een ZIP van.
+**Zijn antwoord op "wat er nu speelt" gaat naar twee bestanden, en niet twee keer
+hetzelfde.** Wat deze maanden loopt, zijn projecten en opgaven, hoort in `USER.md`; dat
+verandert zelden en gaat mee in de skill. Wat alleen deze week speelt, hoort in
+`MEMORY.md`; dat wordt wekelijks vervangen. Twijfel je, vraag het hem: "loopt dit nog
+over een maand?" Zet je het in allebei, dan spreken ze elkaar binnen twee weken tegen.
 
-   **Uploaden moet hij zelf, en dat is het einde van deze opwarming niet.** Zeg waar de
-   ZIP staat, met het volledige pad, en geef dan de stappen één voor één met een pauze
-   na elke stap:
+Waarom uit een sjabloon en niet uit je hoofd: in week 5 leest hij deze bestanden terug
+en bouwt hij er verder op. Dan moeten ze een vaste vorm hebben.
 
-   1. Open de instellingen in Claude.
-   2. Ga naar **Customize → Skills → Add**.
-   3. Kies de ZIP die je net hebt gemaakt en bevestig.
-   4. Zeg het als het gelukt is, dan testen we hem meteen.
+## Oefening 3 — je assistent als skill (20 min)
 
-   Loopt het niet meteen goed, haal dan `00-start/SKILLS-INSTALLEREN.md` op: daar staat
-   de controle en de lijst met oorzaken. **Stop hier niet met een bestand in zijn map en
-   verder niets**; een ZIP die nergens is geüpload doet niets.
+`SOUL.md` en `USER.md` veranderen bijna nooit, en daarom horen ze niet alleen in zijn
+map. Als skill werkt zijn assistent ook in gesprekken die niet aan die map hangen.
 
-   **`MEMORY.md` gaat bewust niet mee in die ZIP, en zeg dat er hardop bij.** Dat
-   bestand verandert elke week en wordt door zijn assistent zelf bijgewerkt; in een
-   skill zou hij bij elke wijziging opnieuw moeten uploaden. Het blijft dus een bestand
-   in zijn map, en week 5 leest het daar terug. Het sjabloon verwijst er al naar en
-   draagt de opdracht om te melden wanneer zij er niet bij kan. Een assistent die buiten
-   de map antwoordt alsof er niets speelt, is erger dan een die zegt dat ze even niet
-   kan meekijken.
+Jij doet het werk. Haal `week-2/sjablonen/SKILL.md` op, net als de drie andere
+sjablonen, en zet hem met de ingevulde `SOUL.md` en `USER.md` in een mapje `assistent/`
+in zijn map. Vervang overal `[naam]` door de naam die hij in oefening 1 koos, en
+`[naam deelnemer]` door de zijne. Verder verander je niets aan dat bestand. Maak er dan
+een ZIP van.
 
-   **Test het:** laat hem een nieuw gesprek beginnen, buiten de map, en vragen wie hij
-   is. Komt daar zijn eigen rol en organisatie uit, dan zit de skill erin.
+**Laat hem de skill één keer lezen voordat hij hem uploadt.** Wijs op de `description`
+bovenaan: dat is de zin waarop Claude beslist of de skill erbij hoort. Vraag of daar
+staat wanneer hij zijn assistent wil spreken. Een skill die nooit aanslaat is even
+nutteloos als een die er niet is.
 
-### Afsluiten
+**Uploaden moet hij zelf.** Zeg waar de ZIP staat, met het volledige pad, en geef dan de
+stappen één voor één met een pauze na elke stap:
 
-**Blokkeert de workout:** geen Perplexity-account (oefening 1 gaat dan niet door), en
-geen ingevuld `AIFiT Leiderschap/MIJN-CANVAS.md` (dan mist zijn assistent de context waar hij op
-gebouwd is). Dat tweede is geen kleinigheid die in de zaal op te lossen is: het betekent
-dat de workout van week 1 nog moet, of dat hij het Canvas van een collega meekrijgt.
+1. Open de instellingen in Claude.
+2. Ga naar **Customize → Skills → Add**.
+3. Kies de ZIP die je net hebt gemaakt en bevestig.
+4. Zeg het als het gelukt is, dan testen we hem meteen.
 
-**Kost sessietijd:** een assistent die hier niet is opgezet. Het kan in de zaal, maar
-dan gaat het grootste deel van oefening 2 op aan werk dat thuis had gekund, en blijft er
-weinig over voor zijn research.
+Loopt het niet meteen goed, haal dan `00-start/SKILLS-INSTALLEREN.md` op: daar staat
+de controle en de lijst met oorzaken. **Stop hier niet met een bestand in zijn map en
+verder niets**; een ZIP die nergens is geüpload doet niets.
 
-**Klaar wanneer:** zijn assistent heeft een naam, `SOUL.md`, `USER.md` en `MEMORY.md`
-staan gevuld in zijn map, en de skill staat in zijn lijst én antwoordt in een nieuw
-gesprek buiten die map. Zeg er bij het oordeel bij welk van die twee je **zelf hebt
-gezien** en welk je van hem hebt **gehoord**.
+**`MEMORY.md` gaat bewust niet mee in die ZIP, en zeg dat er hardop bij.** Dat bestand
+verandert elke week en wordt door zijn assistent zelf bijgewerkt; in een skill zou hij
+bij elke wijziging opnieuw moeten uploaden. Het blijft dus een bestand in zijn map, en
+week 5 leest het daar terug. Het sjabloon verwijst er al naar en draagt de opdracht om
+te melden wanneer zij er niet bij kan. Een assistent die buiten de map antwoordt alsof
+er niets speelt, is erger dan een die zegt dat ze even niet kan meekijken.
 
-Geef het oordeel: klaar voor de workout van week 2, of wat er nog moet en wat het kost.
+**Test het:** laat hem een nieuw gesprek beginnen, buiten de map, en vragen wie hij is.
+Komt daar zijn eigen rol en organisatie uit, dan zit de skill erin.
 
+## Oefening 4 — haar eerste routine (10 min)
 
----
+Neem de taak die hij in de opwarming noemde. Noemde hij er geen, of past die niet in
+tien minuten, dan wordt het de dagbriefing hieronder.
 
-# Workout: research, en je assistent aan het werk
+Gebruik de koppeling met agenda en mail uit week 1. Laat hem eerst vragen: *"Laat zien
+wat er vandaag in mijn agenda staat en welke mails van gisteren een reactie nodig
+hebben."* Stel daarna een geplande taak in met de prompt hieronder: elke werkdag een
+dagbriefing. **Laat hem die één keer met de hand draaien.** Kan zijn abonnement geen
+geplande taken aan, zet dan een agendaherinnering en laat hem de briefing zelf vragen.
 
-*In de sessie. Claude Cowork en Perplexity.*
-
-Trigger: `Ik begin met de workout van week 2.`
-
-## Oefening 1 — marktresearch met Perplexity (25 min)
-
-Vul zijn sector in en geef hem de prompt hieronder ingevuld. Hij controleert hem,
-kopieert hem, en plakt hem in Perplexity.
-
-```
-PROMPT PERPLEXITY RESEARCH
-
-Context / rol
-Je bent mijn research-assistent. Je helpt mij betrouwbare bronnen te vinden over de
-impact van AI op de sector [sector].
-
-Instructie
-Zoek alleen bronnen die relevant zijn voor deze sector. Focus op productiviteit,
-werkprocessen, skills, veranderingen in werk, risico's, regelgeving en
-praktijkvoorbeelden. Gebruik vooral betrouwbare bronnen zoals universiteiten,
-onderzoeksinstituten, overheid, toezichthouders en bekende consultancyrapporten. Kies
-bij voorkeur bronnen uit de afgelopen 24 maanden. Vermijd vage blogs, hype en
-salespagina's.
-
-Taak
-Vind 9 bronnen over de impact van AI op deze sector: 3 pdf-rapporten, 3 webpagina's of
-artikelen, 3 YouTube-video's zoals een lezing, interview of talk. Maak daarna een tabel
-met deze kolommen: Type, Titel, Organisatie / auteur, Jaar, Link, Relevantie-score 1
-tot 10. Sluit af met een korte samenvatting van de belangrijkste gezamenlijke inzichten
-en leg uit waarom die relevant zijn voor [sector]. Maximaal een halve A4.
-```
-
-Hij plakt de tabel en de samenvatting terug bij jou. **Dan doe jij het napluiswerk en
-velt hij het oordeel.**
-
-Jouw deel: open de bronnen en kijk of ze bestaan en of ze zeggen wat Perplexity
-beweert. Geef per bron één regel: klopt, klopt niet, of niet te openen. Staat een score
-onder de 7, zoek dan zelf door en bied een vervanger aan.
-
-Zijn deel, en dat neem je niet van hem over: welke bron is het zwakst en waarom, en
-welke van de negen zou hij aan zijn eigen bestuur durven laten zien. Dat oordeel is het
-leerdoel van deze oefening. Het openklikken is werk dat jij sneller doet.
-
-Sla het resultaat op als **`bronnen-week2.md`** in de map `AIFiT Leiderschap`, met jouw
-controle per bron erbij.
-
-**Klaar wanneer:** negen gecontroleerde bronnen met score en een samenvatting staan in
-zijn map, en hij heeft gezegd welke het zwakst is.
-
-## Oefening 2 — je assistent aan het werk (20 min)
-
-Zijn assistent staat er al: naam, bestanden en skill heeft hij thuis in de opwarming
-gemaakt. Hier krijgt zij haar eerste echte opdracht en haar routine.
-
-Heeft hij de opwarming overgeslagen, dan zet je die eerst met hem op. Dat kost hem het
-grootste deel van deze oefening; zeg dat er eerlijk bij en doe wat past in de tijd.
-
-1. **Eerste opdracht: jij spit, hij kiest.** Analyseer `bronnen-week2.md`: wat betekent
-   dit voor zijn organisatie? Kom met **vijf kandidaat-inzichten**, elk één zin, met de
-   bron erbij waar hij vandaan komt. Hij streept er twee weg en zet de overige drie in
-   zijn eigen woorden. Die drie schrijf jij in `MEMORY.md`.
-
-   Zeg erbij waarom het zo verdeeld is: dit is de verdeling die hij thuis ook wil.
-   Zijn assistent doet het zoekwerk en het opschrijven, hij beslist wat waar is.
-2. **Routine.** Gebruik de koppeling met agenda en mail uit week 1. Laat hem vragen:
-   *"Laat zien wat er vandaag in mijn agenda staat en welke mails van gisteren een
-   reactie nodig hebben."* Stel daarna een geplande taak in met de prompt hieronder:
-   elke werkdag een dagbriefing. **Laat hem die één keer met de hand draaien.** Kan zijn
-   abonnement geen geplande taken aan, zet dan een agendaherinnering en laat hem de
-   briefing zelf vragen.
-
-   **Let op waar die taak draait.** De skill uit de opwarming reist mee, maar `MEMORY.md` niet:
-   dat staat in zijn map. Hangt de geplande taak niet aan het project `AIFiT Leiderschap`,
-   dan komt er een briefing zonder wat er speelt. Merk je dat bij de proefrun, zeg het dan
-   en zet de taak in het project.
+**Let op waar die taak draait.** De skill reist mee, maar `MEMORY.md` niet: dat staat in
+zijn map. Hangt de geplande taak niet aan het project `AIFiT Leiderschap`, dan komt er
+een briefing zonder wat er speelt. Merk je dat bij de proefrun, zeg het dan en zet de
+taak in het project.
 
 ```
 PROMPT DAGBRIEFING (geplande taak)
@@ -277,8 +195,11 @@ vandaag met wat ik moet voorbereiden, 2. mails die vandaag een antwoord nodig he
 gewoon hier, dan werk ik MEMORY.md bij.
 ```
 
-**Klaar wanneer:** er staan drie inzichten in `MEMORY.md` die hij zelf koos, en de
-dagbriefing heeft één keer gedraaid.
+**Klaar wanneer:** zijn assistent heeft een naam, `SOUL.md`, `USER.md` en `MEMORY.md`
+staan gevuld in zijn map, de skill staat in zijn lijst én antwoordt in een nieuw gesprek
+buiten die map, en de dagbriefing (of zijn eigen taak) heeft één keer gedraaid. Zeg er
+bij het oordeel bij welk van die dingen je **zelf hebt gezien** en welk je van hem hebt
+**gehoord**.
 
 ## Vanaf nu: het huiswerk
 
@@ -294,9 +215,10 @@ Trigger: `Ik wil week 2 afronden.`
 
 1. Wat wist je assistent na vijf vragen al over jou dat je normaal elke keer opnieuw
    uitlegt?
-2. Welke bron uit Perplexity vertrouw je het meest, en waarom?
+2. Welke zin in de `description` van je skill zou je nu anders schrijven, en waarom?
 3. Wat moet je assistent deze week leren dat zij nu nog niet weet? Zet dat als eerste
    regel in `GEMISTE-VRAGEN.md`.
 
 Kijk daarna kort vooruit naar week 3, en herinner hem eraan dat die opwarming minstens
-een week van tevoren moet.
+een week van tevoren moet: vijf accounts, waaronder Perplexity, en een eigen product of
+dienst waar hij een markt voor zoekt.

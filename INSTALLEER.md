@@ -98,8 +98,8 @@ https://github.com/hpamike/ai-stack-starter/blob/main/<pad>
 
 Nu pas, want stap 3 heeft bewezen dat schrijven werkt.
 
-Haal `00-start/BESTANDEN.md` op. Daar staat de paklijst: veertien bestanden plus de lijst
-zelf. Zet ze allemaal in `AIFiT Leiderschap/programma/`, met dezelfde paden als in de
+Haal `00-start/BESTANDEN.md` op. Daar staat de paklijst: negentien bestanden plus de
+lijst zelf. Zet ze allemaal in `AIFiT Leiderschap/programma/`, met dezelfde paden als in de
 tabel. Ophalen gaat van
 `https://raw.githubusercontent.com/hpamike/ai-stack-starter/main/<pad>`.
 
@@ -112,7 +112,7 @@ mee hoeft te doen.
 bestanden van die week er staan en haalt alleen op wat ontbreekt. Opnieuw downloaden
 wat er al is, kost tijd en levert niets op.
 
-**Doe dit in stilte.** Het zijn vijftien bestanden; meld niet elk bestand apart, dat
+**Doe dit in stilte.** Het zijn twintig bestanden; meld niet elk bestand apart, dat
 leest als een foutmelding. Eén zin vooraf dat je het programma binnenhaalt en één zin
 achteraf dat het klaarstaat.
 

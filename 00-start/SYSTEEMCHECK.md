@@ -66,8 +66,8 @@ dan is deze stap klaar.
 ### De Chrome-extensie: aanbieden, niet opdringen
 
 Er bestaat een Claude-extensie voor Chrome. Die is **niet nodig** voor het programma,
-maar hij helpt in **week 3**, waarin hij naast Claude nog vier gereedschappen in de
-browser gebruikt (Gemini, NotebookLM, Lovable, Gamma). Met de extensie kan ik in dat
+maar hij helpt in **week 3**, waarin hij naast Claude nog vijf gereedschappen in de
+browser gebruikt (Perplexity, Gemini, NotebookLM, Lovable, Gamma). Met de extensie kan ik in dat
 tabblad meekijken in plaats van dat hij alles heen en weer kopieert.
 
 Vraag of hij Chrome gebruikt en of hij hem wil. Zo ja, stuur hem naar de Chrome Web
@@ -197,8 +197,8 @@ skills staat; dat staat sinds stap 2 tot je beschikking. Lukt dat niet, zeg dat 
 vraag hem wat hij ziet, maar doe nooit alsof je het hebt gezien.
 
 Daarna of hij werkt, en dat kun je niet zelf: laat hem een nieuw gesprek beginnen en
-vragen wat de opwarming van week 3 is. Komt daar een antwoord over Gemini, NotebookLM,
-Lovable en Gamma, dan zit de skill erin. Krijgt hij een algemeen antwoord, dan niet.
+vragen wat de opwarming van week 3 is. Komt daar een antwoord over Perplexity, Gemini,
+NotebookLM, Lovable en Gamma, dan zit de skill erin. Krijgt hij een algemeen antwoord, dan niet.
 
 **Verzin geen menupad dat je niet kent.** Klopt een stap niet met wat hij ziet, zeg dat
 dan en zoek het samen op in de instellingen.
@@ -251,7 +251,7 @@ verschillende dingen.
 **Week 1, 2 en 4 zijn licht.** Praten, schrijven, één browsertabblad. Vrijwel elk
 apparaat dat de app draait, doet dit.
 
-**Week 3 is de zwaarste voor geheugen.** Dan staan Claude Desktop en vier
+**Week 3 is de zwaarste voor geheugen.** Dan staan Claude Desktop en vijf
 browsergereedschappen tegelijk open. Op 8 GB gaat dat zwoegen, en op minder wordt het
 een middag wachten. Heeft hij 8 GB of minder, zeg dat dan nu: sluit die middag alles
 wat je niet nodig hebt, en reken op traagheid.
@@ -276,7 +276,7 @@ jouw inschatting. Geef alleen de link die bij zijn platform hoort:
 er eerlijk bij als je ze gebruikt, en breng slecht nieuws zonder omhaal:
 
 > Je hebt 8 GB geheugen. Voor week 1, 2, 4 en 5 is dat prima. Week 3 wordt traag omdat
-> je dan vijf programma's tegelijk open hebt. Heb je een andere laptop, neem die dan die
+> je dan zes programma's tegelijk open hebt. Heb je een andere laptop, neem die dan die
 > ene week mee; anders sluit je die middag alles wat je niet nodig hebt.
 
 ---

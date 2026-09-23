@@ -76,11 +76,11 @@ Elke week doe je drie dingen, en Claude begeleidt alle drie.
 
 | Week | Thema | Leerdoel | Wat je maakt |
 |---|---|---|---|
-| 1 | [Zien: introductie tot de intelligentie-economie](week-1/) | Begrijpen wat intelligentie als productiefactor verandert; socratisch en kritisch prompten | Canvas en Shaping Questions |
-| 2 | [Denken: AI en Strategie](week-2/) | Betrouwbare bronnen vinden en beoordelen; een assistent met geheugen inrichten | Bronnentabel en je eigen AI-assistent |
-| 3 | [Organiseren: AI en Marketing](week-3/) | Een campagne ontwerpen en testen met vijf gereedschappen | Campagneplan, huisstijl, landingspagina, slides |
-| 4 | [Vormgeven: AI en HR](week-4/) | Je team lezen op AI-vaardigheid; ExO toepassen op rollen | Analyse AI FiT Report en ExO-voorstel |
-| 5 | [Herbouwen: AI en Finance](week-5/) | Een intelligentielaag bouwen en vibecoden | Brein met eigen cijfers en benchmark, en een dashboard |
+| 1 | [Zien: introductie tot de intelligentie-economie](week-1/) | Begrijpen wat intelligentie als productiefactor verandert; brainstormen en kritisch prompten | Brainstorm, Canvas en Shaping Questions |
+| 2 | [Denken: AI en Strategie](week-2/) | Je eigen assistent bouwen met Claude Skills | Je eigen AI-assistent als skill, met een eerste routine |
+| 3 | [Organiseren: AI en Marketing](week-3/) | Marktonderzoek en een campagne met vijf gereedschappen | Marktonderzoek, campagneplan, huisstijl, landingspagina, slides |
+| 4 | [Vormgeven: AI en HR](week-4/) | Je team lezen op AI-vaardigheid; ExO 3.0 toepassen met een Claude Skill | Analyse AI FiT Report (thuis) en de Intelligence Stack van je eenheid |
+| 5 | [Herbouwen: AI en Finance](week-5/) | Een intelligentielaag bouwen en vibecoden; van benchmark naar sensing | Brein met eigen cijfers, een dashboard met marktbenchmarks, gekoppeld aan je SENSE-laag |
 
 Het [Canvas](00-start/CANVAS.md) is de ruggengraat: je begint het in week 1 en elke
 week vult een ander deel.
@@ -106,11 +106,13 @@ GitHub-account, een terminal of een database. De extra gereedschappen van week 3
 accounts in de browser, geen installaties. Wat er per week bij komt, hoor je
 in de opwarming van die week, ruim op tijd. Twee dingen wil je nu al weten:
 
-**Week 3 vraagt vier extra accounts** (Gemini, NotebookLM, Lovable en Gamma) en een
-eigen product, dienst of initiatief waar je een markt voor zoekt. Kies dat vast.
+**Week 3 vraagt vijf extra accounts** (Perplexity, Gemini, NotebookLM, Lovable en
+Gamma) en een eigen product, dienst of initiatief waar je een markt voor zoekt. Kies
+dat vast.
 
 **Week 4 vraagt tijd van je team**, niet van je laptop: minimaal vijf teamleden doen de
-check op `https://aifit.nu/report`, ieder een kwartier.
+AI FiT-scan op `https://aifit.nu/report`, ieder een kwartier. De analyse van het
+teamrapport doe je thuis; de sessie gaat naar ExO 3.0.
 
 ## Het enige huiswerk
 

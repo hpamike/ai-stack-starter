@@ -66,11 +66,11 @@ een ander deel, en pas aan het eind staat het er compleet.
 
 | Week | Thema | Vult vooral |
 |---|---|---|
-| 1 | Zien: introductie tot de intelligentie-economie | **1 Shaping questions** |
-| 2 | Denken: AI en Strategie | **2 Klant en vraag**, **3 Waardepropositie**, en het begin van **5 Eigen geheugen** |
-| 3 | Organiseren: AI en Marketing | **4 MTP als protocol**, **7 Organisatie** |
-| 4 | Vormgeven: AI en HR | **8 Cultuur en leiding**, **9 Vertrouwensstructuur** |
-| 5 | Herbouwen: AI en Finance | **6 Infrastructuur**, **10 Veranderproces** |
+| 1 | Zien: brainstorm over het Canvas | alle velden globaal, **1 Shaping questions** diep |
+| 2 | Denken: je eigen assistent met Claude Skills | **5 Eigen geheugen** |
+| 3 | Organiseren: marktonderzoek en campagne | **2 Klant en vraag**, **3 Waardepropositie** |
+| 4 | Vormgeven: AI FiT-scan en ExO 3.0 | **4 MTP als protocol**, **7 Organisatie**, **8 Cultuur en leiding**, **9 Vertrouwensstructuur** |
+| 5 | Herbouwen: dashboard en sensing | **6 Infrastructuur**, **10 Veranderproces** |
 
 De twee blokken die het programma persoonlijk maken zijn **5 Eigen geheugen** en **6
 Infrastructuur**. Daar bouwt de deelnemer zijn eigen versie van wat hij van zijn
