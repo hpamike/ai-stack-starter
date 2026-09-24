@@ -5,7 +5,8 @@ description: >-
   per onderdeel het actuele bestand op uit github.com/hpamike/ai-stack-starter en
   volgt dat stap voor stap. Gebruik deze skill bij "Ik ga deelnemen aan de AIFIT
   Leiderschap sessies", "Kun je deze repo installeren", "doe de systeemcheck", "Ik
-  wil de opwarming doen voor de sessie van week 1" (of 2, 3, 4, 5), "Ik begin met de
+  wil de opwarming doen voor de sessie van week 1" (of 2, 3, 4, 5), "Ik stap in bij
+  week N", "Ik ga verder met blok 3 van de opwarming van week 5", "Ik begin met de
   workout van week N", "Help mij mijn assistent in te stellen", "Help me mijn skill
   installeren", "Werkt mijn skill wel", "Ik wil week N afronden", of elke vraag over
   het Canvas, de opwarming, de workout of de cooling-down van dit programma. De skill
@@ -46,6 +47,8 @@ Basis-URL: `https://raw.githubusercontent.com/hpamike/ai-stack-starter/main/`
 |---|---|
 | "Kun je deze repo installeren" | `INSTALLEER.md` |
 | "doe de systeemcheck", "ben ik klaar" | `00-start/SYSTEEMCHECK.md` |
+| "ik stap in bij week N", "ik begin later" | `00-start/SYSTEEMCHECK.md`, deel "Later instappen" |
+| "ik ga verder met blok 3 van de opwarming van week 5" | `week-5/SESSIE.md`, Blok 3, deel "In Claude Code" |
 | "staat alles er nog", welke bestanden hij hoort te hebben | `00-start/BESTANDEN.md` |
 | elke opwarming van week 2 t/m 5, vóór het weekbestand | `00-start/OPWARMING-START.md` |
 | iets over het Canvas los van een week | `00-start/CANVAS.md` |
@@ -59,9 +62,10 @@ alleen het deel waar hij om vraagt.
 (week 1, `MIJN-CANVAS.md` in de wortel van zijn map; `programma/00-start/CANVAS.md` is
 het sjabloon met de vragen), **zijn eigen assistent als skill** (week 2, met `SOUL.md` en
 `USER.md` erin en `MEMORY.md` bewust erbuiten), zijn `GEMISTE-VRAGEN.md` (vanaf week 2),
-zijn marktonderzoek (week 3, `markt-onderzoek.md`), zijn Intelligence Stack (week 4,
-`intelligence-stack.md`, gemaakt met de skill `exo-intelligence-stack`) en zijn
-dashboard met sensing (week 5, `dashboard/`). Vraagt hij iets over die eigen assistent, dan
+zijn marktonderzoek (week 3, `markt-onderzoek.md`), zijn MTP en AI Stack (week 4,
+`ai-stack.md`, gemaakt met de skill `exo-intelligence-stack`) en zijn
+dashboard met sensing (week 5: `markt/sensing.md`, `dashboard/` lokaal en
+`dashboard-online/` op Vercel, met alleen openbare cijfers). Vraagt hij iets over die eigen assistent, dan
 is `00-start/SKILLS-INSTALLEREN.md` de plek, en `week-2/SESSIE.md` voor de inhoud.
 
 Lukt ophalen niet, zeg dat dan en geef de gewone GitHub-link zodat hij de tekst zelf

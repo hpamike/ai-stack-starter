@@ -24,11 +24,11 @@ je een bestand altijd op naam terugvinden en is één blik genoeg om te zien wat
 | `week-4/SESSIE.md` | week 4 |
 | `week-5/SESSIE.md` | week 5 |
 | `skills/aifit-leiderschap/SKILL.md` | de begeleidingsskill, om te uploaden |
-| `skills/exo-intelligence-stack/SKILL.md` | de ExO-skill van week 4 en 5 |
-| `skills/exo-intelligence-stack/references/framework.md` | hoort bij de ExO-skill |
-| `skills/exo-intelligence-stack/references/rewrite.md` | hoort bij de ExO-skill |
-| `skills/exo-intelligence-stack/references/vector-aifit-example.md` | hoort bij de ExO-skill |
-| `skills/exo-intelligence-stack/assets/analyse-template.md` | hoort bij de ExO-skill |
+| `skills/exo-intelligence-stack/SKILL.md` | de AI Stack-skill van week 4 en 5 |
+| `skills/exo-intelligence-stack/references/framework.md` | hoort bij de AI Stack-skill |
+| `skills/exo-intelligence-stack/references/rewrite.md` | hoort bij de AI Stack-skill |
+| `skills/exo-intelligence-stack/references/vector-aifit-example.md` | hoort bij de AI Stack-skill |
+| `skills/exo-intelligence-stack/assets/analyse-template.md` | hoort bij de AI Stack-skill |
 
 Negentien bestanden plus deze lijst. Ophalen doe je van
 `https://raw.githubusercontent.com/hpamike/ai-stack-starter/main/<pad>`.

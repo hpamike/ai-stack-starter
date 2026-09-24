@@ -132,7 +132,7 @@ Trigger: `Ik wil week 1 afronden.`
 Stel deze drie vragen. Zijn antwoorden komen in het project; ze worden plenair
 besproken.
 
-1. Welk idee uit de brainstorm had je vanochtend nog niet, en in welk veld is het
+1. Welk idee uit de brainstorm had je vóór vandaag nog niet, en in welk veld is het
    geland?
 2. Welke vraag heeft Claude je gesteld die je jezelf nog niet had gesteld?
 3. Wat is de open vraag die je meeneemt naar volgende week?

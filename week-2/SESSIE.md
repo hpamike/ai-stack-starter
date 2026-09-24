@@ -15,15 +15,9 @@ eerste routine.
 
 Trigger: `Ik wil de opwarming doen voor de sessie van week 2.`
 
-**Week 1 gemist?** Dan doet hij eerst de opwarming **en** de workout van week 1.
-Niet alleen de opwarming: de workout levert het Canvas op, en zonder Canvas heeft
-de workout van week 2 geen invoer om op te bouwen.
-
-Eén uitzondering. Zit er iemand van dezelfde organisatie in de reeks die week 1 wel
-gedaan heeft, dan mag hij het Canvas van die collega overnemen en daarop verder
-werken. Zeg er dan bij dat het de formulering van zijn collega is en dat hij die
-onderweg naar zijn eigen woorden mag bijstellen; het Canvas moet aan het eind van
-de reeks van hem zijn.
+**Later ingestapt of een week gemist?** Dat vang je op met deel 4 van
+`00-start/OPWARMING-START.md`; hij hoeft niets in te halen voordat hij begint.
+Zonder Canvas is dat de minimumroute van een kwartier: veld 0 en 1.
 
 **Begin met `00-start/OPWARMING-START.md`.** Daar staat hoe elke opwarming begint: zeggen
 wat er gaat gebeuren, kijken of de installatie is gedaan en of de bestanden van deze week
@@ -41,10 +35,9 @@ Loop dit samen af:
   vraag het niet: open `AIFiT Leiderschap/MIJN-CANVAS.md` en lees veld 0 en veld 1. Dat
   is zijn eigen Canvas; `programma/00-start/CANVAS.md` is het sjabloon met de vragen en
   staat er altijd. Staan daar zijn eigen woorden, dan is hij klaar. Ontbreekt het
-  bestand, is het leeg, of staan er alleen nog de vragen uit het sjabloon, dan heeft hij
-  de workout van week 1 niet gedaan. Zeg dat meteen en stuur hem naar
-  `week-1/SESSIE.md`, of naar het Canvas van een collega uit zijn organisatie. Dat kost
-  hem thuis een uur; het in de zaal ontdekken kost hem de halve sessie.
+  bestand, is het leeg, of staan er alleen nog de vragen uit het sjabloon, doe dan nu de
+  minimumroute uit deel 4 van `00-start/OPWARMING-START.md`: een kwartier, veld 0 en 1.
+  In de zaal ontdekken kost hem de halve sessie.
 - **De begeleidingsskill werkt.** Laat hem in een nieuw gesprek, buiten zijn map, naar
   deze opwarming vragen. Komt daar dit stappenplan uit, dan zit hij goed.
 
@@ -57,19 +50,18 @@ Loop dit samen af:
   Dit is meteen de generale repetitie: in de sessie uploadt hij op precies dezelfde
   manier zijn eigen assistent. Wie het nu één keer gedaan heeft, doet het straks zonder
   zoeken.
-- **Een naam, om over na te denken.** Zijn assistent krijgt in de sessie een naam, een
-  afkorting zoals JARVIS of FRIDAY waarvan hij zelf bedenkt waar de letters voor staan.
-  Vraag hem daar deze week over na te denken; niet nu kiezen.
+- **Een naam, om over na te denken.** Zijn assistent heet standaard **JARVIS**, maar in
+  de sessie mag hij een eigen afkorting kiezen. Zeg dat, en vraag hem er deze week over
+  na te denken; niet nu kiezen.
 - **Eén taak die hij kwijt wil.** Vraag welk terugkerend klusje hij het liefst aan een
   assistent zou geven: een briefing, een samenvatting van een overleg, een eerste
   versie van een mail. Eén zin is genoeg; het wordt in de sessie haar eerste opdracht.
 
 ### Afsluiten
 
-**Blokkeert de workout:** geen ingevuld `AIFiT Leiderschap/MIJN-CANVAS.md`. Dan mist zijn
-assistent de context waar ze op gebouwd wordt. Dat is geen kleinigheid die in de zaal
-op te lossen is: het betekent dat de workout van week 1 nog moet, of dat hij het Canvas
-van een collega meekrijgt.
+**Blokkeert de workout:** geen `AIFiT Leiderschap/MIJN-CANVAS.md` met veld 0 en 1. Dan
+mist zijn assistent de context waar ze op gebouwd wordt. De minimumroute lost dat in een
+kwartier op; doe die hier en niet in de zaal.
 
 **Kost sessietijd:** een begeleidingsskill die niet is geüpload. Het kan in de zaal,
 maar dan doet hij het uploaden twee keer voor het eerst.
@@ -92,9 +84,21 @@ Wat er deze week speelt blijft bewust een bestand in zijn map.
 
 ## Oefening 1 — naam en vijf vragen (20 min)
 
-1. **Naam.** Laat hem een naam kiezen: een afkorting zoals JARVIS of FRIDAY. Laat
-   hem bedenken waar de letters voor staan. Dat is geen spelletje: het verandert wat
-   hij daarna opschrijft.
+1. **Naam.** Zijn assistent heet standaard **JARVIS**. Leg in twee zinnen uit waar dat
+   vandaan komt: het is de AI-assistent van Tony Stark in *Iron Man*, en de letters staan
+   voor *Just A Rather Very Intelligent System*. Een assistent die je kent, die meedenkt,
+   en die weet wanneer ze iets moet vragen.
+
+   **Doe dan drie suggesties voor een eigen afkorting, op basis van zijn naam.** Gebruik
+   zijn voornaam of initialen als begin, maak er een uitspreekbaar woord van, en geef bij
+   elke suggestie waar de letters voor staan, in het Nederlands of Engels. Bijvoorbeeld
+   voor iemand die Mike heet: *MIRA — Mikes Intelligente Rechterhand en Adviseur*. Leg er
+   iets in van wat hij in week 1 over zijn werk vertelde.
+
+   **Kiest hij er een, of bedenkt hij er zelf een, dan gaat hij daarvoor.** Kiest hij
+   niet, dan blijft het JARVIS; zeg dat dat prima is. Wat hij kiest, bepaalt wat er
+   straks in de bestanden staat, dus laat hem de betekenis van de letters in één zin
+   bevestigen.
 2. **Vijf vragen.** Stel maximaal vijf vragen: hoe zijn assistent met hem praat, wie hij
    is, wat er nu speelt, welke mensen en overleggen terugkomen, en wat zij nooit zonder
    te vragen mag doen.
@@ -130,9 +134,11 @@ map. Als skill werkt zijn assistent ook in gesprekken die niet aan die map hange
 
 Jij doet het werk. Haal `week-2/sjablonen/SKILL.md` op, net als de drie andere
 sjablonen, en zet hem met de ingevulde `SOUL.md` en `USER.md` in een mapje `assistent/`
-in zijn map. Vervang overal `[naam]` door de naam die hij in oefening 1 koos, en
-`[naam deelnemer]` door de zijne. Verder verander je niets aan dat bestand. Maak er dan
-een ZIP van.
+in zijn map. Koos hij in oefening 1 een eigen naam, vervang dan overal `JARVIS` door die
+naam, en in de regel `name:` bovenaan `jarvis` door die naam **in kleine letters, zonder
+spaties of leestekens** (anders weigert de upload). Doe hetzelfde in `SOUL.md`, met de
+betekenis van zijn letters. Vervang verder `[naam deelnemer]` door zijn naam. Meer
+verander je niet aan dat bestand. Maak er dan een ZIP van.
 
 **Laat hem de skill één keer lezen voordat hij hem uploadt.** Wijs op de `description`
 bovenaan: dat is de zin waarop Claude beslist of de skill erbij hoort. Vraag of daar
@@ -181,7 +187,7 @@ taak in het project.
 PROMPT DAGBRIEFING (geplande taak)
 
 Context / rol
-Je bent [naam], mijn persoonlijke assistent. Je kent mij uit USER.md, jezelf uit
+Je bent [naam, bijvoorbeeld JARVIS], mijn persoonlijke assistent. Je kent mij uit USER.md, jezelf uit
 SOUL.md en wat er speelt uit MEMORY.md in mijn map.
 
 Instructie

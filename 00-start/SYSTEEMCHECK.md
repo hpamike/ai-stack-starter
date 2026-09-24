@@ -22,6 +22,10 @@ Claude zelf blijft buiten bereik; dat hoort zo.
 Zeg nooit "ik heb gecontroleerd dat het aanstaat" als je het alleen hebt gevraagd. Bij
 elke stap staat welk van de twee het is.
 
+**Stapt hij later in dan week 1?** Dan niet deze hele opwarming, maar het deel
+**"Later instappen"** onderaan dit bestand. Staat er in `AIFiT-BEGELEIDING.md` een regel
+`Ingestapt in week N`, dan weet je het al.
+
 ## Begin zo
 
 > Je app staat en je map is gekoppeld. Ik kijk eerst even of het programma compleet op
@@ -104,9 +108,8 @@ Nu computer use aanstaat kun je dit in een minuut afhandelen, en dat is het waar
 wordt git pas in week 5 gemist, dan zit hij midden in de sessie met een download van
 ongeveer een gigabyte.
 
-**Waarschijnlijk is het niet nodig.** Claude Code schaduwt alleen mappen die al een
-git-repository zijn, en zijn map is dat niet. Maar de controle kost niets en het
-alternatief is een verrassing op het verkeerde moment.
+**In week 5 is het nodig**: dan zet hij zijn dashboard via GitHub online. Het nu al
+regelen scheelt hem in die opwarming een download van een gigabyte.
 
 **Zo kijk je:**
 
@@ -119,14 +122,14 @@ alternatief is een verrassing op het verkeerde moment.
     niet, dan is dat ook goed; annuleren kan en hij komt er waarschijnlijk niet op
     terug.
 - **Windows:** laat hem PowerShell openen en hetzelfde typen. Een versienummer betekent
-  klaar. Staat er dat de opdracht niet wordt herkend, dan is git er niet, en dan is
-  installeren **niet** de standaard: zeg dat het programma het niet vraagt en dat hij
-  het alleen hoeft te doen als er in week 5 iets om vraagt. Wil hij het toch nu,
-  `https://git-scm.com/download/win`.
+  klaar. Staat er dat de opdracht niet wordt herkend, dan is git er niet, en dan
+  kan hij het nu installeren van `https://git-scm.com/download/win`, met de
+  standaardkeuzes. Wil hij het liever later, dan komt het terug in de opwarming van
+  week 5.
 
-**Doe niet moeilijk als hij dit liever overslaat.** Hij hoeft geen terminal te openen
-als hij dat niet wil; noteer het dan als "niet gecontroleerd" en ga door. Het is een
-gemak, geen eis.
+**Doe niet moeilijk als hij dit liever overslaat.** Hij hoeft nu geen terminal te
+openen als hij dat niet wil; noteer het dan als "niet gecontroleerd" en ga door. In week
+5 komt het terug.
 
 **Verzin geen uitkomst.** Zie je het scherm niet goed, vraag hem dan wat er staat en
 zeg erbij dat je het niet zelf hebt gelezen.
@@ -192,9 +195,9 @@ Loopt hij hier vast, of wil hij weten wat een skill eigenlijk is: haal
 `00-start/SKILLS-INSTALLEREN.md` op. Daar staat de hele route, de controle en wat je
 doet als het niet lukt. Hij komt in week 2 terug voor zijn eigen assistent.
 
-**Test het, in twee stappen.** Kijk eerst zelf met computer use of hij in de lijst met
-skills staat; dat staat sinds stap 2 tot je beschikking. Lukt dat niet, zeg dat dan en
-vraag hem wat hij ziet, maar doe nooit alsof je het hebt gezien.
+**Test het, in twee stappen.** Eerst of hij in de lijst met skills staat. Dat kun je
+niet zelf zien: het venster van Claude zelf valt buiten computer use. Vraag hem wat hij
+in de lijst ziet, en noteer het als gehoord.
 
 Daarna of hij werkt, en dat kun je niet zelf: laat hem een nieuw gesprek beginnen en
 vragen wat de opwarming van week 3 is. Komt daar een antwoord over Perplexity, Gemini,
@@ -307,25 +310,18 @@ gebouwd.
 werkt als op een Mac. Lukt het aflezen van de specificaties niet, vraag ze dan gewoon
 en zeg erbij dat je het niet zelf hebt kunnen zien. Ga niet lang proberen.
 
-## Vraagt hij naar git, programmeergereedschap of een terminal: nee
+## Vraagt hij naar git, programmeergereedschap of een terminal
 
 Dit komt van deelnemers die iets van techniek weten, en vaak bij week 5 omdat daar
 "Claude Code" staat. Het antwoord:
 
-> Nee. In week 5 maak je mappen aan, schrijf je een paar tekstbestanden en bouw je één
-> webpagina die je in je browser opent. Claude Code werkt gewoon in de map op je
-> laptop; er komt geen git aan te pas, geen Node.js en geen commandoregel. Heb je git
-> al staan, prima, maar installeer het niet voor dit programma.
+> Tot en met week 4 niet. In week 5 zet je je dashboard online, en daarvoor zijn git,
+> een GitHub-account, een Vercel-account en de GitHub CLI nodig; je logt één keer in via
+> Terminal. Dat zet je in de opwarming van week 5 met mij klaar, en ik doe het werk.
+> Programmeerkennis en Node.js zijn niet nodig.
 
-**Laat niemand iets installeren wat het programma niet vraagt.** Buiten Claude Desktop
-is er niets nodig; de extra gereedschappen van week 3 zijn accounts in de browser, geen
-installaties.
-
-**Eén uitzondering, en die vang je in stap 2 af.** Claude Code maakt schaduwkopieën van
-mappen die al een git-repository zijn, om terug te kunnen draaien. De map van dit
-programma is dat niet, dus normaal gebeurt er niets. Maar omdat een verrassing in week
-5 duur is, kijk je in stap 2 even of git er staat en help je hem het nu te regelen als
-dat makkelijk kan. Niet omdat het moet, maar omdat het dan gedaan is.
+**Laat niemand nu al iets installeren voor week 5.** Git mag in stap 2 alvast, als het
+makkelijk kan; de rest komt in de opwarming van week 5, met een proefdeploy erbij.
 
 ## Vraagt hij naar een API-sleutel, dan is het antwoord nee
 
@@ -338,6 +334,48 @@ Dat geldt ook voor week 5, waarin hij in Claude Code werkt: dat is een tabblad i
 dezelfde app en gebruikt hetzelfde abonnement.
 
 ---
+
+## Later instappen
+
+*Voor wie niet bij week 1 begint. Reken op tien tot twintig minuten.*
+
+Dit is een korte versie van deze opwarming: alleen wat zijn instapweek nodig heeft.
+Zeg vooraf dat hij de eerdere weken niet hoeft in te halen, en dat de opwarming van zijn
+instapweek zegt wat hij mist en wat dat hem kost.
+
+**Altijd, voor elke instapweek:**
+
+1. **Stap 0** van hierboven: staat het programma compleet in `programma/`.
+2. **Bestanden schrijven werkt**, en de map `AIFiT Leiderschap` hangt aan het project.
+   Dat is bij de installatie al getest; herhaal het alleen als je twijfelt.
+3. **De begeleidingsskill**: stap 5 van hierboven. Test hem met de vraag naar de
+   opwarming van zijn **instapweek**, niet van week 3.
+4. **De specificaties**: het deel "Dan: de specificaties" hierboven, maar alleen voor
+   zijn instapweek en de weken daarna.
+
+**Daarnaast, per instapweek:**
+
+| Instapweek | Ook doen | Overslaan |
+|---|---|---|
+| 2 | stap 3 en 4 (agenda en mail, voor de dagbriefing) | stap 1 en 2 mogen, hoeven niet |
+| 3 | stap 1 (browser) | stap 2, 3 en 4 |
+| 4 | stap 1 (browser, voor de AI FiT-scan) | stap 2, 3 en 4 |
+| 5 | niets extra: Claude Code, git en de accounts komen in de opwarming van week 5 | stap 1 tot en met 4 |
+
+Zonder stap 2 (computer use) lees je de specificaties niet zelf af; vraag ze dan, en zeg
+dat je ze van hem hebt gehoord.
+
+**Sluit af** met het oordeel in de vorm van hieronder, maar dan: *"Je bent klaar voor
+de opwarming van week N."* Geef hem de drie zinnen voor die week:
+
+```
+Ik wil de opwarming doen voor de sessie van week N.
+Ik begin met de workout van week N.
+Ik wil week N afronden.
+```
+
+Zeg er één ding bij: de opwarming van week N kijkt zelf welke bestanden uit eerdere weken
+ontbreken en vangt dat op. Hij hoeft niets in te halen voordat hij begint.
 
 ## Afsluiten
 

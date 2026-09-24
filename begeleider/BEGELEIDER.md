@@ -12,7 +12,14 @@ Ik ga deelnemen aan de AIFIT Leiderschap sessies. Kun je deze repo installeren: 
 ```
 
 Claude volgt dan `INSTALLEER.md`: hij controleert de map `AIFiT Leiderschap`, zet de
-begeleiding in die map, en loopt in dezelfde doorloop de opwarming van week 1 af. Reken
+begeleiding in die map (`AIFiT-BEGELEIDING.md`, en `CLAUDE.md` voor Claude Code in
+week 5), vraagt bij welke week de deelnemer instapt, en loopt in dezelfde doorloop de
+opwarming van week 1 af, of de korte route "Later instappen" voor wie later begint.
+
+**Later instappen en gemiste weken** hebben één regel: deel 4 van
+`00-start/OPWARMING-START.md`. Per ontbrekend bestand staat daar wat Claude doet. Alleen
+een Canvas zonder veld 0 en 1 wordt ingehaald (een kwartier); de rest wordt overgeslagen
+of vervangen door een vraag. Week 5 heeft een korte SENSE voor wie week 4 niet deed. Reken
 op een half uur voor het geheel. Daarna gaan ze per week met drie zinnen verder.
 
 **De installatie hangt niet af van iets ongetests.** Claude schrijft als eerste een
@@ -62,8 +69,8 @@ week 4 al aankondigen, want Code klaarzetten kost sommigen tijd.
 | 1 | Cowork, instellingen, project en map, connectors | een paar dagen |
 | 2 | Canvas af, begeleidingsskill geüpload, nadenken over een naam en een taak | een paar dagen |
 | 3 | Perplexity, Gemini, NotebookLM, Lovable, Gamma, plus een eigen product en doelgroep in drie zinnen | **minstens een week** |
-| 4 | AI FiT-scan met minimaal vijf teamleden op aifit.nu/report, `team-analyse.md` thuis gemaakt, ExO-skill geüpload | **minstens een week** |
-| 5 | Claude Code werkend, ExO-skill in de map, jaarverslag in de map, GEMISTE-VRAGEN bijgewerkt | een paar dagen |
+| 4 | AI FiT-scan met minimaal vijf teamleden op aifit.nu/report, `team-analyse.md` thuis gemaakt, AI Stack-skill geüpload | **minstens een week** |
+| 5 | Claude Code werkend, AI Stack-skill in de map, jaarverslag in de map, GEMISTE-VRAGEN gesorteerd, lijstje met doelcijfers, concurrenten en bronnen, **GitHub- en Vercel-account met werkende proefdeploy** | **een paar dagen**, en controleer de proefdeploy |
 
 Week 3 en 4 zijn de twee waar je actief achteraan moet. Bij week 3 omdat vijf
 registraties een half uur kosten die ze die middag niet hebben; bij week 4 omdat het
@@ -84,8 +91,28 @@ als veld 9 in week 1, maar nu met het rapport van hun eigen team ernaast.
 **Week 5, de zes getallen.** Ze schrijven ze met de pen op en ontdekken hoeveel ze er
 niet weten. Dat gat draagt de hele middag; ga het niet wegnemen.
 
-**Week 5, de eerste keer verversen.** Het dashboard zoekt niet zelf; `VERVERS.md` laat
-Claude opnieuw zoeken. Wie ziet dat één zin een meetronde is, snapt SENSE.
+**Week 5, de eerste meetronde.** Het dashboard zoekt niet zelf; `VERVERS.md` laat
+Claude zoeken bij de bronnen die de deelnemer zelf koos, en vergelijkt direct met zijn
+eigen cijfers. Wie ziet dat één zin een meetronde is, snapt SENSE.
+
+## Week 5: wat er online komt
+
+Het dashboard gaat in week 5 naar Vercel (besluit 23-09-2026, optie a). Een
+Vercel-pagina is voor iedereen met de link te zien, daarom zijn er twee dashboards:
+een lokaal met alles, en een online met alleen openbare cijfers, zonder doelcijfers en
+drempels. Alleen de map `dashboard-online/` is een git-repository en gaat naar een
+**private** repo op GitHub. Claude controleert vóór elke push of er iets vertrouwelijks
+in staat.
+
+**Niet getest:** of een geplande taak vanuit de app zelf naar GitHub kan pushen. Lukt
+dat niet, dan werkt de routine half: bestanden en lokaal dashboard worden bijgewerkt,
+en de deelnemer zegt in Claude Code "push het dashboard". Het weekbestand vangt dat af;
+vraag in de zaal wie het wel en niet lukte.
+
+**Week 5 kost nu installaties** (git, GitHub CLI) en twee accounts, en dat botst met
+wat het programma tot week 4 belooft. De opwarming zet het thuis klaar, met een
+proefdeploy. Loop vóór de sessie na wie die proefdeploy werkend heeft; wie niet, bouwt
+in de sessie alleen het lokale dashboard.
 
 ## Hoe de begeleiding zich gedraagt
 
@@ -117,21 +144,31 @@ niet kunt verklaren.
 
 Regel: wijzig materiaal uiterlijk een half uur voor aanvang, en daarna niet meer.
 
-## De ExO-skill
+## De AI Stack-skill (ExO 3.0)
 
 `skills/exo-intelligence-stack/` is de ExO 3.0 Intelligence Stack-skill uit de
 Techgrounds-map op Drive, overgenomen op 23-09-2026 (daar stond "beschikbaar t/m 30
 september 2026"). Deelnemers uploaden hem in de opwarming van week 4 en zetten hem in
 week 5 ook in hun map voor Claude Code.
 
-Eén wijziging ten opzichte van het origineel: in de `description` staat
-`[naam deelnemer]` waar "Ruben" stond. Claude vult daar bij het maken van de ZIP de naam
+Tegen deelnemers heet hij **de AI Stack**. Drie wijzigingen ten opzichte van het
+origineel, alle drie in de `description`: "AI Stack" en "MTP" staan erbij als trigger,
+er staat `[naam deelnemer]` waar "Ruben" stond, en hij is ingekort tot ruim 800 tekens
+zodat een naam invullen de grens van 1024 niet raakt. Claude vult daar bij het maken van de ZIP de naam
 van de deelnemer in. Het voorbeeld in `references/` noemt Ruben nog wel, als deel van de
 VECTOR-casus.
 
 Het mapje is de bron waar Claude per deelnemer een ZIP van maakt;
 `skills/exo-intelligence-stack.zip` is daar een momentopname van, met de placeholder nog
 erin.
+
+## De eigen assistent heet standaard JARVIS
+
+Het sjabloon in `week-2/sjablonen/` heet JARVIS (*Just A Rather Very Intelligent
+System*, de assistent uit Iron Man). In de sessie doet Claude drie suggesties voor een
+eigen afkorting op basis van de naam van de deelnemer; kiest hij er een, dan vervangt
+Claude JARVIS overal, ook in de `name:` van de skill (kleine letters, geen spaties).
+Kiest hij niet, dan blijft het JARVIS en is de skill toch geldig.
 
 ## Wat nog open staat
 

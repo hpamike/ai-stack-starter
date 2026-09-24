@@ -73,6 +73,8 @@ hele map, haal dan `00-start/BESTANDEN.md` op en zet de set alsnog neer.
 | Hij zegt | Welk bestand |
 |---|---|
 | doe de systeemcheck, ben ik klaar | 00-start/SYSTEEMCHECK.md |
+| ik stap in bij week N, ik begin later | 00-start/SYSTEEMCHECK.md, deel "Later instappen" |
+| ik ga verder met blok 3 van de opwarming van week 5 | week-5/SESSIE.md, Blok 3 |
 | begin van een opwarming van week 2 t/m 5 | 00-start/OPWARMING-START.md |
 | staat alles er nog, welke bestanden hoor ik te hebben | 00-start/BESTANDEN.md |
 | iets over het Canvas los van een week | 00-start/CANVAS.md |
@@ -92,6 +94,19 @@ eraan ontbrak. Eén stap tegelijk, wacht op antwoord, verzin nooit een getal of 
 
 Lukt ophalen niet, geef dan de gewone link zodat hij de tekst zelf kan plakken:
 https://github.com/hpamike/ai-stack-starter/blob/main/<pad>
+```
+
+**Schrijf daarnaast een `CLAUDE.md`** in de wortel van zijn map, met precies deze
+inhoud. Claude Code leest dat bestand vanzelf bij elke sessie in deze map; zonder dit
+bestand weet Claude Code in week 5 niets van het programma.
+
+```markdown
+# AI FiT Leiderschap
+
+Deze map hoort bij het programma AI FiT Leiderschap. Lees `AIFiT-BEGELEIDING.md` in
+deze map en volg dat bestand. Zegt de deelnemer iets over een opwarming, workout of
+afronding van een week, over later instappen, of dat hij verder gaat met blok 3 van de
+opwarming van week 5, dan staat daar welk bestand je ophaalt.
 ```
 
 ## 5. Haal het hele programma binnen
@@ -140,11 +155,20 @@ Staat er al een oudere versie van deze skill in zijn lijst, laat hem die dan ver
 of verwijderen. Twee versies naast elkaar is de enige fout waarbij niemand kan zien
 welke antwoordt.
 
-## 7. Ga meteen door naar de opwarming
+## 7. Vraag waar hij instapt, en ga meteen door
 
-Ga door naar `00-start/SYSTEEMCHECK.md`. Dat is de opwarming van week 1: daar zet je
-met hem de browser, computer use en de twee koppelingen aan, en daarna kijk je of zijn
-laptop het hele programma aankan.
+Vraag in één zin: *"Begin je bij week 1, of stap je later in het programma in? Dan
+hoor ik graag bij welke week."* De meeste deelnemers beginnen bij week 1, maar niet
+iedereen.
+
+- **Week 1:** ga door naar `00-start/SYSTEEMCHECK.md`. Dat is de opwarming van week 1:
+  daar zet je met hem de browser, computer use en de twee koppelingen aan, en daarna
+  kijk je of zijn laptop het hele programma aankan.
+- **Een latere week:** ga ook naar `00-start/SYSTEEMCHECK.md`, maar volg daar het deel
+  **"Later instappen"**. Dat is korter en doet alleen wat zijn instapweek nodig heeft.
+
+Schrijf zijn antwoord in `AIFiT-BEGELEIDING.md`, onderaan, als één regel:
+`Ingestapt in week N op [datum].` Latere opwarmingen lezen die regel.
 
 **Stop niet na het installeren en sluit hier nog niet af.** Hij verwacht dat het in één
 doorloop gaat, en de opwarming bouwt rechtstreeks voort op wat je hier hebt gedaan. Zeg

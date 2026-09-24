@@ -1,7 +1,7 @@
 # Skills installeren en controleren
 
 **Instructie voor Claude.** Drie keer in dit programma installeert de deelnemer een
-skill: de begeleidingsskill in week 1, zijn eigen assistent in week 2, en de ExO-skill
+skill: de begeleidingsskill in week 1, zijn eigen assistent in week 2, en de AI Stack-skill
 in week 4. De route is elke keer dezelfde, en dit bestand is de enige plek waar hij helemaal staat. Verwijs
 hierheen, schrijf hem niet opnieuw.
 
@@ -24,7 +24,7 @@ volgt de taakverdeling, en die benoem je vooraf:
 
    **Maak hem zelf, uit het bestand dat op zijn laptop staat.** Voor de
    begeleidingsskill is dat `programma/skills/aifit-leiderschap/SKILL.md`, voor zijn
-   eigen assistent het mapje dat je in week 2 hebt gevuld, voor de ExO-skill het mapje
+   eigen assistent het mapje dat je in week 2 hebt gevuld, voor de AI Stack-skill het mapje
    `programma/skills/exo-intelligence-stack/` **met `references/` en `assets/` erin**. Dat bestand is altijd de
    actuele versie, dus een ZIP die je er zelf van maakt ook.
 
@@ -45,15 +45,11 @@ volgt de taakverdeling, en die benoem je vooraf:
 Er zijn twee dingen te controleren en ze hebben elk een andere methode. Haal ze niet
 door elkaar; een skill die in de lijst staat, werkt daarmee nog niet.
 
-### Staat hij in de lijst? Kijk zelf, met computer use
+### Staat hij in de lijst? Vraag het hem
 
-Computer use staat sinds week 1 aan, dus **probeer het zelf te zien** in plaats van het
-hem te vragen: open de instellingen, ga naar de lijst met skills, en kijk of hij er
-staat met de naam uit de frontmatter. Zeg vooraf even dat je op zijn scherm gaat kijken.
-
-**Lukt dat niet, dan is dat geen fout.** Het kan zijn dat je de instellingen van Claude
-zelf niet mag bedienen. Zeg dat dan gewoon, vraag hem wat hij in de lijst ziet, en ga
-door. **Zeg nooit dat je iets hebt gezien wat je niet hebt gezien**, en schrijf een
+Dit kun je niet zelf zien: het venster van Claude zelf valt buiten computer use. **Vraag
+hem wat hij in de lijst ziet**, met de naam uit de frontmatter erbij zodat hij weet
+waar hij naar zoekt, en of de skill aanstaat als er een schakelaar bij staat. **Zeg nooit dat je iets hebt gezien wat je niet hebt gezien**, en schrijf een
 uitkomst die je van hem hoort ook op als van hem gehoord.
 
 ### Werkt hij ook? Alleen in een nieuw gesprek
@@ -63,13 +59,14 @@ gesprek, dus in het gesprek waarin hij net geupload is, is hij nog niet actief. 
 binnen zijn map lijkt alles te werken omdat de bestanden daar gewoon staan.
 
 Laat hem dus een **nieuw gesprek buiten zijn map** beginnen en daar de vraag uit de
-tabel hieronder stellen.
+tabel hieronder stellen. **Zeg erbij dat hij daarna terugkomt in dit gesprek** en hier
+vertelt wat er uitkwam; anders raakt hij de draad van de opwarming kwijt.
 
 | Welke skill | Wat hij vraagt | Goed | Fout |
 |---|---|---|---|
 | Begeleidingsskill (week 1) | "wat is de opwarming van week 3" | Perplexity, Gemini, NotebookLM, Lovable en Gamma komen langs | een algemeen antwoord over voorbereiden |
 | Zijn eigen assistent (week 2) | "wie ben ik" | zijn eigen rol en organisatie, plus de melding dat zij zijn MEMORY hier niet kan lezen | een algemeen antwoord |
-| ExO-skill (week 4) | "wat zijn de lagen van de Intelligence Stack" | PURPOSE, SENSE, INTERPRET, DECIDE, ORCHESTRATE, LEARN en GOVERN | een algemeen antwoord over organisatieontwerp |
+| AI Stack-skill (week 4) | "wat zijn de lagen van de AI Stack" | PURPOSE, SENSE, INTERPRET, DECIDE, ORCHESTRATE, LEARN en GOVERN | een algemeen antwoord over organisatieontwerp |
 
 Die tweede melding is geen storing maar het bewijs dat het werkt: `MEMORY.md` staat
 bewust in zijn map en niet in de skill, en de skill hoort te zeggen dat ze er niet bij
@@ -82,10 +79,11 @@ alles gewoon door. Zeg dat er meteen bij, dan blijft hij niet hangen.
 
 - **Hij testte in hetzelfde gesprek.** Laat hem een nieuw gesprek beginnen en opnieuw
   vragen.
-- **Het is een map geworden in plaats van een ZIP**, of er zit een maplaag omheen die er
-  niet hoort. Kijk of `SKILL.md` in de ZIP te vinden is; zo niet, maak hem opnieuw vanuit
-  de inhoud van het mapje.
-- **Er zit alleen `SKILL.md` in** (ExO-skill). Die skill verwijst naar `references/` en
+- **Het is een map geworden in plaats van een ZIP**, of de lagen kloppen niet. Goed is:
+  `SKILL.md` direct in de ZIP, of in precies één map met de naam van de skill
+  (`exo-intelligence-stack/SKILL.md`). Twee mappen diep is fout. Maak hem zo nodig
+  opnieuw vanuit het mapje.
+- **Er zit alleen `SKILL.md` in** (AI Stack-skill). Die skill verwijst naar `references/` en
   `assets/`; zonder die mapjes werkt hij half. Maak de ZIP opnieuw van het hele mapje.
 - **De frontmatter klopt niet.** `name` en `description` moeten er allebei staan, en
   `name` in kleine letters zonder spaties.

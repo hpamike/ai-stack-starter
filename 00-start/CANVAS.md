@@ -69,7 +69,7 @@ een ander deel, en pas aan het eind staat het er compleet.
 | 1 | Zien: brainstorm over het Canvas | alle velden globaal, **1 Shaping questions** diep |
 | 2 | Denken: je eigen assistent met Claude Skills | **5 Eigen geheugen** |
 | 3 | Organiseren: marktonderzoek en campagne | **2 Klant en vraag**, **3 Waardepropositie** |
-| 4 | Vormgeven: AI FiT-scan en ExO 3.0 | **4 MTP als protocol**, **7 Organisatie**, **8 Cultuur en leiding**, **9 Vertrouwensstructuur** |
+| 4 | Vormgeven: AI FiT-scan en de AI Stack | **4 MTP als protocol** (scherp), **7 Organisatie**, **8 Cultuur en leiding**, **9 Vertrouwensstructuur**, en een toets van alle andere velden |
 | 5 | Herbouwen: dashboard en sensing | **6 Infrastructuur**, **10 Veranderproces** |
 
 De twee blokken die het programma persoonlijk maken zijn **5 Eigen geheugen** en **6

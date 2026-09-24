@@ -49,6 +49,10 @@ opwarming van week 1 met je af: browser, computer use, en je agenda en mail kopp
 Daarna kijkt hij of je laptop het hele programma aankan. Reken op een half uur voor het
 geheel.
 
+**Stap je later in**, bijvoorbeeld pas bij week 4? Zeg dat als Claude ernaar vraagt.
+Je krijgt dan een korte systeemcheck en gaat meteen naar de opwarming van jouw week;
+wat je van eerdere weken mist, vangt Claude op.
+
 Onderbreek je het en wil je later verder, typ dan:
 
 ```
@@ -79,8 +83,8 @@ Elke week doe je drie dingen, en Claude begeleidt alle drie.
 | 1 | [Zien: introductie tot de intelligentie-economie](week-1/) | Begrijpen wat intelligentie als productiefactor verandert; brainstormen en kritisch prompten | Brainstorm, Canvas en Shaping Questions |
 | 2 | [Denken: AI en Strategie](week-2/) | Je eigen assistent bouwen met Claude Skills | Je eigen AI-assistent als skill, met een eerste routine |
 | 3 | [Organiseren: AI en Marketing](week-3/) | Marktonderzoek en een campagne met vijf gereedschappen | Marktonderzoek, campagneplan, huisstijl, landingspagina, slides |
-| 4 | [Vormgeven: AI en HR](week-4/) | Je team lezen op AI-vaardigheid; ExO 3.0 toepassen met een Claude Skill | Analyse AI FiT Report (thuis) en de Intelligence Stack van je eenheid |
-| 5 | [Herbouwen: AI en Finance](week-5/) | Een intelligentielaag bouwen en vibecoden; van benchmark naar sensing | Brein met eigen cijfers, een dashboard met marktbenchmarks, gekoppeld aan je SENSE-laag |
+| 4 | [Vormgeven: AI en HR](week-4/) | Je team lezen op AI-vaardigheid; je organisatie ontwerpen als AI Stack (ExO 3.0) met een Claude Skill | Analyse AI FiT Report (thuis), een scherpe MTP en de AI Stack van je eenheid |
+| 5 | [Herbouwen: AI en Finance](week-5/) | Een intelligentielaag bouwen en vibecoden; van benchmark naar sensing | Een dashboard met je cijfers, doelen en de markt, online op Vercel, met sensing als routine |
 
 Het [Canvas](00-start/CANVAS.md) is de ruggengraat: je begint het in week 1 en elke
 week vult een ander deel.
@@ -98,13 +102,17 @@ Alles wat je maakt komt in één map op je laptop die je in Cowork koppelt. Noem
 
 ## Wat je zelf moet regelen
 
-Er wordt niets geïnstalleerd behalve Claude Desktop, en je hebt **geen API-sleutel**
-nodig: alles loopt op je gewone abonnement.
+Tot en met week 4 wordt er niets geïnstalleerd behalve Claude Desktop, en je hebt nooit
+een **API-sleutel** nodig: alles loopt op je gewone abonnement. De extra gereedschappen
+van week 3 zijn accounts in de browser, geen installaties.
 
-Ook niet nodig, ook niet in week 5: programmeerkennis, git, Node.js, een
-GitHub-account, een terminal of een database. De extra gereedschappen van week 3 zijn
-accounts in de browser, geen installaties. Wat er per week bij komt, hoor je
-in de opwarming van die week, ruim op tijd. Twee dingen wil je nu al weten:
+**Week 5 is de uitzondering.** Dan zet je je dashboard online, en daarvoor maak je in de
+opwarming een account bij GitHub en bij Vercel, installeer je git en de GitHub CLI, en
+log je één keer in via Terminal. Claude begeleidt elke stap; programmeerkennis is niet
+nodig.
+
+Wat er per week bij komt, hoor je in de opwarming van die week, ruim op tijd. Twee
+dingen wil je nu al weten:
 
 **Week 3 vraagt vijf extra accounts** (Perplexity, Gemini, NotebookLM, Lovable en
 Gamma) en een eigen product, dienst of initiatief waar je een markt voor zoekt. Kies
@@ -112,7 +120,7 @@ dat vast.
 
 **Week 4 vraagt tijd van je team**, niet van je laptop: minimaal vijf teamleden doen de
 AI FiT-scan op `https://aifit.nu/report`, ieder een kwartier. De analyse van het
-teamrapport doe je thuis; de sessie gaat naar ExO 3.0.
+teamrapport doe je thuis; de sessie gaat naar de AI Stack uit ExO 3.0.
 
 ## Het enige huiswerk
 
