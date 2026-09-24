@@ -1,7 +1,8 @@
 # Voor de begeleider
 
 Niet uitdelen aan deelnemers. Het deelnemersmateriaal staat in de weekmappen; dit is
-wat je zelf moet weten en doen.
+wat je zelf moet weten en doen. Wat de deelnemer per stap typt en wat Claude dan doet,
+staat in [`DOORLOOP.md`](DOORLOOP.md).
 
 ## Hoe deelnemers erin komen
 
