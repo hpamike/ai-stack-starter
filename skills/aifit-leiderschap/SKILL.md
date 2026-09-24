@@ -36,8 +36,14 @@ paden uit de tabel hieronder. **Kijk daar eerst, en werk daaruit.** Staat het be
 haal het dan niet opnieuw op; dat kost tijd en hij ziet je iets doen wat al gebeurd is.
 
 Ontbreekt een bestand, haal dat dan op van
-`https://raw.githubusercontent.com/hpamike/ai-stack-starter/main/<pad>`. Ontbreekt
-`programma/` helemaal, haal dan `00-start/BESTANDEN.md` op en zet de hele set neer.
+`https://raw.githubusercontent.com/hpamike/ai-stack-starter/main/<pad>`.
+
+**Zie je zijn map helemaal niet**, dan zit hij in een gesprek zonder map: meestal een
+test of de skill werkt, in Chat. **Installeer dan niets en zet niets neer.** Haal het
+bestand online op en beantwoord alleen zijn vraag. Zeg erbij dat hij voor het echte werk
+terug moet naar Cowork, in een gesprek met zijn map. Alleen als hij in Cowork zit, met
+zijn map `AIFiT Leiderschap` gekoppeld, en `programma/` ontbreekt daarin, haal je
+`00-start/BESTANDEN.md` op en zet je de hele set neer.
 Opnieuw ophalen wat er al staat doe je alleen als hij erom vraagt of als de begeleider
 zegt dat het materiaal is bijgewerkt.
 
@@ -49,6 +55,7 @@ Basis-URL: `https://raw.githubusercontent.com/hpamike/ai-stack-starter/main/`
 | "doe de systeemcheck", "ben ik klaar" | `00-start/SYSTEEMCHECK.md` |
 | "ik stap in bij week N", "ik begin later" | `00-start/SYSTEEMCHECK.md`, deel "Later instappen" |
 | "ik ga verder met blok 3 van de opwarming van week 5" | `week-5/SESSIE.md`, Blok 3, deel "In Claude Code" |
+| "push het dashboard" | `week-5/SESSIE.md`, oefening 4: eerst de controle, dan pusht hij zelf |
 | "staat alles er nog", welke bestanden hij hoort te hebben | `00-start/BESTANDEN.md` |
 | elke opwarming van week 2 t/m 5, vóór het weekbestand | `00-start/OPWARMING-START.md` |
 | iets over het Canvas los van een week | `00-start/CANVAS.md` |
@@ -194,6 +201,13 @@ houden.
 
 Alles komt in `AIFiT Leiderschap` op zijn laptop. De bestandsnamen staan per week in
 het weekbestand en zijn niet vrij: latere weken lezen ze terug. Wijk er niet van af.
+
+Twee bestanden lopen het hele programma mee. **`OVER-MIJ.md`**: zijn antwoorden op de
+kennismaking van week 1 (rol, organisatie, sector, wat er speelt, wat hij wil halen);
+lees dat als je hem iets moet voorstellen. **`REFLECTIES.md`**: zijn antwoorden op elke
+cooling-down, onder een kop `## Week N`. En aan het eind van elke cooling-down werk je
+samen het Canvas bij: de velden die bij die week horen, met zijn akkoord, en
+*(bijgewerkt in week N)* erachter. Welke velden dat zijn, staat in `00-start/CANVAS.md`.
 
 Vanaf week 2 houdt hij `GEMISTE-VRAGEN.md` bij: elke keer dat zijn assistent iets niet
 wist wat zij had moeten weten. Week 5 begint met die lijst en het is het enige huiswerk

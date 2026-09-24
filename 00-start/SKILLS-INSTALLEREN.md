@@ -59,7 +59,8 @@ gesprek, dus in het gesprek waarin hij net geupload is, is hij nog niet actief. 
 binnen zijn map lijkt alles te werken omdat de bestanden daar gewoon staan.
 
 Laat hem dus een **nieuw gesprek buiten zijn map** beginnen en daar de vraag uit de
-tabel hieronder stellen. **Zeg erbij dat hij daarna terugkomt in dit gesprek** en hier
+tabel hieronder stellen. **Het eenvoudigst is Chat**: het tabblad Chat in dezelfde app,
+een nieuw gesprek. Daar hangt geen map aan, dus antwoordt alleen de skill. **Zeg erbij dat hij daarna terugkomt in dit gesprek** en hier
 vertelt wat er uitkwam; anders raakt hij de draad van de opwarming kwijt.
 
 | Welke skill | Wat hij vraagt | Goed | Fout |

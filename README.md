@@ -46,7 +46,7 @@ Ik ga deelnemen aan de AIFIT Leiderschap sessies. Kun je deze repo installeren: 
 
 Claude haalt alles op, zet de begeleiding klaar en loopt daarna **in één doorloop** de
 opwarming van week 1 met je af: browser, computer use, en je agenda en mail koppelen.
-Daarna kijkt hij of je laptop het hele programma aankan. Reken op een half uur voor het
+Daarna kijkt hij of je laptop het hele programma aankan. Reken op drie kwartier voor het
 geheel.
 
 **Stap je later in**, bijvoorbeeld pas bij week 4? Zeg dat als Claude ernaar vraagt.

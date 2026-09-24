@@ -74,7 +74,8 @@ hele map, haal dan `00-start/BESTANDEN.md` op en zet de set alsnog neer.
 |---|---|
 | doe de systeemcheck, ben ik klaar | 00-start/SYSTEEMCHECK.md |
 | ik stap in bij week N, ik begin later | 00-start/SYSTEEMCHECK.md, deel "Later instappen" |
-| ik ga verder met blok 3 van de opwarming van week 5 | week-5/SESSIE.md, Blok 3 |
+| ik ga verder met blok 3 van de opwarming van week 5 | week-5/SESSIE.md, Blok 3, deel "In Claude Code" |
+| push het dashboard | week-5/SESSIE.md, oefening 4: eerst de controle, dan pusht hij zelf |
 | begin van een opwarming van week 2 t/m 5 | 00-start/OPWARMING-START.md |
 | staat alles er nog, welke bestanden hoor ik te hebben | 00-start/BESTANDEN.md |
 | iets over het Canvas los van een week | 00-start/CANVAS.md |
@@ -172,7 +173,8 @@ Schrijf zijn antwoord in `AIFiT-BEGELEIDING.md`, onderaan, als één regel:
 
 **Stop niet na het installeren en sluit hier nog niet af.** Hij verwacht dat het in één
 doorloop gaat, en de opwarming bouwt rechtstreeks voort op wat je hier hebt gedaan. Zeg
-wel even dat er nog ongeveer een half uur aan komt.
+wel even hoe lang het nog duurt: bij week 1 ongeveer een half uur, bij later instappen
+tien tot twintig minuten.
 
 Het oordeel en de zinnen die hij daarna gebruikt komen aan het eind van de opwarming,
 niet hier.

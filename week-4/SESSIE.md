@@ -104,9 +104,9 @@ Zes stappen, één voor één, en wacht na elke stap op antwoord:
 4. **Hij ziet hem in de lijst staan** als `exo-intelligence-stack`, en zet hem aan als
    er een schakelaar bij staat. Vraag wat hij ziet; het venster van Claude zelf kun je
    niet bekijken.
-5. **Hij begint een nieuw gesprek, buiten zijn map.** Een skill laadt bij het begin van
-   een gesprek; in dit gesprek werkt hij nog niet. Zeg erbij dat hij na de test hier
-   terugkomt.
+5. **Hij begint een nieuw gesprek in Chat** (het tabblad Chat; daar hangt geen map
+   aan). Een skill laadt bij het begin van een gesprek; in dit gesprek werkt hij nog
+   niet. Zeg erbij dat hij na de test hier terugkomt.
 6. **Hij test hem** met: *"Wat zijn de lagen van de AI Stack?"* Komen PURPOSE, SENSE,
    INTERPRET, DECIDE, ORCHESTRATE, LEARN en GOVERN langs, dan zit hij erin. Komt er een
    algemeen verhaal over AI-architectuur, dan niet.
@@ -176,7 +176,7 @@ waar elke beslissing, elke hire en elke agent aan getoetst wordt.
 
 **Begin bij veld 4 van zijn Canvas** ("MTP als protocol: doel en constraints"). Lees
 voor wat daar staat. Is het leeg of dun, doe dan een voorstel op basis van veld 2, 3 en
-zijn antwoorden uit week 1.
+zijn antwoorden in `OVER-MIJ.md`.
 
 **Toets hem samen aan deze zes vragen.** Loop ze één voor één af; bij elk "nee" scherp je
 samen aan.
@@ -277,7 +277,7 @@ SENSE-tabel daaruit.
 ## Oefening 4 — vijf keer waarom (13 min)
 
 Hij typt: *"Stel me vijf keer achter elkaar de vraag waarom, te beginnen bij: waarom is
-mijn rol als werkgever cruciaal bij AI in dit team?"*
+mijn rol als leidinggevende cruciaal bij AI in dit team?"*
 
 Hij antwoordt, jij vat samen en vraagt opnieuw waarom. **Vijf rondes, niet minder.**
 Ga niet meehelpen met het antwoord; de waarde zit in zijn eigen vijfde antwoord.
@@ -297,6 +297,8 @@ akkoord.
 # Cooling-down
 
 Trigger: `Ik wil week 4 afronden.`
+
+Na de vragen: zet zijn antwoorden in `REFLECTIES.md` onder `## Week 4`.
 
 1. Lees je MTP hardop. Zou je team hem herkennen, en welke keuze maakt hij onmogelijk?
 2. Welk veld van je Canvas is vandaag het meest veranderd, en waardoor?

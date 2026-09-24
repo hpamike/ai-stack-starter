@@ -389,6 +389,12 @@ link naar zijn landingspagina.
 
 Trigger: `Ik wil week 3 afronden.`
 
+Na de vragen: zet zijn antwoorden in `REFLECTIES.md` onder `## Week 3`. Werk daarna
+samen het Canvas bij: veld 2 (klant en vraag) en 3 (waardepropositie en verdienmodel).
+Doe een voorstel, gebouwd op wat hij deze week maakte (gebruik `markt-onderzoek.md` en
+de kernboodschap uit `campagneplan.md`), en zet zijn formulering in `MIJN-CANVAS.md` met
+*(bijgewerkt in week 3)* erachter. Heeft hij geen `MIJN-CANVAS.md`, sla dit dan over.
+
 1. Welk gereedschap verraste je, en welk zou je morgen niet meer gebruiken?
 2. Wat zou je een marketingbureau nu anders vragen dan voor vandaag?
 3. Welke aanname in je campagneplan is het zwakst, en hoe test je die met je

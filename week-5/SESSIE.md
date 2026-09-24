@@ -35,9 +35,11 @@ ruwe data — gaan nooit mee. Push nooit vanuit een andere map.
 
 # Opwarming
 
-*Thuis, een paar dagen van tevoren. Reken op een uur: dit is de langste opwarming na
-week 1, omdat het online zetten hier wordt klaargezet en niet in de sessie. Blok 1 en 2
-in Cowork, Blok 3 begint in Cowork en gaat verder in Claude Code.*
+*Thuis, een paar dagen van tevoren. Reken op anderhalf uur: dit is de langste
+opwarming van het programma, omdat het online zetten hier wordt klaargezet en niet in de
+sessie. Het mag in twee keer: Blok 1, 2 en het deel "In Cowork" van Blok 3 op het ene
+moment (installaties en accounts, ongeveer een uur), het deel "In Claude Code" op een
+ander (inloggen en de proefdeploy, ongeveer een half uur). Zeg dat vooraf.*
 
 Trigger: `Ik wil de opwarming doen voor de sessie van week 5.`
 
@@ -68,7 +70,7 @@ sessie, en het online zetten klaarzetten.
    *Heeft hij geen assistent:* sla dit en punt 5 over.
 5. **`GEMISTE-VRAGEN.md` sorteren.** Sorteer samen in twee stapels:
 
-   - wat **opgezocht** had kunnen worden — een ontbrekende pagina in een van de mappen
+   - wat **opgezocht** had kunnen worden — een ontbrekend bestand in een van de mappen
    - wat **geweten** had moeten worden — een ontbrekende regel in `USER.md` of `MEMORY.md`
 
    Laat hem sorteren; jij vraagt door. Vul de regels die hij goedkeurt aan in `USER.md`
@@ -189,6 +191,12 @@ Een nieuwe sessie weet niet wat er in Cowork is gezegd. **Kijk eerst zelf waar h
 `git --version` en `gh --version` laten zien of stap 1 en 4 gelukt zijn. Vraag of hij
 een GitHub- en Vercel-account heeft. Ga verder bij de eerste stap die nog niet gedaan is.
 
+**Leg de toestemmingsvensters uit, vóór de eerste.** Claude Code vraagt toestemming
+voordat het een opdracht uitvoert of een bestand schrijft. Zeg: lees wat er staat; bij
+opdrachten die alleen iets laten zien (`--version`, `status`, `pwd`) en bij bestanden in
+zijn eigen map mag hij toestaan. Staat er iets wat hij niet begrijpt, dan vraagt hij het
+eerst aan jou.
+
 7. **Claude Code werkt en is geopend in zijn map** `AIFiT Leiderschap`. Dat blijkt uit
    dit gesprek zelf. Lukt het openen niet, laat hem dan een schermafbeelding naar de
    begeleider sturen vóór de sessie.
@@ -214,14 +222,17 @@ een GitHub- en Vercel-account heeft. Ga verder bij de eerste stap die nog niet g
    de browser in. Controleer daarna zelf met `gh auth status` dat hij is ingelogd.
 10. **De proefdeploy.** Eerst maak jij één klein bestand, want dat is inhoud en geen
     instelling: de map `dashboard-online/` met een `index.html` met de tekst "Hier komt
-    het dashboard van [naam]" en de datum. Zoek met `pwd` op waar zijn map staat. Daarna
-    doet hij de rest, in Terminal:
+    het dashboard van [naam]" en de datum. Zoek met `pwd` op waar zijn map staat.
+    **Op Windows** geeft `pwd` iets als `/c/Users/naam/...`; PowerShell begrijpt dat
+    niet. Zet het om naar `C:\Users\naam\...` voordat je het hem geeft. **Schrijf het
+    volledige pad naar `dashboard-online/` in `dashboard/LINKS.md`**, onder "Map op deze
+    laptop"; in de sessie heeft hij het weer nodig. Daarna doet hij de rest, in Terminal:
 
     ```
     cd "[volledig pad naar AIFiT Leiderschap]/dashboard-online"
     ```
 
-    Vul het pad voor hem in, **volledig uitgeschreven**, zoals je het met `pwd` vond.
+    Vul het pad voor hem in, **volledig uitgeschreven**, zoals je het hierboven vond.
     Gebruik geen `~` tussen aanhalingstekens: dan vindt Terminal de map niet. **Staat de
     map in OneDrive** (het pad bevat `OneDrive`), zeg dan dat git daar meestal gewoon
     werkt, maar dat hij OneDrive even pauzeert als een opdracht blijft hangen. Leg uit
@@ -244,8 +255,10 @@ een GitHub- en Vercel-account heeft. Ga verder bij de eerste stap die nog niet g
     wel. Controleer daarna met `git remote -v` dat de map aan `aifit-dashboard` hangt.
 
     Dan in de browser: laat hem in Vercel een nieuw project maken, de repository
-    `aifit-dashboard` importeren, geen framework kiezen, en deployen. Hij krijgt een
-    adres dat eindigt op `.vercel.app`. Laat hem dat openen, ook op zijn telefoon, en het
+    `aifit-dashboard` importeren, geen framework kiezen, en deployen. **Staat
+    `aifit-dashboard` niet in de lijst**, dan heeft Vercel alleen toegang tot een deel van
+    zijn GitHub; laat hem via de optie om de GitHub-toegang aan te passen deze repository
+    toevoegen. Hij krijgt een adres dat eindigt op `.vercel.app`. Laat hem dat openen, ook op zijn telefoon, en het
     adres bij jou plakken; zet het in **`dashboard/LINKS.md`**.
 
     **Test de keten, en ook dit doet hij zelf.** Verander in `index.html` één woord, en
@@ -265,10 +278,13 @@ een GitHub- en Vercel-account heeft. Ga verder bij de eerste stap die nog niet g
     venster dat verschijnt. Na een minuut verversen. Ziet hij de nieuwe tekst, dan werkt
     alles wat de sessie nodig heeft, en heeft hij de drie opdrachten gezien die hij in de
     sessie nog één keer typt.
-11. **De skill-test.** Laat hem een nieuwe sessie in Claude Code starten in zijn map en
-    vragen: *"Wat zijn de lagen van de AI Stack?"* En daarna: *"Wat is de workout van
-    week 5?"* Komen de zeven lagen en de zes oefeningen langs, dan kent Claude Code zowel
-    de AI Stack als het programma.
+11. **Het oordeel, en dan als laatste de skill-test.** Geef eerst in deze sessie het
+    oordeel uit "Afsluiten" hieronder. Laat hem daarna, als allerlaatste handeling, een
+    nieuwe sessie in Claude Code starten in zijn map en vragen: *"Wat zijn de lagen van
+    de AI Stack?"* En daarna: *"Wat is de workout van week 5?"* Komen de zeven lagen en
+    de zes oefeningen langs, dan kent Claude Code zowel de AI Stack als het programma en
+    is hij klaar. Komt er iets anders, dan helpt die nieuwe sessie hem verder met
+    `00-start/SKILLS-INSTALLEREN.md`.
 
 **Zeg dit er nadrukkelijk bij.** Deze week is qua verbruik de zwaarste van de vijf:
 zoeken op het web, een dashboard bouwen en een routine instellen kost veel. Op een
@@ -355,11 +371,13 @@ signalen dan twintig.
 
 ## Oefening 2 — je eigen situatie (8 min)
 
-Lees `jaarverslag.pdf` en zoek de cijfers op die bij zijn signalen horen. Stel voor welk
+Lees zijn eigen cijfers uit Blok 1 van de opwarming: `jaarverslag.pdf`, of het document
+dat hij daar in plaats daarvan in de map zette, zoals een begroting of
+managementrapportage. Zoek de cijfers op die bij zijn signalen horen. Stel voor welk
 getal waar staat; **hij beslist.**
 
 - Zet zijn eigen cijfers in **`ruwe-data/intern.md`**, elk met pagina, peildatum, de
-  definitie zoals het jaarverslag die gebruikt, en **`openbaar: ja`** of
+  definitie zoals zijn document die gebruikt, en **`openbaar: ja`** of
   **`openbaar: nee`**. Ja alleen als het uit een gepubliceerde bron komt.
 - Zet zijn doelcijfers in **`ruwe-data/doelen.md`**. Dat bestand is altijd vertrouwelijk.
 
@@ -381,8 +399,8 @@ Instructie
 Twee HTML-bestanden zonder externe libraries, leesbaar op een telefoon en in donkere
 modus. Elk getal toont zichtbaar bron en peildatum. Onbekende getallen krijgen een eigen
 rustige weergave onder het kopje Wat ik nog niet weet, nooit een nul of schatting.
-Bovenaan de datum van laatste bijwerking. Lees de data bij elke bouw opnieuw uit de
-bestanden.
+Bovenaan de datum van laatste bijwerking. Jij leest de data bij elke bouw opnieuw uit
+de bestanden en zet de getallen in de HTML; de pagina zelf haalt niets op.
 
 1. dashboard/index.html (lokaal): alles. Per signaal eigen cijfer, doel, benchmark,
 het verschil in procenten, en of de drempel is overschreden.
@@ -412,18 +430,27 @@ week anders uit.
 ## Oefening 4 — online zetten (7 min)
 
 **Eerst de controle, altijd vóór een push.** Zoek in `dashboard-online/index.html` naar
-elke waarde uit `ruwe-data/doelen.md` en elk getal met `openbaar: nee`. Meld wat je
-vond. Staat er iets in, haal het eruit en bouw opnieuw. Laat hem daarna zelf de online
+elke waarde uit `ruwe-data/doelen.md`, elk getal met `openbaar: nee`, en elke drempel
+uit `markt/sensing.md`. Meld wat je vond. Staat er iets in, haal het eruit en bouw opnieuw. Laat hem daarna zelf de online
 versie openen en bevestigen: *"hier staat niets wat niet openbaar mag."*
 
-**Dan pusht hij, zelf**, net als bij de proefdeploy: in Terminal, in de map
-`dashboard-online/`, de drie opdrachten `git add index.html`, `git commit -m "[een zin
-over wat er veranderde]"` en `git push`. Geef ze hem één voor één en controleer daarna
-met `git log -1` dat de commit er staat. Vercel zet het binnen een minuut online. Laat
+**Dan pusht hij, zelf**, net als bij de proefdeploy. Een nieuw Terminal-venster staat
+niet in de goede map, dus eerst `cd` met het pad uit `dashboard/LINKS.md`:
+
+```
+cd "[pad uit LINKS.md]"
+```
+
+Daarna de drie opdrachten `git add index.html`, `git commit -m "[een zin over wat er
+veranderde]"` en `git push`. Geef ze hem één voor één en controleer daarna met
+`git log -1` dat de commit er staat. Vercel zet het binnen een minuut online. Laat
 hem het adres uit `dashboard/LINKS.md` openen, ook op zijn telefoon.
 
-Zeg erbij dat dit de laatste keer is dat hij het met de hand doet: vanaf oefening 5
-pusht de meetronde zelf, na dezelfde controle.
+**Wie pusht, en wanneer.** Zeg het hem één keer, zodat het klopt met wat er volgt:
+met de hand pusht hij in deze oefening, en nog één keer in oefening 5, na de eerste
+meetronde die hij heeft gecontroleerd. Daarna pusht de routine zelf, na dezelfde
+controle. En lukt dat de routine niet, dan zegt hij in Claude Code *"push het
+dashboard"*: dan doe jij de controle en geef je hem deze opdrachten opnieuw.
 
 ## Oefening 5 — sensing draaien en vergelijken (10 min)
 
@@ -449,9 +476,9 @@ haar peildatum, zodat de ontwikkeling zichtbaar blijft.
 sensing.md die is overschreden.
 4. Bouw dashboard/index.html en dashboard-online/index.html opnieuw, precies volgens
 dashboard/BOUW.md.
-5. Controleer dat dashboard-online/index.html niets uit doelen.md en geen getal met
-openbaar: nee bevat. Klopt dat, commit en push dan vanuit dashboard-online/. Klopt het
-niet, push niet en meld het.
+5. Controleer dat dashboard-online/index.html niets uit doelen.md, geen getal met
+openbaar: nee en geen drempel uit sensing.md bevat. Klopt dat, commit en push dan vanuit
+dashboard-online/. Klopt het niet, push niet en meld het.
 6. Sluit af met vijf regels: wat nieuw is, welke drempel is overschreden, en welk
 signaal geen nieuwe waarde had.
 ```
@@ -484,11 +511,14 @@ maximaal drie, en een dagelijkse alleen als er een signaal is dat dagelijks vera
 3. de opdracht, in een blok dat hij kan kopiëren:
    *"Voer dashboard/VERVERS.md uit voor de signalen met frequentie [dagelijks /
    wekelijks / maandelijks]."*;
-4. waar hij hangt: aan de map `AIFiT Leiderschap`, net als de dagbriefing uit week 2,
-   anders kan de taak `markt/sensing.md` niet lezen.
+4. waar hij hangt: aan de map `AIFiT Leiderschap`, anders kan de taak
+   `markt/sensing.md` niet lezen.
 
-Heeft hij in week 2 de dagbriefing ingesteld, dan kent hij de plek. Anders, of weet hij
-het niet meer: vraag wat hij ziet en noem geen knopnamen uit je hoofd.
+**Waar hij de taak maakt:** in de Claude-app, waar hij geplande taken kan instellen.
+Kan dat in Claude Code, kies dan Claude Code: daar is hij bij GitHub ingelogd. Kan het
+alleen in Cowork, zoals de dagbriefing uit week 2, dan werkt de routine waarschijnlijk
+half; zie hieronder. Weet hij niet waar het zit, vraag wat hij ziet en noem geen
+knopnamen uit je hoofd.
 
 **Laat hem er één meteen draaien**, met de hand, via de geplande taak zelf.
 
@@ -504,7 +534,8 @@ het niet meer: vraag wat hij ziet en noem geen knopnamen uit je hoofd.
 GitHub-gegevens kan, dan werkt de routine half: de bestanden en het lokale dashboard
 zijn bijgewerkt, alleen de online versie niet. Laat de taak dan afsluiten met *"Nieuwe
 metingen staan klaar; zeg in Claude Code: push het dashboard."* Zeg er eerlijk bij dat
-dit zo is, en wat hij moet doen.
+dit zo is, en wat er dan gebeurt: jij doet de controle, hij typt de drie opdrachten uit
+oefening 4.
 
 Zeg aan het eind: **de lege vakjes zijn de beste uitkomst.** Een archief vertelt je wat
 je hebt; een intelligentielaag vertelt je ook wat je mist, en nu elke week opnieuw.
@@ -546,6 +577,13 @@ besluiten/ai-act.md met bronnen.
 # Cooling-down
 
 Trigger: `Ik wil week 5 afronden.`
+
+Na de vragen: zet zijn antwoorden in `REFLECTIES.md` onder `## Week 5`. Werk daarna
+samen het Canvas bij: veld 6 (infrastructuur: systemen en agents) en 10 (veranderproces:
+30/60/90). Doe een voorstel, gebouwd op wat hij deze week maakte (het dashboard, de
+routines en `VERVERS.md` zijn zijn eerste infrastructuur; de 30/60/90 is wat hij er de
+komende drie maanden mee doet), en zet zijn formulering in `MIJN-CANVAS.md` met
+*(bijgewerkt in week 5)* erachter. Heeft hij geen `MIJN-CANVAS.md`, sla dit dan over.
 
 1. Welk van de zes getallen wist je niet, en welk signaal houdt dat gat nu voor je in de
    gaten?

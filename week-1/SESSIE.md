@@ -61,8 +61,9 @@ Stel hem **vijf vragen**: zijn rol, zijn organisatie, zijn sector, wat er nu spe
 wat hij uit dit programma wil halen. Eén vraag tegelijk, en laat hem in zijn eigen
 woorden antwoorden.
 
-Bewaar dit in het project. Je gebruikt het de rest van het programma, dus vraag door
-waar een antwoord vaag blijft.
+Zet zijn antwoorden in **`OVER-MIJ.md`** in de wortel van zijn map, in zijn woorden,
+één kop per vraag. Latere weken lezen dat bestand, dus vraag door waar een antwoord vaag
+blijft.
 
 ## Oefening 2 — brainstorm over het Canvas (40 min)
 
@@ -129,8 +130,9 @@ precies hoe zo'n controle op het verkeerde bestand landt.
 
 Trigger: `Ik wil week 1 afronden.`
 
-Stel deze drie vragen. Zijn antwoorden komen in het project; ze worden plenair
-besproken.
+Stel deze drie vragen. Zijn antwoorden komen in **`REFLECTIES.md`** in zijn map, onder
+`## Week 1`; ze worden plenair besproken. Dat bestand loopt het hele programma mee: elke
+cooling-down schrijft er een kop bij.
 
 1. Welk idee uit de brainstorm had je vóór vandaag nog niet, en in welk veld is het
    geland?

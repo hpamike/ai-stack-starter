@@ -20,6 +20,9 @@ moet doen, of met de melding dat het klaar is.
 
 Dit kost jou tien seconden en voorkomt een half uur zoeken.
 
+- **Zie je zijn map `AIFiT Leiderschap` wel?** Zo nee, dan zit hij in een gesprek zonder
+  map, bijvoorbeeld in Chat. Installeer dan niets; vraag hem om naar Cowork te gaan en
+  daar een gesprek met zijn map te beginnen.
 - **Staat de map `programma/` in `AIFiT Leiderschap`?** Zo nee, dan is de installatie
   nooit gedaan. Zeg dat, haal `INSTALLEER.md` op en doe die eerst. Vraag hem niet of hij
   geïnstalleerd heeft; kijk zelf, dat weet hij vaak niet.
@@ -62,7 +65,7 @@ niet hoe ze heten.
 
 | Bestand | Uit week | Ontbreekt het, dan doe je dit |
 |---|---|---|
-| `MIJN-CANVAS.md` met veld 0 en 1 | 1 | **Minimumroute, 15 minuten, in deze opwarming:** de vijf kennismakingsvragen uit oefening 1 van week 1, en daarna veld 0 (scope) en veld 1 (shaping questions) samen invullen. Zet het in `MIJN-CANVAS.md` met de andere velden leeg. Heeft een collega uit zijn organisatie een Canvas, dan mag hij dat overnemen. |
+| `MIJN-CANVAS.md` met veld 0 en 1, en `OVER-MIJ.md` | 1 | **Alleen in week 2 en 4**, want die bouwen op het Canvas. Dan de **minimumroute, 15 minuten, in deze opwarming:** de vijf kennismakingsvragen uit oefening 1 van week 1 (in `OVER-MIJ.md`), en daarna veld 0 (scope) en veld 1 (shaping questions) samen invullen in `MIJN-CANVAS.md`, met de andere velden leeg. Heeft een collega uit zijn organisatie een Canvas, dan mag hij dat overnemen. **In week 3 en 5 niet inhalen**; stel alleen de vijf kennismakingsvragen als je ze nodig hebt, en zet ze in `OVER-MIJ.md`. |
 | `SOUL.md`, `USER.md`, `MEMORY.md`, de assistent-skill, de dagbriefing | 2 | Niet inhalen. Sla elke controle op zijn assistent over. Moet een week iets in `MEMORY.md` schrijven, maak dan een kale `MEMORY.md` uit `week-2/sjablonen/MEMORY.md`. |
 | `GEMISTE-VRAGEN.md` | 2 | Niet inhalen; sla het sorteren over. Maak het bestand leeg aan als hij het vanaf nu wil bijhouden. |
 | `product.md`, `markt-onderzoek.md` | 3 | Niet inhalen. Waar een week erop bouwt, stel je de vraag aan hem: "welke trend in je markt moet je blijven volgen?" |

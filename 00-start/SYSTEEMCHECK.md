@@ -89,7 +89,8 @@ dan een eerlijke "dat weet ik niet".
 
 *Hij zet aan, jij test.*
 
-**Settings → General → Enable computer use.**
+**Settings → General → Enable computer use.** Ziet hij het daar niet, verzin dan geen
+pad; zoek het samen op zijn scherm.
 
 Leg in één zin uit wat het is: hiermee mag ik zijn scherm bekijken en programma's
 bedienen, zodat ik niet alles hoef te vragen.
@@ -104,12 +105,9 @@ zelf bekijken en moet ik hem vragen ze voor te lezen.
 
 ### Meteen even kijken of git er staat
 
-Nu computer use aanstaat kun je dit in een minuut afhandelen, en dat is het waard:
-wordt git pas in week 5 gemist, dan zit hij midden in de sessie met een download van
-ongeveer een gigabyte.
-
-**In week 5 is het nodig**: dan zet hij zijn dashboard via GitHub online. Het nu al
-regelen scheelt hem in die opwarming een download van een gigabyte.
+Nu computer use aanstaat kun je dit in een minuut afhandelen. **In week 5 is git
+nodig**: dan zet hij zijn dashboard via GitHub online. Het nu al regelen scheelt hem in
+die opwarming een download van ongeveer een gigabyte.
 
 **Zo kijk je:**
 
@@ -140,7 +138,8 @@ zeg erbij dat je het niet zelf hebt gelezen.
 
 *Hij koppelt, jij test.*
 
-In de chat **"+" → Connectors → Google Calendar** (of de Microsoft-variant).
+In de chat **"+" → Connectors → Google Calendar** (of de Microsoft-variant). Ziet hij
+iets anders, zoek het dan samen op; verzin geen pad.
 
 **Test het:** vraag wat er vandaag in zijn agenda staat. Krijg je iets terug, dan werkt
 het. Krijg je niets, zeg dat dan in plaats van aan te nemen dat het goed zit — een lege
@@ -199,8 +198,10 @@ doet als het niet lukt. Hij komt in week 2 terug voor zijn eigen assistent.
 niet zelf zien: het venster van Claude zelf valt buiten computer use. Vraag hem wat hij
 in de lijst ziet, en noteer het als gehoord.
 
-Daarna of hij werkt, en dat kun je niet zelf: laat hem een nieuw gesprek beginnen en
-vragen wat de opwarming van week 3 is. Komt daar een antwoord over Perplexity, Gemini,
+Daarna of hij werkt, en dat kun je niet zelf: laat hem een **nieuw gesprek in Chat**
+beginnen (het tabblad Chat in dezelfde app; daar hangt geen map aan) en vragen wat de
+opwarming van week 3 is. Zeg erbij dat hij daarna hier terugkomt en vertelt wat er
+uitkwam. Komt daar een antwoord over Perplexity, Gemini,
 NotebookLM, Lovable en Gamma, dan zit de skill erin. Krijgt hij een algemeen antwoord, dan niet.
 
 **Verzin geen menupad dat je niet kent.** Klopt een stap niet met wat hij ziet, zeg dat

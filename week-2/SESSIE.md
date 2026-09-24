@@ -38,10 +38,11 @@ Loop dit samen af:
   bestand, is het leeg, of staan er alleen nog de vragen uit het sjabloon, doe dan nu de
   minimumroute uit deel 4 van `00-start/OPWARMING-START.md`: een kwartier, veld 0 en 1.
   In de zaal ontdekken kost hem de halve sessie.
-- **De begeleidingsskill werkt.** Laat hem in een nieuw gesprek, buiten zijn map, naar
-  deze opwarming vragen. Komt daar dit stappenplan uit, dan zit hij goed.
+- **De begeleidingsskill werkt.** Laat hem een **nieuw gesprek in Chat** beginnen (daar
+  hangt geen map aan) en naar deze opwarming vragen. Komt daar dit stappenplan uit, dan
+  zit hij goed. Daarna komt hij hier terug.
 
-  Zo niet, dan upload hij hem alsnog, en dat kost twee minuten: de ZIP staat al klaar
+  Zo niet, dan uploadt hij hem alsnog, en dat kost twee minuten: de ZIP staat al klaar
   als `AIFiT Leiderschap/aifit-leiderschap.zip`. Geef de stappen één voor één en wacht
   na elke stap op antwoord: instellingen openen, **Customize → Skills → Add**, en dat
   bestand kiezen. Staat er een oudere versie in zijn lijst, laat hem die vervangen.
@@ -103,8 +104,8 @@ Wat er deze week speelt blijft bewust een bestand in zijn map.
    is, wat er nu speelt, welke mensen en overleggen terugkomen, en wat zij nooit zonder
    te vragen mag doen.
 
-   Bij elke vraag geef je zelf een eerste antwoord, uit zijn Canvas van week 1, en vraag
-   je daarna wat hij wil aanvullen of corrigeren. Dat gaat sneller en het levert
+   Bij elke vraag geef je zelf een eerste antwoord, uit `OVER-MIJ.md` en zijn Canvas van
+   week 1, en vraag je daarna wat hij wil aanvullen of corrigeren. Dat gaat sneller en het levert
    scherpere antwoorden op dan een open vraag. Wat er in de bestanden landt is zijn
    versie.
 
@@ -164,8 +165,10 @@ week 5 leest het daar terug. Het sjabloon verwijst er al naar en draagt de opdra
 te melden wanneer zij er niet bij kan. Een assistent die buiten de map antwoordt alsof
 er niets speelt, is erger dan een die zegt dat ze even niet kan meekijken.
 
-**Test het:** laat hem een nieuw gesprek beginnen, buiten de map, en vragen wie hij is.
-Komt daar zijn eigen rol en organisatie uit, dan zit de skill erin.
+**Test het:** laat hem een **nieuw gesprek in Chat** beginnen en vragen: *"JARVIS, wie
+ben ik?"* (met de naam die hij koos). Komt daar zijn eigen rol en organisatie uit, plus
+de melding dat zij zijn MEMORY hier niet kan lezen, dan zit de skill erin. Daarna komt
+hij hier terug.
 
 ## Oefening 4 — haar eerste routine (10 min)
 
@@ -218,6 +221,12 @@ vraag. **Week 5 begint met die lijst; het is het enige huiswerk van het programm
 # Cooling-down
 
 Trigger: `Ik wil week 2 afronden.`
+
+Na de vragen: zet zijn antwoorden in `REFLECTIES.md` onder `## Week 2`. Werk daarna
+samen het Canvas bij: veld 5 (eigen geheugen). Doe een voorstel, gebouwd op wat hij deze
+week maakte (wat zijn assistent nu over hem weet en wat alleen in zijn map staat, is
+precies de kennis die alleen hij heeft), en zet zijn formulering in `MIJN-CANVAS.md` met
+*(bijgewerkt in week 2)* erachter. Heeft hij geen `MIJN-CANVAS.md`, sla dit dan over.
 
 1. Wat wist je assistent na vijf vragen al over jou dat je normaal elke keer opnieuw
    uitlegt?

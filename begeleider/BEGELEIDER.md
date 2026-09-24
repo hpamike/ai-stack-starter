@@ -19,8 +19,10 @@ opwarming van week 1 af, of de korte route "Later instappen" voor wie later begi
 **Later instappen en gemiste weken** hebben één regel: deel 4 van
 `00-start/OPWARMING-START.md`. Per ontbrekend bestand staat daar wat Claude doet. Alleen
 een Canvas zonder veld 0 en 1 wordt ingehaald (een kwartier); de rest wordt overgeslagen
-of vervangen door een vraag. Week 5 heeft een korte SENSE voor wie week 4 niet deed. Reken
-op een half uur voor het geheel. Daarna gaan ze per week met drie zinnen verder.
+of vervangen door een vraag. Week 5 heeft een korte SENSE voor wie week 4 niet deed.
+
+Reken op drie kwartier voor installatie en de opwarming van week 1, of twintig tot
+dertig minuten bij later instappen. Daarna gaan ze per week met drie zinnen verder.
 
 **De installatie hangt niet af van iets ongetests.** Claude schrijft als eerste een
 bestand `AIFiT-BEGELEIDING.md` in hun map. Dat staat in hun gekoppelde map, dus hij kan
@@ -70,7 +72,7 @@ week 4 al aankondigen, want Code klaarzetten kost sommigen tijd.
 | 2 | Canvas af, begeleidingsskill geüpload, nadenken over een naam en een taak | een paar dagen |
 | 3 | Perplexity, Gemini, NotebookLM, Lovable, Gamma, plus een eigen product en doelgroep in drie zinnen | **minstens een week** |
 | 4 | AI FiT-scan met minimaal vijf teamleden op aifit.nu/report, `team-analyse.md` thuis gemaakt, AI Stack-skill geüpload | **minstens een week** |
-| 5 | Claude Code werkend, AI Stack-skill in de map, jaarverslag in de map, GEMISTE-VRAGEN gesorteerd, lijstje met doelcijfers, concurrenten en bronnen, **GitHub- en Vercel-account met werkende proefdeploy** | **een paar dagen**, en controleer de proefdeploy |
+| 5 | Claude Code werkend, AI Stack-skill in de map, jaarverslag in de map, GEMISTE-VRAGEN gesorteerd, lijstje met doelcijfers, concurrenten en bronnen, **GitHub- en Vercel-account met werkende proefdeploy** | **een paar dagen**; anderhalf uur, mag in twee keer. Controleer de proefdeploy |
 
 Week 3 en 4 zijn de twee waar je actief achteraan moet. Bij week 3 omdat vijf
 registraties een half uur kosten die ze die middag niet hebben; bij week 4 omdat het
