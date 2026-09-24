@@ -28,12 +28,15 @@ de dag van de sessie niet meer te herstellen.
 Deze twee moeten kloppen voordat je iets schrijft, anders loopt hij vast op een
 foutmelding die hij niet kan plaatsen.
 
-**Code execution en file creation aan.** Settings → Capabilities. Zonder dit kun je
+**Code execution en file creation aan.** Settings → Capabilities; ziet hij iets anders,
+zoek het dan samen op en verzin geen pad. Zonder dit kun je
 geen bestanden in zijn map maken. **Dit scherm kun je niet uitlezen**, dus zeg hem
 precies waar hij moet klikken en neem zijn antwoord aan. Stap 3 is de echte controle.
 
 **De map bestaat en is gekoppeld.** De deelnemer werkt de hele reeks in één map op
-zijn laptop, gekoppeld in Cowork: **`AIFiT Leiderschap`**. Zo niet, help hem hem te
+zijn laptop, gekoppeld in Cowork: **`AIFiT Leiderschap`**. Staat er in dit materiaal
+"het project" of "de map die aan het project hangt", dan is dit die gekoppelde map; er
+hoeft niets anders te worden aangemaakt. Zo niet, help hem hem te
 maken en te koppelen.
 
 Lukt een van beide niet, ga dan niet verder. Zeg wat er mist, help het op te

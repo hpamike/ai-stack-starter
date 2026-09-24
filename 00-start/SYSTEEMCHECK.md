@@ -61,7 +61,8 @@ is het te laat om er rustig naar te kijken.
 
 *Hij kiest, jij test.*
 
-**Settings → Cowork → Preferred browser.** De ingebouwde browser is genoeg voor het
+**Settings → Cowork → Preferred browser.** Ziet hij iets anders, zoek het dan samen op;
+verzin geen pad. De ingebouwde browser is genoeg voor het
 hele programma; laat hem niets installeren wat hij niet nodig heeft.
 
 **Test het:** open een willekeurige publieke pagina en vertel wat je ziet. Werkt dat,
@@ -200,7 +201,8 @@ in de lijst ziet, en noteer het als gehoord.
 
 Daarna of hij werkt, en dat kun je niet zelf: laat hem een **nieuw gesprek in Chat**
 beginnen (het tabblad Chat in dezelfde app; daar hangt geen map aan) en vragen wat de
-opwarming van week 3 is. Zeg erbij dat hij daarna hier terugkomt en vertelt wat er
+opwarming van week 3 is: *"Beschrijf de opwarming van week 3 van AI FiT
+Leiderschap."* Zeg erbij dat hij daarna hier terugkomt en vertelt wat er
 uitkwam. Komt daar een antwoord over Perplexity, Gemini,
 NotebookLM, Lovable en Gamma, dan zit de skill erin. Krijgt hij een algemeen antwoord, dan niet.
 
@@ -318,8 +320,9 @@ Dit komt van deelnemers die iets van techniek weten, en vaak bij week 5 omdat da
 
 > Tot en met week 4 niet. In week 5 zet je je dashboard online, en daarvoor zijn git,
 > een GitHub-account, een Vercel-account en de GitHub CLI nodig; je logt één keer in via
-> Terminal. Dat zet je in de opwarming van week 5 met mij klaar, en ik doe het werk.
-> Programmeerkennis en Node.js zijn niet nodig.
+> Terminal. Dat zet je in de opwarming van week 5 zelf op, en ik geef je bij elke stap
+> de instructie en kijk daarna of het gelukt is. Programmeerkennis en Node.js zijn niet
+> nodig.
 
 **Laat niemand nu al iets installeren voor week 5.** Git mag in stap 2 alvast, als het
 makkelijk kan; de rest komt in de opwarming van week 5, met een proefdeploy erbij.
@@ -349,8 +352,10 @@ instapweek zegt wat hij mist en wat dat hem kost.
 1. **Stap 0** van hierboven: staat het programma compleet in `programma/`.
 2. **Bestanden schrijven werkt**, en de map `AIFiT Leiderschap` hangt aan het project.
    Dat is bij de installatie al getest; herhaal het alleen als je twijfelt.
-3. **De begeleidingsskill**: stap 5 van hierboven. Test hem met de vraag naar de
-   opwarming van zijn **instapweek**, niet van week 3.
+3. **De begeleidingsskill**: stap 5 van hierboven. Test hem in Chat met *"Beschrijf de
+   opwarming van week N van AI FiT Leiderschap"*, met zijn **instapweek**. Goed is: bij
+   week 2 het Canvas en een naam voor zijn assistent; bij week 3 de vijf accounts; bij
+   week 4 de AI FiT-scan en de AI Stack; bij week 5 git, GitHub en Vercel.
 4. **De specificaties**: het deel "Dan: de specificaties" hierboven, maar alleen voor
    zijn instapweek en de weken daarna.
 
@@ -366,8 +371,10 @@ instapweek zegt wat hij mist en wat dat hem kost.
 Zonder stap 2 (computer use) lees je de specificaties niet zelf af; vraag ze dan, en zeg
 dat je ze van hem hebt gehoord.
 
-**Sluit af** met het oordeel in de vorm van hieronder, maar dan: *"Je bent klaar voor
-de opwarming van week N."* Geef hem de drie zinnen voor die week:
+**Sluit af** met één van twee oordelen. **Klaar:** *"Je bent klaar voor de opwarming
+van week N."* **Nog niet klaar:** maximaal drie dingen, met per stuk wat het kost en wat
+hij eraan kan doen. Geef hem daarna de drie zinnen voor zijn week, en **niet** de zinnen
+van week 1 uit het deel "Afsluiten" hieronder:
 
 ```
 Ik wil de opwarming doen voor de sessie van week N.

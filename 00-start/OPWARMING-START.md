@@ -49,7 +49,7 @@ Kort, en alleen wat deze week nodig heeft. Je test zelf, je vraagt niet.
 - **Is er iets veranderd aan zijn laptop of account sinds de vorige keer?** Eén vraag,
   en alleen doorvragen als hij ja zegt.
 
-Vindt je iets dat niet werkt, zeg dan meteen wat het hem kost en wat eraan te doen is.
+Vind je iets dat niet werkt, zeg dan meteen wat het hem kost en wat eraan te doen is.
 **Nooit stil doorgaan met een kapotte schakel**; hij komt er dan middenin de sessie
 achter.
 
@@ -57,8 +57,9 @@ achter.
 
 Niet iedereen doet alle weken. Sommigen stappen later in (dan staat in
 `AIFiT-BEGELEIDING.md` een regel `Ingestapt in week N`), anderen missen een week. Dit is
-de enige regel ervoor, en hij geldt voor elke opwarming en workout van week 2 tot en
-met 5.
+de enige regel ervoor, en hij geldt voor elke opwarming van week 2 tot en met 5. Ontbreekt
+er in een **workout** een bestand, gebruik dan dezelfde tabel; de begeleidingsskill
+verwijst je hierheen.
 
 **Kijk zelf welke van deze bestanden in zijn map staan.** Vraag het niet; hij weet vaak
 niet hoe ze heten.

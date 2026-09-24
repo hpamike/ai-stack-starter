@@ -77,8 +77,8 @@ sessie, en het online zetten klaarzetten.
    of `MEMORY.md`.
 
    **Wijzig je `USER.md`, werk dan ook de kopie in `assistent/USER.md` bij**, want de
-   skill wordt uit dat mapje gemaakt. Maak daarna een nieuwe ZIP uit `assistent/` en laat
-   hem die uploaden, met de oude eruit; de route staat in
+   skill wordt uit dat mapje gemaakt. Maak daarna een nieuwe ZIP met de drie bestanden
+   uit `assistent/` direct erin, zoals in week 2, en laat hem die uploaden, met de oude eruit; de route staat in
    `00-start/SKILLS-INSTALLEREN.md`. *Heeft hij geen `GEMISTE-VRAGEN.md`:* sla dit over.
 6. **Zijn eigen cijfers.** Het jaarverslag of de jaarcijfers als **`jaarverslag.pdf`** in
    zijn map. Vraag erbij of het **gepubliceerd** is; dat bepaalt straks wat online mag.
@@ -175,7 +175,10 @@ is goed.
    Vercel een vraag over toegang tot zijn GitHub, dan mag hij dat toestaan; zeg dat het
    nodig is om straks zijn repository te kunnen importeren.
 6. **De overstap naar Claude Code.** Laat hem de Claude-app **helemaal afsluiten en
-   opnieuw openen**; pas dan vindt de app git en de GitHub CLI. Daarna opent hij het
+   opnieuw openen**; pas dan vindt de app git en de GitHub CLI. Alleen het venster
+   sluiten is niet genoeg. Op een Mac: **Cmd+Q**. Op Windows: het venster sluiten en
+   daarna rechtsonder bij de klok kijken of het Claude-pictogram er nog staat; zo ja,
+   rechtsklikken en afsluiten. Daarna opent hij het
    tabblad **Code**, kiest zijn map `AIFiT Leiderschap`, en typt daar:
 
    ```
@@ -281,10 +284,14 @@ eerst aan jou.
 11. **Het oordeel, en dan als laatste de skill-test.** Geef eerst in deze sessie het
     oordeel uit "Afsluiten" hieronder. Laat hem daarna, als allerlaatste handeling, een
     nieuwe sessie in Claude Code starten in zijn map en vragen: *"Wat zijn de lagen van
-    de AI Stack?"* En daarna: *"Wat is de workout van week 5?"* Komen de zeven lagen en
-    de zes oefeningen langs, dan kent Claude Code zowel de AI Stack als het programma en
-    is hij klaar. Komt er iets anders, dan helpt die nieuwe sessie hem verder met
-    `00-start/SKILLS-INSTALLEREN.md`.
+    de AI Stack?"* En daarna: *"Beschrijf in drie zinnen de workout van week 5; begin er
+    nog niet aan."* Komen de zeven lagen en de zes oefeningen langs, dan is hij klaar.
+
+    Komen de zeven lagen **niet** langs, dan staat de skill niet goed in de map. Dat
+    lost de nieuwe sessie op: kijk of `.claude/skills/exo-intelligence-stack/SKILL.md`
+    bestaat, met `references/` en `assets/` ernaast, en kopieer hem zo nodig opnieuw
+    uit `programma/skills/`. Daarna nog een keer een nieuwe sessie. Uploaden naar zijn
+    account is hier niet nodig.
 
 **Zeg dit er nadrukkelijk bij.** Deze week is qua verbruik de zwaarste van de vijf:
 zoeken op het web, een dashboard bouwen en een routine instellen kost veel. Op een
@@ -343,8 +350,12 @@ voer het gesprek in vier onderwerpen. **Per onderwerp eerst zijn lijst, dan jouw
    doel dat hij in de opwarming noemde?
 2. **Bronnen.** Waar komen de marktcijfers vandaan: CBS, Eurostat, brancheorganisaties,
    onderzoeksbureaus, toezichthouders, jaarverslagen van vergelijkbare organisaties?
+   Werkt hij in de **publieke sector**, denk dan aan CBS StatLine,
+   `waarstaatjegemeente.nl`, en begrotingen en jaarrekeningen van vergelijkbare gemeenten
+   of instellingen.
 3. **Concurrenten en alternatieven.** Wie volgt hij, en waarop: prijs, aanbod, omvang,
-   nieuws?
+   nieuws? In de publieke sector zijn dat **vergelijkbare organisaties**: gemeenten van
+   dezelfde omvang, of eenheden met dezelfde taak.
 4. **Markttrends.** Welke trend moet hij blijven volgen? Heeft hij `markt-onderzoek.md`
    uit week 3, begin daar; anders vraag je wat hij zelf in zijn markt ziet veranderen.
 
@@ -416,6 +427,9 @@ gemeten zijn, tonen "nog niet gemeten". Laat het lokale dashboard zien; we doen 
 rondes verbeteren.
 ```
 
+Deze prompt voer jij zelf uit; hij hoeft hem niet te plakken. Laat hem wel lezen wat erin
+staat, want hij beslist over de rondes.
+
 Nog zonder benchmarks: die komen in oefening 5. Zeg dat erbij, anders denkt hij dat er
 iets mis is.
 
@@ -423,7 +437,8 @@ iets mis is.
 en wat anders moet, jij past aan, hij ververst.
 
 **Sla daarna de bouwopdracht op** als **`dashboard/BOUW.md`**: de prompt hierboven, met
-de verbeteringen uit de twee rondes erin. Een routine die later draait, begint in een
+de verbeteringen uit de twee rondes erin, en **zonder de laatste zin** over laten zien en
+verbeterrondes; een routine moet bouwen zonder te wachten. Een routine die later draait, begint in een
 nieuwe sessie en kent dit gesprek niet; zonder `BOUW.md` ziet het dashboard er elke
 week anders uit.
 
@@ -431,8 +446,11 @@ week anders uit.
 
 **Eerst de controle, altijd vóór een push.** Zoek in `dashboard-online/index.html` naar
 elke waarde uit `ruwe-data/doelen.md`, elk getal met `openbaar: nee`, en elke drempel
-uit `markt/sensing.md`. Meld wat je vond. Staat er iets in, haal het eruit en bouw opnieuw. Laat hem daarna zelf de online
-versie openen en bevestigen: *"hier staat niets wat niet openbaar mag."*
+uit `markt/sensing.md`. Meld wat je vond. Staat er iets in, haal het eruit en bouw opnieuw.
+
+Laat hem daarna zelf het **lokale bestand** `dashboard-online/index.html` openen in zijn
+browser, niet de Vercel-link: daar staat nog de vorige versie. Laat hem bevestigen:
+*"hier staat niets wat niet openbaar mag."*
 
 **Dan pusht hij, zelf**, net als bij de proefdeploy. Een nieuw Terminal-venster staat
 niet in de goede map, dus eerst `cd` met het pad uit `dashboard/LINKS.md`:
@@ -479,7 +497,7 @@ dashboard/BOUW.md.
 5. Controleer dat dashboard-online/index.html niets uit doelen.md, geen getal met
 openbaar: nee en geen drempel uit sensing.md bevat. Klopt dat, commit en push dan vanuit
 dashboard-online/. Klopt het niet, push niet en meld het.
-6. Sluit af met vijf regels: wat nieuw is, welke drempel is overschreden, en welk
+6. Sluit af met drie tot vijf regels: wat nieuw is, welke drempel is overschreden, en welk
 signaal geen nieuwe waarde had.
 ```
 
@@ -520,7 +538,11 @@ alleen in Cowork, zoals de dagbriefing uit week 2, dan werkt de routine waarschi
 half; zie hieronder. Weet hij niet waar het zit, vraag wat hij ziet en noem geen
 knopnamen uit je hoofd.
 
-**Laat hem er één meteen draaien**, met de hand, via de geplande taak zelf.
+**Laat hem er één meteen draaien**, met de hand, via de geplande taak zelf, en laat hem
+erbij blijven. Een geplande taak kan stilvallen op een toestemmingsvenster, en straks
+zit hij er niet bij. Verschijnt er een venster, laat hem dan toestaan; biedt de app aan
+het voor deze map te onthouden, dan mag dat voor web zoeken en voor git in
+`dashboard-online/`. Blijft de taak toch hangen, dan geldt de uitwijkroute hieronder.
 
 **Dan de controle: komt alles terug in het dashboard?** Loop het samen na:
 

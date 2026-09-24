@@ -21,8 +21,8 @@ opwarming van week 1 af, of de korte route "Later instappen" voor wie later begi
 een Canvas zonder veld 0 en 1 wordt ingehaald (een kwartier); de rest wordt overgeslagen
 of vervangen door een vraag. Week 5 heeft een korte SENSE voor wie week 4 niet deed.
 
-Reken op drie kwartier voor installatie en de opwarming van week 1, of twintig tot
-dertig minuten bij later instappen. Daarna gaan ze per week met drie zinnen verder.
+Reken op drie kwartier voor installatie en de opwarming van week 1. Wie later instapt,
+is na de installatie nog tien tot twintig minuten bezig. Daarna gaan ze per week met drie zinnen verder.
 
 **De installatie hangt niet af van iets ongetests.** Claude schrijft als eerste een
 bestand `AIFiT-BEGELEIDING.md` in hun map. Dat staat in hun gekoppelde map, dus hij kan

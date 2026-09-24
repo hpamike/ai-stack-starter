@@ -24,7 +24,7 @@ volgt de taakverdeling, en die benoem je vooraf:
 
    **Maak hem zelf, uit het bestand dat op zijn laptop staat.** Voor de
    begeleidingsskill is dat `programma/skills/aifit-leiderschap/SKILL.md`, voor zijn
-   eigen assistent het mapje dat je in week 2 hebt gevuld, voor de AI Stack-skill het mapje
+   eigen assistent de drie bestanden uit het mapje `assistent/`, direct in de ZIP, voor de AI Stack-skill het mapje
    `programma/skills/exo-intelligence-stack/` **met `references/` en `assets/` erin**. Dat bestand is altijd de
    actuele versie, dus een ZIP die je er zelf van maakt ook.
 
@@ -55,7 +55,7 @@ uitkomst die je van hem hoort ook op als van hem gehoord.
 ### Werkt hij ook? Alleen in een nieuw gesprek
 
 Dit kun je niet zelf doen en dat zeg je erbij. Een skill laadt bij de start van een
-gesprek, dus in het gesprek waarin hij net geupload is, is hij nog niet actief. En
+gesprek, dus in het gesprek waarin hij net geüpload is, is hij nog niet actief. En
 binnen zijn map lijkt alles te werken omdat de bestanden daar gewoon staan.
 
 Laat hem dus een **nieuw gesprek buiten zijn map** beginnen en daar de vraag uit de
@@ -65,8 +65,8 @@ vertelt wat er uitkwam; anders raakt hij de draad van de opwarming kwijt.
 
 | Welke skill | Wat hij vraagt | Goed | Fout |
 |---|---|---|---|
-| Begeleidingsskill (week 1) | "wat is de opwarming van week 3" | Perplexity, Gemini, NotebookLM, Lovable en Gamma komen langs | een algemeen antwoord over voorbereiden |
-| Zijn eigen assistent (week 2) | "wie ben ik" | zijn eigen rol en organisatie, plus de melding dat zij zijn MEMORY hier niet kan lezen | een algemeen antwoord |
+| Begeleidingsskill (week 1) | "beschrijf de opwarming van week 3 van AI FiT Leiderschap" | Perplexity, Gemini, NotebookLM, Lovable en Gamma komen langs | een algemeen antwoord over voorbereiden |
+| Zijn eigen assistent (week 2) | "JARVIS, wie ben ik?" (met de naam die hij koos) | zijn eigen rol en organisatie, plus de melding dat zij zijn MEMORY hier niet kan lezen | een algemeen antwoord |
 | AI Stack-skill (week 4) | "wat zijn de lagen van de AI Stack" | PURPOSE, SENSE, INTERPRET, DECIDE, ORCHESTRATE, LEARN en GOVERN | een algemeen antwoord over organisatieontwerp |
 
 Die tweede melding is geen storing maar het bewijs dat het werkt: `MEMORY.md` staat

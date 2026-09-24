@@ -39,8 +39,9 @@ Loop dit samen af:
   minimumroute uit deel 4 van `00-start/OPWARMING-START.md`: een kwartier, veld 0 en 1.
   In de zaal ontdekken kost hem de halve sessie.
 - **De begeleidingsskill werkt.** Laat hem een **nieuw gesprek in Chat** beginnen (daar
-  hangt geen map aan) en naar deze opwarming vragen. Komt daar dit stappenplan uit, dan
-  zit hij goed. Daarna komt hij hier terug.
+  hangt geen map aan) en precies dit vragen: *"Beschrijf de opwarming van week 2 van AI
+  FiT Leiderschap."* Komen het Canvas, de begeleidingsskill, een naam voor zijn assistent
+  en een taak die hij kwijt wil langs, dan zit hij goed. Daarna komt hij hier terug.
 
   Zo niet, dan uploadt hij hem alsnog, en dat kost twee minuten: de ZIP staat al klaar
   als `AIFiT Leiderschap/aifit-leiderschap.zip`. Geef de stappen één voor één en wacht
@@ -139,7 +140,12 @@ in zijn map. Koos hij in oefening 1 een eigen naam, vervang dan overal `JARVIS` 
 naam, en in de regel `name:` bovenaan `jarvis` door die naam **in kleine letters, zonder
 spaties of leestekens** (anders weigert de upload). Doe hetzelfde in `SOUL.md`, met de
 betekenis van zijn letters. Vervang verder `[naam deelnemer]` door zijn naam. Meer
-verander je niet aan dat bestand. Maak er dan een ZIP van.
+verander je niet aan dat bestand.
+
+Maak er dan een ZIP van **met de drie bestanden direct erin**: `SKILL.md`, `SOUL.md` en
+`USER.md`, zonder het mapje `assistent/` eromheen. Een map met een andere naam dan de
+skill kan de upload laten mislukken. Noem de ZIP naar de skill, bijvoorbeeld
+`jarvis.zip`.
 
 **Laat hem de skill één keer lezen voordat hij hem uploadt.** Wijs op de `description`
 bovenaan: dat is de zin waarop Claude beslist of de skill erbij hoort. Vraag of daar

@@ -298,7 +298,7 @@ Hij downloadt het moodboard en sleept het naar zijn map als **`moodboard.png`**.
 ## Stap 5 — slides in Gamma (10 min)
 
 **Jij schrijft eerst de slides.** Gebruik wat je van hem weet: zijn bestanden van deze
-middag, en uit zijn assistent-skill wie hij is en voor wie hij werkt. Vraag één ding: aan
+middag, en uit `OVER-MIJ.md` en `USER.md` wie hij is en voor wie hij werkt. Vraag één ding: aan
 wie presenteert hij dit, en wat vraagt hij van die persoon?
 
 Lever dan **tien slides met elk precies drie bullets**, in één blok dat hij kan

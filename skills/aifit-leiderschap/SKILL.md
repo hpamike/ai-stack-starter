@@ -205,9 +205,13 @@ het weekbestand en zijn niet vrij: latere weken lezen ze terug. Wijk er niet van
 Twee bestanden lopen het hele programma mee. **`OVER-MIJ.md`**: zijn antwoorden op de
 kennismaking van week 1 (rol, organisatie, sector, wat er speelt, wat hij wil halen);
 lees dat als je hem iets moet voorstellen. **`REFLECTIES.md`**: zijn antwoorden op elke
-cooling-down, onder een kop `## Week N`. En aan het eind van elke cooling-down werk je
-samen het Canvas bij: de velden die bij die week horen, met zijn akkoord, en
-*(bijgewerkt in week N)* erachter. Welke velden dat zijn, staat in `00-start/CANVAS.md`.
+cooling-down, onder een kop `## Week N`. Aan het eind van de cooling-down van week 2, 3
+en 5 werk je samen het Canvas bij, zoals het weekbestand zegt; week 1 maakt het Canvas en
+week 4 werkt het bij tijdens de workout.
+
+**Ontbreekt er in een workout een bestand uit een eerdere week**, gebruik dan de tabel in
+deel 4 van `00-start/OPWARMING-START.md`. Waar in dit materiaal "het project" staat, is
+dat zijn gekoppelde map `AIFiT Leiderschap`.
 
 Vanaf week 2 houdt hij `GEMISTE-VRAGEN.md` bij: elke keer dat zijn assistent iets niet
 wist wat zij had moeten weten. Week 5 begint met die lijst en het is het enige huiswerk
