@@ -10,10 +10,11 @@ je een bestand altijd op naam terugvinden en is één blik genoeg om te zien wat
 | Pad | Waarvoor |
 |---|---|
 | `00-start/BESTANDEN.md` | deze paklijst |
-| `00-start/SYSTEEMCHECK.md` | de opwarming van week 1 |
+| `00-start/SYSTEEMCHECK.md` | de systeemcheck na de installatie |
 | `00-start/OPWARMING-START.md` | hoe elke opwarming van week 2 t/m 5 begint |
 | `00-start/CANVAS.md` | het Canvas, de ruggengraat van alle vijf de weken |
 | `00-start/SKILLS-INSTALLEREN.md` | een skill installeren en nakijken |
+| `00-start/VERDER.md` | de pagina "Verder met je AI-Stack" na week 5 |
 | `week-1/SESSIE.md` | week 1 |
 | `week-2/SESSIE.md` | week 2 |
 | `week-2/sjablonen/SOUL.md` | sjabloon voor zijn assistent |
@@ -30,7 +31,7 @@ je een bestand altijd op naam terugvinden en is één blik genoeg om te zien wat
 | `skills/exo-intelligence-stack/references/vector-aifit-example.md` | hoort bij de AI Stack-skill |
 | `skills/exo-intelligence-stack/assets/analyse-template.md` | hoort bij de AI Stack-skill |
 
-Negentien bestanden plus deze lijst. Ophalen doe je van
+Twintig bestanden plus deze lijst. Ophalen doe je van
 `https://raw.githubusercontent.com/hpamike/ai-stack-starter/main/<pad>`.
 
 ## Wat er níét in hoort

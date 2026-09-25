@@ -77,7 +77,8 @@ hele map, haal dan `00-start/BESTANDEN.md` op en zet de set alsnog neer.
 |---|---|
 | doe de systeemcheck, ben ik klaar | 00-start/SYSTEEMCHECK.md |
 | ik stap in bij week N, ik begin later | 00-start/SYSTEEMCHECK.md, deel "Later instappen" |
-| ik ga verder met blok 3 van de opwarming van week 5 | week-5/SESSIE.md, Blok 3, deel "In Claude Code" |
+| ik ga verder met blok 3 van de opwarming van week 5, of de opwarmingszin van week 5 getypt in Claude Code | week-5/SESSIE.md, Blok 3, deel "In Claude Code" |
+| na week 5: verwerk dit verslag in mijn brein, een nieuwe bron koppelen, schoon mijn AI-Stack op, organisatiebrein | 00-start/VERDER.md |
 | push het dashboard | week-5/SESSIE.md, oefening 4: eerst de controle, dan pusht hij zelf |
 | begin van een opwarming van week 2 t/m 5 | 00-start/OPWARMING-START.md |
 | staat alles er nog, welke bestanden hoor ik te hebben | 00-start/BESTANDEN.md |
@@ -109,15 +110,17 @@ bestand weet Claude Code in week 5 niets van het programma.
 
 Deze map hoort bij het programma AI FiT Leiderschap. Lees `AIFiT-BEGELEIDING.md` in
 deze map en volg dat bestand. Zegt de deelnemer iets over een opwarming, workout of
-afronding van een week, over later instappen, of dat hij verder gaat met blok 3 van de
-opwarming van week 5, dan staat daar welk bestand je ophaalt.
+afronding van een week, over later instappen, of over zijn brein of AI-Stack na week 5,
+dan staat daar welk bestand je ophaalt. Typt hij hier, in Claude Code, "Ik wil de
+opwarming doen voor de sessie van week 5", dan is hij halverwege die opwarming
+overgestapt: ga naar week-5/SESSIE.md, Blok 3, deel "In Claude Code".
 ```
 
 ## 5. Haal het hele programma binnen
 
 Nu pas, want stap 3 heeft bewezen dat schrijven werkt.
 
-Haal `00-start/BESTANDEN.md` op. Daar staat de paklijst: negentien bestanden plus de
+Haal `00-start/BESTANDEN.md` op. Daar staat de paklijst: twintig bestanden plus de
 lijst zelf. Zet ze allemaal in `AIFiT Leiderschap/programma/`, met dezelfde paden als in de
 tabel. Ophalen gaat van
 `https://raw.githubusercontent.com/hpamike/ai-stack-starter/main/<pad>`.
@@ -131,7 +134,7 @@ mee hoeft te doen.
 bestanden van die week er staan en haalt alleen op wat ontbreekt. Opnieuw downloaden
 wat er al is, kost tijd en levert niets op.
 
-**Doe dit in stilte.** Het zijn twintig bestanden; meld niet elk bestand apart, dat
+**Doe dit in stilte.** Het zijn eenentwintig bestanden; meld niet elk bestand apart, dat
 leest als een foutmelding. Eén zin vooraf dat je het programma binnenhaalt en één zin
 achteraf dat het klaarstaat.
 
@@ -165,9 +168,10 @@ Vraag in één zin: *"Begin je bij week 1, of stap je later in het programma in?
 hoor ik graag bij welke week."* De meeste deelnemers beginnen bij week 1, maar niet
 iedereen.
 
-- **Week 1:** ga door naar `00-start/SYSTEEMCHECK.md`. Dat is de opwarming van week 1:
-  daar zet je met hem de browser, computer use en de twee koppelingen aan, en daarna
-  kijk je of zijn laptop het hele programma aankan.
+- **Week 1:** ga door naar `00-start/SYSTEEMCHECK.md`: de begeleidingsskill, browser,
+  Chrome-extensie en computer use, in de volgorde van zijn werkboek, en daarna de
+  controle of zijn laptop het hele programma aankan. Die loopt door in de opwarming van
+  week 1 (agenda en mail).
 - **Een latere week:** ga ook naar `00-start/SYSTEEMCHECK.md`, maar volg daar het deel
   **"Later instappen"**. Dat is korter en doet alleen wat zijn instapweek nodig heeft.
 

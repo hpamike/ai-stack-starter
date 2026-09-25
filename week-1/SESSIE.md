@@ -12,40 +12,67 @@ Shaping Questions.
 
 # Opwarming
 
-*Thuis. Reken op drie kwartier als de app nog geïnstalleerd moet worden, een half
-uur als dat al staat. In Claude Cowork.*
+*Thuis, direct na de installatie en de systeemcheck; reken op een kwartier. In Claude
+Cowork.*
 
-Trigger: `Ik wil de opwarming doen voor de sessie van week 1.`
+Trigger: `Ik wil de opwarming doen voor de sessie van week 1.` Meestal kom je hier
+vanzelf, als vervolg op `00-start/SYSTEEMCHECK.md`; dan hoeft hij niets te typen.
 
-De opwarming van week 1 **is** het klaarzetten van zijn laptop; er komt niets bovenop.
-Haal `00-start/SYSTEEMCHECK.md` op en loop die af.
+**Is de systeemcheck nog niet gedaan** (geen skill, geen browser-voorkeur, geen computer
+use, of hij weet het niet), doe die dan eerst: haal `00-start/SYSTEEMCHECK.md` op. Is
+hij wel gedaan, herhaal hem dan niet; kijk alleen kort of het programma compleet in
+`programma/` staat.
 
-Daar kijk je eerst zelf of het programma compleet op zijn laptop staat, en loop je
-daarna vijf stappen met hem af: browser (en eventueel de Chrome-extensie), computer
-use, agenda koppelen, mail koppelen, en de begeleidingsskill installeren. Daarna kijk
-je of de keten heel is en of zijn apparaat de vijf weken aankan — de specificaties lees
-je met computer use zelf af in plaats van ze te vragen.
+Twee koppelingen, één voor één. **Hij koppelt, jij test.**
 
-Is die al gedaan bij de installatie, doe dan niet alsof er nog iets moet. Vraag kort of
-er sindsdien iets is veranderd aan zijn laptop of account, herhaal de tests die je zelf
-kunt doen (een bestand schrijven, zijn agenda van vandaag opvragen), en zeg dan dat hij
-klaar is.
+## Stap 1 — Agenda koppelen
+
+In de chat **"+" → Connectors → Google Calendar** (of de Microsoft-variant). Ziet hij
+iets anders, zoek het dan samen op; verzin geen pad.
+
+**Test het:** vraag wat er vandaag in zijn agenda staat. Krijg je iets terug, dan werkt
+het. Krijg je niets, zeg dat dan in plaats van aan te nemen dat het goed zit — een lege
+agenda en een niet-werkende koppeling zien er hetzelfde uit, dus vraag door.
+
+**Blokkeert:** de dagbriefing van week 2. Niet de sessie zelf.
+
+## Stap 2 — Mail koppelen
+
+In de chat **"+" → Connectors → Gmail** (of Microsoft 365). **Dit is een aparte
+koppeling dan de agenda**; test hem dus apart en neem niet aan dat de een de ander
+meebrengt.
+
+**Test het:** vraag naar het onderwerp van zijn meest recente mail. Eén onderwerp is
+genoeg; ga niet door zijn mailbox heen.
+
+Lukt koppelen niet, dan is dat vaak zijn werkgever. Laat hem hulp vragen bij zijn
+IT-medewerker, afdeling of partner, zoals het werkboek zegt. **Stop de opwarming hier
+niet voor.**
+
+**Blokkeert:** het mailgedeelte van de dagbriefing in week 2. Niet de sessie zelf.
 
 ### Afsluiten
 
-Het oordeel geef je aan het eind van de systeemcheck, in de vorm die daar staat.
+**Klaar wanneer:** agenda en mail antwoorden, of hij weet welke van de twee nog open
+staat en wat dat hem in week 2 kost. Zeg het zonder slag om de arm: *"Je bent klaar
+voor de workout van week 1."* De begeleider zegt in de sessie wanneer hij begint.
 
-**Blokkeert de workout:** de app, bestanden kunnen schrijven, en de map die aan het
-project hangt. Die drie test je zelf; zonder die drie heeft de sessie geen zin.
+Geef hem tot slot de zinnen die hij vanaf nu gebruikt:
 
-**Kost alleen iets:** browser, computer use, de koppeling met agenda en mail, en de
-begeleidingsskill. Die blokkeren week 1 niet. De agenda-koppeling komt pas in week 2
-terug, en dan als dagbriefing die anders een agendaherinnering wordt; zonder skill
-werkt de begeleiding alleen in gesprekken die aan zijn map hangen.
+```
+Ik begin met de workout van week 1.
+Ik wil week 1 afronden.
+```
 
-**Klaar wanneer:** hij weet dat hij klaar is. Concreet: bestanden schrijven werkt, de
-map `AIFiT Leiderschap` is gekoppeld aan het project, en hij weet welke van de
-niet-blokkerende punten eventueel nog openstaan en wat dat hem later kost.
+En vanaf week 2 elke week drie zinnen, met het weeknummer erin:
+
+```
+Ik wil de opwarming doen voor de sessie van week 2.
+Ik begin met de workout van week 2.
+Ik wil week 2 afronden.
+```
+
+**Ga hierna niet nog een keer de opwarming van week 1 aanbieden.** Dit ís die opwarming.
 
 ---
 
@@ -106,15 +133,20 @@ waarin jij wel inhoud levert. Hij oefent het formuleren van een scherpe vraag; j
 antwoord is het materiaal waar hij op oefent. Beantwoord die vragen dus serieus en
 volledig, ook als het antwoord zijn eigen Canvas onderuithaalt.
 
-Laat hem er **minstens twee** zelf stellen over zijn eigen velden. Komt hij niet op
-gang, geef dan een suggestie en laat hem die in zijn eigen woorden stellen. Zeg
-na afloop wat het opleverde: welk veld verschoof van antwoord naar aanname, en wat dat
-betekent voor de volgende week.
+Laat hem er **minstens twee** zelf stellen over zijn eigen velden, uit drie soorten;
+zo staan ze ook in zijn werkboek:
 
-- *"Wat is het bewijs hiervoor?"* Zo scheidt hij aannames van feiten.
-- *"Geef me drie redenen waarom dit over vijf jaar niet meer werkt."* Een antwoord
-  zonder tegenargumenten is een mening.
-- *"Wat gaat er mis als deze grens ontbreekt?"* Zo test hij veld 9.
+- **Bewijs:** *"Wat is het bewijs hiervoor, en wat is alleen mijn aanname? Welk cijfer
+  in dit Canvas heb ik nooit zelf gecontroleerd?"*
+- **Tegenspraak:** *"Geef me drie redenen waarom dit over vijf jaar niet meer werkt. Wat
+  zou mijn scherpste concurrent hierover zeggen?"*
+- **Aan Claude zelf:** *"Waar ben je het in dit gesprek te makkelijk met me eens
+  geweest? Welk voorstel van jou heb ik overgenomen zonder erover na te denken?"*
+
+Beantwoord ze serieus, ook de derde: noem concreet welk voorstel hij ongewijzigd
+overnam. Komt hij niet op gang, geef dan een suggestie en laat hem die in zijn eigen
+woorden stellen. Zeg na afloop welk veld van antwoord naar aanname verschoof; hij past
+dat veld aan of laat het staan, als hij het maar zelf beslist.
 
 **Klaar wanneer:** `canvas-brainstorm.md` staat in zijn map, en elk van de elf velden
 heeft een formulering van hemzelf of zijn beste open vraag; veld 0 en 1 zijn gevuld.
@@ -134,8 +166,8 @@ Stel deze drie vragen. Zijn antwoorden komen in **`REFLECTIES.md`** in zijn map,
 `## Week 1`; ze worden plenair besproken. Dat bestand loopt het hele programma mee: elke
 cooling-down schrijft er een kop bij.
 
-1. Welk idee uit de brainstorm had je vóór vandaag nog niet, en in welk veld is het
-   geland?
+1. Welk veld van het Canvas kostte je de meeste moeite, en wat zegt dat over je
+   organisatie?
 2. Welke vraag heeft Claude je gesteld die je jezelf nog niet had gesteld?
 3. Wat is de open vraag die je meeneemt naar volgende week?
 

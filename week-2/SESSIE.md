@@ -38,20 +38,6 @@ Loop dit samen af:
   bestand, is het leeg, of staan er alleen nog de vragen uit het sjabloon, doe dan nu de
   minimumroute uit deel 4 van `00-start/OPWARMING-START.md`: een kwartier, veld 0 en 1.
   In de zaal ontdekken kost hem de halve sessie.
-- **De begeleidingsskill werkt.** Laat hem een **nieuw gesprek in Chat** beginnen (daar
-  hangt geen map aan) en precies dit vragen: *"Beschrijf de opwarming van week 2 van AI
-  FiT Leiderschap."* Komen het Canvas, de begeleidingsskill, een naam voor zijn assistent
-  en een taak die hij kwijt wil langs, dan zit hij goed. Daarna komt hij hier terug.
-
-  Zo niet, dan uploadt hij hem alsnog, en dat kost twee minuten: de ZIP staat al klaar
-  als `AIFiT Leiderschap/aifit-leiderschap.zip`. Geef de stappen één voor één en wacht
-  na elke stap op antwoord: instellingen openen, **Customize → Skills → Add**, en dat
-  bestand kiezen. Staat er een oudere versie in zijn lijst, laat hem die vervangen.
-  Ontbreekt de ZIP, maak hem dan uit `programma/skills/aifit-leiderschap/`.
-
-  Dit is meteen de generale repetitie: in de sessie uploadt hij op precies dezelfde
-  manier zijn eigen assistent. Wie het nu één keer gedaan heeft, doet het straks zonder
-  zoeken.
 - **Een naam, om over na te denken.** Zijn assistent heet standaard **JARVIS**, maar in
   de sessie mag hij een eigen afkorting kiezen. Zeg dat, en vraag hem er deze week over
   na te denken; niet nu kiezen.
@@ -65,8 +51,9 @@ Loop dit samen af:
 mist zijn assistent de context waar ze op gebouwd wordt. De minimumroute lost dat in een
 kwartier op; doe die hier en niet in de zaal.
 
-**Kost sessietijd:** een begeleidingsskill die niet is geüpload. Het kan in de zaal,
-maar dan doet hij het uploaden twee keer voor het eerst.
+**Kost sessietijd:** een begeleidingsskill die niet is geüpload (dat merk je als hij
+buiten zijn map niets van het programma weet). Het kan in de zaal, maar dan doet hij het
+uploaden twee keer voor het eerst.
 
 Geef het oordeel: klaar voor de workout van week 2, of wat er nog moet en wat het kost.
 
@@ -236,7 +223,7 @@ precies de kennis die alleen hij heeft), en zet zijn formulering in `MIJN-CANVAS
 
 1. Wat wist je assistent na vijf vragen al over jou dat je normaal elke keer opnieuw
    uitlegt?
-2. Welke zin in de `description` van je skill zou je nu anders schrijven, en waarom?
+2. Wat mag je assistent nooit zonder te vragen doen, en waarom precies dat?
 3. Wat moet je assistent deze week leren dat zij nu nog niet weet? Zet dat als eerste
    regel in `GEMISTE-VRAGEN.md`.
 

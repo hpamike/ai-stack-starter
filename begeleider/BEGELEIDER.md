@@ -57,7 +57,18 @@ bij de workout van week 2.
 ## Opbouw van elke bijeenkomst
 
 16:00 tot 18:00, 120 minuten: ongeveer 30 minuten theorie, 60 minuten praktijk, 30
-minuten reflectie. Tafels van vier.
+minuten reflectie. Tafels van vier. De tijden per oefening volgen het werkboek: week 4
+telt op tot 65 minuten en week 5 tot 70 (plus 10 voor de AI Act als er tijd over is).
+Reken daar in je theorie- en reflectieblok mee.
+
+## Het werkboek is leidend
+
+De deelnemer heeft alleen het werkboek (pdf). Alles wat daarin staat, moet Claude
+herkennen: de zinnen, de volgorde van de installatie (skill, browser, Chrome-extensie,
+computer use, dan de controle; agenda en mail in de opwarming van week 1), de
+controlevraag met MIRA en ROBIN, de overstap naar Claude Code met de opwarmingszin, en
+de pagina "Verder met je AI-Stack". Verandert het werkboek, pas dan de kit aan en niet
+andersom.
 
 ## Waar ze werken
 
@@ -177,7 +188,6 @@ Kiest hij niet, dan blijft het JARVIS en is de skill toch geldig.
 
 - De Drive-link naar het DEPT-rapport (week 3) en `aifit.nu/report` (week 4) zijn op
   14-09-2026 bevestigd. Controleer ze opnieuw als er tijd tussen zit.
-- **Het vervolg na week 5 staat in het werkblad, niet hier** (besluit
-  14-09-2026). De cooling-down van week 5 eindigt met de rem uit het werkboek en dat
-  is waar de begeleiding in deze repo ophoudt. Voeg hier dus geen "en nu verder" aan
-  toe; dat hoort in het werkblad thuis.
+- **Het vervolg na week 5** staat in het werkboek ("Verder met je AI-Stack") én in
+  `00-start/VERDER.md`, zodat Claude de vijf prompts herkent (besluit 25-09-2026, dat
+  het besluit van 14-09-2026 vervangt). Nieuwe weken of oefeningen komen er niet bij.

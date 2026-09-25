@@ -43,6 +43,11 @@ ander (inloggen en de proefdeploy, ongeveer een half uur). Zeg dat vooraf.*
 
 Trigger: `Ik wil de opwarming doen voor de sessie van week 5.`
 
+**Komt deze zin binnen in Claude Code**, dan is dit de tweede zitting: hij is halverwege
+overgestapt, zoals het werkboek zegt. Begin dan niet bij Blok 1, maar ga meteen naar
+**Blok 3, deel "In Claude Code"**, en kijk daar eerst zelf waar hij is. De zin
+`Ik ga verder met blok 3 van de opwarming van week 5.` doet hetzelfde.
+
 **Later ingestapt of een week gemist?** Dat vang je op met deel 4 van
 `00-start/OPWARMING-START.md`; hij hoeft niets in te halen voordat hij begint. Bij elk
 punt hieronder staat wat je doet als het ontbreekt.
@@ -111,14 +116,14 @@ organisatie is; dat is de toets voor wat hij volgt.
 ## Blok 3 — online zetten klaarzetten
 
 Dit is nieuw in het programma, en het gebeurt thuis zodat hij in de sessie alleen nog
-hoeft te pushen. Zeg eerlijk wat het is: twee accounts, twee programma's installeren, en
-een paar opdrachten in Terminal. Daarna hoeft hij er nooit meer naar te kijken.
+hoeft te pushen. Zeg eerlijk wat het is: twee accounts, git en de GitHub CLI, en een
+paar opdrachten in Terminal. Daarna hoeft hij er nooit meer naar te kijken.
 
-**Hij neemt elke stap zelf; jij geeft de instructie.** Dit is de afspraak voor dit hele
-blok, en zeg hem vooraf: hij klikt, installeert en typt, jij legt uit wat hij moet doen
-en waarom, en controleert daarna of het gelukt is. **Voer de opdrachten niet zelf uit**,
-ook niet als je dat in Claude Code kunt en het sneller gaat: wie het zelf heeft
-ingesteld, weet volgende maand nog waar het zit en kan het repareren als het hapert.
+**De taakverdeling, zoals het werkboek die geeft.** Accounts maakt hij zelf. Opdrachten
+in Terminal typt hij zelf; jij geeft de instructie en controleert. **Eén uitzondering:
+de GitHub CLI installeer jij**, in Claude Code, zodra hij dat toestaat. Verder voer je
+geen opdrachten uit die iets veranderen, ook niet als het sneller gaat: wie het zelf
+heeft ingesteld, weet volgende maand nog waar het zit.
 
 Zo gaat elke stap:
 
@@ -128,7 +133,8 @@ Zo gaat elke stap:
 3. Hij doet het en zegt wat hij ziet, of plakt de uitkomst terug.
 4. Jij **controleert** en zegt of het goed is. Controleren mag je zelf doen, met een
    opdracht die alleen iets laat zien (`git --version`, `gh auth status`,
-   `git remote -v`); veranderen niet.
+   `git remote -v`). In Cowork zegt zo'n opdracht niets over zijn laptop; daar vertrouw
+   je op wat hij terugplakt.
 
 **Wachtwoorden typ jij nooit en vraag je ook nooit op.** Kijk mee in plaats van te
 gokken; noem geen knopnamen uit je hoofd, deze sites veranderen. Klopt wat hij ziet niet
@@ -141,8 +147,9 @@ is goed.
 
 ### In Cowork
 
-1. **Git.** Deze week is git nodig, en op Windows ook voor Claude Code zelf; daarom
-   eerst. Laat hem in Terminal typen:
+1. **Git.** Dit staat niet in zijn werkboek, maar zonder git werkt niets van wat volgt,
+   en op Windows heeft Claude Code het zelf nodig. Zeg dat in één zin. Laat hem in
+   Terminal typen:
 
    ```
    git --version
@@ -167,52 +174,58 @@ is goed.
    ```
    git config --global user.email "naam@voorbeeld.nl"
    ```
-4. **De GitHub CLI installeren.** Dit is het programma waarmee Claude Code straks namens
-   hem naar GitHub mag pushen. Laat hem het installatiebestand voor zijn systeem
-   downloaden van `https://cli.github.com` en installeren.
-5. **Een Vercel-account.** Laat hem `https://vercel.com` openen en aanmelden **met zijn
+4. **Een Vercel-account.** Laat hem `https://vercel.com` openen en aanmelden **met zijn
    GitHub-account**, op het gratis plan (Hobby). Dan zijn de twee meteen gekoppeld. Geeft
    Vercel een vraag over toegang tot zijn GitHub, dan mag hij dat toestaan; zeg dat het
    nodig is om straks zijn repository te kunnen importeren.
-6. **De overstap naar Claude Code.** Laat hem de Claude-app **helemaal afsluiten en
-   opnieuw openen**; pas dan vindt de app git en de GitHub CLI. Alleen het venster
-   sluiten is niet genoeg. Op een Mac: **Cmd+Q**. Op Windows: het venster sluiten en
-   daarna rechtsonder bij de klok kijken of het Claude-pictogram er nog staat; zo ja,
-   rechtsklikken en afsluiten. Daarna opent hij het
-   tabblad **Code**, kiest zijn map `AIFiT Leiderschap`, en typt daar:
+5. **De overstap naar Claude Code.** Laat hem de Claude-app **helemaal afsluiten en
+   opnieuw openen**; pas dan vindt de app git. Alleen het venster sluiten is niet
+   genoeg. Op een Mac: **Cmd+Q**. Op Windows: het venster sluiten en daarna rechtsonder
+   bij de klok kijken of het Claude-pictogram er nog staat; zo ja, rechtsklikken en
+   afsluiten. Daarna opent hij het tabblad **Code**, kiest zijn map `AIFiT Leiderschap`,
+   en typt daar de opwarmingszin opnieuw:
 
    ```
-   Ik ga verder met blok 3 van de opwarming van week 5.
+   Ik wil de opwarming doen voor de sessie van week 5.
    ```
 
-   Zeg dat de rest van deze opwarming daar gebeurt, en dat Claude daar weet waar jullie
-   waren omdat `CLAUDE.md` in zijn map staat.
+   Zeg dat de rest van deze opwarming daar gebeurt, dat Claude daar ziet waar hij
+   gebleven was omdat `CLAUDE.md` in zijn map staat, en dat hij moet toestaan als Code
+   om toestemming vraagt.
 
 ### In Claude Code
 
 Een nieuwe sessie weet niet wat er in Cowork is gezegd. **Kijk eerst zelf waar hij is**:
-`git --version` en `gh --version` laten zien of stap 1 en 4 gelukt zijn. Vraag of hij
-een GitHub- en Vercel-account heeft. Ga verder bij de eerste stap die nog niet gedaan is.
+`git --version` en `gh --version` laten zien wat er al staat. Vraag of hij een GitHub-
+en Vercel-account heeft. Ga verder bij de eerste stap die nog niet gedaan is; is git er
+niet, doe dan eerst stap 1 tot en met 3 van hierboven alsnog.
 
 **Leg de toestemmingsvensters uit, vóór de eerste.** Claude Code vraagt toestemming
 voordat het een opdracht uitvoert of een bestand schrijft. Zeg: lees wat er staat; bij
-opdrachten die alleen iets laten zien (`--version`, `status`, `pwd`) en bij bestanden in
-zijn eigen map mag hij toestaan. Staat er iets wat hij niet begrijpt, dan vraagt hij het
-eerst aan jou.
+opdrachten die alleen iets laten zien (`--version`, `status`, `pwd`), bij het
+installeren van de GitHub CLI en bij bestanden in zijn eigen map mag hij toestaan.
+Staat er iets wat hij niet begrijpt, dan vraagt hij het eerst aan jou.
 
-7. **Claude Code werkt en is geopend in zijn map** `AIFiT Leiderschap`. Dat blijkt uit
+6. **Claude Code werkt en is geopend in zijn map** `AIFiT Leiderschap`. Dat blijkt uit
    dit gesprek zelf. Lukt het openen niet, laat hem dan een schermafbeelding naar de
    begeleider sturen vóór de sessie.
-8. **De skills in Claude Code.** Een skill die hij in Cowork uploadde, is in Claude Code
+7. **De skills in Claude Code.** Een skill die hij in Cowork uploadde, is in Claude Code
    niet vanzelf aanwezig. Dit is bestandswerk in een verborgen map, en dat doe jij:
    - kopieer `programma/skills/exo-intelligence-stack/` naar
      `.claude/skills/exo-intelligence-stack/`, met `references/` en `assets/` erbij, en
      vervang in de `description` `[naam deelnemer]` door zijn voornaam;
    - kopieer `programma/skills/aifit-leiderschap/` naar
      `.claude/skills/aifit-leiderschap/`.
+8. **De GitHub CLI installeren, en dat doe jij.** Zeg wat het is: het programma
+   waarmee je vanuit Terminal met GitHub praat. Vraag toestemming en installeer hem:
+   op een Mac `brew install gh`, op Windows `winget install --id GitHub.cli`. Controleer
+   met `gh --version`.
 
-   Skills laden bij het begin van een sessie. Laat hem de test daarom doen aan het eind
-   van deze opwarming, in een nieuwe sessie: *"Wat zijn de lagen van de AI Stack?"*
+   **Lukt het niet** (op een Mac zonder Homebrew geeft `brew` "command not found"; op
+   Windows kan `winget` ontbreken), dan haalt hij hem zelf: laat hem het
+   installatiebestand voor zijn systeem downloaden van `https://cli.github.com` en
+   installeren, en daarna een **nieuw** Terminal-venster openen. Controleer opnieuw met
+   `gh --version`. Ga niet Homebrew installeren; dat kost meer dan het oplevert.
 9. **Inloggen bij GitHub.** In Terminal, in een **nieuw** venster:
 
    ```
@@ -223,9 +236,9 @@ eerst aan jou.
    **ja** op de vraag of git met zijn GitHub-gegevens mag inloggen, en inloggen met de
    webbrowser. Hij krijgt een code van acht tekens, drukt op Enter, en vult die code in
    de browser in. Controleer daarna zelf met `gh auth status` dat hij is ingelogd.
-10. **De proefdeploy.** Eerst maak jij één klein bestand, want dat is inhoud en geen
-    instelling: de map `dashboard-online/` met een `index.html` met de tekst "Hier komt
-    het dashboard van [naam]" en de datum. Zoek met `pwd` op waar zijn map staat.
+10. **De proefpagina online.** Eerst maak jij één klein bestand, want dat is inhoud en
+    geen instelling: de map `dashboard-online/` met een `index.html` met de tekst "Hier
+    komt het dashboard van [naam]" en de datum. Zoek met `pwd` op waar zijn map staat.
     **Op Windows** geeft `pwd` iets als `/c/Users/naam/...`; PowerShell begrijpt dat
     niet. Zet het om naar `C:\Users\naam\...` voordat je het hem geeft. **Schrijf het
     volledige pad naar `dashboard-online/` in `dashboard/LINKS.md`**, onder "Map op deze
@@ -261,8 +274,8 @@ eerst aan jou.
     `aifit-dashboard` importeren, geen framework kiezen, en deployen. **Staat
     `aifit-dashboard` niet in de lijst**, dan heeft Vercel alleen toegang tot een deel van
     zijn GitHub; laat hem via de optie om de GitHub-toegang aan te passen deze repository
-    toevoegen. Hij krijgt een adres dat eindigt op `.vercel.app`. Laat hem dat openen, ook op zijn telefoon, en het
-    adres bij jou plakken; zet het in **`dashboard/LINKS.md`**.
+    toevoegen. Hij krijgt een adres dat eindigt op `.vercel.app`. Laat hem dat openen,
+    ook op zijn telefoon, en het adres bij jou plakken; zet het in **`dashboard/LINKS.md`**.
 
     **Test de keten, en ook dit doet hij zelf.** Verander in `index.html` één woord, en
     laat hem dan typen:
@@ -281,11 +294,11 @@ eerst aan jou.
     venster dat verschijnt. Na een minuut verversen. Ziet hij de nieuwe tekst, dan werkt
     alles wat de sessie nodig heeft, en heeft hij de drie opdrachten gezien die hij in de
     sessie nog één keer typt.
-11. **Het oordeel, en dan als laatste de skill-test.** Geef eerst in deze sessie het
-    oordeel uit "Afsluiten" hieronder. Laat hem daarna, als allerlaatste handeling, een
-    nieuwe sessie in Claude Code starten in zijn map en vragen: *"Wat zijn de lagen van
-    de AI Stack?"* En daarna: *"Beschrijf in drie zinnen de workout van week 5; begin er
-    nog niet aan."* Komen de zeven lagen en de zes oefeningen langs, dan is hij klaar.
+11. **Het oordeel, en dan als laatste de test.** Geef eerst in deze sessie het oordeel
+    uit "Afsluiten" hieronder. Laat hem daarna, als allerlaatste handeling, een nieuwe
+    sessie in Claude Code starten in zijn map en vragen: *"Wat zijn de lagen van de AI
+    Stack?"* En daarna: *"Beschrijf in drie zinnen de workout van week 5; begin er nog
+    niet aan."* Komen de zeven lagen en de zeven oefeningen langs, dan is hij klaar.
 
     Komen de zeven lagen **niet** langs, dan staat de skill niet goed in de map. Dat
     lost de nieuwe sessie op: kijk of `.claude/skills/exo-intelligence-stack/SKILL.md`
@@ -331,12 +344,14 @@ Trigger: `Ik begin met de workout van week 5.`
 Leg in één zin uit wat vibecoden is: hij zegt wat hij wil en wat hij ziet, jij schrijft
 en past aan, direct in zijn bestanden.
 
-Zeg ook hoe de middag loopt, want het is één lijn in zes oefeningen: eerst bepalen wat
+Zeg ook hoe de middag loopt, want het is één lijn in zeven oefeningen: eerst bepalen wat
 hij wil volgen, dan zijn eigen situatie ernaast, dan het dashboard bouwen en online
-zetten, dan de sensing één keer met de hand draaien en vergelijken, en pas als dat klopt
-een routine instellen en controleren of alles in het dashboard terugkomt.
+zetten, dan de sensing één keer met de hand draaien en vergelijken, pas als dat klopt
+een routine instellen en controleren of alles in het dashboard terugkomt, en de AI Act
+als er tijd over is. De tijden tellen op tot zeventig minuten, zoals in zijn werkboek;
+ga voor bruikbaar en zeg dat erbij.
 
-## Oefening 1 — wat wil je sensen? (12 min)
+## Oefening 1 — wat wil je sensen? (15 min)
 
 **Eerst met de pen, zonder hulp:** welke zes getallen over zijn markt en financiën moet
 hij in een directie- of bestuursvergadering paraat hebben? Laat hem tellen hoeveel hij
@@ -380,7 +395,7 @@ Schrijf het resultaat in **`markt/sensing.md`** als tabel, één regel per signa
 Dit is de basis die het dashboard vanaf nu steeds volgt. Houd hem kort: liever zes goede
 signalen dan twintig.
 
-## Oefening 2 — je eigen situatie (8 min)
+## Oefening 2 — je eigen situatie (10 min)
 
 Lees zijn eigen cijfers uit Blok 1 van de opwarming: `jaarverslag.pdf`, of het document
 dat hij daar in plaats daarvan in de map zette, zoals een begroting of
@@ -398,37 +413,38 @@ dan onbekend en de open vraag: wie in zijn organisatie weet het wel?
 
 ## Oefening 3 — het dashboard bouwen (15 min)
 
+Geef hem de prompt hieronder, ingevuld met zijn organisatie, en zeg wat het werkboek
+zegt: **lees hem, pas minstens één regel aan naar eigen smaak** (kleur, volgorde, welke
+drie afwijkingen bovenaan) **en plak hem dan hier**. Zo is de eerste verbeterronde van
+hemzelf. Wacht tot hij hem plakt; bouw niet op de ongewijzigde versie.
+
 ```
 PROMPT DASHBOARD
 
 Context / rol
-Je bouwt twee dashboards voor [organisatie] uit de bestanden in deze map:
-markt/sensing.md, ruwe-data/intern.md, ruwe-data/doelen.md en, zodra hij bestaat,
-ruwe-data/benchmark.md.
+Je bouwt twee dashboards voor [organisatie]. De data komt uitsluitend uit
+ruwe-data/intern.md, ruwe-data/doelen.md, ruwe-data/benchmark.md en markt/sensing.md.
 
 Instructie
-Twee HTML-bestanden zonder externe libraries, leesbaar op een telefoon en in donkere
-modus. Elk getal toont zichtbaar bron en peildatum. Onbekende getallen krijgen een eigen
-rustige weergave onder het kopje Wat ik nog niet weet, nooit een nul of schatting.
-Bovenaan de datum van laatste bijwerking. Jij leest de data bij elke bouw opnieuw uit
-de bestanden en zet de getallen in de HTML; de pagina zelf haalt niets op.
-
-1. dashboard/index.html (lokaal): alles. Per signaal eigen cijfer, doel, benchmark,
-het verschil in procenten, en of de drempel is overschreden.
-2. dashboard-online/index.html (online): alleen signalen met Openbaar = ja en eigen
-cijfers met openbaar: ja. Geen doelcijfers, geen drempels, niets uit
-ruwe-data/doelen.md.
+Twee HTML-bestanden zonder externe libraries, te openen met dubbelklikken:
+dashboard/index.html met alles, en dashboard-online/index.html met alleen getallen die
+openbaar: ja hebben, zonder doelcijfers en drempels. Elk getal toont zichtbaar bron en
+peildatum. Onbekende getallen krijgen een eigen rustige weergave onder het kopje Wat ik
+nog niet weet, nooit een nul of schatting. Bovenaan de datum van laatste bijwerking en
+de zin dat dit een momentopname is. Leesbaar op een telefoon en in donkere modus. Lees
+de data bij elke bouw opnieuw uit de bestanden.
 
 Taak
-Bouw beide met: 1. een blok Sensing met per signaal de laatste meting, de frequentie
-en de volgende meting; 2. per getal eigen cijfer naast benchmark; 3. de drie grootste
-afwijkingen gemarkeerd; 4. onderaan Wat ik nog niet weet. Benchmarks die nog niet
-gemeten zijn, tonen "nog niet gemeten". Laat het lokale dashboard zien; we doen twee
-rondes verbeteren.
+1. Toon per signaal uit markt/sensing.md het eigen getal naast de benchmark, met het
+verschil in procenten. 2. Markeer de drie grootste afwijkingen. 3. Zet de open vragen
+onderaan. Sla deze bouwopdracht op als dashboard/BOUW.md. Laat beide dashboards zien;
+daarna doen we twee rondes verbeteren waarin ik zeg wat ik zie en wat anders moet.
 ```
 
-Deze prompt voer jij zelf uit; hij hoeft hem niet te plakken. Laat hem wel lezen wat erin
-staat, want hij beslist over de rondes.
+Twee dingen die je zelf doet bij het bouwen: jij leest de data en zet de getallen in de
+HTML (de pagina haalt niets op), en het blok **Sensing** met per signaal de laatste
+meting, de frequentie en de volgende meting zet je erbij, ook al staat het niet
+letterlijk in zijn prompt; oefening 5 en 6 hebben het nodig.
 
 Nog zonder benchmarks: die komen in oefening 5. Zeg dat erbij, anders denkt hij dat er
 iets mis is.
@@ -436,13 +452,12 @@ iets mis is.
 **Doe twee rondes.** Hij opent `dashboard/index.html` in zijn browser, zegt wat hij ziet
 en wat anders moet, jij past aan, hij ververst.
 
-**Sla daarna de bouwopdracht op** als **`dashboard/BOUW.md`**: de prompt hierboven, met
-de verbeteringen uit de twee rondes erin, en **zonder de laatste zin** over laten zien en
-verbeterrondes; een routine moet bouwen zonder te wachten. Een routine die later draait, begint in een
-nieuwe sessie en kent dit gesprek niet; zonder `BOUW.md` ziet het dashboard er elke
-week anders uit.
+**Werk daarna `dashboard/BOUW.md` bij**: zijn prompt, met de verbeteringen uit de twee
+rondes erin, en **zonder de laatste zin** over laten zien en verbeterrondes; een routine
+moet bouwen zonder te wachten. Een routine die later draait, begint in een nieuwe sessie
+en kent dit gesprek niet; zonder `BOUW.md` ziet het dashboard er elke week anders uit.
 
-## Oefening 4 — online zetten (7 min)
+## Oefening 4 — online zetten (10 min)
 
 **Eerst de controle, altijd vóór een push.** Zoek in `dashboard-online/index.html` naar
 elke waarde uit `ruwe-data/doelen.md`, elk getal met `openbaar: nee`, en elke drempel
@@ -501,7 +516,12 @@ dashboard-online/. Klopt het niet, push niet en meld het.
 signaal geen nieuwe waarde had.
 ```
 
-**Draai hem nu met de hand, zonder te pushen**, voor alle signalen: *"Voer
+**Laat hem `VERVERS.md` eerst voorlezen en in zijn eigen woorden zeggen wat er gebeurt**:
+welke bronnen, hoe vaak, en wat er niet mag (geen push in deze ronde, geen doelcijfers
+online). Klopt zijn samenvatting niet, dan is de opdracht niet duidelijk genoeg; pas hem
+aan tot hij hem kan navertellen.
+
+**Draai hem dan met de hand, zonder te pushen**, voor alle signalen: *"Voer
 dashboard/VERVERS.md uit, maar sla stap 5 over: nog niet pushen."* Dat is de eerste
 benchmark, en die gaat pas online als hij hem heeft gecontroleerd.
 
@@ -516,20 +536,25 @@ definitie) en draai het signaal opnieuw. **Pas als hij zegt dat het klopt**, doe
 controle uit oefening 4 en pusht hij zelf, met dezelfde drie opdrachten. Daarna gaat hij
 door naar de routine.
 
-## Oefening 6 — de routine, en of alles terugkomt (8 min)
+## Oefening 6 — de routine, en of alles terugkomt (10 min)
 
 **Routines per frequentie, niet één voor alles.** Kijk welke frequenties in
 `markt/sensing.md` voorkomen en stel voor hoeveel taken het worden: per frequentie één,
 maximaal drie, en een dagelijkse alleen als er een signaal is dat dagelijks verandert.
 
-**Het instellen doet hij zelf**; jij geeft per taak de instructie. Per taak:
+**De opdracht voor de eerste taak schrijft hij zelf**, in twee of drie zinnen: wat er
+moet gebeuren, met welke bestanden, en wat niet mag. Wie de opdracht zelf heeft
+geschreven, weet ook wat hij uitzet als het misgaat. Jij scherpt hem aan, en doe dat
+hardop: ontbreekt `dashboard/VERVERS.md`, de frequentie of de regel over wat niet online
+mag, zeg dan wat er mist en laat hem het toevoegen. Een goede opdracht komt neer op
+*"Voer dashboard/VERVERS.md uit voor de signalen met frequentie wekelijks; push alleen
+na de controle."* Voor de tweede en derde taak mag hij die kopiëren.
+
+**Het instellen doet hij zelf**; jij vult per taak in:
 
 1. de naam, bijvoorbeeld `Sensing wekelijks`;
 2. het tijdstip en de herhaling;
-3. de opdracht, in een blok dat hij kan kopiëren:
-   *"Voer dashboard/VERVERS.md uit voor de signalen met frequentie [dagelijks /
-   wekelijks / maandelijks]."*;
-4. waar hij hangt: aan de map `AIFiT Leiderschap`, anders kan de taak
+3. waar hij hangt: aan de map `AIFiT Leiderschap`, anders kan de taak
    `markt/sensing.md` niet lezen.
 
 **Waar hij de taak maakt:** in de Claude-app, waar hij geplande taken kan instellen.
@@ -568,7 +593,7 @@ hand gedraaid en de uitkomst is vergeleken met zijn eigen bronnen, het lokale en
 online dashboard tonen dezelfde metingen, online staat niets vertrouwelijks, en er staat
 minstens één routine die één keer heeft gedraaid.
 
-## Als er tijd over is — de AI Act (10 min)
+## Oefening 7 — de AI Act (10 min, als er tijd over is)
 
 Vul organisatie, sector, omvang en AI-toepassingen in uit zijn project en geef hem de
 prompt. Zeg erbij dat dit ook thuis kan.
@@ -607,13 +632,13 @@ routines en `VERVERS.md` zijn zijn eerste infrastructuur; de 30/60/90 is wat hij
 komende drie maanden mee doet), en zet zijn formulering in `MIJN-CANVAS.md` met
 *(bijgewerkt in week 5)* erachter. Heeft hij geen `MIJN-CANVAS.md`, sla dit dan over.
 
-1. Welk van de zes getallen wist je niet, en welk signaal houdt dat gat nu voor je in de
-   gaten?
+1. Welk van de zes getallen wist je niet, en wie in je organisatie had het wel moeten
+   weten?
 2. Wat verandert er in je volgende directie- of bestuursvergadering nu je dit dashboard
-   hebt, en wie mag de online link zien?
-3. Kijk terug op de weken die je hebt gedaan: welk van de werkwoorden — zien, denken,
-   organiseren, vormgeven, herbouwen — heeft je het meest veranderd, en wat is je eerste
-   stap na dit programma?
+   hebt?
+3. Kijk terug op vijf weken: welk van de vijf werkwoorden — zien, denken, organiseren,
+   vormgeven, herbouwen — heeft je het meest veranderd, en wat is je eerste stap na dit
+   programma? Wie later instapte, kijkt terug op de weken die hij deed.
 
 Sluit af met de rem, letterlijk:
 

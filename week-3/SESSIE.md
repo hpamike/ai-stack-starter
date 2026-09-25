@@ -156,7 +156,7 @@ niet met wat jij zegt, vraag dan wat er wél staat en ga daarop verder.
 **De tijden zijn krap: ga bij elke stap voor bruikbaar, niet voor perfect.** Zeg dat ook
 tegen hem.
 
-## Stap 1 — de start (3 min)
+## Stap 1 — de start (5 min)
 
 Lees `product.md` uit de opwarming: de drie zinnen over zijn product en doelgroep, en het
 adres van zijn website. Ontbreekt het bestand, vraag die drie zinnen dan nu. Stel daarna
@@ -164,7 +164,7 @@ alleen wat nog ontbreekt, **maximaal vier vragen**: het doel van de test, budget
 wat er al ligt. Zet het antwoord bovenaan **`markt-onderzoek.md`** in zijn map, onder de
 kop "Wat we testen".
 
-## Stap 2 — marktonderzoek in Perplexity (10 min)
+## Stap 2 — marktonderzoek in Perplexity (5 min)
 
 **Adres:** `https://www.perplexity.ai`
 
@@ -207,7 +207,7 @@ drie bronnen zijn het sterkst**? Die drie gaan mee naar NotebookLM. Laat hem ook
 inzichten kiezen; die zet je in zijn woorden in `MEMORY.md` onder "Wat ik uit de bronnen
 van deze week haal".
 
-## Stap 3 — bronnen en advies in NotebookLM (12 min)
+## Stap 3 — bronnen en advies in NotebookLM (15 min)
 
 **Adres:** `https://notebooklm.google.com`
 
@@ -242,7 +242,7 @@ bronnen zeggen over AI en marketing", met de impact, de adviezen en de aansluiti
 zijn website. Houd de bron bij elk punt. Spreekt NotebookLM iets uit stap 2 tegen, zet
 dat er expliciet bij.
 
-## Stap 4 — campagneplan, huisstijl en moodboard in Gemini (12 min)
+## Stap 4 — campagneplan, huisstijl en moodboard in Gemini (10 min)
 
 **Adres:** `https://gemini.google.com`
 
@@ -327,7 +327,7 @@ wat hij ziet.
 
 **Wacht tot hij bevestigt dat de pdf in zijn map staat.**
 
-## Stap 6 — de landingspagina in Lovable (13 min)
+## Stap 6 — de landingspagina in Lovable (15 min)
 
 Stel eerst **maximaal drie vragen**, en alleen wat je nog niet weet:
 

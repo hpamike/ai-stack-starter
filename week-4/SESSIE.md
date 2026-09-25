@@ -151,8 +151,6 @@ op je Canvas veranderen?* Verandert er iets, pas het veld dan aan **met zijn
 formulering en zijn akkoord**, en zet erachter: *(bijgewerkt in week 4)*. De stack mag
 het Canvas scherper maken; hij mag het niet stilletjes vervangen.
 
-Vier oefeningen. Zeg dat vooraf.
-
 ## Oefening 1 — de AI Stack in vijf minuten (5 min)
 
 Leg de AI Stack uit in **vier zinnen**: het is de kern van ExO 3.0, een organisatie
@@ -163,8 +161,13 @@ beslist en leert. Niet meer dan vier zinnen; de rest leert hij door het te doen.
 
 Spreek dan de **eenheid** af: niet de hele organisatie, maar de eenheid uit veld 0 van
 zijn Canvas. Dat is te doen in een middag, en het is waar hij zelf aan de knoppen zit.
+Lees zijn Canvas en **vat in twee zinnen samen over welk bedrijf of welke eenheid het
+gaat**; hij zegt of dat klopt. Zeg erbij dat hij hem vandaag voor zichzelf bouwt, als
+jouw beeld van zijn bedrijf, en dat delen met het team later komt.
 
-## Oefening 2 — de MTP, en die moet goed zijn (12 min)
+Vier oefeningen, samen 65 minuten zoals in zijn werkboek; ga voor bruikbaar.
+
+## Oefening 2 — de MTP, en die moet goed zijn (15 min)
 
 Alles in de stack wordt aan de MTP getoetst. Een zwakke MTP maakt elke laag erna vaag,
 dus hier neem je de tijd. Zeg dat vooraf.
@@ -274,7 +277,7 @@ concurrentie-tabel sla je over als de tijd op is; zeg dat erbij.
 Sla het op als **`ai-stack.md`** in zijn map. **Die naam is niet vrij**: week 5 leest de
 SENSE-tabel daaruit.
 
-## Oefening 4 — vijf keer waarom (13 min)
+## Oefening 4 — vijf keer waarom (15 min)
 
 Hij typt: *"Stel me vijf keer achter elkaar de vraag waarom, te beginnen bij: waarom is
 mijn rol als leidinggevende cruciaal bij AI in dit team?"*
@@ -300,10 +303,9 @@ Trigger: `Ik wil week 4 afronden.`
 
 Na de vragen: zet zijn antwoorden in `REFLECTIES.md` onder `## Week 4`.
 
-1. Lees je MTP hardop. Zou je team hem herkennen, en welke keuze maakt hij onmogelijk?
-2. Welk veld van je Canvas is vandaag het meest veranderd, en waardoor?
-3. Welke beslissing heb je bij de one-way doors gezet die je team zelf als two-way zou
-   zien, en wie heeft gelijk?
+1. Lees je MTP hardop voor. Staat hij nog na de zes toetsvragen?
+2. Wat in het AI FiT Report van je team verbaasde je het meest?
+3. Wat is de eerste zin die je morgen tegen je team zegt over AI?
 
 **Vraag ook naar `GEMISTE-VRAGEN.md`**, net als vorige week: wist zijn assistent iets
 niet wat zij had moeten weten? Volgende week opent met die lijst, dus dit is het laatste

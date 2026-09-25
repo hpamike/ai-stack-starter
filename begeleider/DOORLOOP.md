@@ -17,6 +17,9 @@ Vaste afspraken, elke week:
   geeft de instructie en controleert. Wachtwoorden typt Claude nooit.
 - Een skill testen gebeurt in een **nieuw gesprek in Chat**; daarna terug naar het
   gesprek waar hij was.
+- Het werkboek is leidend: de zinnen, de volgorde en de tijden hier zijn die van het
+  werkboek. Na week 5 volgt de pagina "Verder met je AI-Stack"; die vangt
+  `00-start/VERDER.md` op.
 - Elke opwarming eindigt met een oordeel: **klaar**, of **nog niet klaar** met maximaal
   drie punten.
 
@@ -32,25 +35,33 @@ Vaste afspraken, elke week:
 | 4 | — | Schrijft een testbestand, leest het terug en gooit het weg. Lukt dat niet: terug naar stap 3. |
 | 5 | — | Schrijft `AIFiT-BEGELEIDING.md` en `CLAUDE.md` in zijn map. |
 | 6 | — | Haalt het hele programma binnen in `programma/` (twintig bestanden, in stilte). Maakt de ZIP `aifit-leiderschap.zip` in zijn map. |
-| 7 | Antwoordt op: *"Begin je bij week 1, of stap je later in?"* | Schrijft `Ingestapt in week N` in `AIFiT-BEGELEIDING.md`. Week 1: door naar de opwarming van week 1. Later: door naar "Later instappen". |
+| 7 | Antwoordt op: *"Begin je bij week 1, of stap je later in?"* | Schrijft `Ingestapt in week N` in `AIFiT-BEGELEIDING.md`. Week 1: door naar de systeemcheck. Later: door naar "Later instappen". |
+
+### De systeemcheck (loopt direct door na de installatie; ± 30 min)
+
+Opnieuw beginnen na een onderbreking: `Doe de systeemcheck van AI FiT Leiderschap.`
+
+| # | Deelnemer | Claude |
+|---|---|---|
+| 0 | — | Kijkt of alle bestanden in `programma/` staan; haalt ontbrekende op. |
+| 1 | Uploadt `aifit-leiderschap.zip` via Instellingen → Customize → Skills → Add en zegt wat hij in de lijst ziet. Opent een **nieuw gesprek in Chat** en stelt de controlevraag uit het werkboek (de assistenten van Mike en Ruben). Komt terug. | Legt de upload uit; controleert het antwoord: MIRA en ROBIN. |
+| 2 | Kiest Chrome als browser (Settings → Cowork → Preferred browser). | Opent een publieke pagina en zegt wat hij ziet. |
+| 3 | Installeert de extensie Claude in Chrome en logt in. | Test of hij in een tabblad kan meelezen. |
+| 4 | Zet **computer use** aan; opent eventueel Terminal en typt `git --version`. | Maakt een schermafbeelding. Bij git: installeren mag, hoeft niet. |
+| 5 | — | Controleert de keten, leest de specificaties af en geeft het oordeel. Gaat meteen door met de opwarming van week 1. |
 
 ---
 
 ## Week 1 — Zien: brainstorm over het Canvas
 
-### Opwarming (thuis, loopt direct door na de installatie; ± 30 min)
+### Opwarming (thuis, loopt direct door na de systeemcheck; ± 15 min)
 
 Opnieuw beginnen na een onderbreking: `Ik wil de opwarming doen voor de sessie van week 1.`
 
 | # | Deelnemer | Claude |
 |---|---|---|
-| 0 | — | Kijkt of alle bestanden in `programma/` staan; haalt ontbrekende op. |
-| 1 | Kiest de browser (Settings → Cowork → Preferred browser); installeert eventueel de Chrome-extensie. | Opent een publieke pagina en zegt wat hij ziet. |
-| 2 | Zet **computer use** aan; opent eventueel Terminal en typt `git --version`. | Test of hij andere programma's kan zien. Bij git: installeren mag, hoeft niet. |
-| 3 | Koppelt zijn **agenda** ("+" → Connectors). | Vraagt wat er vandaag in zijn agenda staat. |
-| 4 | Koppelt zijn **mail**. | Vraagt naar een recente mail. |
-| 5 | Uploadt `aifit-leiderschap.zip` via Instellingen → Customize → Skills → Add. Zegt wat hij in de lijst ziet. Opent een **nieuw gesprek in Chat** en typt: `Beschrijf de opwarming van week 3 van AI FiT Leiderschap.` Komt terug. | Legt de upload uit; controleert het antwoord (Perplexity, Gemini, NotebookLM, Lovable, Gamma). |
-| 6 | — | Controleert de keten en leest de specificaties van zijn laptop af. Geeft het oordeel en de zinnen voor week 1 en 2. |
+| 1 | Koppelt zijn **agenda** ("+" → Connectors). | Vraagt wat er vandaag in zijn agenda staat. |
+| 2 | Koppelt zijn **mail**. | Vraagt naar een recente mail. Geeft daarna de zinnen voor week 1 en 2. |
 
 ### Workout (sessie, 60 min, Cowork)
 
@@ -60,7 +71,7 @@ Deelnemer typt: `Ik begin met de workout van week 1.`
 |---|---|---|---|---|
 | 1 | Kennismaken (10) | Beantwoordt vijf vragen: rol, organisatie, sector, wat er speelt, wat hij wil halen. | Eén vraag tegelijk, vraagt door. | `OVER-MIJ.md` |
 | 2 | Brainstorm (40) | Ronde 1: per blok minstens drie ideeën. Ronde 2: legt vier ideeën voor aan zijn tafel. Ronde 3: kiest en formuleert per veld. | Ronde 1: één prikkel per blok, beoordeelt niets. Ronde 3: per veld een voorstel uit de brainstorm. | `canvas-brainstorm.md`, `MIJN-CANVAS.md` |
-| 3 | Kritisch prompten (10) | Stelt minstens twee scherpe vragen over zijn eigen Canvas. | Beantwoordt ze serieus; zegt welk veld van antwoord naar aanname verschoof. | — |
+| 3 | Kritisch prompten (10) | Stelt minstens twee scherpe vragen over zijn eigen Canvas, uit drie soorten: bewijs, tegenspraak, en aan Claude zelf. | Beantwoordt ze serieus, ook de derde; zegt welk veld van antwoord naar aanname verschoof. | — |
 
 ### Cooling-down
 
@@ -79,9 +90,8 @@ Deelnemer typt: `Ik wil de opwarming doen voor de sessie van week 2.`
 |---|---|---|
 | 0 | — | Vaste start: installatie, bestanden van deze week, bestanden schrijven, gemiste weken. |
 | 1 | — | Leest veld 0 en 1 in `MIJN-CANVAS.md`. Ontbreekt het: minimumroute van een kwartier (kennismaking in `OVER-MIJ.md`, veld 0 en 1). |
-| 2 | Opent een **nieuw gesprek in Chat** en typt: `Beschrijf de opwarming van week 2 van AI FiT Leiderschap.` Komt terug. Zo nodig: uploadt de begeleidingsskill alsnog. | Controleert het antwoord (Canvas, begeleidingsskill, naam, taak). |
-| 3 | Denkt na over een naam voor zijn assistent (standaard JARVIS). | Zegt dat hij in de sessie kiest. |
-| 4 | Noemt één terugkerende taak die hij kwijt wil. | Noteert die voor de sessie. |
+| 2 | Denkt na over een naam voor zijn assistent (standaard JARVIS). | Zegt dat hij in de sessie kiest. |
+| 3 | Noemt één terugkerende taak die hij kwijt wil. | Noteert die voor de sessie. |
 
 ### Workout (sessie, 60 min, Cowork)
 
@@ -127,7 +137,7 @@ ingevuld** → deelnemer leest, plakt, en **plakt het antwoord terug in Claude**
 
 | # | Stap | Deelnemer | Claude | In de map |
 |---|---|---|---|---|
-| 1 | Start (3) | Beantwoordt maximaal vier vragen: doel, budget, termijn, wat er al ligt. | Leest `product.md`. | `markt-onderzoek.md` (wat we testen) |
+| 1 | Start (5) | Beantwoordt maximaal vier vragen: doel, budget, termijn, wat er al ligt. | Leest `product.md`. | `markt-onderzoek.md` (wat we testen) |
 | 2 | Perplexity (10) | Plakt de prompt over markttrends, demografie en gedrag; plakt het antwoord terug. Kiest het zwakste cijfer, de drie sterkste bronnen en drie inzichten. | Controleert elke bron. | `markt-onderzoek.md`, drie inzichten in `MEMORY.md` |
 | 3 | NotebookLM (12) | Maakt een notebook met de drie bronnen, het DEPT-rapport en zijn eigen site. Stelt de drie vragen, maakt een audio-overzicht en een infographic, plakt het antwoord terug. | Voegt de impact en de adviezen toe aan het marktonderzoek. | `markt-onderzoek.md`, `infographic.png` |
 | 4 | Gemini (12) | Plakt de prompt voor campagneplan en huisstijl; beantwoordt de drie vragen van Gemini zelf; plakt het antwoord terug. Plakt daarna de moodboard-prompt. | Schrijft plan en richtlijnen, en geeft de moodboard-prompt. | `campagneplan.md`, `brandrichtlijnen.md`, `moodboard.png` |
@@ -159,16 +169,16 @@ Deelnemer typt: `Ik wil de opwarming doen voor de sessie van week 4.`
 
 Blokkeert de workout: geen `aifit-report.pdf` of geen `team-analyse.md`.
 
-### Workout (sessie, 60 min, Cowork met de AI Stack)
+### Workout (sessie, 65 min, Cowork met de AI Stack)
 
 Deelnemer typt: `Ik begin met de workout van week 4.`
 
 | # | Oefening | Deelnemer | Claude | In de map |
 |---|---|---|---|---|
-| 1 | De AI Stack in vijf minuten (5) | Kiest de eenheid (veld 0 van zijn Canvas). | Legt de AI Stack uit in vier zinnen. | — |
-| 2 | De MTP (12) | Scherpt zijn MTP aan tot hij de zes toetsvragen doorstaat; noemt één keuze die de MTP onmogelijk maakt. Formuleert twee tot vier constraints. | Begint bij veld 4; geeft TED en Google als ijkpunt. | veld 4 in `MIJN-CANVAS.md` |
+| 1 | De AI Stack in vijf minuten (5) | Kiest de eenheid (veld 0 van zijn Canvas) en zegt of de samenvatting klopt. | Legt de AI Stack uit in vier zinnen; vat zijn Canvas in twee zinnen samen. | — |
+| 2 | De MTP (15) | Scherpt zijn MTP aan tot hij de zes toetsvragen doorstaat; noemt één keuze die de MTP onmogelijk maakt. Formuleert twee tot vier constraints. | Begint bij veld 4; geeft TED en Google als ijkpunt. | veld 4 in `MIJN-CANVAS.md` |
 | 3 | De zes lagen (30) | Per laag: zegt wat niet klopt. Bij SENSE noemt hij eerst zelf wat hij wil volgen; bij DECIDE noemt hij eerst zelf de one-way doors. Keurt elke wijziging aan het Canvas goed. | Per laag: één zin uitleg, een voorstel, de MTP-toets, en het Canvas-veld ernaast. Tekent het stack-diagram. | `ai-stack.md`, bijgewerkte Canvas-velden |
-| 4 | Vijf keer waarom (13) | Typt: *"Stel me vijf keer achter elkaar de vraag waarom, te beginnen bij: waarom is mijn rol als leidinggevende cruciaal bij AI in dit team?"* Formuleert de kernreden en een actie. | Vraagt vijf keer waarom en helpt niet mee. Legt de kernreden naast de MTP. | onderaan `ai-stack.md` |
+| 4 | Vijf keer waarom (15) | Typt: *"Stel me vijf keer achter elkaar de vraag waarom, te beginnen bij: waarom is mijn rol als leidinggevende cruciaal bij AI in dit team?"* Formuleert de kernreden en een actie. | Vraagt vijf keer waarom en helpt niet mee. Legt de kernreden naast de MTP. | onderaan `ai-stack.md` |
 
 ### Cooling-down
 
@@ -200,34 +210,34 @@ gaat naar Vercel en bevat alleen openbare cijfers: nooit doelcijfers, drempels o
 | B3.1 | Typt in Terminal of PowerShell: `git --version`; installeert git als dat nodig is. | Geeft de opdracht; controleert op wat hij terugplakt. |
 | B3.2 | Maakt een GitHub-account en noemt zijn gebruikersnaam en e-mailadres. | — |
 | B3.3 | Typt `git config --global user.name "…"` en `git config --global user.email "…"`. | Vult de opdrachten voor hem in. |
-| B3.4 | Installeert de GitHub CLI van `cli.github.com`. | — |
-| B3.5 | Maakt een Vercel-account, aangemeld met GitHub, en staat de toegang toe. | Legt uit waarom Vercel toegang vraagt. |
-| B3.6 | **Sluit de app helemaal af** (Mac: Cmd+Q; Windows: ook in het systeemvak), opent hem opnieuw, opent het tabblad **Code** en kiest zijn map. | — |
+| B3.4 | Maakt een Vercel-account, aangemeld met GitHub, en staat de toegang toe. | Legt uit waarom Vercel toegang vraagt. |
+| B3.5 | **Sluit de app helemaal af** (Mac: Cmd+Q; Windows: ook in het systeemvak), opent hem opnieuw, opent het tabblad **Code**, kiest zijn map en typt de opwarmingszin opnieuw. | Zegt dat de rest in Code gebeurt en dat hij toestemmingen mag toestaan. |
 
-**Tweede keer, in Claude Code.** Deelnemer typt: `Ik ga verder met blok 3 van de opwarming van week 5.`
+**Tweede keer, in Claude Code.** Deelnemer typt opnieuw: `Ik wil de opwarming doen voor de sessie van week 5.` (`Ik ga verder met blok 3 van de opwarming van week 5.` werkt ook.)
 
 | # | Deelnemer | Claude |
 |---|---|---|
 | — | Staat toe als Claude Code om toestemming vraagt. | Kijkt eerst zelf waar hij is (`git --version`, `gh --version`); legt de toestemmingsvensters uit. |
-| B3.7 | — | Bevestigt dat Claude Code in zijn map werkt. |
-| B3.8 | — | Kopieert beide skills naar `.claude/skills/`. |
+| B3.6 | — | Bevestigt dat Claude Code in zijn map werkt. |
+| B3.7 | — | Kopieert beide skills naar `.claude/skills/`. |
+| B3.8 | Staat de installatie toe. Lukt het niet: downloadt de GitHub CLI zelf van `cli.github.com`. | **Installeert de GitHub CLI** (`brew install gh` of `winget install --id GitHub.cli`); controleert met `gh --version`. |
 | B3.9 | Typt `gh auth login` in een nieuw venster; kiest GitHub.com, HTTPS, ja, en de webbrowser; vult de code in. | Loopt de vragen één voor één met hem door; controleert met `gh auth status`. |
-| B3.10 | Typt: `cd "…/dashboard-online"`, `git init -b main`, `git add index.html`, `git commit -m "Eerste versie"`, `gh repo create aifit-dashboard --private --source=. --remote=origin --push`. Importeert de repo in Vercel en plakt het `.vercel.app`-adres terug. Test de keten met `git add` / `commit` / `push`. | Maakt het proefbestand `index.html`, zoekt het pad op (op Windows omgezet naar `C:\…`) en zet pad en URL in `dashboard/LINKS.md`. Controleert met `git remote -v`. |
+| B3.10 | Typt: `cd "…/dashboard-online"`, `git init -b main`, `git add index.html`, `git commit -m "Eerste versie"`, `gh repo create aifit-dashboard --private --source=. --remote=origin --push`. Importeert de repo in Vercel en plakt het `.vercel.app`-adres terug. Test de keten met `git add` / `commit` / `push`. | Maakt de proefpagina `index.html`, zoekt het pad op (op Windows omgezet naar `C:\…`) en zet pad en URL in `dashboard/LINKS.md`. Controleert met `git remote -v`. |
 | B3.11 | Start een **nieuwe sessie** in Code en typt: `Wat zijn de lagen van de AI Stack?` en `Beschrijf in drie zinnen de workout van week 5; begin er nog niet aan.` | Geeft eerst het oordeel en daarna de test. Mislukt de test, dan zet de nieuwe sessie de skill opnieuw in `.claude/skills/`. |
 
-### Workout (sessie, 60 min, Claude Code)
+### Workout (sessie, 70 min, Claude Code)
 
 Deelnemer typt, in Code en in zijn map: `Ik begin met de workout van week 5.`
 
 | # | Oefening | Deelnemer | Claude | In de map |
 |---|---|---|---|---|
-| 1 | Wat wil je sensen (12) | Schrijft met de pen zes getallen op en telt hoeveel hij er weet. Noemt per onderwerp eerst zijn eigen lijst; keurt voorstellen goed of af. Kiest per signaal frequentie, drempel en of het openbaar is. | Vier onderwerpen: doelcijfers en drivers, bronnen, concurrenten of vergelijkbare organisaties, trends. Doet voorstellen ter goedkeuring. | `markt/sensing.md` |
-| 2 | Eigen situatie (8) | Beslist welk getal waar staat. | Leest zijn document en zet elk getal erin met `openbaar: ja/nee`; de doelcijfers apart. | `ruwe-data/intern.md`, `ruwe-data/doelen.md` |
-| 3 | Dashboard (15) | Opent `dashboard/index.html` en zegt wat anders moet, twee rondes. | Voert de dashboard-prompt zelf uit en bouwt twee dashboards; slaat de bouwopdracht op. | `dashboard/`, `dashboard-online/`, `dashboard/BOUW.md` |
-| 4 | Online zetten (7) | Opent het **lokale** `dashboard-online/index.html` en bevestigt dat er niets vertrouwelijks staat. Typt `cd "…"`, `git add index.html`, `git commit -m "…"`, `git push`. Opent de Vercel-link. | Controleert op doelcijfers, `openbaar: nee` en drempels. Controleert daarna met `git log -1`. | live op Vercel |
-| 5 | Sensing en vergelijken (10) | Beoordeelt de uitkomst: klopt dit, is het vergelijkbaar, welk getal vertrouwt hij het minst? Pusht zelf na zijn akkoord. | Schrijft `VERVERS.md` en draait hem **zonder push**. Vergelijkt de uitkomst met zijn eigen bronnen. | `dashboard/VERVERS.md`, `ruwe-data/benchmark.md` |
-| 6 | Routine en controle (8) | Stelt per frequentie een geplande taak in (maximaal drie) en draait er één met de hand. Blijft erbij; staat toestemmingen toe. Loopt na of alles in beide dashboards terugkomt. | Geeft per taak naam, tijdstip, opdracht en map. Vangt een mislukte push op: *"push het dashboard"*. | geplande taken |
-| + | AI Act (10, als er tijd over is) | Plakt de prompt. | Vult de prompt in. | `besluiten/ai-act.md` |
+| 1 | Wat wil je sensen (15) | Schrijft met de pen zes getallen op en telt hoeveel hij er weet. Noemt per onderwerp eerst zijn eigen lijst; keurt voorstellen goed of af. Kiest per signaal frequentie, drempel en of het openbaar is. | Vier onderwerpen: doelcijfers en drivers, bronnen, concurrenten of vergelijkbare organisaties, trends. Doet voorstellen ter goedkeuring. | `markt/sensing.md` |
+| 2 | Eigen situatie (10) | Beslist welk getal waar staat. | Leest zijn document en zet elk getal erin met `openbaar: ja/nee`; de doelcijfers apart. | `ruwe-data/intern.md`, `ruwe-data/doelen.md` |
+| 3 | Dashboard (15) | Leest de prompt, past minstens één regel aan en plakt hem in Claude Code. Opent `dashboard/index.html` en zegt wat anders moet, twee rondes. | Geeft de prompt ingevuld; bouwt twee dashboards; werkt `BOUW.md` bij. | `dashboard/`, `dashboard-online/`, `dashboard/BOUW.md` |
+| 4 | Online zetten (10) | Opent het **lokale** `dashboard-online/index.html` en bevestigt dat er niets vertrouwelijks staat. Typt `cd "…"`, `git add index.html`, `git commit -m "…"`, `git push`. Opent de Vercel-link. | Controleert op doelcijfers, `openbaar: nee` en drempels. Controleert daarna met `git log -1`. | live op Vercel |
+| 5 | Sensing en vergelijken (10) | Leest `VERVERS.md` en zegt in eigen woorden wat er gebeurt. Beoordeelt de uitkomst: klopt dit, is het vergelijkbaar, welk getal vertrouwt hij het minst? Pusht zelf na zijn akkoord. | Schrijft `VERVERS.md` en draait hem **zonder push**. Vergelijkt de uitkomst met zijn eigen bronnen. | `dashboard/VERVERS.md`, `ruwe-data/benchmark.md` |
+| 6 | Routine en controle (10) | Schrijft zelf de opdracht voor de eerste taak in 2–3 zinnen; stelt per frequentie een taak in (maximaal drie) en draait er één met de hand. Blijft erbij; staat toestemmingen toe. Loopt na of alles in beide dashboards terugkomt. | Scherpt de opdracht aan; vult naam, tijdstip en map in. Vangt een mislukte push op: *"push het dashboard"*. | geplande taken |
+| 7 | AI Act (10, als er tijd over is) | Plakt de prompt. | Vult de prompt in. | `besluiten/ai-act.md` |
 
 ### Cooling-down
 
@@ -244,7 +254,7 @@ met de rem, letterlijk:
 | # | Deelnemer | Claude |
 |---|---|---|
 | 1 | Doet de installatie en antwoordt "week N" op de vraag bij stap 7. | Schrijft `Ingestapt in week N`. |
-| 2 | Uploadt de begeleidingsskill; test in Chat met `Beschrijf de opwarming van week N van AI FiT Leiderschap.` | Korte systeemcheck (10–20 min): paklijst, skill, specificaties, en per instapweek alleen wat nodig is (week 2: agenda en mail; week 3 en 4: browser; week 5: niets extra). |
+| 2 | Uploadt de begeleidingsskill; test in Chat met de controlevraag over de assistenten van Mike en Ruben. | Korte systeemcheck (10–20 min): paklijst, skill, specificaties, en per instapweek alleen wat nodig is (week 2: agenda en mail; week 3 en 4: browser; week 5: niets extra). |
 | 3 | Typt `Ik wil de opwarming doen voor de sessie van week N.` | Zegt één keer wat er van eerdere weken ontbreekt en vangt het op. Een Canvas wordt alleen ingehaald in week 2 en 4 (een kwartier). Wie in week 5 instapt, krijgt de korte SENSE. |
 
 ## Alle zinnen op een rij
@@ -254,6 +264,7 @@ Ik ga deelnemen aan de AIFIT Leiderschap sessies. Kun je deze repo installeren: 
 Ik wil de opwarming doen voor de sessie van week N.
 Ik begin met de workout van week N.
 Ik wil week N afronden.
+Doe de systeemcheck van AI FiT Leiderschap.
 Ik ga verder met blok 3 van de opwarming van week 5.
 push het dashboard
 ```

@@ -1,13 +1,18 @@
-# Opwarming week 1: je laptop klaarzetten
+# De systeemcheck: je laptop klaarzetten
 
 **Instructie voor Claude.** Dit hoort in **Claude Cowork**, niet in Chat of Code.
 
 Dit komt ná `INSTALLEER.md`. Daar zijn drie dingen al geregeld: de app, bestanden
-kunnen schrijven, en de map `AIFiT Leiderschap` die aan zijn project hangt. Hier zet je
-de rest aan en controleer je het geheel.
+kunnen schrijven, en de map `AIFiT Leiderschap` die in Cowork is gekoppeld. Hier zet je
+de rest aan en controleer je het geheel. De volgorde is die van het werkboek: de
+deelnemer vinkt daarin mee.
+
+Triggers: de installatie loopt hier vanzelf in door; na een onderbreking typt hij
+`Doe de systeemcheck van AI FiT Leiderschap.`
 
 **Reken op een half uur** en zeg dat aan het begin. Eerst kijk jij of het programma
-compleet op zijn laptop staat, dan vijf stappen met hem, dan de controle.
+compleet op zijn laptop staat, dan vier stappen met hem, dan de controle. Daarna ga je
+**meteen door** met de opwarming van week 1 (`week-1/SESSIE.md`): agenda en mail.
 
 ## Wat je wel en niet van jezelf kunt verwachten
 
@@ -15,24 +20,24 @@ Je kunt de schermen van de app niet uitlezen; `Settings → Capabilities` is
 gebruikersinterface en daar kijk je niet in mee. Wat je wél kunt is hem zeggen waar te
 klikken en daarna **testen of het werkt**.
 
-**Behalve zodra computer use aanstaat.** Vanaf stap 2 kun je vensters van ándere
+**Behalve zodra computer use aanstaat.** Vanaf stap 4 kun je vensters van ándere
 programma's bekijken, en daar maak je bij de controle gebruik van. Het venster van
 Claude zelf blijft buiten bereik; dat hoort zo.
 
 Zeg nooit "ik heb gecontroleerd dat het aanstaat" als je het alleen hebt gevraagd. Bij
 elke stap staat welk van de twee het is.
 
-**Stapt hij later in dan week 1?** Dan niet deze hele opwarming, maar het deel
+**Stapt hij later in dan week 1?** Dan niet deze hele check, maar het deel
 **"Later instappen"** onderaan dit bestand. Staat er in `AIFiT-BEGELEIDING.md` een regel
 `Ingestapt in week N`, dan weet je het al.
 
 ## Begin zo
 
 > Je app staat en je map is gekoppeld. Ik kijk eerst even of het programma compleet op
-> je laptop staat. Daarna zetten we samen vijf dingen aan die je de komende weken nodig
-> hebt, en tot slot kijk ik of je laptop het hele programma aankan.
-> Een half uur ongeveer. Ik zeg per stap waar je moet klikken en test daarna zelf wat
-> ik kan testen.
+> je laptop staat. Daarna zetten we samen vier dingen aan die je de komende weken nodig
+> hebt: de begeleidingsskill, je browser, de Chrome-extensie en computer use. Tot slot
+> kijk ik of je laptop het hele programma aankan. Een half uur ongeveer. Ik zeg per
+> stap waar je moet klikken en test daarna zelf wat ik kan testen.
 
 ---
 
@@ -57,36 +62,95 @@ is het te laat om er rustig naar te kijken.
 
 ---
 
-## Stap 1 — Browser, en eventueel de Chrome-extensie
+## Stap 1 — De begeleidingsskill installeren
+
+*Hij uploadt, jij test.*
+
+Dit is een stap die jij niet voor hem kunt doen, en zeg dat er eerlijk bij. Een skill
+hangt aan zijn account, niet aan zijn laptop, dus hij moet hem zelf uploaden.
+
+**Waarom het de moeite waard is**, in één zin: zonder skill werkt de begeleiding alleen
+in gesprekken die aan zijn map hangen; mét skill ook daarbuiten.
+
+**De ZIP staat al klaar** in de wortel van zijn map, als
+`AIFiT Leiderschap/aifit-leiderschap.zip`, gemaakt bij de installatie. Staat hij er
+niet, maak hem dan nu alsnog uit `programma/skills/aifit-leiderschap/`. Noem het
+volledige pad; hij moet hem straks in een bestandskiezer aanwijzen.
+
+Geef hem deze drie stappen, **één voor één, en wacht na elke stap op antwoord**:
+
+1. Open de instellingen in Claude.
+2. Ga naar **Customize → Skills → Add**. Ziet hij iets anders, verzin dan geen pad;
+   zoek het samen op zijn scherm.
+3. Kies het bestand `AIFiT Leiderschap/aifit-leiderschap.zip` en bevestig.
+
+Staat er al een oudere versie in zijn lijst, laat hem die vervangen of verwijderen.
+
+Loopt hij hier vast, of wil hij weten wat een skill eigenlijk is: haal
+`00-start/SKILLS-INSTALLEREN.md` op. Daar staat de hele route, de controle en wat je
+doet als het niet lukt. Hij komt in week 2 terug voor zijn eigen assistent.
+
+**Test het, in twee stappen.** Eerst of hij in de lijst met skills staat. Dat kun je
+niet zelf zien: het venster van Claude zelf valt buiten computer use. Vraag hem wat hij
+in de lijst ziet, en noteer het als gehoord.
+
+Daarna of hij werkt, en dat kun je niet zelf. Laat hem een **nieuw gesprek in Chat**
+beginnen (het tabblad Chat in dezelfde app; daar hangt geen map aan) en daar de
+controlevraag uit het werkboek stellen:
+
+```
+Hoe heten de AI-assistenten van Mike en Ruben van AIFiT Leiderschap, en waar staan de
+letters voor?
+```
+
+Goed antwoord: **MIRA** (Mike's Intelligent Reasoning Assistent) en **ROBIN** (Ruben's
+Own Bespoke Intelligent Network). Dat staat in de skill zelf, dus Chat hoeft er niets
+voor op te halen. Krijgt hij iets anders, of "dat weet ik niet", dan staat de skill niet
+aan. Zeg erbij dat hij daarna **hier terugkomt** en vertelt wat Chat antwoordde.
+
+**Blokkeert:** niets. Zonder skill werkt alles nog, zolang hij in gesprekken werkt die
+aan zijn map `AIFiT Leiderschap` hangen. Lukt het niet, ga dan door en zeg erbij dat hij
+in dat geval elk gesprek in die map moet beginnen.
+
+---
+
+## Stap 2 — Browser
 
 *Hij kiest, jij test.*
 
-**Settings → Cowork → Preferred browser.** Ziet hij iets anders, zoek het dan samen op;
-verzin geen pad. De ingebouwde browser is genoeg voor het
-hele programma; laat hem niets installeren wat hij niet nodig heeft.
+**Settings → Cowork → Preferred browser: kies Chrome**, zoals het werkboek zegt. Ziet
+hij iets anders, zoek het dan samen op; verzin geen pad. Heeft hij geen Chrome en wil
+hij dat niet installeren, dan is de ingebouwde browser genoeg voor het hele programma;
+zeg dat, en sla stap 3 over.
 
 **Test het:** open een willekeurige publieke pagina en vertel wat je ziet. Werkt dat,
 dan is deze stap klaar.
 
-### De Chrome-extensie: aanbieden, niet opdringen
-
-Er bestaat een Claude-extensie voor Chrome. Die is **niet nodig** voor het programma,
-maar hij helpt in **week 3**, waarin hij naast Claude nog vijf gereedschappen in de
-browser gebruikt (Perplexity, Gemini, NotebookLM, Lovable, Gamma). Met de extensie kan ik in dat
-tabblad meekijken in plaats van dat hij alles heen en weer kopieert.
-
-Vraag of hij Chrome gebruikt en of hij hem wil. Zo ja, stuur hem naar de Chrome Web
-Store en laat hem de installatie-instructie van de extensie zelf volgen.
-
-**Verzin geen menupaden die je niet kent.** Weet je een stap niet precies, zeg dat dan
-en zoek het samen op de pagina van de extensie op. Een verkeerd pad kost hem meer tijd
-dan een eerlijke "dat weet ik niet".
-
-**Blokkeert:** niets. Zonder browser-voorkeur werkt het nog; zonder extensie ook.
+**Blokkeert:** niets.
 
 ---
 
-## Stap 2 — Computer use
+## Stap 3 — De Chrome-extensie
+
+*Hij installeert, jij test.*
+
+De extensie **Claude in Chrome** laat mij meekijken in zijn browsertabblad. Dat helpt
+in **week 3**, waarin hij naast Claude vijf gereedschappen in de browser gebruikt
+(Perplexity, NotebookLM, Gemini, Gamma, Lovable): ik kan dan meelezen in plaats van dat
+hij alles heen en weer kopieert.
+
+Laat hem in de Chrome Web Store zoeken op "Claude in Chrome", de extensie toevoegen en
+inloggen met zijn Claude-account. **Verzin geen menupaden die je niet kent.** Weet je een
+stap niet precies, zeg dat dan en zoek het samen op de pagina van de extensie op.
+
+**Test het:** vraag hem een tabblad te openen en kijk of je daarin kunt meelezen. Lukt
+dat niet, dan is dat geen blokkade.
+
+**Blokkeert:** niets. Zonder extensie kopieert hij in week 3 zelf heen en weer.
+
+---
+
+## Stap 4 — Computer use
 
 *Hij zet aan, jij test.*
 
@@ -98,8 +162,6 @@ bedienen, zodat ik niet alles hoef te vragen.
 
 **Test het meteen, en dat is geen formaliteit:** maak een schermafbeelding en vertel
 wat je ziet. Krijg je niets, dan staat het niet aan, hoe zeker hij ook is.
-
-Deze stap is ook de sleutel voor de controle straks, dus doe hem vóór stap 3 en 4.
 
 **Blokkeert:** niets meteen. Maar zonder computer use kan ik zijn specificaties niet
 zelf bekijken en moet ik hem vragen ze voor te lezen.
@@ -117,9 +179,8 @@ die opwarming een download van ongeveer een gigabyte.
   - Een versienummer → klaar, niets te doen.
   - Een venster over **command line developer tools** → dat is macOS die git wil
     installeren. **Nu is het goede moment**: laat hem op installeren klikken en op de
-    achtergrond doorlopen terwijl jullie met stap 3 verdergaan. Wil hij het liever
-    niet, dan is dat ook goed; annuleren kan en hij komt er waarschijnlijk niet op
-    terug.
+    achtergrond doorlopen terwijl jullie verdergaan. Wil hij het liever niet, dan is
+    dat ook goed; annuleren kan en het komt in week 5 terug.
 - **Windows:** laat hem PowerShell openen en hetzelfde typen. Een versienummer betekent
   klaar. Staat er dat de opdracht niet wordt herkend, dan is git er niet, en dan
   kan hij het nu installeren van `https://git-scm.com/download/win`, met de
@@ -135,89 +196,10 @@ zeg erbij dat je het niet zelf hebt gelezen.
 
 ---
 
-## Stap 3 — Agenda koppelen
-
-*Hij koppelt, jij test.*
-
-In de chat **"+" → Connectors → Google Calendar** (of de Microsoft-variant). Ziet hij
-iets anders, zoek het dan samen op; verzin geen pad.
-
-**Test het:** vraag wat er vandaag in zijn agenda staat. Krijg je iets terug, dan werkt
-het. Krijg je niets, zeg dat dan in plaats van aan te nemen dat het goed zit — een lege
-agenda en een niet-werkende koppeling zien er hetzelfde uit, dus vraag door.
-
-**Blokkeert:** de dagbriefing van week 2. Niet de sessie zelf.
-
----
-
-## Stap 4 — Mail koppelen
-
-*Hij koppelt, jij test.*
-
-In de chat **"+" → Connectors → Gmail** (of Microsoft 365). **Dit is een aparte
-koppeling dan de agenda**; test hem dus apart en neem niet aan dat de een de ander
-meebrengt.
-
-**Test het:** vraag naar het onderwerp van zijn meest recente mail. Eén onderwerp is
-genoeg; ga niet door zijn mailbox heen.
-
-Lukt koppelen niet, dan is dat vaak zijn werkgever. Laat hem IT-support vragen bij zijn
-IT-medewerker, afdeling of partner. **Stop de opwarming hier niet voor.**
-
-**Blokkeert:** het mailgedeelte van de dagbriefing in week 2. Niet de sessie zelf.
-
----
-
-## Stap 5 — De begeleidingsskill installeren
-
-*Hij uploadt, jij test.*
-
-Dit is de enige stap die jij niet voor hem kunt doen, en zeg dat er eerlijk bij. Een
-skill hangt aan zijn account, niet aan zijn laptop, dus hij moet hem zelf uploaden.
-
-**Waarom het de moeite waard is**, in één zin: zonder skill werkt de begeleiding alleen
-in gesprekken die aan zijn map hangen; mét skill ook daarbuiten. Week 2 gaat er
-bovendien van uit dat hij er is.
-
-**De ZIP staat al klaar** in de wortel van zijn map, als
-`AIFiT Leiderschap/aifit-leiderschap.zip`, gemaakt bij de installatie. Staat hij er
-niet, maak hem dan nu alsnog uit `programma/skills/aifit-leiderschap/`.
-
-Geef hem deze drie stappen, **één voor één, en wacht na elke stap op antwoord**:
-
-1. Open de instellingen in Claude.
-2. Ga naar **Customize → Skills → Add**.
-3. Kies het bestand `AIFiT Leiderschap/aifit-leiderschap.zip` en bevestig.
-
-Staat er al een oudere versie in zijn lijst, laat hem die vervangen of verwijderen.
-
-Loopt hij hier vast, of wil hij weten wat een skill eigenlijk is: haal
-`00-start/SKILLS-INSTALLEREN.md` op. Daar staat de hele route, de controle en wat je
-doet als het niet lukt. Hij komt in week 2 terug voor zijn eigen assistent.
-
-**Test het, in twee stappen.** Eerst of hij in de lijst met skills staat. Dat kun je
-niet zelf zien: het venster van Claude zelf valt buiten computer use. Vraag hem wat hij
-in de lijst ziet, en noteer het als gehoord.
-
-Daarna of hij werkt, en dat kun je niet zelf: laat hem een **nieuw gesprek in Chat**
-beginnen (het tabblad Chat in dezelfde app; daar hangt geen map aan) en vragen wat de
-opwarming van week 3 is: *"Beschrijf de opwarming van week 3 van AI FiT
-Leiderschap."* Zeg erbij dat hij daarna hier terugkomt en vertelt wat er
-uitkwam. Komt daar een antwoord over Perplexity, Gemini,
-NotebookLM, Lovable en Gamma, dan zit de skill erin. Krijgt hij een algemeen antwoord, dan niet.
-
-**Verzin geen menupad dat je niet kent.** Klopt een stap niet met wat hij ziet, zeg dat
-dan en zoek het samen op in de instellingen.
-
-**Blokkeert:** niets. Zonder skill werkt alles nog, zolang hij in gesprekken werkt die
-aan zijn map `AIFiT Leiderschap` hangen. Lukt het niet, ga dan door en zeg erbij dat hij
-in dat geval elk gesprek in die map moet beginnen.
-
----
-
 # De controle
 
-Nu pas kijk je of het geheel klopt, en of zijn laptop het programma aankan.
+Nu pas kijk je of het geheel klopt, en of zijn laptop het programma aankan. In het
+werkboek heet dit "Systeemcheck: Claude controleert de hele keten".
 
 ## Eerst: is de keten heel
 
@@ -227,12 +209,15 @@ Loop de tabel langs en zeg per regel of je het **getest** hebt of van hem **geho
 |---|---|
 | Programma compleet | de paklijst uit `00-start/BESTANDEN.md` langsgelopen |
 | Bestanden schrijven | schrijf een klein bestand in zijn map, lees het terug, gooi het weg |
-| Map en project | noem de bestanden die je in `AIFiT Leiderschap` ziet |
+| Map gekoppeld | noem de bestanden die je in `AIFiT Leiderschap` ziet |
+| Skill | de controlevraag in Chat gaf MIRA en ROBIN |
 | Browser | open een pagina en vertel wat je ziet |
-| Agenda | vraag zijn agenda van vandaag op |
-| Mail | vraag het onderwerp van zijn laatste mail |
-| Skill | laat hem in een nieuw gesprek naar de opwarming van week 3 vragen |
+| Chrome-extensie | meegelezen in een tabblad, of "niet gelukt" |
+| Computer use | een schermafbeelding gemaakt |
 | Git (optioneel) | `git --version` in Terminal of PowerShell, of "niet gecontroleerd" |
+
+Agenda en mail staan hier nog niet in: die koppelt hij zo meteen in de opwarming van
+week 1.
 
 ## Dan: de specificaties, en die bekijk je zelf
 
@@ -320,11 +305,12 @@ Dit komt van deelnemers die iets van techniek weten, en vaak bij week 5 omdat da
 
 > Tot en met week 4 niet. In week 5 zet je je dashboard online, en daarvoor zijn git,
 > een GitHub-account, een Vercel-account en de GitHub CLI nodig; je logt één keer in via
-> Terminal. Dat zet je in de opwarming van week 5 zelf op, en ik geef je bij elke stap
-> de instructie en kijk daarna of het gelukt is. Programmeerkennis en Node.js zijn niet
-> nodig.
+> Terminal. Dat zet je in de opwarming van week 5 op: de accounts maak jij, de GitHub
+> CLI installeer ik in Claude Code als jij dat toestaat, en bij elke opdracht in
+> Terminal geef ik de instructie en kijk ik daarna of het gelukt is. Programmeerkennis
+> en Node.js zijn niet nodig.
 
-**Laat niemand nu al iets installeren voor week 5.** Git mag in stap 2 alvast, als het
+**Laat niemand nu al iets installeren voor week 5.** Git mag in stap 4 alvast, als het
 makkelijk kan; de rest komt in de opwarming van week 5, met een proefdeploy erbij.
 
 ## Vraagt hij naar een API-sleutel, dan is het antwoord nee
@@ -343,19 +329,17 @@ dezelfde app en gebruikt hetzelfde abonnement.
 
 *Voor wie niet bij week 1 begint. Reken op tien tot twintig minuten.*
 
-Dit is een korte versie van deze opwarming: alleen wat zijn instapweek nodig heeft.
-Zeg vooraf dat hij de eerdere weken niet hoeft in te halen, en dat de opwarming van zijn
+Dit is een korte versie van deze check: alleen wat zijn instapweek nodig heeft. Zeg
+vooraf dat hij de eerdere weken niet hoeft in te halen, en dat de opwarming van zijn
 instapweek zegt wat hij mist en wat dat hem kost.
 
 **Altijd, voor elke instapweek:**
 
 1. **Stap 0** van hierboven: staat het programma compleet in `programma/`.
-2. **Bestanden schrijven werkt**, en de map `AIFiT Leiderschap` hangt aan het project.
-   Dat is bij de installatie al getest; herhaal het alleen als je twijfelt.
-3. **De begeleidingsskill**: stap 5 van hierboven. Test hem in Chat met *"Beschrijf de
-   opwarming van week N van AI FiT Leiderschap"*, met zijn **instapweek**. Goed is: bij
-   week 2 het Canvas en een naam voor zijn assistent; bij week 3 de vijf accounts; bij
-   week 4 de AI FiT-scan en de AI Stack; bij week 5 git, GitHub en Vercel.
+2. **Bestanden schrijven werkt**, en de map `AIFiT Leiderschap` is gekoppeld. Dat is
+   bij de installatie al getest; herhaal het alleen als je twijfelt.
+3. **De begeleidingsskill**: stap 1 van hierboven, met dezelfde controlevraag in Chat
+   (MIRA en ROBIN).
 4. **De specificaties**: het deel "Dan: de specificaties" hierboven, maar alleen voor
    zijn instapweek en de weken daarna.
 
@@ -363,12 +347,12 @@ instapweek zegt wat hij mist en wat dat hem kost.
 
 | Instapweek | Ook doen | Overslaan |
 |---|---|---|
-| 2 | stap 3 en 4 (agenda en mail, voor de dagbriefing) | stap 1 en 2 mogen, hoeven niet |
-| 3 | stap 1 (browser) | stap 2, 3 en 4 |
-| 4 | stap 1 (browser, voor de AI FiT-scan) | stap 2, 3 en 4 |
-| 5 | niets extra: Claude Code, git en de accounts komen in de opwarming van week 5 | stap 1 tot en met 4 |
+| 2 | agenda en mail koppelen (stap 1 en 2 van de opwarming van week 1, voor de dagbriefing) | stap 2, 3 en 4 mogen, hoeven niet |
+| 3 | stap 2 (browser) en stap 3 (extensie) | stap 4 |
+| 4 | stap 2 (browser, voor de AI FiT-scan) | stap 3 en 4 |
+| 5 | niets extra: Claude Code, git en de accounts komen in de opwarming van week 5 | stap 2, 3 en 4 |
 
-Zonder stap 2 (computer use) lees je de specificaties niet zelf af; vraag ze dan, en zeg
+Zonder stap 4 (computer use) lees je de specificaties niet zelf af; vraag ze dan, en zeg
 dat je ze van hem hebt gehoord.
 
 **Sluit af** met één van twee oordelen. **Klaar:** *"Je bent klaar voor de opwarming
@@ -392,28 +376,14 @@ apparaat, met per week of het meekan.
 
 Sluit af met één van deze twee, en niet met iets ertussenin:
 
-**Klaar.** *"Je bent klaar voor de workout van week 1."* Zeg erbij dat de begeleider in
-de sessie aangeeft wanneer hij begint.
-
-Geef hem tot slot de zinnen die hij vanaf nu gebruikt. De opwarming van week 1 heeft
-hij zojuist met jou gedaan, dus die hoeft hij niet meer te typen:
-
-```
-Ik begin met de workout van week 1.
-Ik wil week 1 afronden.
-```
-
-En vanaf week 2 elke week drie zinnen, met het weeknummer erin:
-
-```
-Ik wil de opwarming doen voor de sessie van week 2.
-Ik begin met de workout van week 2.
-Ik wil week 2 afronden.
-```
+**Klaar.** *"Je laptop is klaar voor het programma."* Zeg erbij dat er nog twee
+koppelingen komen, agenda en mail, en dat jullie die **nu meteen** doen: dat is de
+opwarming van week 1. Ga door naar `week-1/SESSIE.md`, deel Opwarming, zonder te
+stoppen. Aan het eind daarvan krijgt hij de zinnen die hij vanaf dan gebruikt.
 
 **Nog niet klaar.** Maximaal drie dingen, in volgorde, met per stuk wat het kost en wat
 hij eraan kan doen. Alleen de app, bestanden schrijven en de map blokkeren week 1; de
-browser, computer use en de twee koppelingen niet. Zeg erbij dat hij een
-schermafbeelding naar de begeleider kan sturen als hij er niet uitkomt.
-
-**Ga hierna niet nog een keer de opwarming van week 1 aanbieden.** Dit ís die opwarming.
+skill, browser, extensie en computer use niet. Zeg erbij dat hij een schermafbeelding
+naar de begeleider kan sturen als hij er niet uitkomt, of een afspraak kan maken voor
+het spreekuur. Ga daarna toch door met de opwarming van week 1, tenzij een blokkade dat
+onmogelijk maakt.

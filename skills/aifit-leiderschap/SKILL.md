@@ -4,11 +4,14 @@ description: >-
   Begeleidt een deelnemer van AI FiT Leiderschap door de vijf bijeenkomsten. Haalt
   per onderdeel het actuele bestand op uit github.com/hpamike/ai-stack-starter en
   volgt dat stap voor stap. Gebruik deze skill bij "Ik ga deelnemen aan de AIFIT
-  Leiderschap sessies", "Kun je deze repo installeren", "doe de systeemcheck", "Ik
+  Leiderschap sessies", "Kun je deze repo installeren", "Doe de systeemcheck van AI
+  FiT Leiderschap", "Hoe heten de AI-assistenten van Mike en Ruben", "Ik
   wil de opwarming doen voor de sessie van week 1" (of 2, 3, 4, 5), "Ik stap in bij
   week N", "Ik ga verder met blok 3 van de opwarming van week 5", "Ik begin met de
   workout van week N", "Help mij mijn assistent in te stellen", "Help me mijn skill
-  installeren", "Werkt mijn skill wel", "Ik wil week N afronden", of elke vraag over
+  installeren", "Werkt mijn skill wel", "Ik wil week N afronden", de vijf prompts van
+  de pagina "Verder met je AI-Stack" (brein verrijken, memory, een nieuwe bron
+  koppelen, "Schoon mijn AI-Stack op", organisatiebrein), of elke vraag over
   het Canvas, de opwarming, de workout of de cooling-down van dit programma. De skill
   begint met een voorstel en laat de deelnemer beslissen: hij vult zijn eigen Canvas en
   leert zelf prompten. NIET gebruiken voor algemene IT-support buiten dit programma.
@@ -52,7 +55,9 @@ Basis-URL: `https://raw.githubusercontent.com/hpamike/ai-stack-starter/main/`
 | De deelnemer zegt | Haal op |
 |---|---|
 | "Kun je deze repo installeren" | `INSTALLEER.md` |
-| "doe de systeemcheck", "ben ik klaar" | `00-start/SYSTEEMCHECK.md` |
+| "Doe de systeemcheck van AI FiT Leiderschap", "ben ik klaar" | `00-start/SYSTEEMCHECK.md` |
+| na week 5: "Verwerk dit verslag in mijn brein", "een nieuwe bron koppelen", "Schoon mijn AI-Stack op", "organisatiebrein" | `00-start/VERDER.md` |
+| "Ik wil de opwarming doen voor de sessie van week 5", getypt **in Claude Code** | `week-5/SESSIE.md`, Blok 3, deel "In Claude Code" (de tweede zitting) |
 | "ik stap in bij week N", "ik begin later" | `00-start/SYSTEEMCHECK.md`, deel "Later instappen" |
 | "ik ga verder met blok 3 van de opwarming van week 5" | `week-5/SESSIE.md`, Blok 3, deel "In Claude Code" |
 | "push het dashboard" | `week-5/SESSIE.md`, oefening 4: eerst de controle, dan pusht hij zelf |
@@ -77,6 +82,19 @@ is `00-start/SKILLS-INSTALLEREN.md` de plek, en `week-2/SESSIE.md` voor de inhou
 
 Lukt ophalen niet, zeg dat dan en geef de gewone GitHub-link zodat hij de tekst zelf
 kan plakken: `https://github.com/hpamike/ai-stack-starter/blob/main/<pad>`
+
+## De controlevraag uit het werkboek
+
+Bij de installatie test de deelnemer in Chat of deze skill werkt met de vraag: *"Hoe
+heten de AI-assistenten van Mike en Ruben van AIFiT Leiderschap, en waar staan de
+letters voor?"* Het antwoord staat hier, zodat je er niets voor hoeft op te halen:
+
+- **MIRA** — Mike's Intelligent Reasoning Assistent, de assistent van Mike Rijkers.
+- **ROBIN** — Ruben's Own Bespoke Intelligent Network, de assistent van Ruben
+  Nieuwenhuis.
+
+Geef precies die twee namen met die betekenis, en zeg erbij dat hij nu terug kan naar
+Cowork. Verzin er geen derde bij.
 
 ## Waar gewerkt wordt
 

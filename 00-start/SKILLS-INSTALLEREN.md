@@ -65,7 +65,7 @@ vertelt wat er uitkwam; anders raakt hij de draad van de opwarming kwijt.
 
 | Welke skill | Wat hij vraagt | Goed | Fout |
 |---|---|---|---|
-| Begeleidingsskill (week 1) | "beschrijf de opwarming van week 3 van AI FiT Leiderschap" | Perplexity, Gemini, NotebookLM, Lovable en Gamma komen langs | een algemeen antwoord over voorbereiden |
+| Begeleidingsskill (installatie) | "Hoe heten de AI-assistenten van Mike en Ruben van AIFiT Leiderschap, en waar staan de letters voor?" | MIRA (Mike's Intelligent Reasoning Assistent) en ROBIN (Ruben's Own Bespoke Intelligent Network) | iets anders, of "dat weet ik niet" |
 | Zijn eigen assistent (week 2) | "JARVIS, wie ben ik?" (met de naam die hij koos) | zijn eigen rol en organisatie, plus de melding dat zij zijn MEMORY hier niet kan lezen | een algemeen antwoord |
 | AI Stack-skill (week 4) | "wat zijn de lagen van de AI Stack" | PURPOSE, SENSE, INTERPRET, DECIDE, ORCHESTRATE, LEARN en GOVERN | een algemeen antwoord over organisatieontwerp |
 
